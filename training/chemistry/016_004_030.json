@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat capacity calculations",
+    "message_1": "What is the heat capacity of 25 grams of water if the temperature changes by 15 degrees Celsius when 350 Joules of heat is applied?",
+    "message_2": "To find the heat capacity (specific heat) of water, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat energy applied (in Joules), m is the mass of the substance (in grams), c is the specific heat capacity (in J/g°C), and ΔT is the change in temperature (in °C).\n\nWe are given the following information:\n\nq = 350 J\nm = 25 g\nΔT = 15 °C\n\nWe need to find the specific heat capacity (c). Rearranging the formula, we get:\n\nc = q / (mΔT)\n\nPlugging in the given values:\n\nc = 350 J / (25 g × 15 °C)\nc = 350 J / 375 g°C\nc = 0.933 J/g°C\n\nThe heat capacity of the 25 grams of water is approximately 0.933 J/g°C."
+}

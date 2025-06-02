@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the solubility of a substance in a solvent",
+    "message_1": "What is the solubility of a 10-gram sample of sucrose in 100 ml of water at 25°C?",
+    "message_2": "The solubility of sucrose in water at 25°C is approximately 2000 grams per liter (g/L) or 2 grams per milliliter (g/mL). This means that 2 grams of sucrose can dissolve in 1 mL of water at 25°C.\n\nTo find out if the 10-gram sample of sucrose can dissolve in 100 mL of water at 25°C, we can calculate the maximum amount of sucrose that can dissolve in 100 mL of water:\n\nSolubility (g/mL) × Volume of water (mL) = Maximum amount of sucrose that can dissolve (g)\n2 g/mL × 100 mL = 200 g\n\nSince the 10-gram sample of sucrose is less than the maximum amount of sucrose that can dissolve in 100 mL of water at 25°C (200 g), the entire 10-gram sample will dissolve in the 100 mL of water."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a vaporization reaction",
+    "message_1": "Calculate the standard enthalpy change for the vaporization of 1 mole of water at 100°C, given that the enthalpy of fusion of water is 6.01 kJ/mol and the enthalpy of vaporization of water is 40.7 kJ/mol.",
+    "message_2": "The standard enthalpy change for the vaporization of 1 mole of water at 100°C is equal to the enthalpy of vaporization of water. The enthalpy of fusion is not relevant in this case, as it refers to the phase transition from solid to liquid, while we are interested in the phase transition from liquid to vapor.\n\nTherefore, the standard enthalpy change for the vaporization of 1 mole of water at 100°C is 40.7 kJ/mol."
+}

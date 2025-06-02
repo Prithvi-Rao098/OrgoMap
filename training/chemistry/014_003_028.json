@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Coordination chemistry",
+    "sub_topic": "Isomerism in coordination compounds",
+    "message_1": "How many structural isomers are possible for the coordination compound [Co(en)2Cl2]+, where en is ethylenediamine? Also, draw the structures of all the possible isomers.",
+    "message_2": "There are two possible structural isomers for the coordination compound [Co(en)2Cl2]+, where en is ethylenediamine. These isomers are known as cis and trans isomers.\n\n1. Cis isomer: In the cis isomer, the two chloride ligands are adjacent to each other on the cobalt center. The ethylenediamine ligands are also adjacent to each other.\n\n       Cl\n        |\n       Co\n      /   \\\n    en    en\n      \\   /\n       Cl\n\n2. Trans isomer: In the trans isomer, the two chloride ligands are opposite to each other on the cobalt center. The ethylenediamine ligands are also opposite to each other.\n\n       Cl\n        |\n       Co\n      /   \\\n    en    Cl\n      \\   /\n       en\n\nThese two isomers have different spatial arrangements of the ligands, which can lead to different chemical and physical properties."
+}

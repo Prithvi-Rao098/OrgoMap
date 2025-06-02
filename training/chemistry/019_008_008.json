@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard electrode potential for a redox reaction",
+    "message_1": "Calculate the standard electrode potential for the following redox reaction under standard conditions: \n\nFe3+ + 3e- → Fe(s)",
+    "message_2": "To calculate the standard electrode potential for the given redox reaction, we need to look up the standard reduction potential for the half-reaction in a table of standard reduction potentials. The half-reaction is:\n\nFe3+ + 3e- → Fe(s)\n\nThe standard reduction potential for this half-reaction is:\n\nE°(Fe3+/Fe) = -0.036 V\n\nSince the given reaction is a reduction process, the standard electrode potential for the redox reaction is the same as the standard reduction potential:\n\nE°(Fe3+/Fe) = -0.036 V"
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of hydration calculations",
+    "message_1": "Calculate the heat of hydration for the compound sodium sulfate (Na2SO4) given that 3 moles of water are released when 1 mole of the compound dissolves in water. The enthalpy of solution for sodium sulfate is -138 kJ/mol, and the enthalpy of hydration for water is -286 kJ/mol.",
+    "message_2": "To calculate the heat of hydration for sodium sulfate (Na2SO4), we need to consider the enthalpy of solution for sodium sulfate and the enthalpy of hydration for water.\n\nThe enthalpy of solution for sodium sulfate is -138 kJ/mol, which means that 1 mole of sodium sulfate releases 138 kJ of energy when it dissolves in water.\n\nSince 3 moles of water are released when 1 mole of sodium sulfate dissolves in water, we need to consider the enthalpy of hydration for water, which is -286 kJ/mol. This means that 1 mole of water releases 286 kJ of energy when it hydrates a substance.\n\nNow, we can calculate the heat of hydration for sodium sulfate:\n\nHeat of hydration (Na2SO4) = Enthalpy of solution (Na2SO4) + (3 moles of water * Enthalpy of hydration (water))\n\nHeat of hydration (Na2SO4) = -138 kJ/mol + (3 * -286 kJ/mol)\n\nHeat of hydration (Na2SO4) = -138 kJ/mol + (-858 kJ/mol)\n\nHeat of hydration (Na2SO4) = -996 kJ/mol\n\nTherefore, the heat of hydration for sodium sulfate (Na2SO4) is -996 kJ/mol."
+}

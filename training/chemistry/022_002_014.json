@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "What mass of Calcium oxide (CaO) is required to react completely with 25 grams of Carbon dioxide (CO2) in the following chemical reaction: \n\nCaO + CO2 → CaCO3",
+    "message_2": "To solve this problem, we will use the concept of stoichiometry. First, we need to find the molar mass of each compound involved in the reaction.\n\nMolar mass of CaO = (40.08 g/mol for Ca) + (16.00 g/mol for O) = 56.08 g/mol\nMolar mass of CO2 = (12.01 g/mol for C) + (2 × 16.00 g/mol for O) = 44.01 g/mol\n\nNow, we need to determine the moles of CO2 given in the problem:\nmoles of CO2 = mass of CO2 / molar mass of CO2 = 25 g / 44.01 g/mol = 0.568 moles\n\nAccording to the balanced chemical equation, 1 mole of CaO reacts with 1 mole of CO2. Therefore, the moles of CaO required to react completely with 0.568 moles of CO2 are also 0.568 moles.\n\nFinally, we can find the mass of CaO required:\nmass of CaO = moles of CaO × molar mass of CaO = 0.568 moles × 56.08 g/mol = 31.88 g\n\nSo, 31.88 grams of Calcium oxide (CaO) is required to react completely with 25 grams of Carbon dioxide (CO2)."
+}

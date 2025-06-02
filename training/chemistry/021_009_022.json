@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Predicting the bond order of a molecule",
+    "message_1": "What is the bond order of the nitrogen molecule (N2) based on its molecular orbital diagram?",
+    "message_2": "The bond order of the nitrogen molecule (N2) can be determined using its molecular orbital diagram. In the molecular orbital diagram of N2, there are a total of 10 valence electrons (5 from each nitrogen atom). \n\nThe molecular orbitals are filled in the following order: σ1s, σ*1s, σ2s, σ*2s, π2px, π2py, σ2pz, π*2px, π*2py, and σ*2pz.\n\nFor N2, the molecular orbitals are filled as follows:\n- 2 electrons in σ1s\n- 2 electrons in σ*1s\n- 2 electrons in σ2s\n- 2 electrons in σ*2s\n- 2 electrons in π2px and π2py (4 electrons total)\n\nNo electrons are present in the higher energy orbitals (σ2pz, π*2px, π*2py, and σ*2pz).\n\nTo calculate the bond order, use the formula:\n\nBond order = (number of electrons in bonding orbitals - number of electrons in antibonding orbitals) / 2\n\nFor N2:\nBond order = (8 - 4) / 2\nBond order = 4 / 2\nBond order = 2\n\nSo, the bond order of the nitrogen molecule (N2) based on its molecular orbital diagram is 2."
+}

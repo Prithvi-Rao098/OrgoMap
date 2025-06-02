@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of combustion calculations",
+    "message_1": "Calculate the enthalpy of combustion of ethanol (C2H5OH) if 45.1 g of ethanol is burned completely in excess oxygen, producing 145.5 kJ of heat energy.",
+    "message_2": "To calculate the enthalpy of combustion of ethanol, we need to first determine the number of moles of ethanol burned and then use the heat energy produced to find the enthalpy change per mole of ethanol.\n\nFirst, let's find the molar mass of ethanol (C2H5OH):\nC: 12.01 g/mol (2 carbon atoms)\nH: 1.01 g/mol (6 hydrogen atoms)\nO: 16.00 g/mol (1 oxygen atom)\n\nMolar mass of ethanol = (2 × 12.01) + (6 × 1.01) + 16.00 = 24.02 + 6.06 + 16.00 = 46.08 g/mol\n\nNow, let's find the number of moles of ethanol burned:\nmoles of ethanol = mass of ethanol / molar mass of ethanol\nmoles of ethanol = 45.1 g / 46.08 g/mol = 0.978 moles\n\nWe are given that 145.5 kJ of heat energy is produced when 45.1 g (0.978 moles) of ethanol is burned. To find the enthalpy of combustion per mole of ethanol, we can use the following equation:\n\nΔH_combustion = heat energy produced / moles of ethanol\nΔH_combustion = 145.5 kJ / 0.978 moles = 148.8 kJ/mol\n\nThe enthalpy of combustion of ethanol is approximately 148.8 kJ/mol."
+}

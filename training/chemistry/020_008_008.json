@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of changing the volume on the equilibrium position",
+    "message_1": "A chemistry student needs to determine how the equilibrium constant (Kc) will change when the volume of the container is increased by a factor of 3 for the following reaction at a certain temperature:\n2NO2(g) ⇌ N2O4(g)",
+    "message_2": "When the volume of the container is increased by a factor of 3, the reaction will shift to counteract the change according to Le Chatelier's principle. In this case, the reaction will shift towards the side with more moles of gas to occupy the increased volume. \n\nFor the given reaction:\n2NO2(g) ⇌ N2O4(g)\n\nThere are 2 moles of NO2 on the left side and 1 mole of N2O4 on the right side. Since there are more moles of gas on the left side, the reaction will shift towards the left (towards the reactants) when the volume is increased.\n\nHowever, it is important to note that the equilibrium constant (Kc) is not affected by changes in volume or pressure. Kc is only affected by changes in temperature. Therefore, when the volume of the container is increased by a factor of 3, the equilibrium constant (Kc) will remain the same at that specific temperature."
+}

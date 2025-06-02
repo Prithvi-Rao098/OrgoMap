@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Percent yield problems",
+    "message_1": "A chemist performed a reaction that was supposed to produce 25 grams of the desired product. However, upon measuring the amount of product produced, it was found that only 18 grams were obtained. Calculate the percent yield of the reaction.",
+    "message_2": "Percent yield is calculated using the following formula:\n\nPercent yield = (Actual yield / Theoretical yield) × 100\n\nIn this case, the actual yield is 18 grams, and the theoretical yield is 25 grams.\n\nPercent yield = (18 g / 25 g) × 100\n\nPercent yield = 0.72 × 100\n\nPercent yield = 72%\n\nThe percent yield of the reaction is 72%."
+}

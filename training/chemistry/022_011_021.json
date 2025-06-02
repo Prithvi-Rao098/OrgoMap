@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Gas evolution reactions",
+    "message_1": "What is the gas evolved when 10 grams of calcium carbonate (CaCO₃) is completely reacted with hydrochloric acid (HCl)? How many liters of gas would be evolved at STP conditions?",
+    "message_2": "When calcium carbonate (CaCO₃) reacts with hydrochloric acid (HCl), the products are calcium chloride (CaCl₂), water (H₂O), and carbon dioxide (CO₂) gas. The balanced chemical equation for this reaction is:\n\nCaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + H₂O(l) + CO₂(g)\n\nTo determine the volume of CO₂ gas evolved at STP conditions, we need to first find the number of moles of CO₂ produced.\n\n1. Calculate the number of moles of CaCO₃:\nMolar mass of CaCO₃ = 40.08 (Ca) + 12.01 (C) + 3 × 16.00 (O) = 100.09 g/mol\nNumber of moles of CaCO₃ = (mass of CaCO₃) / (molar mass of CaCO₃) = 10 g / 100.09 g/mol = 0.0999 mol\n\n2. Determine the number of moles of CO₂ produced:\nFrom the balanced equation, 1 mole of CaCO₃ produces 1 mole of CO₂.\nNumber of moles of CO₂ = 0.0999 mol\n\n3. Calculate the volume of CO₂ gas at STP conditions:\nAt STP (standard temperature and pressure), 1 mole of any gas occupies 22.4 liters.\nVolume of CO₂ gas = (number of moles of CO₂) × (volume occupied by 1 mole of gas at STP) = 0.0999 mol × 22.4 L/mol = 2.24 L\n\nSo, the gas evolved is carbon dioxide (CO₂), and the volume of CO₂ gas evolved at STP conditions is approximately 2.24 liters."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of solution calculations",
+    "message_1": "What is the standard enthalpy change of solution of 3.5 g of sodium hydroxide (NaOH) in 50 mL of water at a constant temperature of 25 °C?",
+    "message_2": "To calculate the standard enthalpy change of solution for sodium hydroxide (NaOH) in water, we need to know the molar enthalpy of solution for NaOH. The molar enthalpy of solution for NaOH is -44.5 kJ/mol.\n\nFirst, we need to determine the number of moles of NaOH in 3.5 g. The molar mass of NaOH is 22.99 g/mol (Na) + 15.999 g/mol (O) + 1.007 g/mol (H) = 39.996 g/mol.\n\nNumber of moles of NaOH = (mass of NaOH) / (molar mass of NaOH)\nNumber of moles of NaOH = (3.5 g) / (39.996 g/mol) = 0.0875 mol\n\nNow, we can calculate the enthalpy change of solution using the molar enthalpy of solution and the number of moles of NaOH.\n\nEnthalpy change of solution = (molar enthalpy of solution) × (number of moles of NaOH)\nEnthalpy change of solution = (-44.5 kJ/mol) × (0.0875 mol) = -3.89375 kJ\n\nThe standard enthalpy change of solution for 3.5 g of sodium hydroxide in 50 mL of water at 25 °C is approximately -3.89 kJ."
+}

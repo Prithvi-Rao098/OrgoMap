@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat capacity calculations",
+    "message_1": "What is the heat capacity of a sample of water that requires 1000 Joules of heat to increase its temperature from 20°C to 50°C, if the sample has a mass of 200 grams?",
+    "message_2": "To find the heat capacity of the water sample, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat energy (in Joules), m is the mass of the sample (in grams), c is the specific heat capacity (in J/g°C), and ΔT is the change in temperature (in °C).\n\nWe are given the values for q, m, and ΔT:\n\nq = 1000 J\nm = 200 g\nΔT = 50°C - 20°C = 30°C\n\nWe need to find the value of c. Rearranging the formula to solve for c, we get:\n\nc = q / (mΔT)\n\nNow, we can plug in the values:\n\nc = 1000 J / (200 g × 30°C)\nc = 1000 J / 6000 g°C\nc = 0.1667 J/g°C\n\nThe heat capacity of the water sample is 0.1667 J/g°C."
+}

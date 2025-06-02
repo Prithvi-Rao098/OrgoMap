@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "What is the mass of iron (III) oxide produced when 25 grams of iron reacts with excess oxygen gas according to the following balanced equation?\n\n4 Fe + 3 O₂ → 2 Fe₂O₃",
+    "message_2": "To solve this problem, we will use the stoichiometry method. First, we need to find the molar mass of iron (Fe) and iron (III) oxide (Fe₂O₃).\n\nThe molar mass of iron (Fe) is approximately 55.85 g/mol.\nThe molar mass of iron (III) oxide (Fe₂O₃) is approximately (2 × 55.85) + (3 × 16) = 111.7 + 48 = 159.7 g/mol.\n\nNow, we will convert the given mass of iron (25 grams) into moles:\n\nmoles of Fe = mass of Fe / molar mass of Fe\nmoles of Fe = 25 g / 55.85 g/mol ≈ 0.4476 mol\n\nNext, we will use the stoichiometry of the balanced equation to find the moles of Fe₂O₃ produced:\n\n4 Fe → 2 Fe₂O₃\n\n0.4476 mol Fe × (2 mol Fe₂O₃ / 4 mol Fe) = 0.2238 mol Fe₂O₃\n\nFinally, we will convert the moles of Fe₂O₃ into grams:\n\nmass of Fe₂O₃ = moles of Fe₂O₃ × molar mass of Fe₂O₃\nmass of Fe₂O₃ = 0.2238 mol × 159.7 g/mol ≈ 35.74 g\n\nSo, approximately 35.74 grams of iron (III) oxide (Fe₂O₃) will be produced when 25 grams of iron reacts with excess oxygen gas."
+}

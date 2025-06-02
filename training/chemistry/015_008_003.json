@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Quantum chemistry",
+    "sub_topic": "Prediction of chemical reactivity and selectivity.",
+    "message_1": "What is the accepted method in quantum chemistry to predict the selectivity of a chemical reaction between multiple reactants?",
+    "message_2": "The accepted method in quantum chemistry to predict the selectivity of a chemical reaction between multiple reactants is the use of computational methods, specifically Density Functional Theory (DFT) and ab initio methods. These methods involve solving the Schrödinger equation for the molecular system to obtain the electronic structure and energy of the reactants, intermediates, and products.\n\nBy calculating the potential energy surfaces (PES) of the reaction pathways, chemists can determine the activation energies and reaction barriers for each possible reaction pathway. The lower the activation energy, the more likely the reaction will proceed along that pathway, leading to higher selectivity for the corresponding product.\n\nAdditionally, chemists can use transition state theory to estimate the reaction rates for each pathway, which can also help predict the selectivity of the reaction. By comparing the calculated energies and reaction rates, chemists can determine the most favorable reaction pathway and predict the selectivity of the chemical reaction between multiple reactants."
+}

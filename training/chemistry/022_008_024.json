@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Single replacement reactions",
+    "message_1": "In a single replacement reaction, a piece of zinc metal is placed in a solution of silver nitrate. Write a balanced chemical equation for this reaction and calculate the mass of silver that will be produced when 10 grams of zinc react with excess silver nitrate.",
+    "message_2": "In a single replacement reaction, zinc will replace silver in the silver nitrate solution. The balanced chemical equation for this reaction is:\n\nZn (s) + 2 AgNO₃ (aq) → Zn(NO₃)₂ (aq) + 2 Ag (s)\n\nNow, we need to calculate the mass of silver (Ag) produced when 10 grams of zinc (Zn) react with excess silver nitrate (AgNO₃).\n\nFirst, we need to find the molar mass of Zn and Ag:\n\nMolar mass of Zn = 65.38 g/mol\nMolar mass of Ag = 107.87 g/mol\n\nNext, we need to find the moles of Zn in 10 grams:\n\nmoles of Zn = mass of Zn / molar mass of Zn\nmoles of Zn = 10 g / 65.38 g/mol = 0.153 mol\n\nFrom the balanced chemical equation, we can see that 1 mole of Zn reacts with 2 moles of Ag. So, we can find the moles of Ag produced:\n\nmoles of Ag = 2 * moles of Zn\nmoles of Ag = 2 * 0.153 mol = 0.306 mol\n\nFinally, we can find the mass of Ag produced:\n\nmass of Ag = moles of Ag * molar mass of Ag\nmass of Ag = 0.306 mol * 107.87 g/mol = 33.01 g\n\nSo, 33.01 grams of silver will be produced when 10 grams of zinc react with excess silver nitrate."
+}

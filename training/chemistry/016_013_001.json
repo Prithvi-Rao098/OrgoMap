@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of hydration calculations",
+    "message_1": "Calculate the heat of hydration of 1 mole of anhydrous copper(II) sulfate (CuSO4) when it is dissolved in water to form its hydrated form, CuSO4·5H2O. Given the following information:\n\n- Heat of solution of anhydrous CuSO4: -74.9 kJ/mol\n- Enthalpy change of hydration of CuSO4·5H2O: -245.1 kJ/mol",
+    "message_2": "To calculate the heat of hydration of anhydrous copper(II) sulfate (CuSO4), we can use the following equation:\n\nHeat of hydration = Enthalpy change of hydration of CuSO4·5H2O - Heat of solution of anhydrous CuSO4\n\nPlugging in the given values:\n\nHeat of hydration = (-245.1 kJ/mol) - (-74.9 kJ/mol)\n\nHeat of hydration = -245.1 kJ/mol + 74.9 kJ/mol\n\nHeat of hydration = -170.2 kJ/mol\n\nTherefore, the heat of hydration of 1 mole of anhydrous copper(II) sulfate (CuSO4) when it is dissolved in water to form its hydrated form, CuSO4·5H2O, is -170.2 kJ/mol."
+}

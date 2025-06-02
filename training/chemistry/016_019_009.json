@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of adsorption calculations",
+    "message_1": "What is the enthalpy change of adsorption when 10 grams of activated charcoal absorb 1 mole of methane gas at a temperature of 298 K? Given that the van't Hoff factor for the adsorption of methane on activated charcoal is 10.5 kJ/mol.",
+    "message_2": "The enthalpy change of adsorption (ΔH_ads) can be calculated using the van't Hoff factor (ΔH_van't Hoff) given for the adsorption of methane on activated charcoal. In this case, the van't Hoff factor is 10.5 kJ/mol.\n\nSince 1 mole of methane gas is being adsorbed by the activated charcoal, the enthalpy change of adsorption can be directly obtained from the van't Hoff factor:\n\nΔH_ads = ΔH_van't Hoff\nΔH_ads = 10.5 kJ/mol\n\nTherefore, the enthalpy change of adsorption when 10 grams of activated charcoal absorb 1 mole of methane gas at 298 K is 10.5 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Bond dissociation energy calculations",
+    "message_1": "Calculate the bond dissociation energy of the H-H bond given the following information: \n\nThe enthalpy change for the reaction 2H2(g) → 4H(g) is +436 kJ/mol, and the average bond dissociation energy for a H-H bond is 436 kJ/mol.",
+    "message_2": "To calculate the bond dissociation energy of the H-H bond, we can use the given enthalpy change for the reaction and the stoichiometry of the reaction.\n\nThe reaction is: 2H2(g) → 4H(g)\n\nThe enthalpy change for this reaction is +436 kJ/mol. Since there are two H-H bonds in 2 moles of H2, we can divide the enthalpy change by the number of H-H bonds to find the bond dissociation energy for a single H-H bond.\n\nBond dissociation energy of H-H bond = (Enthalpy change for the reaction) / (Number of H-H bonds)\n\nBond dissociation energy of H-H bond = (+436 kJ/mol) / 2\n\nBond dissociation energy of H-H bond = 218 kJ/mol\n\nSo, the bond dissociation energy of the H-H bond is 218 kJ/mol."
+}

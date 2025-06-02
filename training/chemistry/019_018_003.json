@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a phase transition reaction",
+    "message_1": "What is the standard enthalpy change for the phase transition from liquid water to steam at 100°C and 1 atm pressure, given that the molar heat of vaporization of water is 40.7 kJ/mol?",
+    "message_2": "The standard enthalpy change for the phase transition from liquid water to steam at 100°C and 1 atm pressure is equal to the molar heat of vaporization of water. In this case, the molar heat of vaporization is given as 40.7 kJ/mol. Therefore, the standard enthalpy change for this phase transition is:\n\nΔH = 40.7 kJ/mol"
+}

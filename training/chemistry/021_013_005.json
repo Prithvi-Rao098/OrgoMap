@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Identifying the Lewis structure of a molecule",
+    "message_1": "What is the Lewis structure of the compound CH4O?",
+    "message_2": "The Lewis structure of the compound CH4O (methanol) can be drawn as follows:\n\n1. Count the total number of valence electrons: Carbon (C) has 4, Hydrogen (H) has 1 each (total of 4 for 4 hydrogen atoms), and Oxygen (O) has 6. The total number of valence electrons is 14.\n\n2. Place the least electronegative atom in the center, which is Carbon in this case.\n\n3. Arrange the other atoms around the central atom: Oxygen will be bonded to Carbon, and the four Hydrogen atoms will be bonded to both Carbon and Oxygen.\n\n4. Draw single bonds between the central atom and the surrounding atoms: C-O and C-H bonds.\n\n5. Distribute the remaining valence electrons as lone pairs: Oxygen will have two lone pairs.\n\nThe Lewis structure of CH4O (methanol) is:\n\n      H\n      |\nH - C - O - H\n      |\n      H"
+}

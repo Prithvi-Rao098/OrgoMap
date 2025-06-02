@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a phase transition reaction",
+    "message_1": "Calculate the standard enthalpy change for the phase transition reaction of solid ammonium nitrate (NH4NO3) to gaseous NH3 and NO2, given that the standard enthalpy of formation for solid NH4NO3 is -365.5 kJ/mol, the standard enthalpy of formation for NH3(g) is -46.1 kJ/mol, and the standard enthalpy of formation for NO2(g) is 33.2 kJ/mol.",
+    "message_2": "To calculate the standard enthalpy change for the phase transition reaction, we can use Hess's Law, which states that the total enthalpy change for a reaction is the sum of the enthalpy changes for the individual steps.\n\nThe reaction we are considering is:\n\nNH4NO3(s) → NH3(g) + NO2(g)\n\nWe are given the standard enthalpies of formation for each substance:\n\nNH4NO3(s): -365.5 kJ/mol\nNH3(g): -46.1 kJ/mol\nNO2(g): 33.2 kJ/mol\n\nUsing Hess's Law, the standard enthalpy change for the reaction (ΔH) can be calculated as follows:\n\nΔH = [ΔHf(NH3) + ΔHf(NO2)] - ΔHf(NH4NO3)\n\nΔH = [(-46.1 kJ/mol) + (33.2 kJ/mol)] - (-365.5 kJ/mol)\n\nΔH = (-12.9 kJ/mol) + 365.5 kJ/mol\n\nΔH = 352.6 kJ/mol\n\nSo, the standard enthalpy change for the phase transition reaction of solid ammonium nitrate to gaseous NH3 and NO2 is 352.6 kJ/mol."
+}

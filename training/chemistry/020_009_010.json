@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Determining the equilibrium constant for a reaction involving gases",
+    "message_1": "What is the equilibrium constant for the reaction N2(g) + 3H2(g) ⇌ 2NH3(g) at a temperature of 298 K and a pressure of 1 atm if the concentration of N2 is 0.025 M, H2 is 0.075 M, and NH3 is 0.015 M at equilibrium?",
+    "message_2": "To find the equilibrium constant (Kc) for the given reaction, we can use the expression:\n\nKc = [NH3]^2 / ([N2] * [H2]^3)\n\nwhere [NH3], [N2], and [H2] represent the equilibrium concentrations of the respective species.\n\nGiven the equilibrium concentrations:\n[N2] = 0.025 M\n[H2] = 0.075 M\n[NH3] = 0.015 M\n\nSubstitute these values into the Kc expression:\n\nKc = (0.015)^2 / (0.025 * (0.075)^3)\n\nKc = 0.000225 / (0.025 * 0.000421875)\n\nKc = 0.000225 / 0.000010546875\n\nKc ≈ 21.33\n\nThe equilibrium constant (Kc) for the reaction N2(g) + 3H2(g) ⇌ 2NH3(g) at 298 K and 1 atm with the given concentrations is approximately 21.33."
+}

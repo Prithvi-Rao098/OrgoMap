@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of adsorption calculations",
+    "message_1": "Calculate the heat (in kJ/mol) evolved when 1 mole of hydrogen gas is adsorbed on a surface if the enthalpy of adsorption for hydrogen is -30 kJ/mol.",
+    "message_2": "When 1 mole of hydrogen gas is adsorbed on a surface, the enthalpy of adsorption is -30 kJ/mol. Since the enthalpy is negative, this means that the process is exothermic, and heat is evolved during the adsorption.\n\nTherefore, the heat evolved when 1 mole of hydrogen gas is adsorbed on a surface is 30 kJ/mol."
+}

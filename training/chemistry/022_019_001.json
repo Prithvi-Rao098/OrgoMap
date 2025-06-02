@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Reaction rate problems",
+    "message_1": "A chemistry student wants to determine the reaction rate of a chemical reaction. They mix 8 grams of reactant A with 12 grams of reactant B in a beaker at room temperature. After 10 seconds, they observe that the mass of the beaker's contents has decreased by 2 grams. What is the reaction rate of the chemical reaction?",
+    "message_2": "The reaction rate can be calculated by dividing the change in mass by the time taken for the reaction to occur. In this case, the mass of the beaker's contents decreased by 2 grams in 10 seconds. \n\nReaction rate = (Change in mass) / (Time taken)\nReaction rate = (2 grams) / (10 seconds)\n\nReaction rate = 0.2 grams/second\n\nThe reaction rate of the chemical reaction is 0.2 grams/second."
+}

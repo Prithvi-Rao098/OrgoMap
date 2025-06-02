@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "Calculate the heat capacity of a 25.0 g sample of copper, given that it was heated from 25°C to 50°C when it absorbed 209 J of heat. The specific heat capacity of copper is 0.385 J/g°C.",
+    "message_2": "To calculate the heat capacity of the copper sample, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat absorbed (in joules), m is the mass of the sample (in grams), c is the specific heat capacity of the substance (in J/g°C), and ΔT is the change in temperature (in °C).\n\nWe are given the following information:\n\n- mass of the sample (m) = 25.0 g\n- specific heat capacity of copper (c) = 0.385 J/g°C\n- initial temperature (T1) = 25°C\n- final temperature (T2) = 50°C\n- heat absorbed (q) = 209 J\n\nFirst, we need to calculate the change in temperature (ΔT):\n\nΔT = T2 - T1 = 50°C - 25°C = 25°C\n\nNow, we can plug the given values into the formula:\n\n209 J = (25.0 g)(0.385 J/g°C)(25°C)\n\nTo find the heat capacity, we need to solve for mc:\n\nmc = q / ΔT\n\nmc = 209 J / 25°C\n\nmc = 8.36 J/°C\n\nThe heat capacity of the 25.0 g sample of copper is 8.36 J/°C."
+}

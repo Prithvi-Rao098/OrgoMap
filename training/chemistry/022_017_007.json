@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Hess's Law problems",
+    "message_1": "What is the enthalpy change of the following chemical reaction: 2SO2(g) + O2(g) → 2SO3(g), given the following reactions and their respective enthalpy changes:\n\n1) 2SO2(g) + O2(g) → 2SO3(g)     ΔH = -198 kJ/mol\n2) 2SO2(g) + S(s) → 3SO2(g)     ΔH = -296 kJ/mol\n3) O2(g) + 2S(s) → 2SO2(g)      ΔH = -494 kJ/mol",
+    "message_2": "The enthalpy change for the given chemical reaction (2SO2(g) + O2(g) → 2SO3(g)) is already provided in the first reaction:\n\n1) 2SO2(g) + O2(g) → 2SO3(g)     ΔH = -198 kJ/mol\n\nSo, the enthalpy change for the reaction is -198 kJ/mol."
+}

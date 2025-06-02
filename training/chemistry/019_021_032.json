@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving solids",
+    "message_1": "Determine the standard enthalpy change for the reaction:   \nFe2O3 (s) + 3CO (g) → 2Fe (s) + 3CO2 (g)\n\ngiven the following values of standard enthalpy of formation:\n\nΔHf° [Fe2O3 (s)] = -824 kJ/mol  \nΔHf° [CO2 (g)] = -393.5 kJ/mol  \nΔHf° [CO (g)] = -110.5 kJ/mol  \nΔHf° [Fe (s)] = 0 kJ/mol",
+    "message_2": "To determine the standard enthalpy change for the reaction, we can use the formula:\n\nΔH°(reaction) = Σ ΔHf°(products) - Σ ΔHf°(reactants)\n\nFor the products:\n2 mol Fe (s) and 3 mol CO2 (g)\nΔHf°(products) = (2 × 0 kJ/mol) + (3 × -393.5 kJ/mol) = -1180.5 kJ/mol\n\nFor the reactants:\n1 mol Fe2O3 (s) and 3 mol CO (g)\nΔHf°(reactants) = (-824 kJ/mol) + (3 × -110.5 kJ/mol) = -1155.5 kJ/mol\n\nNow, we can calculate the standard enthalpy change for the reaction:\n\nΔH°(reaction) = (-1180.5 kJ/mol) - (-1155.5 kJ/mol) = -25 kJ/mol\n\nThe standard enthalpy change for the reaction is -25 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the formal charge of an atom in a molecule",
+    "message_1": "What is the formal charge of the nitrogen atom in the molecule NH4+?",
+    "message_2": "The formal charge of the nitrogen atom in the molecule NH4+ can be calculated using the following formula:\n\nFormal charge = (Valence electrons of the atom) - (Non-bonding electrons) - (1/2 × Bonding electrons)\n\nFor nitrogen in NH4+:\n1. Valence electrons of nitrogen = 5 (as nitrogen belongs to Group 15 in the periodic table)\n2. Non-bonding electrons = 0 (as all electrons are involved in bonding)\n3. Bonding electrons = 8 (as there are 4 single bonds between nitrogen and hydrogen atoms, and each bond has 2 electrons)\n\nNow, we can calculate the formal charge:\n\nFormal charge = 5 - 0 - (1/2 × 8)\nFormal charge = 5 - 4\nFormal charge = +1\n\nSo, the formal charge of the nitrogen atom in the molecule NH4+ is +1."
+}

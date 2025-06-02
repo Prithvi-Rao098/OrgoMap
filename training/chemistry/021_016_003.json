@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the electronegativity difference between two atoms",
+    "message_1": "What is the electronegativity difference between a carbon atom and an oxygen atom in a molecule of carbon dioxide?",
+    "message_2": "The electronegativity of an atom is a measure of its ability to attract electrons in a chemical bond. In a molecule of carbon dioxide (CO2), there is one carbon atom and two oxygen atoms.\n\nThe electronegativity value for carbon is approximately 2.55, while the electronegativity value for oxygen is approximately 3.44 (according to the Pauling scale). To find the electronegativity difference between carbon and oxygen in CO2, we subtract the electronegativity of carbon from that of oxygen:\n\nElectronegativity difference = Electronegativity of oxygen - Electronegativity of carbon\nElectronegativity difference = 3.44 - 2.55\nElectronegativity difference ≈ 0.89\n\nSo, the electronegativity difference between a carbon atom and an oxygen atom in a molecule of carbon dioxide is approximately 0.89."
+}

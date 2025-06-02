@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Gas evolution reactions",
+    "message_1": "What is the mass of nitrogen gas evolved when 5 g of calcium nitride reacts with excess water?",
+    "message_2": "To solve this problem, we need to use the balanced chemical equation for the reaction between calcium nitride (Ca₃N₂) and water (H₂O) to produce calcium hydroxide (Ca(OH)₂) and nitrogen gas (N₂):\n\nCa₃N₂ + 6H₂O → 3Ca(OH)₂ + 2N₂\n\nFirst, we need to find the molar mass of calcium nitride (Ca₃N₂):\nCa = 40.08 g/mol (3 calcium atoms) = 3 × 40.08 = 120.24 g/mol\nN = 14.01 g/mol (2 nitrogen atoms) = 2 × 14.01 = 28.02 g/mol\nMolar mass of Ca₃N₂ = 120.24 + 28.02 = 148.26 g/mol\n\nNow, we can find the moles of Ca₃N₂ in the 5 g sample:\nmoles of Ca₃N₂ = mass / molar mass = 5 g / 148.26 g/mol = 0.0337 mol\n\nFrom the balanced equation, we can see that 1 mole of Ca₃N₂ produces 2 moles of N₂. So, we can find the moles of N₂ produced:\nmoles of N₂ = 0.0337 mol Ca₃N₂ × (2 mol N₂ / 1 mol Ca₃N₂) = 0.0674 mol N₂\n\nFinally, we can find the mass of nitrogen gas evolved:\nMolar mass of N₂ = 2 × 14.01 g/mol = 28.02 g/mol\nmass of N₂ = moles × molar mass = 0.0674 mol × 28.02 g/mol = 1.89 g\n\nSo, the mass of nitrogen gas evolved when 5 g of calcium nitride reacts with excess water is approximately 1.89 g."
+}

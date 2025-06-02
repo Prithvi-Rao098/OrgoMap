@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of reaction quotient for a chemical reaction",
+    "message_1": "What is the value of the reaction quotient Qc for the equilibrium reaction 2H2(g) + O2(g) ⇌ 2H2O(g) when the concentrations of H2, O2 and H2O are 0.10M, 0.05M and 0.20M, respectively?",
+    "message_2": "To find the value of the reaction quotient Qc for the given equilibrium reaction, we can use the formula:\n\nQc = [Products] / [Reactants]\n\nFor the reaction 2H2(g) + O2(g) ⇌ 2H2O(g), the Qc expression is:\n\nQc = [H2O]^2 / ([H2]^2 * [O2])\n\nNow, we can plug in the given concentrations:\n\nQc = (0.20)^2 / ((0.10)^2 * (0.05))\n\nQc = 0.04 / (0.01 * 0.05)\n\nQc = 0.04 / 0.0005\n\nQc = 80\n\nSo, the value of the reaction quotient Qc for this equilibrium reaction is 80."
+}

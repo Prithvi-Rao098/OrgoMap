@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Gas evolution reactions",
+    "message_1": "What is the amount of hydrogen gas (in moles) evolved when 5 grams of magnesium (Mg) reacts with excess hydrochloric acid (HCl) at standard temperature and pressure (STP)?",
+    "message_2": "To solve this problem, we need to use the balanced chemical equation for the reaction between magnesium and hydrochloric acid:\n\nMg(s) + 2HCl(aq) → MgCl2(aq) + H2(g)\n\nFrom the balanced equation, we can see that 1 mole of magnesium reacts with 2 moles of HCl to produce 1 mole of hydrogen gas.\n\nFirst, we need to find the moles of magnesium in 5 grams. The molar mass of magnesium (Mg) is 24.31 g/mol.\n\nmoles of Mg = mass of Mg / molar mass of Mg\nmoles of Mg = 5 g / 24.31 g/mol\nmoles of Mg ≈ 0.2056 mol\n\nSince 1 mole of magnesium produces 1 mole of hydrogen gas, the moles of hydrogen gas evolved will be the same as the moles of magnesium reacted.\n\nmoles of H2 evolved ≈ 0.2056 mol"
+}

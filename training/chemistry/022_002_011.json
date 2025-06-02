@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "A 25 mL solution of 0.1 M AgNO3 is mixed with a 50 mL solution of 0.05 M NaCl. What is the mass of AgCl that will be produced if a reaction occurs? (Assume the reaction goes to completion.)",
+    "message_2": "First, we need to determine the limiting reactant. To do this, we will calculate the moles of each reactant.\n\nMoles of AgNO3 = (Volume × Molarity)\nMoles of AgNO3 = (0.025 L × 0.1 M) = 0.0025 moles\n\nMoles of NaCl = (Volume × Molarity)\nMoles of NaCl = (0.050 L × 0.05 M) = 0.0025 moles\n\nThe balanced chemical equation for the reaction is:\nAgNO3 + NaCl → AgCl + NaNO3\n\nFrom the balanced equation, we can see that the mole ratio of AgNO3 to NaCl is 1:1. Since both reactants have the same number of moles (0.0025 moles), neither reactant is in excess, and both are limiting reactants.\n\nNow, we can calculate the moles of AgCl that will be produced:\nMoles of AgCl = Moles of limiting reactant = 0.0025 moles\n\nNext, we need to convert moles of AgCl to mass. To do this, we will use the molar mass of AgCl (143.32 g/mol):\nMass of AgCl = (Moles of AgCl × Molar mass of AgCl)\nMass of AgCl = (0.0025 moles × 143.32 g/mol) = 0.3583 g\n\nTherefore, the mass of AgCl that will be produced in the reaction is approximately 0.3583 grams."
+}

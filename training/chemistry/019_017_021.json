@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a sublimation reaction",
+    "message_1": "What is the standard enthalpy change for the sublimation of iodine? Given the following information: \n- the vapor pressure of solid iodine at 25°C is 0.0835 atm \n- the enthalpy of fusion for iodine is 15.52 kJ/mol \n- the enthalpy of vaporization for iodine is 41.57 kJ/mol \n- the specific heat capacity of iodine (s) is 54.44 J/mol·K \n- the molar mass of iodine is 126.9 g/mol.",
+    "message_2": "The standard enthalpy change for the sublimation of iodine can be calculated by adding the enthalpy of fusion and the enthalpy of vaporization. Sublimation is the process of a solid changing directly into a gas, bypassing the liquid phase. In this case, iodine is undergoing sublimation.\n\nEnthalpy of sublimation = Enthalpy of fusion + Enthalpy of vaporization\n\nGiven:\nEnthalpy of fusion = 15.52 kJ/mol\nEnthalpy of vaporization = 41.57 kJ/mol\n\nEnthalpy of sublimation = 15.52 kJ/mol + 41.57 kJ/mol = 57.09 kJ/mol\n\nThe standard enthalpy change for the sublimation of iodine is 57.09 kJ/mol."
+}

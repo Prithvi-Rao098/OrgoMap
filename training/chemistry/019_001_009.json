@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of enthalpy change for a chemical reaction",
+    "message_1": "What is the enthalpy change for the combustion of 1 mole of butane (C₄H₁₀) gas (g) under standard conditions?",
+    "message_2": "To calculate the enthalpy change for the combustion of 1 mole of butane (C₄H₁₀) gas under standard conditions, we first need to write the balanced chemical equation for the combustion reaction:\n\nC₄H₁₀(g) + 13/2 O₂(g) → 4 CO₂(g) + 5 H₂O(l)\n\nNext, we need to find the standard enthalpies of formation (ΔHf°) for each compound involved in the reaction. The standard enthalpies of formation are:\n\nΔHf°(C₄H₁₀) = -125.7 kJ/mol\nΔHf°(O₂) = 0 kJ/mol (since it is an element in its standard state)\nΔHf°(CO₂) = -393.5 kJ/mol\nΔHf°(H₂O) = -285.8 kJ/mol\n\nNow, we can use Hess's Law to calculate the enthalpy change for the reaction:\n\nΔHrxn = Σ [ΔHf°(products)] - Σ [ΔHf°(reactants)]\n\nΔHrxn = [4 × (-393.5 kJ/mol) + 5 × (-285.8 kJ/mol)] - [(-125.7 kJ/mol) + 13/2 × 0 kJ/mol]\n\nΔHrxn = (-1574 kJ/mol - 1429 kJ/mol) - (-125.7 kJ/mol)\n\nΔHrxn = -3003.7 kJ/mol + 125.7 kJ/mol\n\nΔHrxn = -2878 kJ/mol\n\nTherefore, the enthalpy change for the combustion of 1 mole of butane (C₄H₁₀) gas under standard conditions is approximately -2878 kJ/mol."
+}

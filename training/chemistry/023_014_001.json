@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical synthesis",
+    "sub_topic": "Preparation of 4-bromoacetanilide from acetanilide and bromine",
+    "message_1": "What is the limiting reagent and theoretical yield of 4-bromoacetanilide that can be obtained when 2.0 grams of acetanilide and 4.0 grams of bromine are reacted according to the reaction scheme?",
+    "message_2": "To determine the limiting reagent and theoretical yield of 4-bromoacetanilide, we first need the balanced chemical equation for the reaction:\n\nAcetanilide + Br₂ → 4-Bromoacetanilide\n\nNext, we need the molar masses of the reactants and product:\n\nAcetanilide (C₈H₉NO): 135.17 g/mol\nBromine (Br₂): 159.81 g/mol\n4-Bromoacetanilide (C₈H₈BrNO): 214.06 g/mol\n\nNow, we can calculate the moles of each reactant:\n\nMoles of acetanilide = 2.0 g / 135.17 g/mol = 0.0148 mol\nMoles of bromine = 4.0 g / 159.81 g/mol = 0.0250 mol\n\nThe stoichiometry of the reaction is 1:1, so we can determine the limiting reagent by comparing the mole ratios:\n\nAcetanilide: 0.0148 mol / 1 = 0.0148\nBromine: 0.0250 mol / 1 = 0.0250\n\nSince the mole ratio of acetanilide is smaller, it is the limiting reagent.\n\nFinally, we can calculate the theoretical yield of 4-bromoacetanilide using the limiting reagent:\n\nMoles of 4-bromoacetanilide = 0.0148 mol (from the limiting reagent, acetanilide)\nTheoretical yield = 0.0148 mol × 214.06 g/mol = 3.17 g\n\nSo, the limiting reagent is acetanilide, and the theoretical yield of 4-bromoacetanilide is 3.17 grams."
+}

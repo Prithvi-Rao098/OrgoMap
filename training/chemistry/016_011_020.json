@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of mixing calculations",
+    "message_1": "What is the heat of mixing when 50 mL of 1.0 M HCl is added to 50 mL of 1.0 M NaOH at 25°C? The heat capacity of the resulting solution is 4.18 J/g K and the density is 1.00 g/mL. (Assume the heat of dilution is negligible.)",
+    "message_2": "When 1.0 M HCl is mixed with 1.0 M NaOH, a neutralization reaction occurs, producing water and a salt (NaCl). The reaction is exothermic, meaning it releases heat. The reaction can be written as:\n\nHCl(aq) + NaOH(aq) → H2O(l) + NaCl(aq)\n\nFirst, we need to find the moles of HCl and NaOH in the solution. Since both solutions have the same concentration and volume, they will react completely with each other.\n\nmoles of HCl = (1.0 mol/L) × (0.050 L) = 0.050 mol\nmoles of NaOH = (1.0 mol/L) × (0.050 L) = 0.050 mol\n\nThe heat released during the reaction can be calculated using the enthalpy change of the reaction, which is -57.32 kJ/mol for the neutralization of HCl and NaOH.\n\nq = moles × ΔH\nq = 0.050 mol × (-57.32 kJ/mol) = -2.866 kJ\n\nThe heat of mixing is -2.866 kJ, which means that 2.866 kJ of heat is released during the reaction."
+}

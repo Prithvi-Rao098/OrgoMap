@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving liquids",
+    "message_1": "Calculate the standard enthalpy change for the reaction: \n\nCH3OH (l) + 3/2 O2 (g) -> CO2 (g) + 2H2O (l) \n\ngiven the standard enthalpies of formation for CH3OH (l), CO2 (g) and H2O (l) as -238.6 kJ/mol, -393.5 kJ/mol and -285.8 kJ/mol respectively.",
+    "message_2": "To calculate the standard enthalpy change for the reaction, we can use the formula:\n\nΔH° = Σ ΔHf°(products) - Σ ΔHf°(reactants)\n\nwhere ΔH° is the standard enthalpy change, and ΔHf° is the standard enthalpy of formation.\n\nFor the given reaction:\n\nCH3OH (l) + 3/2 O2 (g) -> CO2 (g) + 2H2O (l)\n\nThe standard enthalpies of formation are:\n\nΔHf°(CH3OH) = -238.6 kJ/mol\nΔHf°(CO2) = -393.5 kJ/mol\nΔHf°(H2O) = -285.8 kJ/mol\n\nThe standard enthalpy change for the reaction is:\n\nΔH° = [1 × (-393.5) + 2 × (-285.8)] - [1 × (-238.6) + 3/2 × 0]\n\nNote that the standard enthalpy of formation for O2 (g) is 0 kJ/mol since it is in its standard state.\n\nΔH° = [-393.5 - 571.6] - [-238.6]\nΔH° = [-965.1] - [-238.6]\nΔH° = -726.5 kJ/mol\n\nThe standard enthalpy change for the reaction is -726.5 kJ/mol."
+}

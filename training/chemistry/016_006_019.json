@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of reaction calculations",
+    "message_1": "What is the change in enthalpy for the combustion of 2.0 grams of propane (C3H8) if the standard enthalpy of formation of CO2 is -393.5 kJ/mol, the standard enthalpy of formation of H2O is -241.8 kJ/mol, and the standard enthalpy of formation of C3H8 is -103.9 kJ/mol?",
+    "message_2": "To calculate the change in enthalpy for the combustion of 2.0 grams of propane, we first need to write the balanced chemical equation for the combustion reaction:\n\nC3H8 + 5O2 → 3CO2 + 4H2O\n\nNext, we need to determine the number of moles of propane combusted. The molar mass of propane (C3H8) is:\n\n(3 × 12.01 g/mol C) + (8 × 1.01 g/mol H) = 44.09 g/mol\n\nNow, we can find the moles of propane:\n\n2.0 g / 44.09 g/mol = 0.0453 mol\n\nNow, we can calculate the change in enthalpy for the reaction using the standard enthalpies of formation:\n\nΔH = [3 × ΔHf(CO2) + 4 × ΔHf(H2O)] - [ΔHf(C3H8) + 5 × ΔHf(O2)]\n\nSince the standard enthalpy of formation for O2 is 0 kJ/mol, the equation becomes:\n\nΔH = [3 × (-393.5 kJ/mol) + 4 × (-241.8 kJ/mol)] - [(-103.9 kJ/mol)]\n\nΔH = (-1180.5 kJ/mol) + (-967.2 kJ/mol) + 103.9 kJ/mol\n\nΔH = -2043.8 kJ/mol\n\nNow, we need to find the change in enthalpy for the combustion of 0.0453 mol of propane:\n\nΔH = -2043.8 kJ/mol × 0.0453 mol\n\nΔH = -92.6 kJ\n\nSo, the change in enthalpy for the combustion of 2.0 grams of propane is approximately -92.6 kJ."
+}

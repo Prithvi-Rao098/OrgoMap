@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Oxidation state determination",
+    "message_1": "Determine the oxidation state of chlorine in HClO3.",
+    "message_2": "To determine the oxidation state of chlorine in HClO3 (chloric acid), we can use the oxidation state rules and the fact that the sum of the oxidation states of all atoms in a neutral molecule must be equal to zero.\n\n1. The oxidation state of hydrogen (H) in a compound is usually +1.\n2. The oxidation state of oxygen (O) in a compound is usually -2.\n\nNow, let's assign oxidation states to the atoms in HClO3:\n\nH: +1\nO: -2 (and there are 3 oxygen atoms, so the total for oxygen is -6)\nCl: x (unknown oxidation state of chlorine)\n\nNow, we can set up an equation using the fact that the sum of the oxidation states must be equal to zero:\n\n(+1) + (-6) + x = 0\n\nSolving for x:\n\nx = 5\n\nSo, the oxidation state of chlorine in HClO3 is +5."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the equilibrium constant for a given reaction",
+    "message_1": "What is the equilibrium constant, Kc, for the following reaction at 25°C? \n\n2SO2 (g) + O2 (g) ⇌ 2SO3 (g) \n\nGiven the following concentrations at equilibrium: [SO2] = 0.25 M, [O2] = 0.10 M, [SO3] = 0.40 M.",
+    "message_2": "To find the equilibrium constant (Kc) for the reaction, we can use the formula:\n\nKc = [products]^coefficients / [reactants]^coefficients\n\nFor the given reaction:\n\n2SO2 (g) + O2 (g) ⇌ 2SO3 (g)\n\nKc = [SO3]^2 / ([SO2]^2 * [O2])\n\nWe are given the concentrations at equilibrium: [SO2] = 0.25 M, [O2] = 0.10 M, [SO3] = 0.40 M. Plug these values into the formula:\n\nKc = (0.40)^2 / ((0.25)^2 * (0.10))\n\nKc = 0.16 / (0.0625 * 0.10)\n\nKc = 0.16 / 0.00625\n\nKc ≈ 25.6\n\nThe equilibrium constant, Kc, for the given reaction at 25°C is approximately 25.6."
+}

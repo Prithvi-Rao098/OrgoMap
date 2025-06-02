@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the formal charge of an atom in a molecule",
+    "message_1": "What is the formal charge of Carbon (C) in the molecule of carbon dioxide (CO2)?",
+    "message_2": "To determine the formal charge of carbon in CO2, we need to follow these steps:\n\n1. Determine the number of valence electrons for carbon. Carbon is in group 4, so it has 4 valence electrons.\n\n2. Determine the number of bonding electrons. In CO2, carbon forms double bonds with each oxygen atom. Each double bond consists of 4 electrons (2 pairs), so there are a total of 8 bonding electrons around carbon.\n\n3. Determine the number of non-bonding electrons. Carbon has no lone pairs in CO2, so there are 0 non-bonding electrons.\n\n4. Calculate the formal charge using the formula: Formal charge = (valence electrons) - (1/2 * bonding electrons) - (non-bonding electrons)\n\nFormal charge of carbon in CO2 = (4) - (1/2 * 8) - (0) = 4 - 4 = 0\n\nThe formal charge of carbon in CO2 is 0."
+}

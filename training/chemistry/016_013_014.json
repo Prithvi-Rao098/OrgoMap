@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of hydration calculations",
+    "message_1": "What is the heat of hydration of magnesium sulfate (MgSO4) when 50 grams of the salt is dissolved in 500 ml of water at 25°C, given that the specific heat of the solution is 4.18 J/g°C and the enthalpy change of solution is -1048 kJ/mol?",
+    "message_2": "To calculate the heat of hydration of magnesium sulfate, we need to determine the number of moles of MgSO4 and then use the enthalpy change of solution to find the heat released during the dissolution process.\n\nFirst, let's find the molar mass of MgSO4:\nMg = 24.3 g/mol\nS = 32.1 g/mol\nO = 16.0 g/mol\n\nMolar mass of MgSO4 = 24.3 + 32.1 + (4 × 16.0) = 120.4 g/mol\n\nNow, let's find the number of moles of MgSO4 in 50 grams:\nmoles = mass / molar mass\nmoles = 50 g / 120.4 g/mol = 0.415 moles\n\nNext, we'll use the enthalpy change of solution to find the heat released during the dissolution process:\nΔH = moles × enthalpy change of solution\nΔH = 0.415 moles × (-1048 kJ/mol) = -435.14 kJ\n\nSo, the heat of hydration of magnesium sulfate when 50 grams of the salt is dissolved in 500 ml of water at 25°C is -435.14 kJ."
+}

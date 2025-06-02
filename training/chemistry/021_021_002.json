@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Identifying the type of hybrid orbitals in a molecule",
+    "message_1": "What are the hybrid orbitals present in the molecule of formaldehyde (CH2O)?",
+    "message_2": "In the molecule of formaldehyde (CH2O), the central atom is carbon. The carbon atom forms two sigma bonds with two hydrogen atoms and one sigma bond with one oxygen atom. Additionally, there is a pi bond between the carbon and oxygen atoms. \n\nTo determine the hybridization of the carbon atom, we can use the formula: \n\nHybridization = 1/2 [number of valence electrons + number of monovalent atoms - charge]\n\nFor carbon in formaldehyde, the formula would be:\n\nHybridization = 1/2 [4 + 3 - 0] = 1/2 [7] = 3.5\n\nSince the hybridization value is 3.5, it indicates that the carbon atom is sp2 hybridized. Therefore, the hybrid orbitals present in the molecule of formaldehyde are sp2 orbitals for the carbon atom. The oxygen atom is also sp2 hybridized, as it forms one sigma bond with the carbon atom and has two lone pairs of electrons."
+}

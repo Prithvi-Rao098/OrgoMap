@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Identifying the resonance structures of a molecule",
+    "message_1": "What are the possible resonance structures of the nitrate ion (NO3-)? Show the correct arrangement of electrons and the placement of double bonds in each resonance structure.",
+    "message_2": "The nitrate ion (NO3-) has three possible resonance structures. In each resonance structure, the nitrogen atom is at the center, and the three oxygen atoms are surrounding it. The nitrogen atom has a positive charge, and one of the oxygen atoms has a negative charge. The other two oxygen atoms are neutral. The resonance structures differ in the placement of the double bond between the nitrogen and oxygen atoms.\n\nResonance Structure 1:\nO=N-O(-)\n  |\n  O\n\nResonance Structure 2:\nO(-)-N=O\n  |\n  O\n\nResonance Structure 3:\nO(-)\n  |\n  N=O\n  |\n  O\n\nIn each resonance structure, there is a double bond between the nitrogen atom and one of the oxygen atoms, and single bonds between the nitrogen atom and the other two oxygen atoms. The negative charge is on the oxygen atom with the single bond. These three resonance structures contribute equally to the overall structure of the nitrate ion, and the actual structure is a hybrid of all three."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of neutralization calculations",
+    "message_1": "What is the amount of heat involved in the neutralization of 25.0 mL of 0.1 M HCl with 25.0 mL of 0.1 M NaOH, given the heat of neutralization of HCl and NaOH to be -57.1 kJ/mol?",
+    "message_2": "To calculate the amount of heat involved in the neutralization, we first need to determine the number of moles of HCl and NaOH reacting.\n\nMoles of HCl = volume (L) × concentration (M)\nMoles of HCl = 0.025 L × 0.1 M = 0.0025 moles\n\nMoles of NaOH = volume (L) × concentration (M)\nMoles of NaOH = 0.025 L × 0.1 M = 0.0025 moles\n\nSince the moles of HCl and NaOH are equal, the reaction goes to completion, and all the acid and base are neutralized.\n\nNow, we can use the heat of neutralization to find the heat involved in the reaction.\n\nHeat involved = moles of HCl × heat of neutralization\nHeat involved = 0.0025 moles × -57.1 kJ/mol = -0.14275 kJ\n\nThe amount of heat involved in the neutralization is -0.14275 kJ. The negative sign indicates that the reaction is exothermic, meaning heat is released during the neutralization process."
+}

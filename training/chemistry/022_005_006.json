@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Combustion reactions",
+    "message_1": "What is the balanced chemical equation for the combustion reaction of propane (C3H8) with oxygen gas (O2)?",
+    "message_2": "The combustion reaction of propane (C3H8) with oxygen gas (O2) produces carbon dioxide (CO2) and water (H2O). To balance the chemical equation, we need to ensure that the number of atoms of each element is the same on both sides of the equation.\n\nUnbalanced equation: C3H8 + O2 → CO2 + H2O\n\nNow, let's balance the equation:\n\n1. Balance the carbon atoms:\nC3H8 + O2 → 3CO2 + H2O\n\n2. Balance the hydrogen atoms:\nC3H8 + O2 → 3CO2 + 4H2O\n\n3. Balance the oxygen atoms:\nC3H8 + 5O2 → 3CO2 + 4H2O\n\nThe balanced chemical equation for the combustion reaction of propane with oxygen gas is:\n\nC3H8 + 5O2 → 3CO2 + 4H2O"
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving aqueous solutions",
+    "message_1": "What is the standard enthalpy change for the reaction between 25 mL of 0.1 M hydrochloric acid and 35 mL of 0.05 M sodium hydroxide, both at 25°C? Write a balanced chemical equation for the reaction, and calculate the amount of heat exchanged by the reaction.",
+    "message_2": "First, let's write the balanced chemical equation for the reaction between hydrochloric acid (HCl) and sodium hydroxide (NaOH):\n\nHCl (aq) + NaOH (aq) → NaCl (aq) + H2O (l)\n\nNow, we need to determine the limiting reactant. To do this, we'll calculate the moles of each reactant:\n\nmoles of HCl = volume (L) × concentration (M) = 0.025 L × 0.1 M = 0.0025 mol\nmoles of NaOH = volume (L) × concentration (M) = 0.035 L × 0.05 M = 0.00175 mol\n\nSince there are fewer moles of NaOH, it is the limiting reactant. The reaction will produce 0.00175 mol of water.\n\nThe standard enthalpy change for the reaction between HCl and NaOH is -55.8 kJ/mol (this value is obtained from standard enthalpy of formation tables). To calculate the heat exchanged by the reaction, we'll use the following formula:\n\nq = moles × ΔH\n\nq = 0.00175 mol × (-55.8 kJ/mol) = -0.09765 kJ\n\nThe heat exchanged by the reaction is -0.09765 kJ, which means that 0.09765 kJ of heat is released by the reaction (since the value is negative, it indicates that the reaction is exothermic)."
+}

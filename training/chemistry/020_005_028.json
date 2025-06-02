@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Determining the effect of adding or removing a reactant or product on the equilibrium position",
+    "message_1": "What is the effect on the equilibrium position of the following reaction if water is added to the system: \n\n2H2(g) + O2(g) ⇌ 2H2O(g) \n\nExplain your answer using Le Chatelier's principle.",
+    "message_2": "Adding water to the system will increase the concentration of H2O(g) in the reaction. According to Le Chatelier's principle, when a change is applied to a system in equilibrium, the system will adjust itself to counteract the change and restore the equilibrium. In this case, the increase in H2O(g) concentration will cause the system to shift the equilibrium position to counteract the change.\n\nSince the addition of water increases the concentration of the product (H2O), the system will shift the equilibrium position to the left to consume some of the added H2O and produce more reactants (H2 and O2). This shift will help restore the equilibrium by decreasing the concentration of H2O and increasing the concentrations of H2 and O2.\n\nIn summary, adding water to the system will cause the equilibrium position to shift to the left, favoring the formation of reactants (H2 and O2) and consuming some of the added H2O. This shift occurs in accordance with Le Chatelier's principle to counteract the change in concentration and restore the equilibrium."
+}

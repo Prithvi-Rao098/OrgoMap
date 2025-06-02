@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical synthesis",
+    "sub_topic": "Preparation of acetylsalicylic acid from acetic anhydride and salicylic acid",
+    "message_1": "What is the appropriate ratio of acetic anhydride to salicylic acid to produce the maximum yield of acetylsalicylic acid in the preparation reaction?",
+    "message_2": "The appropriate ratio of acetic anhydride to salicylic acid to produce the maximum yield of acetylsalicylic acid (aspirin) in the preparation reaction is 1:1, based on their stoichiometry in the balanced chemical equation:\n\nC7H6O3 (salicylic acid) + C4H6O3 (acetic anhydride) → C9H8O4 (acetylsalicylic acid) + C2H4O2 (acetic acid)\n\nHowever, in practice, a slight excess of acetic anhydride is often used to ensure complete reaction of the salicylic acid and maximize the yield of acetylsalicylic acid. This excess is typically around 10% more than the stoichiometric amount."
+}

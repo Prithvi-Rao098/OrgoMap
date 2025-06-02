@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a vaporization reaction",
+    "message_1": "Calculate the standard enthalpy change for the vaporization of 100 g of water at 100°C given that the enthalpy of vaporization of water is 40.7 kJ/mol.",
+    "message_2": "First, we need to convert the mass of water (100 g) into moles. The molar mass of water (H₂O) is 18.015 g/mol.\n\nmoles of water = mass / molar mass\nmoles of water = 100 g / 18.015 g/mol\nmoles of water ≈ 5.55 mol\n\nNow, we can use the enthalpy of vaporization (ΔHvap) to calculate the standard enthalpy change for the vaporization of 100 g of water.\n\nΔH = moles × ΔHvap\nΔH = 5.55 mol × 40.7 kJ/mol\nΔH ≈ 225.89 kJ\n\nThe standard enthalpy change for the vaporization of 100 g of water at 100°C is approximately 225.89 kJ."
+}

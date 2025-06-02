@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of adsorption calculations",
+    "message_1": "What is the enthalpy change for the adsorption of 30 grams of nitrogen gas on the surface of activated charcoal at a temperature of 25°C?\n\nGiven values:\n- Mass of nitrogen gas adsorbed = 30 grams\n- Temperature = 25°C\n- Enthalpy of adsorption of nitrogen on activated charcoal = -72 kJ/mol",
+    "message_2": "To calculate the enthalpy change for the adsorption of 30 grams of nitrogen gas on the surface of activated charcoal, we need to first determine the number of moles of nitrogen gas and then use the given enthalpy of adsorption value.\n\n1. Calculate the number of moles of nitrogen gas:\nNitrogen gas (N₂) has a molar mass of 28 grams/mol (14 g/mol for each nitrogen atom, and there are two nitrogen atoms in a molecule of nitrogen gas).\n\nNumber of moles = mass / molar mass\nNumber of moles = 30 grams / 28 grams/mol\nNumber of moles ≈ 1.071 moles of nitrogen gas\n\n2. Calculate the enthalpy change:\nEnthalpy change = number of moles × enthalpy of adsorption per mole\n\nEnthalpy change = 1.071 moles × -72 kJ/mol\nEnthalpy change ≈ -77.112 kJ\n\nThe enthalpy change for the adsorption of 30 grams of nitrogen gas on the surface of activated charcoal at 25°C is approximately -77.112 kJ."
+}

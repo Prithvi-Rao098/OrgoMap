@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "What mass of lead (II) nitrate (Pb(NO3)2) is required to react with 25.0 grams of potassium iodide (KI) to produce lead (II) iodide (PbI2) and potassium nitrate (KNO3)?",
+    "message_2": "To solve this problem, we will use the stoichiometry method. First, we need to write the balanced chemical equation for the reaction:\n\nPb(NO3)2 + 2 KI → PbI2 + 2 KNO3\n\nNext, we need to find the molar masses of the compounds involved:\n\nPb(NO3)2: 207.2 (Pb) + 2 * (14.01 (N) + 3 * 16.00 (O)) = 331.21 g/mol\nKI: 39.10 (K) + 126.90 (I) = 166.00 g/mol\n\nNow, we can convert the given mass of KI (25.0 g) to moles:\n\nmoles of KI = 25.0 g / 166.00 g/mol = 0.1506 mol\n\nFrom the balanced chemical equation, we can see that 1 mole of Pb(NO3)2 reacts with 2 moles of KI. Therefore, we can find the moles of Pb(NO3)2 needed to react with 0.1506 moles of KI:\n\nmoles of Pb(NO3)2 = 0.1506 mol KI * (1 mol Pb(NO3)2 / 2 mol KI) = 0.0753 mol\n\nFinally, we can convert the moles of Pb(NO3)2 to mass:\n\nmass of Pb(NO3)2 = 0.0753 mol * 331.21 g/mol = 24.94 g\n\nSo, 24.94 grams of lead (II) nitrate are required to react with 25.0 grams of potassium iodide."
+}

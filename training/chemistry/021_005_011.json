@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the polarity of a bond",
+    "message_1": "Determine the polarity of the H-Cl bond in hydrogen chloride molecule, given the electronegativity values of hydrogen and chlorine to be 2.2 and 3.0, respectively.",
+    "message_2": "To determine the polarity of the H-Cl bond in a hydrogen chloride molecule, we need to look at the difference in electronegativity values between hydrogen and chlorine.\n\nElectronegativity is a measure of the tendency of an atom to attract a bonding pair of electrons. The greater the difference in electronegativity values between two atoms, the more polar the bond will be.\n\nGiven the electronegativity values:\nHydrogen (H) = 2.2\nChlorine (Cl) = 3.0\n\nDifference in electronegativity = |3.0 - 2.2| = 0.8\n\nA bond is generally considered polar if the electronegativity difference is greater than 0.5. Since the electronegativity difference between hydrogen and chlorine is 0.8, the H-Cl bond in a hydrogen chloride molecule is polar."
+}

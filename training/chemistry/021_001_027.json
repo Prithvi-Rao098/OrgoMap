@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the type of bond between two atoms",
+    "message_1": "What type of bond exists between two atoms with an electronegativity difference of 0.5 and a bond length of 1.5 Å?",
+    "message_2": "A bond between two atoms with an electronegativity difference of 0.5 and a bond length of 1.5 Å is likely a polar covalent bond. \n\nIn general, when the electronegativity difference between two atoms is between 0.4 and 1.7, the bond is considered polar covalent. This means that the electrons are shared between the two atoms, but not equally, resulting in a partially positive and partially negative charge on each atom. The bond length of 1.5 Å is within the typical range for covalent bonds."
+}

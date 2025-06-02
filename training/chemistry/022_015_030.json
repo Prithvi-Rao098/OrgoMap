@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Percent yield problems",
+    "message_1": "A student is trying to synthesize a compound in the lab. The theoretical yield of the compound is 15 g, but due to some errors during the experiment, the student was only able to obtain 10 g in the end. Calculate the percent yield of the experiment.",
+    "message_2": "To calculate the percent yield of the experiment, you can use the following formula:\n\nPercent Yield = (Actual Yield / Theoretical Yield) x 100\n\nIn this case, the actual yield is 10 g, and the theoretical yield is 15 g. Plug these values into the formula:\n\nPercent Yield = (10 g / 15 g) x 100\n\nPercent Yield = (0.6667) x 100\n\nPercent Yield = 66.67%\n\nThe percent yield of the experiment is 66.67%."
+}

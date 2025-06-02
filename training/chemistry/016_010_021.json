@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of solution calculations",
+    "message_1": "What is the enthalpy change when 10 g of sodium hydroxide (NaOH) is dissolved in 100 mL of water? The molar enthalpy of solution for NaOH is -44.5 kJ/mol.",
+    "message_2": "To calculate the enthalpy change, we first need to determine the number of moles of sodium hydroxide (NaOH) in 10 grams.\n\nThe molar mass of NaOH is:\nNa = 22.99 g/mol\nO = 16.00 g/mol\nH = 1.01 g/mol\nTotal = 22.99 + 16.00 + 1.01 = 40.00 g/mol\n\nNow, we can find the number of moles of NaOH in 10 grams:\nmoles = mass / molar mass\nmoles = 10 g / 40.00 g/mol = 0.25 mol\n\nNow that we have the number of moles, we can calculate the enthalpy change using the molar enthalpy of solution:\nenthalpy change = moles × molar enthalpy of solution\nenthalpy change = 0.25 mol × (-44.5 kJ/mol) = -11.125 kJ\n\nThe enthalpy change when 10 g of sodium hydroxide is dissolved in 100 mL of water is -11.125 kJ."
+}

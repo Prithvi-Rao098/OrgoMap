@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Combustion reactions",
+    "message_1": "\"How many grams of carbon dioxide would be produced from the complete combustion of 25 grams of methane?\"",
+    "message_2": "To solve this problem, we will use the balanced chemical equation for the combustion of methane (CH₄) and stoichiometry.\n\nThe balanced chemical equation for the combustion of methane is:\n\nCH₄ + 2O₂ → CO₂ + 2H₂O\n\nFrom the balanced equation, we can see that 1 mole of methane (CH₄) produces 1 mole of carbon dioxide (CO₂).\n\nFirst, we need to find the number of moles of methane (CH₄) in 25 grams.\n\nMolar mass of CH₄ = 12.01 g/mol (C) + 4 * 1.01 g/mol (H) = 16.05 g/mol\n\nNumber of moles of CH₄ = mass / molar mass\nNumber of moles of CH₄ = 25 g / 16.05 g/mol = 1.557 moles\n\nSince 1 mole of CH₄ produces 1 mole of CO₂, 1.557 moles of CH₄ will produce 1.557 moles of CO₂.\n\nNow, we need to find the mass of 1.557 moles of CO₂.\n\nMolar mass of CO₂ = 12.01 g/mol (C) + 2 * 16.00 g/mol (O) = 44.01 g/mol\n\nMass of CO₂ = number of moles * molar mass\nMass of CO₂ = 1.557 moles * 44.01 g/mol = 68.5 g (rounded to one decimal place)\n\nSo, 68.5 grams of carbon dioxide would be produced from the complete combustion of 25 grams of methane."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "How many grams of sodium chloride (NaCl) can be produced when 2.50 moles of sodium react with excess chlorine gas (Cl2)?",
+    "message_2": "To determine the mass of sodium chloride produced, we first need to look at the balanced chemical equation for the reaction between sodium and chlorine gas:\n\n2 Na (s) + Cl2 (g) -> 2 NaCl (s)\n\nFrom the balanced equation, we can see that 2 moles of sodium react with 1 mole of chlorine gas to produce 2 moles of sodium chloride.\n\nSince we have 2.50 moles of sodium reacting with excess chlorine gas, we can determine the moles of sodium chloride produced:\n\n2.50 moles Na * (2 moles NaCl / 2 moles Na) = 2.50 moles NaCl\n\nNow, we need to convert moles of sodium chloride to grams. The molar mass of NaCl is approximately 58.44 g/mol (22.99 g/mol for Na and 35.45 g/mol for Cl).\n\n2.50 moles NaCl * (58.44 g/mol) = 146.1 grams\n\nSo, 146.1 grams of sodium chloride can be produced when 2.50 moles of sodium react with excess chlorine gas."
+}

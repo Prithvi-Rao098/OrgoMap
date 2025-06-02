@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Neutralization reactions",
+    "message_1": "What mass of sodium hydroxide (NaOH) is required to neutralize 25 mL of 0.5 M hydrochloric acid (HCl)?",
+    "message_2": "To solve this problem, we can use the concept of moles and the balanced chemical equation for the reaction between sodium hydroxide and hydrochloric acid:\n\nNaOH + HCl → NaCl + H₂O\n\nFrom the balanced equation, we can see that 1 mole of NaOH reacts with 1 mole of HCl.\n\nFirst, we need to find the moles of HCl in the 25 mL of 0.5 M solution.\n\nmoles of HCl = Molarity × Volume\nmoles of HCl = 0.5 mol/L × 0.025 L (converting mL to L by dividing by 1000)\nmoles of HCl = 0.0125 mol\n\nSince the mole ratio between NaOH and HCl is 1:1, we need 0.0125 moles of NaOH to neutralize the HCl.\n\nNow, we can find the mass of NaOH required using its molar mass. The molar mass of NaOH is approximately 40 g/mol (23 g/mol for Na, 16 g/mol for O, and 1 g/mol for H).\n\nmass of NaOH = moles of NaOH × molar mass of NaOH\nmass of NaOH = 0.0125 mol × 40 g/mol\nmass of NaOH = 0.5 g\n\nSo, 0.5 grams of sodium hydroxide (NaOH) is required to neutralize 25 mL of 0.5 M hydrochloric acid (HCl)."
+}

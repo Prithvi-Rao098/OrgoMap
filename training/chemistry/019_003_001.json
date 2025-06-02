@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "What is the heat capacity of 50 grams of ammonia gas (NH3) at a constant pressure of 1 atm, if its temperature increases by 25 °C?",
+    "message_2": "To find the heat capacity of ammonia gas, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat capacity, m is the mass of the substance, c is the specific heat capacity, and ΔT is the change in temperature.\n\nFor ammonia gas (NH3), the specific heat capacity at constant pressure (c_p) is approximately 4.70 J/(g·°C). The mass (m) of ammonia gas is given as 50 grams, and the change in temperature (ΔT) is 25 °C.\n\nNow, we can plug these values into the formula:\n\nq = (50 g) × (4.70 J/(g·°C)) × (25 °C)\n\nq = 50 × 4.70 × 25\n\nq = 5875 J\n\nThe heat capacity of 50 grams of ammonia gas at a constant pressure of 1 atm with a temperature increase of 25 °C is 5875 Joules."
+}

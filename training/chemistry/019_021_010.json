@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving solids",
+    "message_1": "Calculate the standard enthalpy change for the following reaction at 25°C given the enthalpies of formation (in kJ/mol) of the compounds involved:\n\nCaCO3(s) + 2HCl(aq) → CaCl2(aq) + CO2(g) + H2O(l)\n\nHf(CaCO3) = -1206.9 kJ/mol\nHf(CaCl2) = -795.8 kJ/mol\nHf(CO2) = -393.5 kJ/mol\nHf(H2O) = -285.8 kJ/mol\nHf(HCl) = -92.31 kJ/mol",
+    "message_2": "To calculate the standard enthalpy change for the reaction, we can use the following formula:\n\nΔH° = Σ [Hf(products)] - Σ [Hf(reactants)]\n\nFor the products:\nHf(CaCl2) = -795.8 kJ/mol\nHf(CO2) = -393.5 kJ/mol\nHf(H2O) = -285.8 kJ/mol\n\nFor the reactants:\nHf(CaCO3) = -1206.9 kJ/mol\nHf(HCl) = -92.31 kJ/mol (there are 2 moles of HCl, so multiply by 2)\n\nNow, plug the values into the formula:\n\nΔH° = [(-795.8) + (-393.5) + (-285.8)] - [(-1206.9) + 2 × (-92.31)]\n\nΔH° = (-1475.1) - (-1391.52)\n\nΔH° = 83.58 kJ/mol\n\nThe standard enthalpy change for the reaction is 83.58 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of combustion calculations",
+    "message_1": "What is the enthalpy change of combustion for butane (C4H10) given that 2.50 g of butane is burned completely in oxygen to produce 8.64 kJ of heat energy?",
+    "message_2": "To calculate the enthalpy change of combustion for butane, we need to first determine the number of moles of butane burned and then use the heat energy produced to find the enthalpy change per mole.\n\n1. Calculate the molar mass of butane (C4H10):\nC: 12.01 g/mol (4 carbon atoms) = 4 * 12.01 = 48.04 g/mol\nH: 1.01 g/mol (10 hydrogen atoms) = 10 * 1.01 = 10.10 g/mol\nMolar mass of butane = 48.04 + 10.10 = 58.14 g/mol\n\n2. Calculate the number of moles of butane burned:\nmoles = mass / molar mass\nmoles = 2.50 g / 58.14 g/mol = 0.0430 mol\n\n3. Calculate the enthalpy change of combustion per mole of butane:\nEnthalpy change = heat energy / moles\nEnthalpy change = 8.64 kJ / 0.0430 mol = 200.93 kJ/mol\n\nThe enthalpy change of combustion for butane is approximately 200.93 kJ/mol."
+}

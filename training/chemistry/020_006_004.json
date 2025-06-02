@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of changing the temperature on the equilibrium constant",
+    "message_1": "What is the effect of increasing the temperature from 25°C to 50°C on the equilibrium constant of the following exothermic reaction?\nN₂(g) + 3H₂(g) ⇌ 2NH₃(g) + heat",
+    "message_2": "The effect of increasing the temperature on the equilibrium constant (K) of an exothermic reaction can be explained using Le Chatelier's principle. Le Chatelier's principle states that if a change is made to a system at equilibrium, the system will adjust itself to counteract that change and re-establish equilibrium.\n\nIn the case of an exothermic reaction, heat is released as a product. When the temperature is increased from 25°C to 50°C, it is essentially like adding more heat to the system. According to Le Chatelier's principle, the system will try to counteract this change by shifting the equilibrium position to consume the excess heat. In this case, the reaction will shift to the left (towards the reactants).\n\nAs a result, the equilibrium constant (K) will decrease. This is because the concentration of the products (NH₃) will decrease, and the concentration of the reactants (N₂ and H₂) will increase. Since K is the ratio of the concentrations of products to reactants, a decrease in K indicates that the reaction has shifted towards the reactants side."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of solution calculations",
+    "message_1": "Calculate the enthalpy change of solution for 2.0 moles of sodium chloride in 500.0 mL of water at 25°C. The molar heat of solution of sodium chloride is -3.91 kJ/mol.",
+    "message_2": "To calculate the enthalpy change of solution for 2.0 moles of sodium chloride, we can use the following formula:\n\nΔH_solution = moles × molar heat of solution\n\nGiven:\nmoles of sodium chloride = 2.0 moles\nmolar heat of solution = -3.91 kJ/mol\n\nNow, we can plug in the values into the formula:\n\nΔH_solution = (2.0 moles) × (-3.91 kJ/mol)\n\nΔH_solution = -7.82 kJ\n\nSo, the enthalpy change of solution for 2.0 moles of sodium chloride in 500.0 mL of water at 25°C is -7.82 kJ."
+}

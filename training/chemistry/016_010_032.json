@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of solution calculations",
+    "message_1": "What is the enthalpy change for dissolving 10 grams of sodium chloride (NaCl) in 200 mL of water at 25°C if the final temperature of the solution is 30°C? Given: the enthalpy of solution for NaCl is -3.9 kJ/mol.",
+    "message_2": "To calculate the enthalpy change for dissolving 10 grams of NaCl in 200 mL of water, we first need to determine the number of moles of NaCl and then use the given enthalpy of solution.\n\n1. Calculate the number of moles of NaCl:\nMolecular weight of NaCl = 58.44 g/mol (22.99 g/mol for Na + 35.45 g/mol for Cl)\n10 g NaCl / 58.44 g/mol = 0.1712 mol NaCl\n\n2. Calculate the enthalpy change for dissolving NaCl:\nEnthalpy change = moles of NaCl × enthalpy of solution per mole\nEnthalpy change = 0.1712 mol × (-3.9 kJ/mol) = -0.66768 kJ\n\nThe enthalpy change for dissolving 10 grams of sodium chloride in 200 mL of water at 25°C is -0.66768 kJ."
+}

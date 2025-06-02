@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Determining the effect of adding or removing a reactant or product on the equilibrium position",
+    "message_1": "What is the effect on the equilibrium position of the following reaction: \n\n2NO2(g) ⇌ N2O4(g) \n\nIf we add more N2O4 to the reaction chamber?",
+    "message_2": "If we add more N2O4 to the reaction chamber, the equilibrium position will shift to the left, according to Le Chatelier's principle. This principle states that if a system at equilibrium is subjected to a change in concentration, temperature, or pressure, the system will adjust its equilibrium position to counteract the change.\n\nIn this case, by adding more N2O4, the concentration of N2O4 increases. To counteract this change and re-establish equilibrium, the reaction will shift to the left, converting some of the added N2O4 into NO2. This shift will continue until a new equilibrium position is reached, where the rate of the forward reaction (formation of N2O4) equals the rate of the reverse reaction (formation of NO2)."
+}

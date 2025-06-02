@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Predicting the direction of a reaction at equilibrium based on changes in concentration, pressure, or temperature",
+    "message_1": "How will an increase in temperature affect the equilibrium constant of the following reaction at equilibrium: \n\nN2 (g) + 3H2 (g) ⇌ 2NH3 (g) \n\nAssume that the reaction takes place at constant pressure.",
+    "message_2": "The effect of temperature on the equilibrium constant of a reaction can be determined using the van 't Hoff equation and the concept of exothermic and endothermic reactions.\n\nThe given reaction is:\n\nN2 (g) + 3H2 (g) ⇌ 2NH3 (g)\n\nThis reaction is exothermic, meaning it releases heat when it proceeds in the forward direction (formation of NH3). The heat can be considered as a \"product\" in this case.\n\nWhen the temperature increases, according to Le Chatelier's principle, the equilibrium will shift in the direction that absorbs the added heat. In this case, the equilibrium will shift to the left (toward the reactants) to absorb the heat.\n\nAs a result, the concentration of the reactants (N2 and H2) will increase, while the concentration of the product (NH3) will decrease. This leads to a decrease in the equilibrium constant (K) for the reaction.\n\nIn summary, for the given exothermic reaction, an increase in temperature will cause the equilibrium constant (K) to decrease, shifting the equilibrium towards the reactants."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Bond energy calculations",
+    "message_1": "What is the bond energy of a carbon-hydrogen bond in methane (CH4) if the enthalpy change for the combustion of methane is -890.4 kJ/mol?",
+    "message_2": "To find the bond energy of a carbon-hydrogen bond in methane, we first need to consider the balanced combustion reaction of methane:\n\nCH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)\n\nThe enthalpy change for this reaction is given as -890.4 kJ/mol.\n\nNext, we need to find the bond energies for all the bonds involved in the reaction. The bond energies are as follows:\n\nC-H bond in CH₄: x kJ/mol (this is what we want to find)\nO=O bond in O₂: 498 kJ/mol\nC=O bond in CO₂: 799 kJ/mol\nO-H bond in H₂O: 467 kJ/mol\n\nNow, we can use Hess's Law to calculate the bond energy of the C-H bond in methane. According to Hess's Law, the sum of the bond energies of the reactants should be equal to the sum of the bond energies of the products plus the enthalpy change of the reaction.\n\nFor the reactants, we have:\n4 C-H bonds in CH₄ + 2 O=O bonds in O₂ = 4x + 2(498)\n\nFor the products, we have:\n2 C=O bonds in CO₂ + 4 O-H bonds in 2H₂O = 2(799) + 4(467)\n\nNow, we can set up the equation:\n\n4x + 2(498) = 2(799) + 4(467) + (-890.4)\n\nSolving for x:\n\n4x + 996 = 1598 + 1868 - 890.4\n4x = 2570.4 - 996\n4x = 1574.4\nx = 393.6 kJ/mol\n\nTherefore, the bond energy of a carbon-hydrogen bond in methane (CH₄) is approximately 393.6 kJ/mol."
+}

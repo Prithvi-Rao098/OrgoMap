@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Bond energy calculations",
+    "message_1": "Determine the bond energy required to break all the bonds in a molecule of methane (CH4) and calculate the total energy required to break all the bonds in 4.0 moles of methane. (Assume the bond energy values are: C-H bond energy = 413 kJ/mol and C-C bond energy = 347 kJ/mol)",
+    "message_2": "In a molecule of methane (CH4), there are four C-H bonds and no C-C bonds. To determine the bond energy required to break all the bonds in a molecule of methane, we will only consider the C-H bond energy.\n\nFor one molecule of CH4, the total bond energy required to break all C-H bonds is:\nTotal bond energy = (Number of C-H bonds) x (C-H bond energy)\nTotal bond energy = 4 x 413 kJ/mol\nTotal bond energy = 1652 kJ/mol\n\nNow, we need to calculate the total energy required to break all the bonds in 4.0 moles of methane:\nTotal energy = (Number of moles) x (Total bond energy per mole)\nTotal energy = 4.0 moles x 1652 kJ/mol\nTotal energy = 6616 kJ\n\nSo, the total energy required to break all the bonds in 4.0 moles of methane is 6616 kJ."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of dissolution calculations",
+    "message_1": "Calculate the enthalpy change of dissolution when 5 grams of sodium chloride (NaCl) dissolves in 100 mL of water at 25°C. The molar enthalpy of dissolution of sodium chloride is -3.9 kJ/mol.",
+    "message_2": "To calculate the enthalpy change of dissolution, we first need to determine the number of moles of sodium chloride (NaCl) that are being dissolved. \n\nThe molar mass of NaCl is approximately 58.44 g/mol (22.99 g/mol for Na and 35.45 g/mol for Cl).\n\nNow, we can calculate the number of moles of NaCl:\n\nmoles of NaCl = mass of NaCl / molar mass of NaCl\nmoles of NaCl = 5 g / 58.44 g/mol\nmoles of NaCl ≈ 0.0856 mol\n\nNext, we can use the molar enthalpy of dissolution to calculate the enthalpy change:\n\nenthalpy change = moles of NaCl × molar enthalpy of dissolution\nenthalpy change = 0.0856 mol × (-3.9 kJ/mol)\nenthalpy change ≈ -0.333 kJ\n\nSo, the enthalpy change of dissolution when 5 grams of sodium chloride dissolves in 100 mL of water at 25°C is approximately -0.333 kJ."
+}

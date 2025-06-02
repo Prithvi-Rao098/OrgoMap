@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the heat of formation of a molecule",
+    "message_1": "Calculate the heat of formation of carbon dioxide (CO2) given the following information: heat of formation of C(graphite) = 0 kJ/mol, heat of formation of O2(g) = 0 kJ/mol, and heat of combustion of graphite = -393.5 kJ/mol.",
+    "message_2": "To calculate the heat of formation of carbon dioxide (CO2), we can use the heat of combustion of graphite. The heat of combustion of graphite is the heat released when one mole of graphite reacts with one mole of O2 to form one mole of CO2. The reaction can be written as:\n\nC(graphite) + O2(g) → CO2(g)\n\nSince the heat of formation of C(graphite) and O2(g) are both 0 kJ/mol, we can directly use the heat of combustion of graphite as the heat of formation of CO2. Therefore, the heat of formation of CO2 is:\n\nΔHf (CO2) = -393.5 kJ/mol"
+}

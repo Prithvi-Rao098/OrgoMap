@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Gas evolution reactions",
+    "message_1": "What is the gas produced when hydrochloric acid reacts with calcium carbonate, and how would you test for its presence?",
+    "message_2": "When hydrochloric acid (HCl) reacts with calcium carbonate (CaCO3), the gas produced is carbon dioxide (CO2). The balanced chemical equation for this reaction is:\n\n2 HCl (aq) + CaCO3 (s) → CaCl2 (aq) + H2O (l) + CO2 (g)\n\nTo test for the presence of carbon dioxide, you can perform the limewater test. In this test, you bubble the gas produced through limewater (a saturated solution of calcium hydroxide, Ca(OH)2). If carbon dioxide is present, it will react with the calcium hydroxide to form calcium carbonate, which appears as a white precipitate. The chemical equation for this reaction is:\n\nCO2 (g) + Ca(OH)2 (aq) → CaCO3 (s) + H2O (l)\n\nThe formation of a white precipitate in the limewater confirms the presence of carbon dioxide gas."
+}

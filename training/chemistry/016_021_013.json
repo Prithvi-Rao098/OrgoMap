@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of polymerization calculations",
+    "message_1": "Given the following information: A polymerization reaction has a heat of reaction of -150 kJ/mol and a Δn (change in moles of gas) of +2 moles gas/mol. If 5.0 g of the monomer is polymerized, what is the enthalpy change (in kJ) for the overall reaction?",
+    "message_2": "To calculate the enthalpy change for the overall reaction, we need to first determine the number of moles of the monomer that is polymerized. Then, we can use the heat of reaction to find the enthalpy change.\n\n1. Calculate the number of moles of monomer:\nWe are given the mass of the monomer (5.0 g) but not its molar mass. To proceed, we will assume the molar mass of the monomer is M g/mol.\n\nmoles of monomer = mass of monomer / molar mass of monomer\nmoles of monomer = 5.0 g / M g/mol\n\n2. Calculate the enthalpy change for the overall reaction:\nWe are given the heat of reaction (-150 kJ/mol) and the change in moles of gas (Δn = +2 moles gas/mol).\n\nEnthalpy change (ΔH) = heat of reaction × moles of monomer\nΔH = -150 kJ/mol × (5.0 g / M g/mol)\n\nΔH = -750 kJ / M\n\nWithout the molar mass of the monomer, we cannot provide a specific value for the enthalpy change. However, the enthalpy change for the overall reaction can be expressed as -750 kJ / M, where M is the molar mass of the monomer in g/mol."
+}

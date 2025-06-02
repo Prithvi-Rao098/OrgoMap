@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Acid dissociation constant calculations",
+    "message_1": "What is the pH of a solution that has a concentration of 0.1 M acetic acid (CH3COOH) and 0.05 M sodium acetate (CH3COONa)? The Ka of acetic acid is 1.8 x 10^-5. (Hint: This is a buffer solution.)",
+    "message_2": "To solve this problem, we will use the Henderson-Hasselbalch equation, which relates the pH of a buffer solution to the pKa of the weak acid and the concentrations of the weak acid and its conjugate base:\n\npH = pKa + log10([A-]/[HA])\n\nIn this case, the weak acid (HA) is acetic acid (CH3COOH), and its conjugate base (A-) is the acetate ion (CH3COO-), which comes from sodium acetate (CH3COONa). The Ka of acetic acid is given as 1.8 x 10^-5.\n\nFirst, we need to find the pKa of acetic acid. The relationship between Ka and pKa is:\n\npKa = -log10(Ka)\n\npKa = -log10(1.8 x 10^-5)\npKa ≈ 4.74\n\nNow we can use the Henderson-Hasselbalch equation:\n\npH = pKa + log10([A-]/[HA])\n\nThe concentration of the acetate ion (A-) is 0.05 M (from sodium acetate), and the concentration of acetic acid (HA) is 0.1 M.\n\npH = 4.74 + log10(0.05/0.1)\npH = 4.74 + log10(0.5)\npH ≈ 4.74 - 0.3\npH ≈ 4.44\n\nThe pH of the solution is approximately 4.44."
+}

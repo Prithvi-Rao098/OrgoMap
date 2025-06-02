@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of vaporization calculations",
+    "message_1": "Calculate the enthalpy of vaporization for water if 50.0 g of water is completely vaporized at its boiling point (100°C) using 107 kJ/mol as the heat of vaporization of water.",
+    "message_2": "To calculate the enthalpy of vaporization for water, we can use the following formula:\n\nq = n * ΔHvap\n\nwhere q is the heat absorbed during vaporization, n is the number of moles of water, and ΔHvap is the heat of vaporization of water.\n\nFirst, we need to find the number of moles of water. The molar mass of water (H2O) is 18.015 g/mol. \n\nn = mass / molar mass\nn = 50.0 g / 18.015 g/mol\nn ≈ 2.776 moles\n\nNow, we can use the heat of vaporization of water (107 kJ/mol) to find the heat absorbed during vaporization.\n\nq = n * ΔHvap\nq = 2.776 moles * 107 kJ/mol\nq ≈ 297 kJ\n\nSo, the enthalpy of vaporization for 50.0 g of water at its boiling point (100°C) is approximately 297 kJ."
+}

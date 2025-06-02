@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving solids",
+    "message_1": "What is the standard enthalpy change for the reaction between calcium oxide and water to form calcium hydroxide (given that all reactants and products are in their standard states)? The chemical equation for this reaction is:\n\nCaO(s) + H2O(l) → Ca(OH)2(s) \n\nThe enthalpy of formation for Ca(OH)2(s) is -986 kJ/mol and the enthalpy of formation for CaO(s) is -635 kJ/mol.",
+    "message_2": "To calculate the standard enthalpy change for the reaction, we can use the formula:\n\nΔH_reaction = Σ ΔH_f(products) - Σ ΔH_f(reactants)\n\nwhere ΔH_f is the enthalpy of formation.\n\nFor this reaction, we have:\n\nΔH_reaction = [ΔH_f(Ca(OH)2)] - [ΔH_f(CaO) + ΔH_f(H2O)]\n\nSince the enthalpy of formation for H2O(l) is -285.8 kJ/mol, we can plug in the given values:\n\nΔH_reaction = [-986 kJ/mol] - [-635 kJ/mol + (-285.8 kJ/mol)]\n\nΔH_reaction = -986 + 635 + 285.8\n\nΔH_reaction = -65.2 kJ/mol\n\nThe standard enthalpy change for the reaction between calcium oxide and water to form calcium hydroxide is -65.2 kJ/mol."
+}

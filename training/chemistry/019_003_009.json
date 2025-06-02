@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "Determine the heat capacity of a 50-g sample of iron that is heated from 25°C to 100°C using 500 J of heat.",
+    "message_2": "To determine the heat capacity of the iron sample, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat energy (in joules), m is the mass of the sample (in grams), c is the specific heat capacity (in J/g°C), and ΔT is the change in temperature (in °C).\n\nWe are given the mass (m = 50 g), the initial temperature (25°C), the final temperature (100°C), and the heat energy (q = 500 J). We need to find the specific heat capacity (c) of the iron sample.\n\nFirst, let's calculate the change in temperature (ΔT):\n\nΔT = T_final - T_initial\nΔT = 100°C - 25°C\nΔT = 75°C\n\nNow, we can rearrange the formula to solve for the specific heat capacity (c):\n\nc = q / (mΔT)\n\nPlugging in the given values:\n\nc = 500 J / (50 g × 75°C)\nc = 500 J / 3750 g°C\nc = 0.133 J/g°C\n\nThe heat capacity of the 50-g sample of iron is 0.133 J/g°C."
+}

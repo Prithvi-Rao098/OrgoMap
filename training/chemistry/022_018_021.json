@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Bond energy calculations",
+    "message_1": "What is the bond energy of the carbon-hydrogen (C-H) bond in methane (CH4) given that the enthalpy change of combustion of methane is -890 kJ/mol and there are four C-H bonds in a methane molecule?",
+    "message_2": "To find the bond energy of a single C-H bond in methane, we can divide the total enthalpy change of combustion by the number of C-H bonds in a methane molecule.\n\nEnthalpy change of combustion: -890 kJ/mol\nNumber of C-H bonds in methane: 4\n\nBond energy of a single C-H bond = (-890 kJ/mol) / 4\n\nBond energy of a single C-H bond = -222.5 kJ/mol\n\nThe bond energy of a single carbon-hydrogen (C-H) bond in methane is approximately -222.5 kJ/mol. Note that the negative sign indicates that energy is released when the bond is formed."
+}

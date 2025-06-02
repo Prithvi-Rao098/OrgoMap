@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of hydrolysis calculations",
+    "message_1": "A 1.00 gram sample of sucrose (C12H22O11) is completely hydrolyzed in solution with excess HCl. If the solution is cooled to room temperature, what is the change in enthalpy ($\\Delta H$) for the reaction? The heat capacity of the solution is 4.18 J/(g*K) and the temperature change is -10°C.",
+    "message_2": "To calculate the change in enthalpy (ΔH) for the reaction, we can use the formula:\n\nΔH = mcΔT\n\nwhere m is the mass of the solution, c is the heat capacity of the solution, and ΔT is the temperature change.\n\nFirst, we need to find the mass of the solution. Since we have a 1.00 gram sample of sucrose, we can assume that the mass of the solution is approximately 1.00 gram. This is a reasonable assumption because the mass of the HCl and water in the solution is much larger than the mass of the sucrose, so the mass of the solution will not change significantly after the reaction.\n\nNext, we can plug in the values into the formula:\n\nΔH = (1.00 g)(4.18 J/(g*K))(-10°C)\n\nΔH = -41.8 J\n\nThe change in enthalpy (ΔH) for the reaction is -41.8 J. Since the value is negative, this indicates that the reaction is exothermic, meaning that heat is released during the reaction."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Hess's Law calculations",
+    "message_1": "Consider the following reactions:\n\n1. Mg(s) + 2HCl(aq) → MgCl₂(aq) + H₂(g)  ΔH₁ = -454.9 kJ/mol\n2. MgO(s) + 2HCl(aq) → MgCl₂(aq) + H₂O(l)  ΔH₂ = -131.3 kJ/mol\n3. H₂(g) + ½O₂(g) → H₂O(l)  ΔH₃ = -285.8 kJ/mol\n\nUsing Hess's Law, calculate the enthalpy change for the following reaction:\n\nMgO(s) + 2HCl(aq) → MgCl₂(aq) + H₂(g)\n\n given that the enthalpy change for the reaction Mg(s) + ½O₂(g) → MgO(s) is ΔH = -601.6 kJ/mol.",
+    "message_2": "To find the enthalpy change for the reaction MgO(s) + 2HCl(aq) → MgCl₂(aq) + H₂(g), we can use Hess's Law, which states that the enthalpy change of a reaction is the same whether it occurs in one step or several steps. We can manipulate the given reactions to obtain the desired reaction and then sum their enthalpy changes.\n\nFirst, we need to reverse reaction 3 and multiply it by 2 to obtain 2H₂O(l) → 2H₂(g) + O₂(g) with ΔH₄ = 2 * 285.8 kJ/mol = 571.6 kJ/mol.\n\nNext, we can add reaction 1 and the modified reaction 3 to obtain the following reaction:\n\nMg(s) + ½O₂(g) + 2HCl(aq) → MgCl₂(aq) + 2H₂O(l) with ΔH₅ = ΔH₁ + ΔH₄ = -454.9 kJ/mol + 571.6 kJ/mol = 116.7 kJ/mol.\n\nNow, we can subtract reaction 2 from the combined reaction 5 to obtain the desired reaction:\n\nMgO(s) + 2HCl(aq) → MgCl₂(aq) + H₂(g) with ΔH = ΔH₅ - ΔH₂ = 116.7 kJ/mol - (-131.3 kJ/mol) = 248 kJ/mol.\n\nSo, the enthalpy change for the reaction MgO(s) + 2HCl(aq) → MgCl₂(aq) + H₂(g) is 248 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the electronegativity difference between two atoms",
+    "message_1": "What is the electronegativity difference between a carbon atom (electronegativity value of 2.55) and an oxygen atom (electronegativity value of 3.44)?",
+    "message_2": "The electronegativity difference between a carbon atom and an oxygen atom can be calculated by subtracting the electronegativity value of carbon from that of oxygen.\n\nElectronegativity difference = Electronegativity of Oxygen - Electronegativity of Carbon\nElectronegativity difference = 3.44 - 2.55\nElectronegativity difference = 0.89\n\nThe electronegativity difference between a carbon atom and an oxygen atom is 0.89."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Redox reactions",
+    "message_1": "What is the oxidation number of nitrogen in NH4OH?",
+    "message_2": "In NH4OH, the oxidation number of nitrogen can be determined by considering the oxidation numbers of the other elements in the compound. \n\nThe oxidation number of hydrogen (H) is +1, and there are four hydrogen atoms in the ammonium ion (NH4+), so the total oxidation number for hydrogen is +4. The oxidation number of oxygen (O) is -2, and there is only one oxygen atom in the hydroxide ion (OH-), so the total oxidation number for oxygen is -2.\n\nNow, let's denote the oxidation number of nitrogen (N) as x. According to the oxidation number rules, the sum of the oxidation numbers in a neutral compound should be equal to zero. So, we can set up the following equation:\n\nx + 4(+1) + (-2) = 0\n\nSolving for x:\n\nx + 4 - 2 = 0\nx + 2 = 0\nx = -2\n\nTherefore, the oxidation number of nitrogen (N) in NH4OH is -2."
+}

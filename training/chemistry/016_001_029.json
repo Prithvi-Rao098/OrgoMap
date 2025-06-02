@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of formation calculations",
+    "message_1": "Calculate the enthalpy of formation of So₃(g) using the given thermochemical equations:\n\n2SO₂(g) + O₂(g) → 2SO₃(g)       ∆H = -197 kJ/mol\n2SO₂(g) + 2O₂(g) → 2SO₃(g)     ∆H = -792 kJ/mol",
+    "message_2": "To calculate the enthalpy of formation of SO₃(g), we need to manipulate the given thermochemical equations to obtain the formation reaction of SO₃(g) from its elements in their standard states. The formation reaction of SO₃(g) is:\n\nS(s) + 3/2 O₂(g) → SO₃(g)\n\nFirst, let's focus on the given equations:\n\n1) 2SO₂(g) + O₂(g) → 2SO₃(g)       ∆H = -197 kJ/mol\n2) 2SO₂(g) + 2O₂(g) → 2SO₃(g)     ∆H = -792 kJ/mol\n\nWe can notice that equation 1) has the desired product (SO₃) and equation 2) has the desired reactants (S and O₂). We can manipulate these equations to obtain the formation reaction of SO₃(g).\n\nFirst, divide equation 1) by 2:\n\n1/2) SO₂(g) + 1/2 O₂(g) → SO₃(g)       ∆H = -98.5 kJ/mol\n\nNow, we need to obtain S(s) from SO₂(g). We can do this by subtracting equation 1/2) from equation 2):\n\n2) 2SO₂(g) + 2O₂(g) → 2SO₃(g)     ∆H = -792 kJ/mol\n- 1/2) SO₂(g) + 1/2 O₂(g) → SO₃(g)       ∆H = +98.5 kJ/mol\n--------------------------------------------------------------\nResult: S(s) + 3/2 O₂(g) → SO₃(g)       ∆H = -693.5 kJ/mol\n\nSo, the enthalpy of formation of SO₃(g) is -693.5 kJ/mol."
+}

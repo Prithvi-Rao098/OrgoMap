@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical synthesis",
+    "sub_topic": "Preparation of 4-bromoacetanilide from acetanilide and bromine",
+    "message_1": "What is the percent yield of 4-bromoacetanilide if 5.0 grams of acetanilide is reacted with excess bromine, and the actual yield of 4-bromoacetanilide obtained in the experiment is 4.2 grams?",
+    "message_2": "To calculate the percent yield, we first need to determine the theoretical yield of 4-bromoacetanilide. We can do this using stoichiometry.\n\nThe balanced chemical equation for the reaction is:\n\nC8H9NO + Br2 → C8H8BrNO + HBr\n\nThe molecular weights of the compounds involved are:\n\nAcetanilide (C8H9NO): 135.17 g/mol\n4-Bromoacetanilide (C8H8BrNO): 214.06 g/mol\n\nFirst, we need to convert the mass of acetanilide to moles:\n\n5.0 g acetanilide × (1 mol acetanilide / 135.17 g) = 0.0370 mol acetanilide\n\nSince the reaction has a 1:1 stoichiometry, the moles of 4-bromoacetanilide produced should be equal to the moles of acetanilide reacted:\n\n0.0370 mol acetanilide × (1 mol 4-bromoacetanilide / 1 mol acetanilide) = 0.0370 mol 4-bromoacetanilide\n\nNow, we can convert the moles of 4-bromoacetanilide to grams:\n\n0.0370 mol 4-bromoacetanilide × (214.06 g / 1 mol) = 7.92 g 4-bromoacetanilide (theoretical yield)\n\nFinally, we can calculate the percent yield:\n\nPercent yield = (actual yield / theoretical yield) × 100\nPercent yield = (4.2 g / 7.92 g) × 100 = 53.03%\n\nThe percent yield of 4-bromoacetanilide in this reaction is 53.03%."
+}

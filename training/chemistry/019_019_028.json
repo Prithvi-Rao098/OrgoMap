@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving gases",
+    "message_1": "What is the standard enthalpy change for the reaction of 2 moles of hydrogen gas and 1 mole of oxygen gas forming 2 moles of water vapor, given the following thermochemical equation:\n\nH2(g) + 1/2O2(g) -> H2O(g)      ΔH°rxn = -242 kJ/mol",
+    "message_2": "To find the standard enthalpy change for the reaction of 2 moles of hydrogen gas and 1 mole of oxygen gas forming 2 moles of water vapor, we need to adjust the given thermochemical equation to match the desired reaction.\n\nThe given thermochemical equation is:\n\nH2(g) + 1/2O2(g) -> H2O(g)      ΔH°rxn = -242 kJ/mol\n\nWe want the reaction to involve 2 moles of hydrogen gas and 1 mole of oxygen gas forming 2 moles of water vapor. So, we need to multiply the entire equation by 2:\n\n2(H2(g) + 1/2O2(g) -> H2O(g)) \n\nWhich simplifies to:\n\n2H2(g) + O2(g) -> 2H2O(g)\n\nNow, we also need to multiply the enthalpy change by 2:\n\nΔH°rxn = -242 kJ/mol × 2 = -484 kJ/mol\n\nSo, the standard enthalpy change for the reaction of 2 moles of hydrogen gas and 1 mole of oxygen gas forming 2 moles of water vapor is -484 kJ/mol."
+}

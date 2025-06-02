@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Bond energy calculations",
+    "message_1": "What is the bond energy of a carbon-carbon bond in ethane (C2H6) and what is the energy change when two ethane molecules react to form one butane (C4H10) molecule?",
+    "message_2": "The bond energy of a carbon-carbon (C-C) single bond in ethane (C2H6) is approximately 348 kJ/mol.\n\nWhen two ethane molecules react to form one butane molecule (C4H10), the reaction can be represented as follows:\n\n2 C2H6 → C4H10\n\nIn this reaction, one C-C bond is formed, and no C-C bonds are broken. Since the bond energy of a C-C bond is 348 kJ/mol, the energy change for this reaction would be the energy released when the new C-C bond is formed.\n\nEnergy change = -1 × (Energy of C-C bond formed)\nEnergy change = -1 × (348 kJ/mol)\nEnergy change = -348 kJ/mol\n\nThe energy change for this reaction is -348 kJ/mol, which means that 348 kJ/mol of energy is released when two ethane molecules react to form one butane molecule."
+}

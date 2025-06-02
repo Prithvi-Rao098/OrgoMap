@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Limiting reactant problems",
+    "message_1": "What is the maximum mass of product that can be obtained when 50 g of sodium reacts with 75 g of chlorine gas, given the following chemical equation?\n\n2Na + Cl<sub>2</sub> → 2NaCl\n\nAssume that sodium is the limiting reactant.",
+    "message_2": "To determine the maximum mass of product that can be obtained, we need to first find the limiting reactant. In this case, we are given that sodium is the limiting reactant. Now we can use stoichiometry to find the mass of the product, NaCl.\n\nFirst, we need the molar masses of the elements involved:\n- Sodium (Na) = 22.99 g/mol\n- Chlorine (Cl) = 35.45 g/mol\n\nNow, we can convert the mass of sodium to moles:\n50 g Na * (1 mol Na / 22.99 g Na) = 2.174 moles Na\n\nAccording to the balanced chemical equation, 2 moles of Na react with 1 mole of Cl2 to produce 2 moles of NaCl. So, we can find the moles of NaCl produced:\n2.174 moles Na * (2 moles NaCl / 2 moles Na) = 2.174 moles NaCl\n\nNow, we can convert the moles of NaCl to mass:\n2.174 moles NaCl * (58.44 g NaCl / 1 mol NaCl) = 126.99 g NaCl\n\nTherefore, the maximum mass of NaCl that can be obtained when 50 g of sodium reacts with 75 g of chlorine gas is approximately 126.99 g."
+}

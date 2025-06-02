@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of hydration calculations",
+    "message_1": "Calculate the enthalpy change for the hydration of MgSO4 using the following data:\nMgSO4(s) → MgSO4(aq) ΔH1 = 44.5 kJ/mol\nMgSO4(aq) + 7H2O(l) → MgSO4 • 7H2O(s) ΔH2 = -63.2 kJ/mol.",
+    "message_2": "To calculate the enthalpy change for the hydration of MgSO4, we need to find the enthalpy change for the following reaction:\n\nMgSO4(s) + 7H2O(l) → MgSO4 • 7H2O(s)\n\nWe can do this by using Hess's Law, which states that the enthalpy change for a reaction is the same whether it occurs in one step or several steps. In this case, we have two steps with known enthalpy changes:\n\n1) MgSO4(s) → MgSO4(aq) ΔH1 = 44.5 kJ/mol\n2) MgSO4(aq) + 7H2O(l) → MgSO4 • 7H2O(s) ΔH2 = -63.2 kJ/mol\n\nTo find the enthalpy change for the overall reaction, we can simply add the enthalpy changes for these two steps:\n\nΔH_total = ΔH1 + ΔH2\nΔH_total = 44.5 kJ/mol + (-63.2 kJ/mol)\nΔH_total = -18.7 kJ/mol\n\nSo the enthalpy change for the hydration of MgSO4 is -18.7 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Standard enthalpy of formation calculations",
+    "message_1": "What is the standard enthalpy of formation (ΔHf°) of methane (CH4) if its combustion reaction produces 890.4 kJ of heat per mole of methane reacted under standard conditions?",
+    "message_2": "To find the standard enthalpy of formation (ΔHf°) of methane (CH4), we need to consider the balanced combustion reaction of methane:\n\nCH4(g) + 2O2(g) → CO2(g) + 2H2O(l)\n\nThe standard enthalpy change for this reaction (ΔHc°) is given as -890.4 kJ/mol.\n\nWe also need the standard enthalpies of formation for the other substances involved in the reaction:\n\nΔHf°[CO2(g)] = -393.5 kJ/mol\nΔHf°[H2O(l)] = -285.8 kJ/mol\nΔHf°[O2(g)] = 0 kJ/mol (since O2 is an element in its standard state)\n\nNow we can use Hess's Law to find the standard enthalpy of formation of methane:\n\nΔHc° = Σ [ΔHf°(products)] - Σ [ΔHf°(reactants)]\n\n-890.4 kJ/mol = [1 × (-393.5 kJ/mol) + 2 × (-285.8 kJ/mol)] - [ΔHf°(CH4) + 2 × 0 kJ/mol]\n\nSolving for ΔHf°(CH4):\n\nΔHf°(CH4) = [1 × (-393.5 kJ/mol) + 2 × (-285.8 kJ/mol)] + 890.4 kJ/mol\nΔHf°(CH4) = -393.5 - 571.6 + 890.4\nΔHf°(CH4) = -74.7 kJ/mol\n\nSo, the standard enthalpy of formation of methane (CH4) is -74.7 kJ/mol."
+}

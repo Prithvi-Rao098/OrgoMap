@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a dissolution reaction",
+    "message_1": "What is the standard enthalpy change for the dissolution of 5.00 g of potassium chloride (KCl) in water, given that the molar heat of solution for KCl is -17.95 kJ/mol?",
+    "message_2": "To calculate the standard enthalpy change for the dissolution of 5.00 g of potassium chloride (KCl) in water, we need to first determine the number of moles of KCl and then use the molar heat of solution to find the enthalpy change.\n\n1. Calculate the number of moles of KCl:\nThe molar mass of KCl = 39.10 g/mol (for K) + 35.45 g/mol (for Cl) = 74.55 g/mol\n\nNumber of moles = mass / molar mass\nNumber of moles = 5.00 g / 74.55 g/mol = 0.0671 mol\n\n2. Calculate the enthalpy change:\nStandard enthalpy change = number of moles × molar heat of solution\nStandard enthalpy change = 0.0671 mol × (-17.95 kJ/mol) = -1.204 kJ\n\nThe standard enthalpy change for the dissolution of 5.00 g of potassium chloride (KCl) in water is -1.204 kJ."
+}

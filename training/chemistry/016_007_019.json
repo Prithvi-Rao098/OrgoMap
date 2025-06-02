@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Standard enthalpy of formation calculations",
+    "message_1": "What is the standard enthalpy of formation of carbon dioxide (CO2) when combustion of graphite and oxygen gas is proceeded? Given the standard enthalpy of formation of graphite is 0, and the standard enthalpy of formation of O2 is 0.",
+    "message_2": "The standard enthalpy of formation of a compound is the change in enthalpy when one mole of the compound is formed from its elements in their standard states. For carbon dioxide (CO2), this means the reaction:\n\nC(graphite) + O2(gas) → CO2(gas)\n\nSince the standard enthalpy of formation of graphite (C) and oxygen gas (O2) are both 0, we can focus on the enthalpy change for the formation of CO2.\n\nThe standard enthalpy of formation of carbon dioxide (CO2) is -393.5 kJ/mol. This means that when one mole of CO2 is formed from graphite and oxygen gas, 393.5 kJ of heat is released."
+}

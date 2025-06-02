@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of reaction calculations",
+    "message_1": "What is the enthalpy change for the combustion of methane gas to produce water and carbon dioxide gas, given that the heat of formation for methane and water are -74.8 kJ/mol and -285.8 kJ/mol, respectively, and the heat of formation for carbon dioxide is -393.5 kJ/mol?",
+    "message_2": "To calculate the enthalpy change for the combustion of methane gas (ΔH_combustion), we can use the following equation:\n\nΔH_combustion = Σ ΔH_f(products) - Σ ΔH_f(reactants)\n\nThe balanced chemical equation for the combustion of methane is:\n\nCH₄(g) + 2 O₂(g) → CO₂(g) + 2 H₂O(g)\n\nNow, let's plug in the given heat of formation (ΔH_f) values for each substance:\n\nΔH_combustion = [1 × (-393.5 kJ/mol) + 2 × (-285.8 kJ/mol)] - [1 × (-74.8 kJ/mol) + 2 × 0 kJ/mol]\n\nNote that the heat of formation for elemental oxygen (O₂) is zero because it is in its standard state.\n\nΔH_combustion = (-393.5 - 2 × 285.8 + 74.8) kJ/mol\nΔH_combustion = (-393.5 - 571.6 + 74.8) kJ/mol\nΔH_combustion = (-890.3) kJ/mol\n\nThe enthalpy change for the combustion of methane gas is -890.3 kJ/mol."
+}

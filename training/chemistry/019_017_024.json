@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a sublimation reaction",
+    "message_1": "Calculate the standard enthalpy change for the sublimation of 5 moles of solid iodine (I2) given the following data:\n- Enthalpy of fusion of iodine = 15.52 kJ/mol\n- Enthalpy of vaporization of iodine = 41.57 kJ/mol",
+    "message_2": "To calculate the standard enthalpy change for the sublimation of 5 moles of solid iodine, we need to first find the enthalpy change for the sublimation of 1 mole of iodine. Sublimation is the process of a solid turning directly into a gas, bypassing the liquid phase. In this case, we can consider the sublimation of iodine as a two-step process: first, the solid iodine melts (fusion), and then the liquid iodine vaporizes (vaporization).\n\nThe enthalpy change for the sublimation of 1 mole of iodine can be calculated by adding the enthalpy of fusion and the enthalpy of vaporization:\n\nΔH_sublimation = ΔH_fusion + ΔH_vaporization\nΔH_sublimation = 15.52 kJ/mol + 41.57 kJ/mol\nΔH_sublimation = 57.09 kJ/mol\n\nNow that we have the enthalpy change for the sublimation of 1 mole of iodine, we can calculate the enthalpy change for the sublimation of 5 moles of iodine:\n\nΔH_sublimation (5 moles) = 5 * ΔH_sublimation (1 mole)\nΔH_sublimation (5 moles) = 5 * 57.09 kJ/mol\nΔH_sublimation (5 moles) = 285.45 kJ\n\nTherefore, the standard enthalpy change for the sublimation of 5 moles of solid iodine is 285.45 kJ."
+}

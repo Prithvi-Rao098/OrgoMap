@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of a catalyst on the equilibrium position",
+    "message_1": "What is the net effect on the equilibrium position of the reaction 2SO2(g) + O2(g) ⇌ 2SO3(g) when a catalyst is added? If the reaction mixture initially has 0.10 M SO2, 0.20 M O2, and 0.05 M SO3, and the addition of a catalyst increases the rate constant of the forward reaction (2SO2 + O2 → 2SO3) by a factor of 5, calculate the new concentrations of SO2, O2, and SO3 at equilibrium.",
+    "message_2": "The net effect on the equilibrium position of the reaction when a catalyst is added is that there will be no change in the equilibrium position. A catalyst only speeds up the rate of the reaction, both forward and reverse, but does not affect the equilibrium concentrations of the reactants and products.\n\nHowever, the reaction will reach equilibrium faster due to the increased rate constant of the forward reaction. Since the equilibrium position does not change, the new concentrations of SO2, O2, and SO3 at equilibrium will be the same as the initial concentrations:\n\nSO2 = 0.10 M\nO2 = 0.20 M\nSO3 = 0.05 M"
+}

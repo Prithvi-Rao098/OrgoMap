@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of hydrolysis calculations",
+    "message_1": "Calculate the standard enthalpy of hydrolysis for Na2CO3 when 2.5 moles of water react with 1 mole of Na2CO3, given that the heat of reaction is -843.2 kJ/mol.",
+    "message_2": "To calculate the standard enthalpy of hydrolysis for Na2CO3, we need to determine the enthalpy change per mole of Na2CO3 reacting with water. The given information states that 2.5 moles of water react with 1 mole of Na2CO3, and the heat of reaction is -843.2 kJ/mol.\n\nThe balanced chemical equation for the hydrolysis of Na2CO3 is:\n\nNa2CO3 + H2O → 2 NaOH + CO2\n\nSince 1 mole of Na2CO3 reacts with 2.5 moles of water, we need to adjust the stoichiometry of the reaction to account for the excess water. To do this, we can multiply the entire balanced equation by 2.5:\n\n2.5 Na2CO3 + 2.5(2.5) H2O → 2.5(2) NaOH + 2.5 CO2\n\nThis simplifies to:\n\n2.5 Na2CO3 + 6.25 H2O → 5 NaOH + 2.5 CO2\n\nNow, we can calculate the enthalpy change per mole of Na2CO3:\n\nΔH = -843.2 kJ/mol (heat of reaction) / 2.5 moles of Na2CO3\n\nΔH = -337.28 kJ/mol\n\nTherefore, the standard enthalpy of hydrolysis for Na2CO3 is -337.28 kJ/mol."
+}

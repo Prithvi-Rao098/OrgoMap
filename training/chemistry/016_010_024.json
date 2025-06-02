@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of solution calculations",
+    "message_1": "What is the enthalpy change when 10.0 g of sodium hydroxide dissolves in 200 mL of water at 25°C? The molar enthalpy of dissolution of sodium hydroxide is -44.5 kJ/mol.",
+    "message_2": "First, we need to determine the number of moles of sodium hydroxide (NaOH) in 10.0 g. The molar mass of NaOH is approximately 40.0 g/mol (23.0 g/mol for Na, 16.0 g/mol for O, and 1.0 g/mol for H).\n\nmoles of NaOH = mass / molar mass\nmoles of NaOH = 10.0 g / 40.0 g/mol\nmoles of NaOH = 0.25 mol\n\nNow, we can calculate the enthalpy change using the molar enthalpy of dissolution:\n\nenthalpy change = moles of NaOH × molar enthalpy of dissolution\nenthalpy change = 0.25 mol × (-44.5 kJ/mol)\nenthalpy change = -11.125 kJ\n\nThe enthalpy change when 10.0 g of sodium hydroxide dissolves in 200 mL of water at 25°C is -11.125 kJ."
+}

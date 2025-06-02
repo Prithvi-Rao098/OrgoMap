@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Precipitation reactions",
+    "message_1": "What is the theoretical yield of AgCl produced when 50 mL of 0.1 M NaCl solution is mixed with 50 mL of 0.1 M AgNO3 solution?",
+    "message_2": "To calculate the theoretical yield of AgCl, we first need to determine the limiting reactant. The balanced chemical equation for the reaction is:\n\nNaCl (aq) + AgNO3 (aq) → AgCl (s) + NaNO3 (aq)\n\nFrom the given information, we have:\n\nVolume of NaCl solution = 50 mL\nConcentration of NaCl solution = 0.1 M\n\nVolume of AgNO3 solution = 50 mL\nConcentration of AgNO3 solution = 0.1 M\n\nFirst, we need to find the moles of each reactant:\n\nMoles of NaCl = volume × concentration = 50 mL × 0.1 M = 5 mmol\nMoles of AgNO3 = volume × concentration = 50 mL × 0.1 M = 5 mmol\n\nSince the stoichiometry of the reaction is 1:1, we can see that both reactants are present in equal amounts. Therefore, neither reactant is limiting, and the reaction will go to completion.\n\nNow we can calculate the theoretical yield of AgCl:\n\nMoles of AgCl = moles of limiting reactant = 5 mmol\n\nTo convert moles of AgCl to grams, we need the molar mass of AgCl:\n\nMolar mass of AgCl = 107.87 g/mol (Ag) + 35.45 g/mol (Cl) = 143.32 g/mol\n\nTheoretical yield of AgCl = moles × molar mass = 5 mmol × 143.32 g/mol = 716.6 mg\n\nSo, the theoretical yield of AgCl produced in this reaction is 716.6 mg."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "Calculate the heat capacity of 50 grams of water at 25°C, given that the specific heat capacity of water is 4.18 J/g°C.",
+    "message_2": "To calculate the heat capacity of 50 grams of water, we can use the formula:\n\nHeat capacity = mass × specific heat capacity\n\nwhere mass is the mass of water (50 grams) and specific heat capacity is the specific heat capacity of water (4.18 J/g°C).\n\nHeat capacity = 50 g × 4.18 J/g°C = 209 J/°C\n\nSo, the heat capacity of 50 grams of water at 25°C is 209 J/°C."
+}

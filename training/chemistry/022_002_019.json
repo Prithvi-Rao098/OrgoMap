@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "How many grams of magnesium oxide can be produced from 5 grams of magnesium and excess oxygen gas according to the following balanced chemical equation?\n\n2 Mg + O2 -> 2 MgO",
+    "message_2": "To solve this problem, we need to use stoichiometry. First, we need to find the molar mass of magnesium (Mg) and magnesium oxide (MgO).\n\nThe molar mass of magnesium (Mg) is 24.31 g/mol.\nThe molar mass of magnesium oxide (MgO) is 40.31 g/mol (24.31 g/mol for Mg + 16.00 g/mol for O).\n\nNow, we need to convert the given mass of magnesium (5 grams) to moles:\n\nmoles of Mg = mass of Mg / molar mass of Mg\nmoles of Mg = 5 g / 24.31 g/mol = 0.2056 mol\n\nAccording to the balanced chemical equation, 2 moles of Mg produce 2 moles of MgO. Therefore, the mole ratio of Mg to MgO is 1:1.\n\nmoles of MgO = moles of Mg = 0.2056 mol\n\nNow, we need to convert the moles of MgO to grams:\n\nmass of MgO = moles of MgO * molar mass of MgO\nmass of MgO = 0.2056 mol * 40.31 g/mol = 8.29 g\n\nSo, 8.29 grams of magnesium oxide can be produced from 5 grams of magnesium and excess oxygen gas."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Oxidation state determination",
+    "message_1": "What is the oxidation state of nitrogen in the compound NH4+?",
+    "message_2": "In the compound NH4+ (ammonium ion), the oxidation state of nitrogen is -3. \n\nHere's the explanation: Hydrogen has an oxidation state of +1. Since there are four hydrogen atoms, the total positive charge contributed by hydrogen is +4. For the compound to have a net charge of +1, the nitrogen atom must have an oxidation state of -3, as -3 (from nitrogen) + 4 (from hydrogen) = +1 (overall charge of the compound)."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the electronegativity difference between two atoms",
+    "message_1": "What is the electronegativity difference between a fluorine atom (electronegativity value of 4.0) and a lithium atom (electronegativity value of 0.98)?",
+    "message_2": "The electronegativity difference between a fluorine atom and a lithium atom can be calculated by subtracting the electronegativity value of lithium from that of fluorine:\n\nElectronegativity difference = Electronegativity of Fluorine - Electronegativity of Lithium\nElectronegativity difference = 4.0 - 0.98\nElectronegativity difference = 3.02\n\nSo, the electronegativity difference between a fluorine atom and a lithium atom is 3.02."
+}

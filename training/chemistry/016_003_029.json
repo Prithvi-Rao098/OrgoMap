@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Bond dissociation energy calculations",
+    "message_1": "Calculate the bond dissociation energy for the H-H bond in a diatomic hydrogen molecule, given that the enthalpy change for the reaction H2(g) → 2 H(g) is 436 kJ/mol.",
+    "message_2": "The bond dissociation energy is the energy required to break a bond in a molecule. In this case, we are given the enthalpy change for the reaction H2(g) → 2 H(g), which is the energy required to break the H-H bond in a diatomic hydrogen molecule.\n\nSince the reaction involves breaking one H-H bond, the bond dissociation energy for the H-H bond is equal to the enthalpy change for the reaction.\n\nTherefore, the bond dissociation energy for the H-H bond in a diatomic hydrogen molecule is 436 kJ/mol."
+}

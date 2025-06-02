@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving coordination compounds.",
+    "message_1": "What is the standard enthalpy change for the reaction of cobalt(II) chloride hexahydrate with sodium hydroxide to form the hexahydrate of cobalt(II) hydroxide and sodium chloride?",
+    "message_2": "To determine the standard enthalpy change for the reaction, we first need to write the balanced chemical equation for the reaction:\n\nCoCl₂·6H₂O (s) + 2 NaOH (aq) → Co(OH)₂·6H₂O (s) + 2 NaCl (aq)\n\nNext, we need to find the standard enthalpies of formation (ΔHf°) for each compound involved in the reaction. These values can be found in a standard thermodynamic table or online database. The values are as follows:\n\nΔHf° (CoCl₂·6H₂O) = -315.2 kJ/mol\nΔHf° (NaOH) = -425.6 kJ/mol\nΔHf° (Co(OH)₂·6H₂O) = -3128.6 kJ/mol\nΔHf° (NaCl) = -411.2 kJ/mol\n\nNow, we can use Hess's Law to calculate the standard enthalpy change for the reaction:\n\nΔH° = Σ [ΔHf° (products)] - Σ [ΔHf° (reactants)]\n\nΔH° = [1 × (-3128.6) + 2 × (-411.2)] - [1 × (-315.2) + 2 × (-425.6)]\n\nΔH° = (-3128.6 - 822.4) - (-315.2 - 851.2)\n\nΔH° = -3950.0 + 1166.4\n\nΔH° = -2783.6 kJ/mol\n\nThe standard enthalpy change for the reaction of cobalt(II) chloride hexahydrate with sodium hydroxide to form the hexahydrate of cobalt(II) hydroxide and sodium chloride is -2783.6 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of desorption calculations",
+    "message_1": "Calculate the enthalpy change for the process of desorption of carbon dioxide from a zeolite adsorbent at a temperature of 298 K, given that the heat of adsorption for carbon dioxide on the same zeolite at the same temperature is -40 kJ/mol.",
+    "message_2": "The enthalpy change for the desorption process is the opposite of the enthalpy change for the adsorption process. Since the heat of adsorption for carbon dioxide on the zeolite at 298 K is -40 kJ/mol, the enthalpy change for the desorption process will be the opposite value, which is:\n\nΔH(desorption) = -ΔH(adsorption)\n\nΔH(desorption) = -(-40 kJ/mol)\n\nΔH(desorption) = 40 kJ/mol\n\nSo, the enthalpy change for the process of desorption of carbon dioxide from the zeolite adsorbent at 298 K is 40 kJ/mol."
+}

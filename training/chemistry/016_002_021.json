@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Hess's Law calculations",
+    "message_1": "What is the heat of reaction for the following reaction using Hess's Law?\n\n4Al + 3O2 --> 2Al2O3\n\nGiven the following reactions and their respective heats of reaction: \n\n2Al + 3/2O2 --> Al2O3   ΔH=-1669 kJ/mol \n\nAl + 3/2O2 --> AlO3     ΔH=-1443 kJ/mol\n\n2AlO3 --> Al2O3 + 3/2O2 ΔH=+157 kJ/mol",
+    "message_2": "To find the heat of reaction for the given reaction using Hess's Law, we need to manipulate the given reactions to match the target reaction and then sum up their heats of reaction.\n\nTarget reaction: 4Al + 3O2 --> 2Al2O3\n\nGiven reactions:\n\n1) 2Al + 3/2O2 --> Al2O3   ΔH1 = -1669 kJ/mol\n2) Al + 3/2O2 --> AlO3     ΔH2 = -1443 kJ/mol\n3) 2AlO3 --> Al2O3 + 3/2O2 ΔH3 = +157 kJ/mol\n\nFirst, we need to multiply reaction 1 by 2 to get 4Al in the reactants:\n\n2*(2Al + 3/2O2 --> Al2O3) \n4Al + 3O2 --> 2Al2O3   ΔH1' = 2*(-1669 kJ/mol) = -3338 kJ/mol\n\nNow, we have the target reaction:\n\n4Al + 3O2 --> 2Al2O3\n\nSo, the heat of reaction for the target reaction is:\n\nΔH = ΔH1' = -3338 kJ/mol"
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat capacity calculations",
+    "message_1": "What is the specific heat capacity of an unknown metal sample if 50 grams of it is heated from 20°C to 80°C and absorbs 2500 joules of heat energy?",
+    "message_2": "To find the specific heat capacity of the unknown metal, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat energy absorbed (in joules), m is the mass of the sample (in grams), c is the specific heat capacity (in J/g°C), and ΔT is the change in temperature (in °C).\n\nWe are given the following information:\n\nq = 2500 J\nm = 50 g\nΔT = 80°C - 20°C = 60°C\n\nWe need to find c. Rearranging the formula to solve for c, we get:\n\nc = q / (mΔT)\n\nNow, we can plug in the given values:\n\nc = 2500 J / (50 g × 60°C)\nc = 2500 J / 3000 g°C\nc = 0.833 J/g°C\n\nThe specific heat capacity of the unknown metal is 0.833 J/g°C."
+}

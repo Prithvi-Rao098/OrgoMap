@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a formation reaction",
+    "message_1": "Calculate the standard enthalpy change of formation of magnesium oxide (MgO) using the following data: \n\nΔH°f for Mg (s) = 0 kJ/mol\n\nΔH°f for O₂ (g) = 0 kJ/mol \n\nΔH°c for MgO (s) = -601.8 kJ/mol",
+    "message_2": "The standard enthalpy change of formation (ΔH°f) is the enthalpy change when one mole of a compound is formed from its elements in their standard states. In this case, we want to find the ΔH°f for MgO (s) using the given data.\n\nThe reaction for the formation of MgO from its elements in their standard states is:\n\nMg (s) + 1/2 O₂ (g) → MgO (s)\n\nThe standard enthalpy change of formation (ΔH°f) for this reaction can be calculated using Hess's Law, which states that the enthalpy change of a reaction is the sum of the enthalpy changes of the individual steps. In this case, we have:\n\nΔH°f [MgO (s)] = ΔH°c [MgO (s)] - ΔH°f [Mg (s)] - 1/2 ΔH°f [O₂ (g)]\n\nSince ΔH°f for Mg (s) and O₂ (g) are both 0 kJ/mol, the equation simplifies to:\n\nΔH°f [MgO (s)] = ΔH°c [MgO (s)]\n\nSo, the standard enthalpy change of formation of magnesium oxide (MgO) is:\n\nΔH°f [MgO (s)] = -601.8 kJ/mol"
+}

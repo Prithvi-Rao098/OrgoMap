@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "What mass of potassium chloride (KCl) can be produced from the reaction of 25 grams of potassium (K) and excess chlorine (Cl2), according to the following chemical reaction?\n\n2K + Cl2 → 2KCl. \n\nMolar masses: K = 39.1 g/mol, Cl2 = 70.9 g/mol, KCl = 74.5 g/mol.",
+    "message_2": "First, we need to determine the number of moles of potassium (K) in the 25 grams given.\n\nmoles of K = mass of K / molar mass of K\nmoles of K = 25 g / 39.1 g/mol\nmoles of K = 0.6399 mol\n\nNow, we can use the stoichiometry of the balanced chemical equation to determine the number of moles of potassium chloride (KCl) that can be produced.\n\nThe balanced equation shows that 2 moles of K react with Cl2 to produce 2 moles of KCl. Therefore, the mole ratio of K to KCl is 1:1.\n\nmoles of KCl = moles of K\nmoles of KCl = 0.6399 mol\n\nNow, we can convert the moles of KCl to mass using the molar mass of KCl.\n\nmass of KCl = moles of KCl × molar mass of KCl\nmass of KCl = 0.6399 mol × 74.5 g/mol\nmass of KCl = 47.67 g\n\nSo, 47.67 grams of potassium chloride (KCl) can be produced from the reaction of 25 grams of potassium (K) and excess chlorine (Cl2)."
+}

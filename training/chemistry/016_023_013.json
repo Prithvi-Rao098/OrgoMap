@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of hydrolysis calculations",
+    "message_1": "What is the enthalpy change for the hydrolysis of 10 grams of sucrose (C12H22O11) in an aqueous solution, assuming complete reaction and a standard state, given that the enthalpy of hydrolysis of sucrose is -564.9 kJ/mol?",
+    "message_2": "To calculate the enthalpy change for the hydrolysis of 10 grams of sucrose, we first need to determine the number of moles of sucrose present. The molar mass of sucrose (C12H22O11) is:\n\n(12 x 12.01) + (22 x 1.01) + (11 x 16.00) = 144.12 + 22.22 + 176.00 = 342.34 g/mol\n\nNow, we can find the number of moles of sucrose in 10 grams:\n\nmoles = mass / molar mass = 10 g / 342.34 g/mol = 0.0292 mol\n\nSince the enthalpy of hydrolysis of sucrose is -564.9 kJ/mol, we can now calculate the enthalpy change for the hydrolysis of 10 grams of sucrose:\n\nenthalpy change = moles x enthalpy of hydrolysis = 0.0292 mol x (-564.9 kJ/mol) = -16.48 kJ\n\nTherefore, the enthalpy change for the hydrolysis of 10 grams of sucrose in an aqueous solution is approximately -16.48 kJ."
+}

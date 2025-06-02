@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of reaction calculations",
+    "message_1": "Calculate the enthalpy change for the reaction of 2.5 g of hydrogen gas with excess oxygen gas to produce water, given that the enthalpy of formation of water is -285.83 kJ/mol and the molar mass of hydrogen gas is 2.02 g/mol.",
+    "message_2": "First, we need to determine the number of moles of hydrogen gas (H2) in 2.5 g.\n\nmoles of H2 = mass / molar mass\nmoles of H2 = 2.5 g / 2.02 g/mol\nmoles of H2 = 1.2376 mol\n\nThe balanced chemical equation for the reaction of hydrogen gas with oxygen gas to produce water is:\n\n2 H2(g) + O2(g) → 2 H2O(l)\n\nFrom the balanced equation, we can see that 2 moles of hydrogen gas react with 1 mole of oxygen gas to produce 2 moles of water. Since we have excess oxygen gas, we don't need to worry about the moles of oxygen gas.\n\nNow, we can calculate the moles of water produced:\n\nmoles of H2O = moles of H2 * (2 moles of H2O / 2 moles of H2)\nmoles of H2O = 1.2376 mol * (2/2)\nmoles of H2O = 1.2376 mol\n\nNow we can calculate the enthalpy change for the reaction using the enthalpy of formation of water:\n\nΔH = moles of H2O * enthalpy of formation of H2O\nΔH = 1.2376 mol * (-285.83 kJ/mol)\nΔH = -353.92 kJ\n\nThe enthalpy change for the reaction of 2.5 g of hydrogen gas with excess oxygen gas to produce water is -353.92 kJ."
+}

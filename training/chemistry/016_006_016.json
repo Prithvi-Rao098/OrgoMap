@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of reaction calculations",
+    "message_1": "Sure, here's a specific problem for the student to solve:\n\nCalculate the enthalpy change when 2 moles of hydrogen gas react with 1 mole of oxygen gas to produce water vapor. The balanced chemical equation for the reaction is:\n\n2H2(g) + O2(g) → 2H2O(g)\n\nGiven the following enthalpy values:\n\n- ΔHf° (H2O) = -285.8 kJ/mol\n- ΔHf° (H2) = 0 kJ/mol\n- ΔHf° (O2) = 0 kJ/mol\n\nWhat is the enthalpy change (ΔHrxn) for this reaction?",
+    "message_2": "To calculate the enthalpy change (ΔHrxn) for this reaction, we can use the following equation:\n\nΔHrxn = ΣnΔHf°(products) - ΣnΔHf°(reactants)\n\nwhere n is the stoichiometric coefficient of each species in the balanced chemical equation, and ΔHf° is the standard enthalpy of formation of each species.\n\nFor this reaction, the products are 2 moles of H2O(g), and the reactants are 2 moles of H2(g) and 1 mole of O2(g). We are given the enthalpy values for each species:\n\nΔHf° (H2O) = -285.8 kJ/mol\nΔHf° (H2) = 0 kJ/mol\nΔHf° (O2) = 0 kJ/mol\n\nNow, we can plug these values into the equation:\n\nΔHrxn = [2 × (-285.8 kJ/mol)] - [(2 × 0 kJ/mol) + (1 × 0 kJ/mol)]\n\nΔHrxn = (-571.6 kJ) - (0 kJ)\n\nΔHrxn = -571.6 kJ\n\nSo, the enthalpy change for this reaction is -571.6 kJ."
+}

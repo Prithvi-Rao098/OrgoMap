@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Predicting the bond order of a molecule",
+    "message_1": "What is the bond order of the nitrogen molecule (N2) in its ground state?",
+    "message_2": "The bond order of a nitrogen molecule (N2) in its ground state can be determined using molecular orbital theory. Nitrogen has 5 valence electrons, so in a N2 molecule, there are a total of 10 valence electrons.\n\nThe molecular orbitals for N2 are filled in the following order: σ1s, σ*1s, σ2s, σ*2s, π2px, π2py, σ2pz, π*2px, π*2py, and σ*2pz.\n\nFilling the molecular orbitals with 10 valence electrons, we have:\n\n- 2 electrons in σ1s\n- 2 electrons in σ*1s\n- 2 electrons in σ2s\n- 2 electrons in σ*2s\n- 2 electrons in π2px (and π2py remains empty)\n\nNow, we can calculate the bond order using the formula:\n\nBond order = (number of electrons in bonding orbitals - number of electrons in antibonding orbitals) / 2\n\nBond order = (8 - 4) / 2 = 4 / 2 = 2\n\nSo, the bond order of the nitrogen molecule (N2) in its ground state is 2. This means that there is a double bond between the two nitrogen atoms."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Identifying the Lewis structure of a molecule",
+    "message_1": "What is the Lewis structure of the molecule C2H6?",
+    "message_2": "The Lewis structure of the molecule C2H6 (ethane) can be drawn as follows:\n\n1. Count the total number of valence electrons: Carbon has 4 valence electrons (since it is in Group 14), and hydrogen has 1 valence electron (since it is in Group 1). So, for two carbon atoms and six hydrogen atoms, there are a total of 2(4) + 6(1) = 14 valence electrons.\n\n2. Place the least electronegative atom in the center: In this case, both central atoms are carbon, so place them next to each other.\n\n3. Distribute the valence electrons as bonding pairs: Each carbon atom forms a single bond with the other carbon atom, using 2 valence electrons. Then, each carbon atom forms single bonds with three hydrogen atoms, using 6 valence electrons for each carbon. This accounts for all 14 valence electrons.\n\n4. Check the octet rule: Each carbon atom is surrounded by 8 electrons (4 bonding pairs), and each hydrogen atom is surrounded by 2 electrons (1 bonding pair). The octet rule is satisfied for all atoms.\n\nThe Lewis structure of C2H6 (ethane) can be represented as:\n\n      H\n      |\nH - C - C - H\n      |\n      H"
+}

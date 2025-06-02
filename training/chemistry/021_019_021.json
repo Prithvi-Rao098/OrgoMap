@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the solubility of a substance in a solvent",
+    "message_1": "What is the solubility of sodium chloride (NaCl) in water at room temperature and how does it vary with temperature?",
+    "message_2": "The solubility of sodium chloride (NaCl) in water at room temperature (25°C or 77°F) is approximately 357 grams per liter (g/L). This means that 357 grams of NaCl can dissolve in 1 liter of water at this temperature.\n\nThe solubility of NaCl in water increases with temperature. As the temperature of the water increases, more NaCl can dissolve in it. For example, at 0°C (32°F), the solubility is about 357 g/L, while at 100°C (212°F), the solubility increases to approximately 391 g/L. However, the increase in solubility with temperature is not very significant compared to some other salts, and the relationship is relatively linear between 0°C and 100°C."
+}

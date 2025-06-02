@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of vaporization calculations",
+    "message_1": "Sure, here's a precise problem for the student to solve:\n\nThe enthalpy of vaporization of water is 40.7 kJ/mol. How much energy in joules is required to vaporize 50 grams of water at its boiling point?",
+    "message_2": "To solve this problem, we need to first determine the number of moles of water present in 50 grams and then use the enthalpy of vaporization to calculate the energy required.\n\n1. Calculate the number of moles of water:\nThe molar mass of water (H2O) is 18.015 g/mol (1.008 g/mol for hydrogen and 15.999 g/mol for oxygen).\n\nNumber of moles = mass / molar mass\nNumber of moles = 50 g / 18.015 g/mol\nNumber of moles ≈ 2.775 moles\n\n2. Calculate the energy required to vaporize the water:\nEnergy required = number of moles × enthalpy of vaporization\n\nEnergy required = 2.775 moles × 40.7 kJ/mol\n\nEnergy required ≈ 112.94 kJ\n\nSince 1 kJ = 1000 J, the energy required in joules is:\n\nEnergy required ≈ 112.94 kJ × 1000 J/kJ\nEnergy required ≈ 112,940 J\n\nSo, approximately 112,940 joules of energy are required to vaporize 50 grams of water at its boiling point."
+}

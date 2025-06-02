@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Coordination chemistry",
+    "sub_topic": "Coordination chemistry of metalloproteins and enzymes",
+    "message_1": "What is the coordination geometry and ligand environment around the metal center in the heme group of myoglobin?",
+    "message_2": "The coordination geometry around the metal center in the heme group of myoglobin is octahedral. The metal center is an iron (Fe) atom, which is coordinated to four nitrogen atoms from the porphyrin ring in a planar square arrangement. The fifth coordination site is occupied by a nitrogen atom from the imidazole side chain of a histidine residue in the protein (proximal histidine). The sixth coordination site is available for binding to small molecules like oxygen (O2) or carbon monoxide (CO), which interact with the iron atom in a perpendicular manner to the porphyrin plane. This sixth site is also sometimes referred to as the distal site, as it is opposite to the proximal histidine."
+}

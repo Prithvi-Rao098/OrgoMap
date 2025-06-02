@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of changing the temperature on the equilibrium constant",
+    "message_1": "What is the new equilibrium constant of the reaction if the temperature of a system at equilibrium is increased by 25°C, given that the initial equilibrium constant at standard temperature is 4.0 x 10^-4?",
+    "message_2": "To determine the new equilibrium constant after a temperature change, we need to know the enthalpy change (ΔH) of the reaction and the initial temperature. The Van't Hoff equation can be used to calculate the new equilibrium constant:\n\nln(K2/K1) = -ΔH/R * (1/T2 - 1/T1)\n\nwhere K1 is the initial equilibrium constant, K2 is the new equilibrium constant, ΔH is the enthalpy change, R is the gas constant (8.314 J/mol·K), T1 is the initial temperature, and T2 is the final temperature.\n\nPlease provide the initial temperature and the enthalpy change of the reaction to calculate the new equilibrium constant."
+}

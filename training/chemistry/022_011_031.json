@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Gas evolution reactions",
+    "message_1": "What mass of carbon dioxide is produced when 10g of calcium carbonate reacts with excess hydrochloric acid at standard temperature and pressure?",
+    "message_2": "To solve this problem, we need to use the balanced chemical equation for the reaction between calcium carbonate (CaCO3) and hydrochloric acid (HCl):\n\nCaCO3 + 2HCl → CaCl2 + CO2 + H2O\n\nFrom the balanced equation, we can see that 1 mole of CaCO3 reacts to produce 1 mole of CO2. \n\nFirst, we need to find the number of moles of CaCO3 in the 10g sample. The molar mass of CaCO3 is:\n\nCa: 40.08 g/mol\nC: 12.01 g/mol\nO: 16.00 g/mol (3 oxygen atoms = 3 * 16.00 g/mol)\n\nMolar mass of CaCO3 = 40.08 + 12.01 + (3 * 16.00) = 100.09 g/mol\n\nNow, we can find the moles of CaCO3:\n\nmoles of CaCO3 = mass / molar mass = 10g / 100.09 g/mol ≈ 0.1 moles\n\nSince 1 mole of CaCO3 produces 1 mole of CO2, 0.1 moles of CaCO3 will produce 0.1 moles of CO2.\n\nNow, we need to find the mass of CO2 produced. The molar mass of CO2 is:\n\nC: 12.01 g/mol\nO: 16.00 g/mol (2 oxygen atoms = 2 * 16.00 g/mol)\n\nMolar mass of CO2 = 12.01 + (2 * 16.00) = 44.01 g/mol\n\nFinally, we can find the mass of CO2 produced:\n\nmass of CO2 = moles of CO2 * molar mass = 0.1 moles * 44.01 g/mol ≈ 4.4 g\n\nSo, approximately 4.4 grams of carbon dioxide is produced when 10g of calcium carbonate reacts with excess hydrochloric acid at standard temperature and pressure."
+}

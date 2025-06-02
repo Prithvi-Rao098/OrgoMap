@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Equilibrium constant calculations",
+    "message_1": "What is the equilibrium constant (Kc) for the reaction N2(g) + 3H2(g) ⇌ 2NH3(g) at 300 K given that the concentration of N2 is 0.10 M, H2 is 0.20 M, and NH3 is 0.30 M at equilibrium?",
+    "message_2": "To find the equilibrium constant (Kc) for the given reaction, we can use the expression:\n\nKc = [NH3]^2 / ([N2] * [H2]^3)\n\nGiven the concentrations at equilibrium:\n[N2] = 0.10 M\n[H2] = 0.20 M\n[NH3] = 0.30 M\n\nPlug these values into the Kc expression:\n\nKc = (0.30)^2 / (0.10 * (0.20)^3)\n\nKc = 0.09 / (0.10 * 0.008)\n\nKc = 0.09 / 0.0008\n\nKc ≈ 112.5\n\nThe equilibrium constant (Kc) for the reaction N2(g) + 3H2(g) ⇌ 2NH3(g) at 300 K with the given concentrations is approximately 112.5."
+}

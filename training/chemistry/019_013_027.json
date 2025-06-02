@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a neutralization reaction",
+    "message_1": "Sure, here's a question for the student: \n\nWhat is the standard enthalpy change for the neutralization reaction between hydrochloric acid (HCl) and sodium hydroxide (NaOH) to form sodium chloride (NaCl) and water (H2O) at 25°C, given the following information:\n\nHCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)\n\n- The standard enthalpy of formation of HCl(aq) is -167.16 kJ/mol\n- The standard enthalpy of formation of NaOH(aq) is -469.12 kJ/mol\n- The standard enthalpy of formation of NaCl(aq) is -407.25 kJ/mol\n- The standard enthalpy of formation of H2O(l) is -285.83 kJ/mol\n\nEnter your answer in kJ/mol.",
+    "message_2": "To calculate the standard enthalpy change for the reaction, we can use the following formula:\n\nΔH = Σ ΔHf(products) - Σ ΔHf(reactants)\n\nwhere ΔH is the standard enthalpy change, and ΔHf is the standard enthalpy of formation.\n\nFor the given reaction:\n\nHCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)\n\nΔH = [(-407.25 kJ/mol) + (-285.83 kJ/mol)] - [(-167.16 kJ/mol) + (-469.12 kJ/mol)]\n\nΔH = (-692.08 kJ/mol) - (-636.28 kJ/mol)\n\nΔH = -55.8 kJ/mol\n\nThe standard enthalpy change for the neutralization reaction between hydrochloric acid and sodium hydroxide at 25°C is -55.8 kJ/mol."
+}

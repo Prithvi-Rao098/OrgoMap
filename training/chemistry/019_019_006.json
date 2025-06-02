@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving gases",
+    "message_1": "What is the standard enthalpy change for the reaction 2NO(g) + O2(g) → 2NO2(g)? Provided with the following thermochemical equations: \n\n2NO(g) + O2(g) → 2NO2 (g) ΔH° = -113.1 kJ/mol \n\n1/2N2(g) + O2(g) → NO2 (g) ΔH° = -33.2 kJ/mol \n\n1/2N2(g) + O2(g) → NO (g) ΔH° = -90.25 kJ/mol \n\nNO(g) + 1/2O2(g) → NO2(g) ΔH° = -56.2 kJ/mol",
+    "message_2": "The standard enthalpy change for the reaction 2NO(g) + O2(g) → 2NO2(g) is already provided in the first thermochemical equation:\n\n2NO(g) + O2(g) → 2NO2 (g) ΔH° = -113.1 kJ/mol\n\nSo, the standard enthalpy change for this reaction is -113.1 kJ/mol."
+}

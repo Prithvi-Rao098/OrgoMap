@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of sublimation calculations",
+    "message_1": "What is the heat of sublimation for solid carbon dioxide (dry ice) if 100 grams of it sublimes at a constant pressure of 1 atm and absorbs 25.2 kJ of heat?",
+    "message_2": "To calculate the heat of sublimation for solid carbon dioxide (dry ice), we can use the following formula:\n\nHeat of sublimation (ΔH_sub) = Heat absorbed (q) / Mass of substance (m)\n\nGiven:\nMass of dry ice (m) = 100 grams\nHeat absorbed (q) = 25.2 kJ\n\nFirst, we need to convert the heat absorbed from kJ to J (joules), since the heat of sublimation is usually expressed in J/g.\n\n1 kJ = 1000 J\n\nSo, 25.2 kJ = 25.2 * 1000 J = 25200 J\n\nNow, we can calculate the heat of sublimation:\n\nΔH_sub = q / m\nΔH_sub = 25200 J / 100 g\nΔH_sub = 252 J/g\n\nThe heat of sublimation for solid carbon dioxide (dry ice) is 252 J/g."
+}

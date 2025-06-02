@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of formation calculations",
+    "message_1": "Calculate the standard enthalpy of formation for magnesium oxide (MgO) given the standard enthalpy of formation for magnesium (Mg) is -601.8 kJ/mol and the standard enthalpy of formation for oxygen (O₂) is 0 kJ/mol.",
+    "message_2": "The standard enthalpy of formation for magnesium oxide (MgO) cannot be calculated using the given information. The standard enthalpy of formation for magnesium (Mg) and oxygen (O₂) are not enough to determine the standard enthalpy of formation for MgO.\n\nTo calculate the standard enthalpy of formation for MgO, you would need the standard enthalpy of reaction for the formation of MgO from its elements:\n\nMg (s) + 1/2 O₂ (g) → MgO (s)\n\nIf you have the standard enthalpy of reaction for this process, you can directly determine the standard enthalpy of formation for MgO."
+}

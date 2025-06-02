@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the polarity of a bond",
+    "message_1": "What is the polarity of the H-Cl bond in HCl molecule?",
+    "message_2": "The polarity of the H-Cl bond in an HCl molecule is determined by the difference in electronegativity between the hydrogen (H) and chlorine (Cl) atoms. Electronegativity is the ability of an atom to attract electrons towards itself in a chemical bond.\n\nIn the HCl molecule, hydrogen has an electronegativity value of 2.1, while chlorine has an electronegativity value of 3.16. The difference in electronegativity values is 3.16 - 2.1 = 1.06. Since the electronegativity difference is greater than 0.5, the H-Cl bond is considered polar.\n\nIn a polar bond, the more electronegative atom (in this case, chlorine) attracts the shared electrons more strongly, resulting in a partial negative charge (δ-) on the chlorine atom and a partial positive charge (δ+) on the hydrogen atom. This creates a dipole moment in the HCl molecule, making it a polar molecule."
+}

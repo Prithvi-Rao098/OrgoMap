@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Limiting reactant problems",
+    "message_1": "A chemistry student is provided with 10 grams of copper oxide and 5 grams of magnesium. The student reacts the two substances to form copper and magnesium oxide. What is the limiting reactant in this reaction and how many grams of copper can be produced?",
+    "message_2": "To determine the limiting reactant and the amount of copper produced, we first need to write the balanced chemical equation for the reaction:\n\nCuO + Mg → Cu + MgO\n\nNext, we need to find the molar mass of each reactant:\n\nCopper oxide (CuO): 63.55 g/mol (Cu) + 16.00 g/mol (O) = 79.55 g/mol\nMagnesium (Mg): 24.31 g/mol\n\nNow, we can calculate the moles of each reactant:\n\nmoles of CuO = 10 g / 79.55 g/mol = 0.1257 mol\nmoles of Mg = 5 g / 24.31 g/mol = 0.2056 mol\n\nNow, we need to determine the mole ratio between the reactants:\n\nmole ratio = moles of CuO / moles of Mg = 0.1257 mol / 0.2056 mol = 0.611\n\nSince the mole ratio is less than 1, CuO is the limiting reactant.\n\nNow, we can calculate the moles of copper produced using the stoichiometry of the balanced equation:\n\nmoles of Cu = moles of CuO = 0.1257 mol\n\nFinally, we can convert the moles of copper to grams:\n\ngrams of Cu = moles of Cu × molar mass of Cu = 0.1257 mol × 63.55 g/mol = 7.99 g\n\nSo, the limiting reactant is copper oxide (CuO), and 7.99 grams of copper can be produced."
+}

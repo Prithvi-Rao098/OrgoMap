@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Predicting the effect of changing the pH on the formation of a complex ion",
+    "message_1": "What is the effect of increasing the pH of a solution containing iron(III) and cyanide ions on the formation of the iron(III)-cyanide complex ion?",
+    "message_2": "Increasing the pH of a solution containing iron(III) and cyanide ions will favor the formation of the iron(III)-cyanide complex ion. This is because cyanide ions (CN-) act as a ligand and can form coordination complexes with metal ions, such as iron(III) ions (Fe3+). \n\nThe formation of the iron(III)-cyanide complex ion can be represented by the following equilibrium reaction:\n\nFe3+ + 6CN- <=> Fe(CN)6^3-\n\nAs the pH of the solution increases, the concentration of hydrogen ions (H+) decreases. Cyanide ions can react with hydrogen ions to form hydrogen cyanide (HCN), as shown in the following reaction:\n\nCN- + H+ <=> HCN\n\nWhen the pH increases, this reaction is shifted to the left, resulting in a higher concentration of cyanide ions (CN-) in the solution. The increased concentration of cyanide ions will then shift the equilibrium of the iron(III)-cyanide complex formation to the right, favoring the formation of the complex ion Fe(CN)6^3-."
+}

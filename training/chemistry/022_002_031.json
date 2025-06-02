@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "How many grams of sulfuric acid are needed to react with 25 grams of magnesium hydroxide according to the balanced chemical equation if the reaction goes to completion?",
+    "message_2": "To determine the amount of sulfuric acid needed to react with 25 grams of magnesium hydroxide, we first need to write the balanced chemical equation for the reaction:\n\nMg(OH)2 + H2SO4 → MgSO4 + 2H2O\n\nNext, we need to find the molar mass of magnesium hydroxide (Mg(OH)2) and sulfuric acid (H2SO4):\n\nMg(OH)2: Mg = 24.31 g/mol, O = 16.00 g/mol, H = 1.01 g/mol\nMolar mass of Mg(OH)2 = 24.31 + 2(16.00) + 2(1.01) = 58.33 g/mol\n\nH2SO4: H = 1.01 g/mol, S = 32.07 g/mol, O = 16.00 g/mol\nMolar mass of H2SO4 = 2(1.01) + 32.07 + 4(16.00) = 98.09 g/mol\n\nNow, we can use stoichiometry to find the amount of sulfuric acid needed:\n\n1. Convert the mass of magnesium hydroxide to moles:\n25 g Mg(OH)2 × (1 mol Mg(OH)2 / 58.33 g Mg(OH)2) = 0.429 moles Mg(OH)2\n\n2. Use the balanced chemical equation to find the moles of sulfuric acid needed:\n0.429 moles Mg(OH)2 × (1 mol H2SO4 / 1 mol Mg(OH)2) = 0.429 moles H2SO4\n\n3. Convert the moles of sulfuric acid to grams:\n0.429 moles H2SO4 × (98.09 g H2SO4 / 1 mol H2SO4) = 42.08 grams H2SO4\n\nTherefore, 42.08 grams of sulfuric acid are needed to react with 25 grams of magnesium hydroxide if the reaction goes to completion."
+}

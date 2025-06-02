@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "How many grams of NaCl will be produced if 17.5 g of Na react with excess Cl2 based on the following balanced equation: \n\n2 Na + Cl2 → 2 NaCl",
+    "message_2": "To solve this problem, we will use the stoichiometry method. First, we need to find the molar mass of Na and NaCl.\n\nThe molar mass of Na (sodium) is approximately 23 g/mol.\nThe molar mass of NaCl (sodium chloride) is approximately 58.44 g/mol (23 g/mol for Na + 35.45 g/mol for Cl).\n\nNow, we will convert the given mass of Na (17.5 g) to moles:\n\nmoles of Na = mass of Na / molar mass of Na\nmoles of Na = 17.5 g / 23 g/mol = 0.76087 mol\n\nAccording to the balanced equation, 2 moles of Na react with Cl2 to produce 2 moles of NaCl. So, the mole ratio of Na to NaCl is 1:1.\n\nmoles of NaCl = moles of Na (since the mole ratio is 1:1)\nmoles of NaCl = 0.76087 mol\n\nNow, we will convert the moles of NaCl to grams:\n\nmass of NaCl = moles of NaCl * molar mass of NaCl\nmass of NaCl = 0.76087 mol * 58.44 g/mol = 44.45 g\n\nTherefore, 44.45 grams of NaCl will be produced if 17.5 g of Na react with excess Cl2."
+}

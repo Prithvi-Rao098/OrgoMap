@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Gas evolution reactions",
+    "message_1": "What is the volume of nitrogen gas, at standard temperature and pressure, that is produced when 5.0 grams of ammonium nitrite decomposes completely?",
+    "message_2": "To find the volume of nitrogen gas produced, we need to first determine the number of moles of ammonium nitrite (NH4NO2) that decompose. The balanced chemical equation for the decomposition of ammonium nitrite is:\n\nNH4NO2 → N2 + 2H2O\n\nThe molar mass of ammonium nitrite is:\n(14.01 (N) + 1.01 (H) * 4 + 15.99 (O) * 2) g/mol = 64.06 g/mol\n\nNow, we can find the moles of NH4NO2:\nmoles = mass / molar mass\nmoles = 5.0 g / 64.06 g/mol ≈ 0.078 moles\n\nFrom the balanced equation, we can see that 1 mole of NH4NO2 produces 1 mole of N2 gas. Therefore, 0.078 moles of NH4NO2 will produce 0.078 moles of N2 gas.\n\nAt standard temperature and pressure (STP), 1 mole of any gas occupies 22.4 liters. So, we can find the volume of N2 gas produced:\n\nVolume = moles × molar volume at STP\nVolume = 0.078 moles × 22.4 L/mol ≈ 1.75 liters\n\nSo, the volume of nitrogen gas produced at standard temperature and pressure is approximately 1.75 liters."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Predicting the effect of changing the pressure on the equilibrium position",
+    "message_1": "How does an increase in pressure affect the equilibrium position of the following reaction at constant temperature? \nN2(g) + 3H2(g) ⇌ 2NH3(g)",
+    "message_2": "An increase in pressure affects the equilibrium position of the reaction N2(g) + 3H2(g) ⇌ 2NH3(g) according to Le Chatelier's principle, which states that if a system at equilibrium is subjected to a change in pressure, temperature, or concentration of reactants or products, the system will adjust its equilibrium position to counteract the change.\n\nIn this reaction, there are 4 moles of gas on the reactant side (1 mole of N2 and 3 moles of H2) and 2 moles of gas on the product side (2 moles of NH3). When the pressure is increased, the system will try to counteract the change by shifting the equilibrium position to the side with fewer moles of gas to reduce the pressure. In this case, the equilibrium will shift to the right, towards the formation of NH3.\n\nTherefore, an increase in pressure at constant temperature will favor the formation of ammonia (NH3) in this reaction."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of crystallization calculations",
+    "message_1": "What is the heat of crystallization when 50 grams of water is frozen to form ice at a temperature of -10°C? (Assuming the heat capacity of water is 4.184 J/g°C and the heat of fusion of water is 6.01 kJ/mol)",
+    "message_2": "To calculate the heat of crystallization, we need to consider two steps: \n\n1. Cooling the water from its initial temperature (0°C) to the freezing point (0°C).\n2. Freezing the water at 0°C to form ice.\n\nStep 1: Cooling the water to 0°C\nSince the water is already at 0°C, there is no heat exchange in this step.\n\nStep 2: Freezing the water at 0°C to form ice\nFirst, we need to determine the number of moles of water. The molar mass of water is 18.015 g/mol.\n\nmoles of water = (50 g) / (18.015 g/mol) = 2.776 moles\n\nNow, we can calculate the heat of fusion (Q_fusion) using the heat of fusion of water (6.01 kJ/mol).\n\nQ_fusion = (2.776 moles) * (6.01 kJ/mol) = 16.682 kJ\n\nTherefore, the heat of crystallization when 50 grams of water is frozen to form ice at a temperature of -10°C is 16.682 kJ."
+}

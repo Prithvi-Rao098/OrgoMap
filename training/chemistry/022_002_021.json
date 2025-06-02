@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "A chemistry student has 5 g of magnesium (Mg) and 10 g of hydrochloric acid (HCl) to react. What mass of magnesium chloride (MgCl2) will be produced? (Assuming the reaction goes to completion and all the reactants are used up)",
+    "message_2": "The balanced chemical equation for the reaction between magnesium and hydrochloric acid is:\n\nMg + 2HCl → MgCl2 + H2\n\nFirst, we need to determine the limiting reactant. To do this, we'll calculate the moles of each reactant and compare their mole ratios.\n\nMoles of Mg = mass / molar mass\nMoles of Mg = 5 g / (24.31 g/mol) ≈ 0.206 mol\n\nMoles of HCl = mass / molar mass\nMoles of HCl = 10 g / (36.46 g/mol) ≈ 0.274 mol\n\nNow, we'll compare the mole ratios of Mg and HCl to the balanced equation:\n\nMg:HCl = 0.206 mol : 0.274 mol = 1 : 1.33\n\nAccording to the balanced equation, the mole ratio of Mg to HCl should be 1:2. Since the ratio is 1:1.33, magnesium is the limiting reactant.\n\nNow, we can calculate the moles of MgCl2 produced using the stoichiometry of the balanced equation:\n\nMoles of MgCl2 = moles of Mg (limiting reactant) = 0.206 mol\n\nFinally, we can calculate the mass of MgCl2 produced:\n\nMass of MgCl2 = moles of MgCl2 × molar mass of MgCl2\nMass of MgCl2 = 0.206 mol × (95.21 g/mol) ≈ 19.6 g\n\nSo, approximately 19.6 g of magnesium chloride (MgCl2) will be produced."
+}

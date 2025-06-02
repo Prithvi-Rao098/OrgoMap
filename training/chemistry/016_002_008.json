@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Hess's Law calculations",
+    "message_1": "Calculate the enthalpy change for the reaction below using Hess's Law and the given thermochemical equations:\n\n2H2(g) + O2(g) -> 2H2O(g)    deltaH1 = -484 kJ/mol\n\nH2(g) + 1/2O2(g) -> H2O(g)    deltaH2 = -242 kJ/mol \n\n2H2O(g) -> 2H2(g) + O2(g)    deltaH3 = +484 kJ/mol",
+    "message_2": "To use Hess's Law, we need to manipulate the given thermochemical equations so that they add up to the desired reaction. The desired reaction is:\n\n2H2(g) + O2(g) -> 2H2O(g)\n\nThe given thermochemical equations are:\n\n1) 2H2(g) + O2(g) -> 2H2O(g)    deltaH1 = -484 kJ/mol\n2) H2(g) + 1/2O2(g) -> H2O(g)    deltaH2 = -242 kJ/mol\n3) 2H2O(g) -> 2H2(g) + O2(g)    deltaH3 = +484 kJ/mol\n\nWe can see that equation 1 is already the desired reaction, so we don't need to manipulate equations 2 and 3. Therefore, the enthalpy change for the desired reaction is simply the enthalpy change of equation 1:\n\ndeltaH = deltaH1 = -484 kJ/mol"
+}

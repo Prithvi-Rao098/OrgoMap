@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Determination of equilibrium constant for a chemical reaction",
+    "message_1": "What is the equilibrium constant at a temperature of 298 K for the reaction 2NOCl(g) ⇌ 2NO(g) + Cl2(g) if the initial concentrations at equilibrium are [NOCl] = 0.200 M, [NO] = 0.0250 M, and [Cl2] = 0.0250 M?",
+    "message_2": "To calculate the equilibrium constant (Kc) for the given reaction, we can use the expression:\n\nKc = [NO]^2 * [Cl2] / [NOCl]^2\n\nThe problem states that at equilibrium, the concentrations are [NOCl] = 0.200 M, [NO] = 0.0250 M, and [Cl2] = 0.0250 M. We can plug these values into the Kc expression:\n\nKc = (0.0250)^2 * (0.0250) / (0.200)^2\n\nKc = 0.000625 * 0.0250 / 0.0400\n\nKc = 0.015625 / 0.0400\n\nKc ≈ 0.390625\n\nSo, the equilibrium constant (Kc) for the given reaction at 298 K is approximately 0.391."
+}

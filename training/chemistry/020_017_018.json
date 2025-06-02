@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Determining the equilibrium constant for a complex ion formation reaction",
+    "message_1": "What is the equilibrium constant (Kc) for the reaction involving the formation of the complex ion [Fe(SCN)]2+ if a solution containing 0.025 M Fe3+ and 0.050 M SCN- has an equilibrium concentration of [Fe(SCN)]2+ equal to 0.010 M? The balanced equation for the reaction is:\n\nFe3+ + SCN- → [Fe(SCN)]2+",
+    "message_2": "To find the equilibrium constant (Kc) for the reaction, we can use the expression:\n\nKc = [Fe(SCN)]²⁺ / ([Fe³⁺] * [SCN⁻])\n\nAt equilibrium, the concentrations of the reactants and products are:\n\n[Fe(SCN)]²⁺ = 0.010 M\n[Fe³⁺] = 0.025 M - x\n[SCN⁻] = 0.050 M - x\n\nSince the stoichiometry of the reaction is 1:1:1, the change in concentration of Fe³⁺ and SCN⁻ is equal to the change in concentration of [Fe(SCN)]²⁺, which is 0.010 M. Therefore, x = 0.010 M.\n\nNow, we can substitute the equilibrium concentrations into the Kc expression:\n\nKc = [0.010] / ([(0.025 - 0.010)] * [(0.050 - 0.010)])\nKc = 0.010 / (0.015 * 0.040)\n\nKc = 0.010 / 0.0006\nKc ≈ 16.67\n\nThe equilibrium constant (Kc) for the reaction involving the formation of the complex ion [Fe(SCN)]²⁺ is approximately 16.67."
+}

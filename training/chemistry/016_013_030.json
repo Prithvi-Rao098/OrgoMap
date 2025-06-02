@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of hydration calculations",
+    "message_1": "Calculate the heat of hydration for the reaction where 1 mol of anhydrous copper sulfate combines with 5 mol of water to form 1 mol of hydrated copper sulfate given that the enthalpy change of the reaction is -65 kJ/mol.",
+    "message_2": "The heat of hydration for the reaction can be calculated by dividing the enthalpy change of the reaction by the number of moles of water involved in the reaction.\n\nEnthalpy change of the reaction = -65 kJ/mol\nNumber of moles of water = 5 mol\n\nHeat of hydration = Enthalpy change / Number of moles of water\nHeat of hydration = -65 kJ/mol / 5 mol\n\nHeat of hydration = -13 kJ/mol per mole of water"
+}

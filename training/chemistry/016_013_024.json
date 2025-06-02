@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of hydration calculations",
+    "message_1": "Sure! Here's a question for a chemistry student to solve related to Heat of hydration calculations in Thermochemistry:\n\nCalculate the heat of hydration for the compound calcium chloride (CaCl2) using the following data:\n- The enthalpy change for dissolving 1 mole of CaCl2 in water is -82.3 kJ/mol.\n- The lattice enthalpy of CaCl2 is -2258 kJ/mol.\nAssume that the hydration of Ca2+ and Cl- ions are equal in magnitude but opposite in sign. You may neglect the enthalpy change for the dissolution of water. Show all calculations and provide the answer with proper units.",
+    "message_2": "To calculate the heat of hydration for calcium chloride (CaCl2), we can use the following equation:\n\nHeat of Hydration = Lattice Enthalpy - Enthalpy Change for Dissolving\n\nGiven data:\nEnthalpy change for dissolving 1 mole of CaCl2 in water = -82.3 kJ/mol\nLattice enthalpy of CaCl2 = -2258 kJ/mol\n\nNow, we can plug these values into the equation:\n\nHeat of Hydration = (-2258 kJ/mol) - (-82.3 kJ/mol)\n\nHeat of Hydration = -2258 kJ/mol + 82.3 kJ/mol\n\nHeat of Hydration = -2175.7 kJ/mol\n\nSo, the heat of hydration for calcium chloride (CaCl2) is -2175.7 kJ/mol."
+}

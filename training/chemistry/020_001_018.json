@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the equilibrium constant for a given reaction",
+    "message_1": "What is the equilibrium constant for the reaction 2NOCl(g) ⇌ 2NO(g) + Cl2(g) if the concentrations of NOCl, NO, and Cl2 at equilibrium are 0.50 M, 0.10 M, and 0.20 M respectively?",
+    "message_2": "To find the equilibrium constant (Kc) for the given reaction, we will use the formula:\n\nKc = [products]^coefficients / [reactants]^coefficients\n\nFor the reaction 2NOCl(g) ⇌ 2NO(g) + Cl2(g), the equilibrium constant expression is:\n\nKc = ([NO]^2 * [Cl2]) / [NOCl]^2\n\nGiven the equilibrium concentrations of NOCl, NO, and Cl2 are 0.50 M, 0.10 M, and 0.20 M respectively, we can plug these values into the expression:\n\nKc = (0.10^2 * 0.20) / (0.50^2)\n\nKc = (0.01 * 0.20) / 0.25\n\nKc = 0.002 / 0.25\n\nKc = 0.008\n\nThe equilibrium constant for the reaction is 0.008."
+}

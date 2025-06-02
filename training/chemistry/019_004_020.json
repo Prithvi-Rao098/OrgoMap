@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of entropy change for a chemical reaction",
+    "message_1": "What is the entropy change when 2 moles of water vapor (H2O(g)) condense to liquid water (H2O(l)) at 100°C and 1 atm pressure?",
+    "message_2": "To calculate the entropy change (ΔS) when 2 moles of water vapor condense to liquid water at 100°C and 1 atm pressure, we can use the formula:\n\nΔS = n * ΔHvap / T\n\nwhere n is the number of moles, ΔHvap is the enthalpy of vaporization, and T is the temperature in Kelvin.\n\nFirst, we need to convert the temperature from Celsius to Kelvin:\n\nT = 100°C + 273.15 = 373.15 K\n\nThe enthalpy of vaporization for water is approximately 40.7 kJ/mol. Now, we can calculate the entropy change:\n\nΔS = (2 moles) * (40.7 kJ/mol) / (373.15 K)\n\nTo get the entropy change in J/mol·K, we need to convert kJ to J:\n\nΔS = (2 moles) * (40,700 J/mol) / (373.15 K)\n\nΔS ≈ -218.96 J/mol·K\n\nThe entropy change when 2 moles of water vapor condense to liquid water at 100°C and 1 atm pressure is approximately -218.96 J/mol·K."
+}

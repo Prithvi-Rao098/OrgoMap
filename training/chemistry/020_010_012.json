@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of changing the concentration of a common ion on the equilibrium position",
+    "message_1": "A student wants to know how the equilibrium position of a weak acid such as acetic acid would be affected if they add more acetate ion. If the initial concentration of acetic acid is 0.1 M and initial concentration of acetate ion is 0.05 M. What will be the new concentration of acetate ion necessary to increase the pH of the solution by 0.5 units?",
+    "message_2": "To solve this problem, we can use the Henderson-Hasselbalch equation, which relates the pH, pKa, and the ratio of the concentrations of the conjugate base (A-) and the weak acid (HA):\n\npH = pKa + log ([A-]/[HA])\n\nThe pKa of acetic acid is 4.74. First, let's find the initial pH of the solution:\n\nInitial pH = 4.74 + log (0.05/0.1)\nInitial pH = 4.74 - 0.301\nInitial pH ≈ 4.44\n\nNow, we want to increase the pH by 0.5 units, so the new pH will be:\n\nNew pH = 4.44 + 0.5\nNew pH = 4.94\n\nNow, we can use the Henderson-Hasselbalch equation again to find the new concentration of acetate ion ([A'-]):\n\n4.94 = 4.74 + log ([A'-]/0.1)\n\nRearrange the equation to solve for [A'-]:\n\n0.2 = log ([A'-]/0.1)\n10^0.2 = [A'-]/0.1\n1.585 = [A'-]/0.1\n\nNow, solve for [A'-]:\n\n[A'-] = 1.585 * 0.1\n[A'-] ≈ 0.1585 M\n\nSo, the new concentration of acetate ion necessary to increase the pH of the solution by 0.5 units is approximately 0.1585 M."
+}

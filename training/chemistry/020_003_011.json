@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Predicting the direction of a reaction at equilibrium based on changes in concentration, pressure, or temperature",
+    "message_1": "Considering the reaction 2SO3(g) ⇌ 2SO2(g) + O2(g) at equilibrium. If the concentration of SO2(g) is increased by adding more SO2(g), what will be the direction of the reaction and how will it affect the concentrations of S03(g), SO2(g), and O2(g)?",
+    "message_2": "When the concentration of SO2(g) is increased by adding more SO2(g), the reaction will shift to the left according to Le Chatelier's principle, which states that if a system at equilibrium is subjected to a change in concentration, temperature, or pressure, the system will adjust to counteract the change and restore equilibrium.\n\nIn this case, the increase in SO2(g) concentration will cause the reaction to shift to the left, favoring the formation of SO3(g) and consuming some of the added SO2(g) and O2(g). As a result, the concentration of SO3(g) will increase, while the concentrations of SO2(g) and O2(g) will decrease until a new equilibrium is established."
+}

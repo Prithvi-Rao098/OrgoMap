@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Determining the equilibrium constant for a redox reaction",
+    "message_1": "What is the equilibrium constant expression for the redox reaction: \n\nFe²⁺(aq) + Cu(s) ⇌ Fe³⁺(aq) + Cu²⁺(aq) \n\nif the initial concentrations of Fe²⁺, Cu²⁺ and Fe³⁺ are 0.10 M, 0.15 M and 0.05 M respectively at equilibrium where Fe²⁺ has a concentration of 0.03 M?",
+    "message_2": "The equilibrium constant expression for the redox reaction is given by:\n\nK = [Fe³⁺][Cu²⁺] / [Fe²⁺]\n\nAt equilibrium, the concentration of Fe²⁺ is 0.03 M. We can determine the change in concentration for the other species involved in the reaction.\n\nInitial concentrations:\n[Fe²⁺] = 0.10 M\n[Cu²⁺] = 0.15 M\n[Fe³⁺] = 0.05 M\n\nAt equilibrium:\n[Fe²⁺] = 0.03 M\n\nChange in concentration:\nΔ[Fe²⁺] = -0.07 M (since it decreased from 0.10 M to 0.03 M)\nΔ[Fe³⁺] = +0.07 M (since it increased by the same amount as Fe²⁺ decreased)\nΔ[Cu²⁺] = +0.07 M (since it increased by the same amount as Fe²⁺ decreased)\n\nEquilibrium concentrations:\n[Fe²⁺] = 0.03 M\n[Cu²⁺] = 0.15 M + 0.07 M = 0.22 M\n[Fe³⁺] = 0.05 M + 0.07 M = 0.12 M\n\nNow we can plug these equilibrium concentrations into the equilibrium constant expression:\n\nK = [Fe³⁺][Cu²⁺] / [Fe²⁺]\nK = (0.12 M)(0.22 M) / (0.03 M)\nK ≈ 0.88"
+}

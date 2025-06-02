@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of desorption calculations",
+    "message_1": "Calculate the enthalpy of desorption of hydrogen gas (H2) from a platinum surface, given that the temperature of the surface is 298 K and the pressure of H2 gas above the surface is 1 atm. The adsorption enthalpy of H2 on Pt is -43300 J/mol. (Assume ideal gas behavior for H2.)",
+    "message_2": "To calculate the enthalpy of desorption of hydrogen gas (H2) from a platinum surface, we can use the following equation:\n\nΔH_desorption = -ΔH_adsorption\n\nGiven that the adsorption enthalpy of H2 on Pt is -43,300 J/mol, the enthalpy of desorption can be calculated as follows:\n\nΔH_desorption = -(-43,300 J/mol)\nΔH_desorption = 43,300 J/mol\n\nTherefore, the enthalpy of desorption of hydrogen gas (H2) from a platinum surface is 43,300 J/mol."
+}

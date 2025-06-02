@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of hydration calculations",
+    "message_1": "Calculate the heat of hydration for the reaction between 1 mol of anhydrous magnesium sulfate and enough water to produce 1 mol of hydrated magnesium sulfate, given that the enthalpy change of the reaction is -108 kJ/mol.",
+    "message_2": "The heat of hydration is the enthalpy change associated with the process of dissolving a substance in water to form a hydrated compound. In this case, we are given the enthalpy change of the reaction between anhydrous magnesium sulfate (MgSO4) and water to produce hydrated magnesium sulfate (MgSO4·7H2O).\n\nThe reaction can be represented as follows:\n\nMgSO4 (s) + 7H2O (l) → MgSO4·7H2O (s)\n\nWe are given that the enthalpy change (ΔH) for this reaction is -108 kJ/mol. Since the reaction involves 1 mol of anhydrous magnesium sulfate and 1 mol of hydrated magnesium sulfate, the heat of hydration for this reaction is simply the enthalpy change of the reaction.\n\nTherefore, the heat of hydration for the reaction between 1 mol of anhydrous magnesium sulfate and enough water to produce 1 mol of hydrated magnesium sulfate is -108 kJ/mol."
+}

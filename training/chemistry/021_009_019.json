@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Predicting the bond order of a molecule",
+    "message_1": "Determine the bond order of the molecule N2 using molecular orbital theory and predict whether the molecule is paramagnetic or diamagnetic.",
+    "message_2": "To determine the bond order of N2 using molecular orbital theory, we need to first find the total number of valence electrons in the molecule. Nitrogen has 5 valence electrons, and since there are two nitrogen atoms in N2, the total number of valence electrons is 10.\n\nNow, we will fill the molecular orbitals according to the Aufbau principle, which states that orbitals are filled in order of increasing energy. The order of molecular orbitals for N2 is:\n\n1. σ(1s)\n2. σ*(1s)\n3. σ(2s)\n4. σ*(2s)\n5. σ(2pz)\n6. π(2px) = π(2py)\n7. π*(2px) = π*(2py)\n8. σ*(2pz)\n\nWith 10 valence electrons, we fill the molecular orbitals as follows:\n\n1. σ(1s) - 2 electrons\n2. σ*(1s) - 2 electrons\n3. σ(2s) - 2 electrons\n4. σ*(2s) - 2 electrons\n5. σ(2pz) - 2 electrons\n\nNow, we can calculate the bond order using the formula:\n\nBond order = (number of electrons in bonding orbitals - number of electrons in antibonding orbitals) / 2\n\nBond order = (8 - 4) / 2 = 4 / 2 = 2\n\nSo, the bond order of N2 is 2.\n\nTo determine if the molecule is paramagnetic or diamagnetic, we need to check if there are any unpaired electrons in the molecular orbitals. In this case, all the electrons are paired, so N2 is diamagnetic."
+}

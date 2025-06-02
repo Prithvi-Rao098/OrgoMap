@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of ionization calculations",
+    "message_1": "Calculate the enthalpy of ionization for the reaction Mg(g) → Mg⁺(g) + e⁻ given that the ionization potential of Mg is 735 kJ/mol and the electron affinity of Mg⁺ is -195 kJ/mol.",
+    "message_2": "The enthalpy of ionization (ΔH_ionization) is the energy required to remove an electron from an atom or ion in the gas phase. In this case, we are given the ionization potential of Mg (735 kJ/mol) and the electron affinity of Mg⁺ (-195 kJ/mol).\n\nThe ionization potential represents the energy required to remove an electron from Mg, while the electron affinity represents the energy released when an electron is added to Mg⁺. Since we are looking for the energy required to remove an electron from Mg, we can ignore the electron affinity of Mg⁺ in this case.\n\nTherefore, the enthalpy of ionization for the reaction Mg(g) → Mg⁺(g) + e⁻ is equal to the ionization potential of Mg:\n\nΔH_ionization = 735 kJ/mol"
+}

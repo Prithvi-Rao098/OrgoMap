@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Titration problems.",
+    "message_1": "What volume (in mL) of 0.1 M NaOH is needed to neutralize 25 mL of 0.05 M HCl in a titration?",
+    "message_2": "To solve this problem, we can use the equation:\n\nmoles of acid = moles of base\n\nWe know the volume and concentration of the acid (HCl), so we can find the moles of HCl:\n\nmoles of HCl = volume (L) × concentration (M)\nmoles of HCl = 0.025 L × 0.05 M = 0.00125 moles\n\nNow, we can find the volume of NaOH needed to neutralize the HCl. We know the concentration of NaOH (0.1 M) and the moles of NaOH needed (0.00125 moles):\n\nmoles of NaOH = volume (L) × concentration (M)\n0.00125 moles = volume (L) × 0.1 M\n\nNow, we can solve for the volume of NaOH:\n\nvolume (L) = 0.00125 moles / 0.1 M = 0.0125 L\n\nTo convert the volume to milliliters, we can multiply by 1000:\n\nvolume (mL) = 0.0125 L × 1000 = 12.5 mL\n\nSo, 12.5 mL of 0.1 M NaOH is needed to neutralize 25 mL of 0.05 M HCl in a titration."
+}

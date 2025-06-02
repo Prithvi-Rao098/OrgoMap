@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Enthalpy of reaction calculations",
+    "message_1": "What is the enthalpy change for the reaction between 2 moles of hydrogen gas and 1 mole of oxygen gas to produce water, given that the enthalpy change for the reaction is -483.6 kJ/mol?",
+    "message_2": "The balanced chemical equation for the reaction between hydrogen gas and oxygen gas to produce water is:\n\n2 H₂(g) + O₂(g) → 2 H₂O(l)\n\nThe given enthalpy change of -483.6 kJ/mol is for the formation of 2 moles of water from 2 moles of hydrogen gas and 1 mole of oxygen gas. Since the reaction is already balanced and the enthalpy change is given for the specified amounts of reactants, the enthalpy change for the reaction between 2 moles of hydrogen gas and 1 mole of oxygen gas to produce water is -483.6 kJ."
+}

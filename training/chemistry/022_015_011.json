@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Percent yield problems",
+    "message_1": "A chemistry student synthesized 25 grams of aspirin theoretically, but only obtained 20 grams practically in the lab. Calculate the percent yield of aspirin.",
+    "message_2": "The percent yield is calculated by dividing the actual (practical) yield by the theoretical yield, and then multiplying by 100.\n\nPercent Yield = (Actual Yield / Theoretical Yield) x 100\n\nIn this case, the actual yield is 20 grams, and the theoretical yield is 25 grams.\n\nPercent Yield = (20 grams / 25 grams) x 100\n\nPercent Yield = 0.8 x 100\n\nPercent Yield = 80%\n\nThe percent yield of aspirin in this case is 80%."
+}

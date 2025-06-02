@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard electrode potential for a redox reaction",
+    "message_1": "What is the standard electrode potential of the following redox reaction at 25°C?\n\nFe2+(aq) + 2e- -> Fe(s)\n\nGiven that the standard electrode potential of Fe2+(aq) is +0.44 V and the standard electrode potential of Fe(s) is 0 V.",
+    "message_2": "The standard electrode potential of a redox reaction can be determined by subtracting the standard electrode potential of the reduction half-reaction from the standard electrode potential of the oxidation half-reaction.\n\nIn this case, the given reaction is already a reduction half-reaction:\n\nFe2+(aq) + 2e- -> Fe(s)\n\nThe standard electrode potential of Fe2+(aq) is +0.44 V, and the standard electrode potential of Fe(s) is 0 V. Since the reaction is already a reduction, we don't need to subtract any values.\n\nTherefore, the standard electrode potential of the given redox reaction at 25°C is +0.44 V."
+}

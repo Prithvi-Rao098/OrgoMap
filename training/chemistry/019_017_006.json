@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a sublimation reaction",
+    "message_1": "What is the standard enthalpy change for the sublimation of iodine at 25°C and 1 atm?",
+    "message_2": "The standard enthalpy change for the sublimation of iodine (I2) at 25°C (298 K) and 1 atm can be found in reference tables or calculated from the standard enthalpies of formation for the solid and gaseous states of iodine.\n\nFrom reference tables, the standard enthalpy change for the sublimation of iodine at 298 K is approximately 62.44 kJ/mol. This value represents the energy required to convert 1 mole of solid iodine to gaseous iodine under standard conditions (25°C and 1 atm)."
+}

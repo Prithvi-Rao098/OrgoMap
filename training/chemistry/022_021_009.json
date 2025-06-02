@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Equilibrium constant calculations",
+    "message_1": "What is the equilibrium constant expression for the following chemical reaction?\n\n2NO(g) + O2(g) ⇌ 2NO2(g)",
+    "message_2": "The equilibrium constant expression (Kc) for the given chemical reaction is:\n\nKc = [NO2]^2 / ([NO]^2 * [O2])\n\nwhere [NO2], [NO], and [O2] represent the equilibrium concentrations of NO2, NO, and O2, respectively."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Gas evolution reactions",
+    "message_1": "What volume of carbon dioxide gas, at STP, will be produced in the reaction between 20 g of calcium carbonate and excess hydrochloric acid?",
+    "message_2": "To solve this problem, we will follow these steps:\n\n1. Write the balanced chemical equation for the reaction.\n2. Calculate the number of moles of calcium carbonate (CaCO3) used.\n3. Determine the number of moles of carbon dioxide (CO2) produced.\n4. Calculate the volume of CO2 gas produced at STP.\n\nStep 1: Balanced chemical equation\nCaCO3 (s) + 2 HCl (aq) → CaCl2 (aq) + CO2 (g) + H2O (l)\n\nStep 2: Calculate the number of moles of CaCO3\nMolar mass of CaCO3 = 40.08 (Ca) + 12.01 (C) + 3 * 16.00 (O) = 100.09 g/mol\nNumber of moles of CaCO3 = mass / molar mass = 20 g / 100.09 g/mol = 0.1999 mol\n\nStep 3: Determine the number of moles of CO2 produced\nFrom the balanced equation, 1 mol of CaCO3 produces 1 mol of CO2.\nSo, 0.1999 mol of CaCO3 will produce 0.1999 mol of CO2.\n\nStep 4: Calculate the volume of CO2 gas produced at STP\nAt STP (standard temperature and pressure), 1 mol of any gas occupies 22.4 L.\nVolume of CO2 = number of moles * volume per mole = 0.1999 mol * 22.4 L/mol = 4.48 L\n\nTherefore, the volume of carbon dioxide gas produced in the reaction at STP is 4.48 L."
+}

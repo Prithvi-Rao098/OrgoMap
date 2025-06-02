@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "What is the heat capacity of 10 grams of water if it absorbs 250 Joules of heat and its temperature increases from 25°C to 35°C?",
+    "message_2": "To find the heat capacity (specific heat) of water, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat absorbed (in Joules), m is the mass of the substance (in grams), c is the specific heat capacity (in J/g°C), and ΔT is the change in temperature (in °C).\n\nWe are given the following information:\n\nq = 250 J\nm = 10 g\nΔT = 35°C - 25°C = 10°C\n\nWe need to find c. Rearranging the formula to solve for c, we get:\n\nc = q / (mΔT)\n\nPlugging in the given values:\n\nc = 250 J / (10 g × 10°C)\nc = 250 J / 100 g°C\nc = 2.5 J/g°C\n\nThe heat capacity of the 10 grams of water is 2.5 J/g°C."
+}

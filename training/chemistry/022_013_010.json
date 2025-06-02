@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Oxidation state determination",
+    "message_1": "Given the molecular formula FeCl3, determine the oxidation states of the iron and chlorine atoms in the compound.",
+    "message_2": "In the compound FeCl3, the oxidation state of the chlorine (Cl) atom is -1, as it is a halogen and typically has an oxidation state of -1 in its compounds. Since there are three chlorine atoms in the compound, the total negative charge contributed by them is -3.\n\nTo balance the overall charge of the compound, which is neutral, the oxidation state of the iron (Fe) atom must be +3. This is because the positive charge of the iron atom will cancel out the negative charge of the three chlorine atoms.\n\nSo, the oxidation states of the iron and chlorine atoms in the compound FeCl3 are +3 and -1, respectively."
+}

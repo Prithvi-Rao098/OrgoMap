@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving solids",
+    "message_1": "Determine the standard enthalpy change for the reaction between calcium oxide and hydrochloric acid, given the following information:\n\nCaO(s) + 2HCl(aq) → CaCl2(aq) + H2O(l)\n\n∆Hf° CaCl2(aq) = -795.7 kJ/mol\n∆Hf° H2O(l) = -285.8 kJ/mol\n∆Hc° = -1922.6 kJ/mol",
+    "message_2": "To determine the standard enthalpy change for the reaction between calcium oxide and hydrochloric acid, we can use Hess's Law. According to Hess's Law, the total enthalpy change for a reaction is the sum of the enthalpy changes for each step in the reaction.\n\nIn this case, we have the following steps:\n\n1. Formation of CaCl2(aq) from its elements: \n   Ca(s) + Cl2(g) → CaCl2(aq)\n   ∆Hf° CaCl2(aq) = -795.7 kJ/mol\n\n2. Formation of H2O(l) from its elements:\n   H2(g) + 1/2 O2(g) → H2O(l)\n   ∆Hf° H2O(l) = -285.8 kJ/mol\n\n3. Combustion of CaO(s):\n   CaO(s) + H2(g) + Cl2(g) → CaCl2(aq) + H2O(l)\n   ∆Hc° = -1922.6 kJ/mol\n\nNow, we can use Hess's Law to find the enthalpy change for the reaction between calcium oxide and hydrochloric acid:\n\n∆Hrxn = ∆Hf° CaCl2(aq) + ∆Hf° H2O(l) - ∆Hc°\n\n∆Hrxn = (-795.7 kJ/mol) + (-285.8 kJ/mol) - (-1922.6 kJ/mol)\n\n∆Hrxn = -1081.5 kJ/mol + 1922.6 kJ/mol\n\n∆Hrxn = 841.1 kJ/mol\n\nSo, the standard enthalpy change for the reaction between calcium oxide and hydrochloric acid is 841.1 kJ/mol."
+}

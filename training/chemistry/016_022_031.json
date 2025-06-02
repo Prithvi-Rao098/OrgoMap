@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of isomerization calculations",
+    "message_1": "What is the enthalpy change of isomerization for butene-1 to butene-2 given the following information:\n\n- The standard enthalpy of formation for butene-1 is -24.7 kJ/mol\n- The standard enthalpy of formation for butene-2 is -25.8 kJ/mol",
+    "message_2": "To calculate the enthalpy change of isomerization for butene-1 to butene-2, we can use the following formula:\n\nΔH_isomerization = ΔH_f(butene-2) - ΔH_f(butene-1)\n\nWhere:\nΔH_isomerization = enthalpy change of isomerization\nΔH_f(butene-1) = standard enthalpy of formation for butene-1\nΔH_f(butene-2) = standard enthalpy of formation for butene-2\n\nPlugging in the given values:\n\nΔH_isomerization = (-25.8 kJ/mol) - (-24.7 kJ/mol)\n\nΔH_isomerization = -1.1 kJ/mol\n\nThe enthalpy change of isomerization for butene-1 to butene-2 is -1.1 kJ/mol."
+}

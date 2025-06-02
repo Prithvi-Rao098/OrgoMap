@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of hydration calculations",
+    "message_1": "Calculate the heat of hydration for the reaction where 1 mole of anhydrous copper(II) sulfate reacts with water to form 5 moles of hydrated copper(II) sulfate, given that the enthalpy change for the reaction is -92.2 kJ/mol.",
+    "message_2": "The heat of hydration is the enthalpy change when 1 mole of anhydrous salt reacts with a specific amount of water to form the hydrated salt. In this case, 1 mole of anhydrous copper(II) sulfate reacts with water to form 5 moles of hydrated copper(II) sulfate. The enthalpy change for this reaction is given as -92.2 kJ/mol.\n\nSince the reaction involves 1 mole of anhydrous copper(II) sulfate, the heat of hydration for this reaction is simply the enthalpy change for the reaction:\n\nHeat of hydration = -92.2 kJ/mol"
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the electronegativity difference between two atoms",
+    "message_1": "What is the electronegativity difference between a nitrogen atom and an oxygen atom in a molecule of nitrous oxide (N2O)?",
+    "message_2": "The electronegativity of an element is a measure of its ability to attract electrons in a chemical bond. The Pauling scale is commonly used to quantify electronegativity values. On the Pauling scale, the electronegativity of nitrogen (N) is 3.04, and the electronegativity of oxygen (O) is 3.44.\n\nTo find the electronegativity difference between nitrogen and oxygen in a molecule of nitrous oxide (N2O), subtract the electronegativity of nitrogen from that of oxygen:\n\nElectronegativity difference = Electronegativity of O - Electronegativity of N\nElectronegativity difference = 3.44 - 3.04\nElectronegativity difference = 0.40\n\nSo, the electronegativity difference between a nitrogen atom and an oxygen atom in a molecule of nitrous oxide (N2O) is 0.40."
+}

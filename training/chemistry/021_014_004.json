@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the VSEPR geometry of a molecule",
+    "message_1": "Determine the VSEPR geometry of the methane molecule (CH4) and draw its Lewis structure.",
+    "message_2": "The VSEPR geometry of the methane molecule (CH4) can be determined by first drawing its Lewis structure. \n\nThe Lewis structure of CH4 is as follows:\n\n       H\n       |\n    H--C--H\n       |\n       H\n\nIn the Lewis structure, the central carbon atom is bonded to four hydrogen atoms. There are no lone pairs on the carbon atom. According to the VSEPR theory, the electron pairs around the central atom will arrange themselves to minimize repulsion. \n\nSince there are four bonding pairs around the central carbon atom, the VSEPR geometry of the methane molecule (CH4) is tetrahedral. The bond angles in a tetrahedral geometry are approximately 109.5 degrees."
+}

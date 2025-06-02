@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Identifying the resonance structures of a molecule",
+    "message_1": "Identify the number of resonance structures for the molecule of benzene and draw all of them.",
+    "message_2": "Benzene (C6H6) has two resonance structures. These structures are formed by the delocalization of the pi electrons in the carbon-carbon double bonds, which are distributed evenly across all six carbon atoms. The two resonance structures are essentially the same, with the only difference being the position of the double bonds. Here are the two resonance structures:\n\n1. Structure 1:\n```\n   H     H\n    \\   /\n     C=C\n   //   \\\\\n  C       C\n   \\\\   //\n     C=C\n    /   \\\n   H     H\n```\n\n2. Structure 2:\n```\n   H     H\n    /   \\\n     C-C\n   //   \\\\\n  C       C\n   \\\\   //\n     C=C\n    \\   /\n   H     H\n```\n\nIn reality, the actual structure of benzene is a hybrid of these two resonance structures, with each carbon-carbon bond being an intermediate between a single and double bond."
+}

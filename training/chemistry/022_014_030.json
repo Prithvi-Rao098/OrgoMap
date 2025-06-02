@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Limiting reactant problems",
+    "message_1": "How many grams of NH3 can be produced from the reaction of 10.0 grams of N2 and 20.0 grams of H2? (Assume N2 is the limiting reactant)",
+    "message_2": "To solve this problem, we will first need to determine the balanced chemical equation for the reaction between N2 and H2 to produce NH3. The balanced equation is:\n\nN2 + 3H2 → 2NH3\n\nNext, we need to find the molar mass of each reactant and product:\n\nN2: (2 x 14.01 g/mol) = 28.02 g/mol\nH2: (2 x 1.01 g/mol) = 2.02 g/mol\nNH3: (14.01 g/mol + 3 x 1.01 g/mol) = 17.03 g/mol\n\nNow, we can convert the given mass of each reactant to moles:\n\nmoles of N2 = 10.0 g / 28.02 g/mol = 0.357 mol\nmoles of H2 = 20.0 g / 2.02 g/mol = 9.901 mol\n\nSince N2 is the limiting reactant, we will use its moles to determine the moles of NH3 produced:\n\nFrom the balanced equation, 1 mol of N2 produces 2 mol of NH3. Therefore, the moles of NH3 produced are:\n\n0.357 mol N2 x (2 mol NH3 / 1 mol N2) = 0.714 mol NH3\n\nFinally, we can convert the moles of NH3 back to grams:\n\ngrams of NH3 = 0.714 mol x 17.03 g/mol = 12.16 g\n\nSo, 12.16 grams of NH3 can be produced from the reaction of 10.0 grams of N2 and 20.0 grams of H2, assuming N2 is the limiting reactant."
+}

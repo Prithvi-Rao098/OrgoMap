@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of solution calculations",
+    "message_1": "Calculate the enthalpy change of dissolving 10 grams of NaCl in 100 mL of water, assuming the resultant solution has a density of 1.0 g/mL and assuming that the heat evolved is absorbed by the water. Given: the enthalpy of hydration of NaCl is -787 kJ/mol.",
+    "message_2": "To calculate the enthalpy change of dissolving 10 grams of NaCl in 100 mL of water, we need to determine the number of moles of NaCl and then use the enthalpy of hydration to find the total enthalpy change.\n\nFirst, let's find the number of moles of NaCl:\nNaCl has a molar mass of 58.44 g/mol (22.99 g/mol for Na and 35.45 g/mol for Cl).\n\nmoles of NaCl = mass / molar mass\nmoles of NaCl = 10 g / 58.44 g/mol\nmoles of NaCl ≈ 0.171 mol\n\nNow, we can use the enthalpy of hydration to find the enthalpy change:\nEnthalpy change = moles of NaCl × enthalpy of hydration\nEnthalpy change = 0.171 mol × (-787 kJ/mol)\nEnthalpy change ≈ -134.6 kJ\n\nThe enthalpy change of dissolving 10 grams of NaCl in 100 mL of water is approximately -134.6 kJ."
+}

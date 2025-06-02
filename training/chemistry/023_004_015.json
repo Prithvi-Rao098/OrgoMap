@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical synthesis",
+    "sub_topic": "Preparation of acetylsalicylic acid from acetic anhydride and salicylic acid",
+    "message_1": "What is the yield of acetylsalicylic acid produced when 5 grams of salicylic acid is reacted with excess acetic anhydride, assuming a theoretical yield of 7 grams and an actual yield of 4.5 grams?",
+    "message_2": "To calculate the percent yield of acetylsalicylic acid, we can use the formula:\n\nPercent Yield = (Actual Yield / Theoretical Yield) × 100\n\nGiven the actual yield is 4.5 grams and the theoretical yield is 7 grams, we can plug these values into the formula:\n\nPercent Yield = (4.5 grams / 7 grams) × 100\n\nPercent Yield = 0.642857 × 100\n\nPercent Yield ≈ 64.29%\n\nThe yield of acetylsalicylic acid produced in this reaction is approximately 64.29%."
+}

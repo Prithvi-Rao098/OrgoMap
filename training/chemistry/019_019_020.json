@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving gases",
+    "message_1": "Calculate the standard enthalpy change for the reaction where 3 moles of hydrogen gas react with 1 mole of nitrogen gas to form 2 moles of ammonia gas. Given the following thermochemical equation: \n\nN2(g) + 3 H2(g) → 2 NH3(g)    ΔH° = −92.4 kJ/mol",
+    "message_2": "The given thermochemical equation is already balanced and represents the reaction of 3 moles of hydrogen gas with 1 mole of nitrogen gas to form 2 moles of ammonia gas:\n\nN2(g) + 3 H2(g) → 2 NH3(g)    ΔH° = −92.4 kJ/mol\n\nSince the reaction is already balanced and the moles of reactants are given, the standard enthalpy change for this reaction is simply the value provided:\n\nΔH° = −92.4 kJ/mol"
+}

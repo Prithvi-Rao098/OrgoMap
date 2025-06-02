@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the heat of formation of a molecule",
+    "message_1": "What is the heat of formation of water (H2O) at standard conditions (25°C and 1 atm pressure) if the enthalpy change of the reaction 2H2(g) + O2(g) → 2H2O(l) is -484 kJ/mol?",
+    "message_2": "The heat of formation of water (H2O) can be calculated using the given enthalpy change of the reaction:\n\n2H2(g) + O2(g) → 2H2O(l); ΔH = -484 kJ/mol\n\nSince the reaction produces 2 moles of H2O, we need to divide the enthalpy change by 2 to find the heat of formation for 1 mole of H2O:\n\nHeat of formation of H2O = (-484 kJ/mol) / 2 = -242 kJ/mol\n\nSo, the heat of formation of water (H2O) at standard conditions (25°C and 1 atm pressure) is -242 kJ/mol."
+}

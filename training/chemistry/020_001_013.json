@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the equilibrium constant for a given reaction",
+    "message_1": "What is the equilibrium constant (Kc) for the reaction N2(g) + 3H2(g) ⇌ 2NH3(g) if the equilibrium concentrations of nitrogen, hydrogen, and ammonia are 0.25 M, 0.50 M, and 0.10 M, respectively?",
+    "message_2": "To find the equilibrium constant (Kc) for the given reaction, we can use the formula:\n\nKc = [NH3]^2 / ([N2] * [H2]^3)\n\nwhere [NH3], [N2], and [H2] are the equilibrium concentrations of ammonia, nitrogen, and hydrogen, respectively.\n\nGiven the equilibrium concentrations:\n[N2] = 0.25 M\n[H2] = 0.50 M\n[NH3] = 0.10 M\n\nPlug these values into the formula:\n\nKc = (0.10)^2 / (0.25 * (0.50)^3)\n\nKc = 0.01 / (0.25 * 0.125)\n\nKc = 0.01 / 0.03125\n\nKc ≈ 0.32\n\nSo, the equilibrium constant (Kc) for the given reaction is approximately 0.32."
+}

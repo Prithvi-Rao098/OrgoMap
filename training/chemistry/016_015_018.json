@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of crystallization calculations",
+    "message_1": "What is the heat of crystallization of copper sulfate pentahydrate if 50 g of the salt is dissolved in 200 mL of water at 25°C and then cooled to 5°C? The specific heat capacity of the solution is 4.18 J/g°C and the density of the solution is 1.00 g/mL. The molar mass of copper sulfate is 249.7 g/mol, and the enthalpy of solution of copper sulfate is -62.4 kJ/mol.",
+    "message_2": "First, we need to calculate the moles of copper sulfate pentahydrate dissolved in the solution:\n\nmoles = mass / molar mass\nmoles = 50 g / 249.7 g/mol\nmoles = 0.2002 mol\n\nNext, we need to calculate the heat released when the solution is cooled from 25°C to 5°C:\n\nq = mcΔT\nq = (200 g)(4.18 J/g°C)(5°C - 25°C)\nq = (200 g)(4.18 J/g°C)(-20°C)\nq = -16720 J = -16.72 kJ\n\nNow, we need to calculate the heat released when the copper sulfate pentahydrate is dissolved in water:\n\nq_dissolution = moles × enthalpy of solution\nq_dissolution = 0.2002 mol × (-62.4 kJ/mol)\nq_dissolution = -12.49 kJ\n\nFinally, we can calculate the heat of crystallization of copper sulfate pentahydrate. The heat of crystallization is the heat released when the solution is cooled plus the heat released when the salt is dissolved:\n\nq_crystallization = q_cooling + q_dissolution\nq_crystallization = -16.72 kJ + (-12.49 kJ)\nq_crystallization = -29.21 kJ\n\nTherefore, the heat of crystallization of copper sulfate pentahydrate is -29.21 kJ."
+}

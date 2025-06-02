@@ -1,7 +1,0 @@
-{
-  "question": "Explain the mechanism of this E1 reaction.",
-  "context_image_url": "https://yourdomain.com/images/e1_mechanism.png",
-  "reaction_type": "E1",
-  "reactants_smiles": ["CC(Br)(CH3)CH3"],
-  "answer": "This is an E1 mechanism that proceeds via carbocation formation followed by elimination. First, the leaving group (Br⁻) departs, forming a tertiary carbocation. Then a base removes a β-hydrogen, forming an alkene."
-}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a combustion reaction",
+    "message_1": "What is the standard enthalpy change for the combustion of methane (CH4) at 298 K and 1 atm pressure, given that the reactants and products are in their standard states?",
+    "message_2": "The standard enthalpy change for the combustion of methane (CH4) can be found using the standard enthalpies of formation for the reactants and products involved in the reaction. The balanced chemical equation for the combustion of methane is:\n\nCH4(g) + 2 O2(g) → CO2(g) + 2 H2O(l)\n\nThe standard enthalpies of formation (ΔHf°) for the substances involved are:\n\nΔHf°(CH4) = -74.8 kJ/mol\nΔHf°(O2) = 0 kJ/mol (since O2 is in its standard state)\nΔHf°(CO2) = -393.5 kJ/mol\nΔHf°(H2O) = -285.8 kJ/mol\n\nUsing Hess's Law, the standard enthalpy change for the combustion of methane (ΔHc°) can be calculated as:\n\nΔHc° = [ΔHf°(CO2) + 2 × ΔHf°(H2O)] - [ΔHf°(CH4) + 2 × ΔHf°(O2)]\n\nΔHc° = [-393.5 + 2 × (-285.8)] - [-74.8 + 2 × 0]\n\nΔHc° = (-393.5 - 571.6) - (-74.8)\n\nΔHc° = -965.1 + 74.8\n\nΔHc° = -890.3 kJ/mol\n\nTherefore, the standard enthalpy change for the combustion of methane (CH4) at 298 K and 1 atm pressure is -890.3 kJ/mol."
+}

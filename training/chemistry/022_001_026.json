@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Balancing chemical equations",
+    "message_1": "Balance the following chemical equation: \n\nFe + O2 → Fe2O3",
+    "message_2": "To balance the chemical equation, we need to make sure that the number of atoms of each element on the reactant side is equal to the number of atoms on the product side.\n\nFe + O2 → Fe2O3\n\nFirst, balance the iron (Fe) atoms:\n4Fe + O2 → 2Fe2O3\n\nNow, balance the oxygen (O) atoms:\n4Fe + 3O2 → 2Fe2O3\n\nThe balanced chemical equation is:\n\n4Fe + 3O2 → 2Fe2O3"
+}

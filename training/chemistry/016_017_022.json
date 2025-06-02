@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of oxidation calculations",
+    "message_1": "Calculate the enthalpy change of combustion for the reaction of methane (CH4) when 1.25 moles of methane is completely burnt in excess oxygen gas at standard conditions, given that the enthalpy change of combustion for methane is -890.3 kJ/mol.",
+    "message_2": "To calculate the enthalpy change of combustion for the reaction of methane when 1.25 moles of methane is burnt, we can use the given enthalpy change of combustion for methane and multiply it by the number of moles.\n\nEnthalpy change of combustion for methane = -890.3 kJ/mol\nNumber of moles of methane = 1.25 moles\n\nEnthalpy change for 1.25 moles of methane = (enthalpy change of combustion for methane) × (number of moles)\nEnthalpy change for 1.25 moles of methane = (-890.3 kJ/mol) × (1.25 moles)\n\nEnthalpy change for 1.25 moles of methane = -1112.875 kJ\n\nSo, the enthalpy change of combustion for the reaction of methane when 1.25 moles of methane is completely burnt in excess oxygen gas at standard conditions is -1112.875 kJ."
+}

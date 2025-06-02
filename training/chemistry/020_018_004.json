@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of changing the concentration of ligands on the formation of a complex ion",
+    "message_1": "What is the change in equilibrium concentration of a complex ion (FeCN$_6^{4-}$) in a 1.0 M iron (III) chloride solution when 0.25 moles of potassium cyanide (KCN) is added? The K$_{eq}$ value for the formation of FeCN$_6^{4-}$ is 1.2 x 10$^{20}$.",
+    "message_2": "To solve this problem, we need to set up an ICE (Initial, Change, Equilibrium) table for the reaction:\n\nFe³⁺ + 6CN⁻ ⇌ Fe(CN)₆⁴⁻\n\nInitial concentrations:\n[Fe³⁺] = 1.0 M\n[CN⁻] = 0.25 moles\n[Fe(CN)₆⁴⁻] = 0 M\n\nChange in concentrations:\n[Fe³⁺] = -x\n[CN⁻] = -6x\n[Fe(CN)₆⁴⁻] = +x\n\nEquilibrium concentrations:\n[Fe³⁺] = 1.0 - x\n[CN⁻] = 0.25 - 6x\n[Fe(CN)₆⁴⁻] = x\n\nNow we can use the K_eq value to set up the equilibrium expression:\n\nK_eq = [Fe(CN)₆⁴⁻] / ([Fe³⁺][CN⁻]⁶) = 1.2 x 10²⁰\n\nSubstitute the equilibrium concentrations into the expression:\n\n1.2 x 10²⁰ = x / ((1.0 - x)(0.25 - 6x)⁶)\n\nThis equation is difficult to solve analytically, so we can make an approximation by assuming that x is much smaller than 1.0 and 0.25:\n\n1.2 x 10²⁰ ≈ x / (1.0 * 0.25⁶)\n\nNow we can solve for x:\n\nx ≈ 1.2 x 10²⁰ * 1.0 * 0.25⁶\nx ≈ 3.814 x 10⁻² M\n\nSo, the change in equilibrium concentration of Fe(CN)₆⁴⁻ is approximately 3.814 x 10⁻² M."
+}

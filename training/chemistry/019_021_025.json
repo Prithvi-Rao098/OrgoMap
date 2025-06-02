@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving solids",
+    "message_1": "Calculate the standard enthalpy change for the following reaction:\n2Fe(s) + 3/2O2(g) → Fe2O3(s)\nGiven that the standard enthalpy of formation of Fe2O3(s) is -824 kJ/mol and the standard enthalpy of formation of Fe(s) and O2(g) are 0 kJ/mol.",
+    "message_2": "To calculate the standard enthalpy change for the reaction, we can use the following formula:\n\nΔH°(reaction) = Σ ΔH°f(products) - Σ ΔH°f(reactants)\n\nIn this case, the reactants are 2 moles of Fe(s) and 3/2 moles of O2(g), and the product is 1 mole of Fe2O3(s). The standard enthalpy of formation (ΔH°f) for Fe(s) and O2(g) are both 0 kJ/mol, and the ΔH°f for Fe2O3(s) is -824 kJ/mol.\n\nΔH°(reaction) = [1 mol × (-824 kJ/mol)] - [2 mol × 0 kJ/mol + (3/2) mol × 0 kJ/mol]\n\nΔH°(reaction) = -824 kJ/mol - 0 kJ/mol\n\nΔH°(reaction) = -824 kJ/mol\n\nSo, the standard enthalpy change for the reaction is -824 kJ/mol."
+}

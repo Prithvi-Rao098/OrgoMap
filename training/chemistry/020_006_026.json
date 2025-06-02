@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of changing the temperature on the equilibrium constant",
+    "message_1": "What is the new equilibrium constant for the reaction N<sub>2</sub> (g) + 3H<sub>2</sub> (g) ⇌ 2NH<sub>3</sub> (g) if the initial equilibrium constant is 4.34 x 10<sup>-3</sup> and the reaction is performed at a lower temperature resulting in a decrease in the value of the equilibrium constant by a factor of 2.5?",
+    "message_2": "To find the new equilibrium constant, we need to divide the initial equilibrium constant by the factor of decrease due to the lower temperature.\n\nInitial equilibrium constant (K1) = 4.34 x 10^-3\nFactor of decrease = 2.5\n\nNew equilibrium constant (K2) = K1 / Factor of decrease\nK2 = (4.34 x 10^-3) / 2.5\n\nK2 = 1.736 x 10^-3\n\nThe new equilibrium constant for the reaction at the lower temperature is 1.736 x 10^-3."
+}

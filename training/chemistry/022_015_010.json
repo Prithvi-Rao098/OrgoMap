@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Percent yield problems",
+    "message_1": "A student conducted an experiment to produce copper sulfate using a known amount of copper oxide and sulfuric acid. The expected yield was 30 grams of copper sulfate, but the student obtained only 25 grams. What is the percent yield of the reaction?",
+    "message_2": "The percent yield of a reaction can be calculated using the following formula:\n\nPercent Yield = (Actual Yield / Theoretical Yield) × 100\n\nIn this case, the actual yield is 25 grams, and the theoretical yield is 30 grams. Plugging these values into the formula:\n\nPercent Yield = (25 grams / 30 grams) × 100\n\nPercent Yield = (0.8333) × 100\n\nPercent Yield ≈ 83.33%\n\nThe percent yield of the reaction is approximately 83.33%."
+}

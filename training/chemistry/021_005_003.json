@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the polarity of a bond",
+    "message_1": "What is the polarity of the bond between nitrogen and fluorine in the molecule NF3?",
+    "message_2": "The polarity of a bond is determined by the difference in electronegativity between the two atoms involved. In the case of nitrogen (N) and fluorine (F) in the molecule NF3, the electronegativity values are 3.04 for nitrogen and 3.98 for fluorine.\n\nThe difference in electronegativity between nitrogen and fluorine is 3.98 - 3.04 = 0.94. Since the electronegativity difference is greater than 0.5, the bond between nitrogen and fluorine in NF3 is considered to be polar. This means that there is an unequal distribution of electron density, with fluorine being more electronegative and attracting the electrons more strongly than nitrogen."
+}

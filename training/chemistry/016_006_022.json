@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of reaction calculations",
+    "message_1": "What is the enthalpy change (in kJ/mol) for the combustion of methane, CH4(g), given the following thermochemical equation:\n\nCH4(g) + 2 O2(g) -> CO2(g) + 2 H2O(l)\nΔHrxn = -890.3 kJ/mol",
+    "message_2": "The enthalpy change (ΔH) for the combustion of methane, CH4(g), is given in the thermochemical equation:\n\nCH4(g) + 2 O2(g) -> CO2(g) + 2 H2O(l)\nΔHrxn = -890.3 kJ/mol\n\nThis means that the enthalpy change for the combustion of methane is -890.3 kJ/mol."
+}

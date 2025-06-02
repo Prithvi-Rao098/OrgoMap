@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Determining the equilibrium constant for a reaction involving gases",
+    "message_1": "What is the equilibrium constant (Kc) for the reaction 2 SO2(g) + O2(g) ⇌ 2 SO3(g) at 25°C, if the equilibrium concentrations of SO2, O2 and SO3 are 0.12 M, 0.04 M and 0.16 M respectively?",
+    "message_2": "To find the equilibrium constant (Kc) for the given reaction, we can use the formula:\n\nKc = [SO3]^2 / ([SO2]^2 * [O2])\n\nwhere the concentrations of the species at equilibrium are given as:\n\n[SO2] = 0.12 M\n[O2] = 0.04 M\n[SO3] = 0.16 M\n\nNow, we can plug these values into the formula:\n\nKc = (0.16)^2 / ((0.12)^2 * (0.04))\n\nKc = 0.0256 / (0.0144 * 0.04)\n\nKc = 0.0256 / 0.000576\n\nKc ≈ 44.44\n\nSo, the equilibrium constant (Kc) for the reaction at 25°C is approximately 44.44."
+}

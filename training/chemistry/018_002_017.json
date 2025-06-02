@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical kinetics",
+    "sub_topic": "Calculating the rate constant for a reaction",
+    "message_1": "The decomposition of hydrogen peroxide in aqueous solution is a first-order reaction with a rate constant of 4.6 x 10^-4 s^-1 at 25°C. Calculate the time required for 75% of a 0.010 M solution of hydrogen peroxide to decompose at 25°C.",
+    "message_2": "To calculate the time required for 75% of a 0.010 M solution of hydrogen peroxide to decompose, we can use the first-order reaction equation:\n\nln([A]t / [A]0) = -kt\n\nwhere [A]t is the concentration of hydrogen peroxide at time t, [A]0 is the initial concentration of hydrogen peroxide, k is the rate constant, and t is the time.\n\nSince we want to find the time required for 75% decomposition, we can set [A]t to be 25% of the initial concentration:\n\n[A]t = 0.25 * [A]0\n\nNow we can plug in the values and solve for t:\n\nln(0.25 * 0.010 M / 0.010 M) = - (4.6 x 10^-4 s^-1) * t\n\nln(0.25) = - (4.6 x 10^-4 s^-1) * t\n\nt = ln(0.25) / - (4.6 x 10^-4 s^-1)\n\nt ≈ 3012.6 s\n\nSo, it takes approximately 3012.6 seconds for 75% of the 0.010 M solution of hydrogen peroxide to decompose at 25°C."
+}

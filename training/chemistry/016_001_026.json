@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of formation calculations",
+    "message_1": "Calculate the enthalpy of formation of water (H2O) given the enthalpies of formation of hydrogen gas (H2) and oxygen gas (O2) are -286 kJ/mol and 0 kJ/mol, respectively.",
+    "message_2": "The enthalpy of formation of water (H2O) can be calculated using the following balanced chemical equation:\n\nH2 (g) + 1/2 O2 (g) → H2O (l)\n\nThe enthalpy of formation (ΔHf) of a compound is the change in enthalpy when 1 mole of the compound is formed from its constituent elements in their standard states. In this case, we are given the enthalpies of formation for hydrogen gas (H2) and oxygen gas (O2), which are -286 kJ/mol and 0 kJ/mol, respectively.\n\nSince the enthalpy of formation of the elements in their standard states is zero, we can use the following equation to calculate the enthalpy of formation of water:\n\nΔHf (H2O) = ΔHf (H2) + 1/2 ΔHf (O2)\n\nΔHf (H2O) = -286 kJ/mol + 1/2 (0 kJ/mol)\n\nΔHf (H2O) = -286 kJ/mol\n\nTherefore, the enthalpy of formation of water (H2O) is -286 kJ/mol."
+}

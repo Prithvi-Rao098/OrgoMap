@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Titration problems.",
+    "message_1": "What is the concentration of a sulfuric acid solution if it took 23.45 mL of 0.105 M sodium hydroxide to completely neutralize 15.25 mL of the acid solution during a titration?",
+    "message_2": "To find the concentration of the sulfuric acid solution, we can use the concept of stoichiometry and the balanced chemical equation for the reaction between sulfuric acid (H2SO4) and sodium hydroxide (NaOH):\n\nH2SO4 + 2NaOH → Na2SO4 + 2H2O\n\nFrom the balanced equation, we can see that 1 mole of H2SO4 reacts with 2 moles of NaOH. \n\nFirst, we need to find the moles of sodium hydroxide used in the reaction:\n\nmoles of NaOH = volume (L) × concentration (M)\nmoles of NaOH = 23.45 mL × (1 L / 1000 mL) × 0.105 M\nmoles of NaOH = 0.00246025 mol\n\nNow, we can use the stoichiometry from the balanced equation to find the moles of H2SO4:\n\nmoles of H2SO4 = moles of NaOH × (1 mol H2SO4 / 2 mol NaOH)\nmoles of H2SO4 = 0.00246025 mol × (1/2)\nmoles of H2SO4 = 0.001230125 mol\n\nFinally, we can find the concentration of the sulfuric acid solution:\n\nconcentration (M) = moles of H2SO4 / volume (L)\nconcentration (M) = 0.001230125 mol / (15.25 mL × (1 L / 1000 mL))\nconcentration (M) = 0.08065 M\n\nThe concentration of the sulfuric acid solution is approximately 0.08065 M."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Single replacement reactions",
+    "message_1": "Which metal can replace copper in a single replacement reaction with copper sulfate? Provide the chemical equation for the reaction and explain why this metal can displace copper.",
+    "message_2": "Zinc can replace copper in a single replacement reaction with copper sulfate. The chemical equation for the reaction is:\n\nZn (s) + CuSO4 (aq) → ZnSO4 (aq) + Cu (s)\n\nZinc can displace copper in this reaction because it is more reactive than copper. According to the reactivity series of metals, a more reactive metal can displace a less reactive metal from its salt solution. In this case, zinc is higher in the reactivity series than copper, so it can replace copper in the copper sulfate solution, forming zinc sulfate and solid copper."
+}

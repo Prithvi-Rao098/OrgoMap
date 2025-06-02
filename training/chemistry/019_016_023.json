@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a vaporization reaction",
+    "message_1": "Sure, here's a question for the student to solve:\n\nWhat is the standard enthalpy change for the vaporization of methane given that its heat of vaporization is 8.18 kJ/mol and its standard enthalpy of formation is -74.87 kJ/mol?",
+    "message_2": "To find the standard enthalpy change for the vaporization of methane, we need to consider the heat of vaporization. The heat of vaporization is the energy required to convert a substance from its liquid phase to its gas phase at a constant temperature and pressure. In this case, the heat of vaporization for methane is given as 8.18 kJ/mol.\n\nThe standard enthalpy of formation is the energy change when one mole of a substance is formed from its constituent elements in their standard states. However, this value is not directly relevant to the vaporization process.\n\nTherefore, the standard enthalpy change for the vaporization of methane is simply equal to its heat of vaporization, which is 8.18 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Combustion reactions",
+    "message_1": "What is the balanced chemical equation for the combustion of ethane (C2H6) in the presence of excess oxygen, and what is the amount of carbon dioxide produced if 5 moles of ethane are burned?",
+    "message_2": "The balanced chemical equation for the combustion of ethane (C2H6) in the presence of excess oxygen is:\n\nC2H6 + 7/2 O2 → 2 CO2 + 3 H2O\n\nFrom the balanced equation, we can see that 1 mole of ethane (C2H6) produces 2 moles of carbon dioxide (CO2). \n\nIf 5 moles of ethane are burned, the amount of carbon dioxide produced can be calculated as follows:\n\n5 moles C2H6 × (2 moles CO2 / 1 mole C2H6) = 10 moles CO2\n\nSo, 10 moles of carbon dioxide will be produced when 5 moles of ethane are burned."
+}

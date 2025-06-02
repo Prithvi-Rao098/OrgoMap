@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of adding a catalyst on the equilibrium position of a redox reaction",
+    "message_1": "What is the effect of adding a catalyst on the equilibrium position of a redox reaction between hydrogen peroxide and iodide ions? Calculate the new equilibrium constant and predict the direction of the shift in equilibrium.",
+    "message_2": "Adding a catalyst to a reaction does not affect the equilibrium position or the equilibrium constant (K) of the reaction. A catalyst works by lowering the activation energy of the reaction, which speeds up the rate at which the reaction reaches equilibrium. However, the catalyst does not change the relative concentrations of reactants and products at equilibrium.\n\nIn the redox reaction between hydrogen peroxide (H2O2) and iodide ions (I-), the equilibrium constant (K) remains the same with or without the catalyst. The reaction is as follows:\n\n2 I- (aq) + H2O2 (aq) -> I2 (aq) + 2 H2O (l)\n\nSince the catalyst does not affect the equilibrium constant, there is no need to calculate a new equilibrium constant. The direction of the shift in equilibrium also remains unchanged, as the catalyst does not favor either the forward or reverse reaction. The only effect of the catalyst is to increase the rate at which the reaction reaches equilibrium."
+}

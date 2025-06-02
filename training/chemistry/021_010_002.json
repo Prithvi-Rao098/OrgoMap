@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the bond enthalpy of a molecule",
+    "message_1": "What is the bond enthalpy of a carbon-hydrogen (C-H) bond in methane (CH4), given that the energy required to break a mole of C-H bonds in methane is 413 kJ/mol?",
+    "message_2": "The bond enthalpy of a carbon-hydrogen (C-H) bond in methane (CH4) can be determined by dividing the energy required to break a mole of C-H bonds in methane by the number of C-H bonds in a molecule of methane.\n\nMethane has 4 C-H bonds in its structure. Given that the energy required to break a mole of C-H bonds in methane is 413 kJ/mol, we can calculate the bond enthalpy as follows:\n\nBond enthalpy of C-H bond = (Energy required to break a mole of C-H bonds) / (Number of C-H bonds in a molecule of methane)\n\nBond enthalpy of C-H bond = 413 kJ/mol / 4\n\nBond enthalpy of C-H bond = 103.25 kJ/mol\n\nTherefore, the bond enthalpy of a carbon-hydrogen (C-H) bond in methane (CH4) is 103.25 kJ/mol."
+}

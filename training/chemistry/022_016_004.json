@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Enthalpy of reaction calculations",
+    "message_1": "Sure! Here's a precise problem for the student:\n\nThe combustion of 2.50 grams of methane (CH4) gave off 119.1 kJ of heat. Calculate the enthalpy change for the combustion of one mole of methane at constant pressure.",
+    "message_2": "To calculate the enthalpy change for the combustion of one mole of methane, we first need to determine the number of moles of methane in 2.50 grams.\n\nThe molar mass of methane (CH4) is:\nC: 12.01 g/mol\nH: 1.01 g/mol\n\nMolar mass of CH4 = 12.01 + (4 × 1.01) = 16.05 g/mol\n\nNow, we can find the number of moles of methane in 2.50 grams:\nmoles of CH4 = mass / molar mass\nmoles of CH4 = 2.50 g / 16.05 g/mol = 0.1558 mol\n\nWe know that the combustion of 0.1558 moles of methane releases 119.1 kJ of heat. To find the enthalpy change for the combustion of one mole of methane, we can use the following equation:\n\nΔH = heat released / moles of CH4\nΔH = 119.1 kJ / 0.1558 mol = 764.3 kJ/mol\n\nTherefore, the enthalpy change for the combustion of one mole of methane at constant pressure is -764.3 kJ/mol. The negative sign indicates that the reaction is exothermic, meaning it releases heat."
+}

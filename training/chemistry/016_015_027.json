@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of crystallization calculations",
+    "message_1": "Calculate the amount of heat that needs to be absorbed to crystallize 100 grams of sodium acetate (CH3COONa) from a saturated solution at 40°C. The heat of crystallization for sodium acetate is -264 kJ/mol.",
+    "message_2": "To calculate the amount of heat that needs to be absorbed to crystallize 100 grams of sodium acetate, we first need to determine the number of moles of sodium acetate present in 100 grams. \n\nThe molecular weight of sodium acetate (CH3COONa) is:\nC: 12.01 g/mol (x 2) = 24.02 g/mol\nH: 1.01 g/mol (x 3) = 3.03 g/mol\nO: 16.00 g/mol (x 2) = 32.00 g/mol\nNa: 22.99 g/mol = 22.99 g/mol\n\nTotal molecular weight = 24.02 + 3.03 + 32.00 + 22.99 = 82.04 g/mol\n\nNow, we can calculate the number of moles in 100 grams of sodium acetate:\nmoles = mass / molecular weight\nmoles = 100 g / 82.04 g/mol = 1.219 moles\n\nSince the heat of crystallization for sodium acetate is -264 kJ/mol, the amount of heat that needs to be absorbed to crystallize 1 mole of sodium acetate is 264 kJ. \n\nTo calculate the amount of heat needed to crystallize 1.219 moles of sodium acetate, we can use the following equation:\n\nHeat absorbed = moles × heat of crystallization per mole\nHeat absorbed = 1.219 moles × 264 kJ/mol = 321.81 kJ\n\nTherefore, 321.81 kJ of heat needs to be absorbed to crystallize 100 grams of sodium acetate from a saturated solution at 40°C."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Neutralization reactions",
+    "message_1": "What volume of 0.2 M hydrochloric acid (HCl) is required to completely react with 25 mL of 0.15 M sodium hydroxide (NaOH) in a neutralization reaction?",
+    "message_2": "To solve this problem, we can use the concept of moles and the balanced chemical equation for the neutralization reaction between hydrochloric acid (HCl) and sodium hydroxide (NaOH):\n\nHCl + NaOH → NaCl + H2O\n\nFrom the balanced equation, we can see that 1 mole of HCl reacts with 1 mole of NaOH.\n\nFirst, we need to find the moles of NaOH in the 25 mL of 0.15 M solution:\n\nmoles of NaOH = Molarity × Volume\nmoles of NaOH = 0.15 mol/L × 0.025 L = 0.00375 mol\n\nSince the mole ratio of HCl to NaOH is 1:1, we need the same number of moles of HCl to react completely with NaOH:\n\nmoles of HCl = 0.00375 mol\n\nNow, we can find the volume of 0.2 M HCl solution required to provide 0.00375 mol of HCl:\n\nVolume = moles of HCl / Molarity\nVolume = 0.00375 mol / 0.2 mol/L = 0.01875 L\n\nTo convert this volume to milliliters, we can multiply by 1000:\n\nVolume = 0.01875 L × 1000 = 18.75 mL\n\nSo, 18.75 mL of 0.2 M hydrochloric acid is required to completely react with 25 mL of 0.15 M sodium hydroxide in a neutralization reaction."
+}

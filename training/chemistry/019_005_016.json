@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of Gibbs free energy change for a chemical reaction",
+    "message_1": "Calculate the Gibbs free energy change (ΔG) for the reaction:\n\nN2(g) + 3H2(g) ⇌ 2NH3(g)\n\nGiven the standard Gibbs free energy of formation (ΔG°f) values at 298 K are:\n\nΔG°f of NH3(g) = -16.6 kJ/mol\nΔG°f of N2(g) = 0 kJ/mol\nΔG°f of H2(g) = 0 kJ/mol\n\nAssume ideal gas behavior for all gases involved in the reaction.",
+    "message_2": "To calculate the Gibbs free energy change (ΔG) for the reaction, we can use the following equation:\n\nΔG = ΔG°f(products) - ΔG°f(reactants)\n\nFor the given reaction:\n\nN2(g) + 3H2(g) ⇌ 2NH3(g)\n\nThe products are 2 moles of NH3(g) and the reactants are 1 mole of N2(g) and 3 moles of H2(g). Using the given standard Gibbs free energy of formation (ΔG°f) values, we can calculate ΔG:\n\nΔG = [2 * ΔG°f(NH3)] - [ΔG°f(N2) + 3 * ΔG°f(H2)]\n\nΔG = [2 * (-16.6 kJ/mol)] - [0 kJ/mol + 3 * 0 kJ/mol]\n\nΔG = (-33.2 kJ/mol) - 0\n\nΔG = -33.2 kJ/mol\n\nSo, the Gibbs free energy change (ΔG) for the reaction is -33.2 kJ/mol."
+}

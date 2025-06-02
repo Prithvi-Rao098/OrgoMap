@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of entropy change for a chemical reaction",
+    "message_1": "Determine the entropy change for the combustion of methane gas (CH4) at constant pressure and 298 K. Given the standard molar entropy values are: S°(CH4) = 186 J/mol.K, S°(O2) = 205 J/mol.K, S°(CO2) = 214 J/mol.K and S°(H2O) = 188 J/mol.K.",
+    "message_2": "To determine the entropy change for the combustion of methane gas, we first need to write the balanced chemical equation for the combustion reaction:\n\nCH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g)\n\nNow, we can calculate the entropy change (ΔS) using the standard molar entropy values provided:\n\nΔS = ΣS°(products) - ΣS°(reactants)\n\nΔS = [1 mol CO₂ × S°(CO₂) + 2 mol H₂O × S°(H₂O)] - [1 mol CH₄ × S°(CH₄) + 2 mol O₂ × S°(O₂)]\n\nΔS = [1 mol × 214 J/mol.K + 2 mol × 188 J/mol.K] - [1 mol × 186 J/mol.K + 2 mol × 205 J/mol.K]\n\nΔS = [214 J + 376 J] - [186 J + 410 J]\n\nΔS = 590 J - 596 J\n\nΔS = -6 J/mol.K\n\nThe entropy change for the combustion of methane gas at constant pressure and 298 K is -6 J/mol.K."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Hess's Law problems",
+    "message_1": "Sure, here's a question for the student:\n\nWhen 5.00 g of Mg reacts with excess HCl to produce MgCl2 and H2, 206 kJ of heat is released. When 7.00 g of Mg reacts with excess HCl to produce MgCl2 and H2, 289 kJ of heat is released. Calculate the enthalpy change for the reaction: \n\nMg (s) + 2HCl (aq) -> MgCl2 (aq) + H2 (g) \n\nNote: This question involves the use of Hess's Law to calculate the enthalpy change for a chemical reaction, based on the enthalpy changes of other related reactions.",
+    "message_2": "To calculate the enthalpy change for the reaction, we first need to determine the moles of Mg involved in each reaction and then calculate the enthalpy change per mole of Mg.\n\n1. Calculate the moles of Mg in each reaction:\nMg has a molar mass of 24.31 g/mol.\n\nFor 5.00 g of Mg:\nmoles of Mg = mass / molar mass = 5.00 g / 24.31 g/mol = 0.2056 mol\n\nFor 7.00 g of Mg:\nmoles of Mg = mass / molar mass = 7.00 g / 24.31 g/mol = 0.2879 mol\n\n2. Calculate the enthalpy change per mole of Mg for each reaction:\n\nFor 5.00 g of Mg:\nΔH1 = -206 kJ / 0.2056 mol = -1001 kJ/mol\n\nFor 7.00 g of Mg:\nΔH2 = -289 kJ / 0.2879 mol = -1003 kJ/mol\n\n3. Calculate the average enthalpy change per mole of Mg:\n\nΔH_avg = (ΔH1 + ΔH2) / 2 = (-1001 kJ/mol + -1003 kJ/mol) / 2 = -1002 kJ/mol\n\nTherefore, the enthalpy change for the reaction Mg (s) + 2HCl (aq) -> MgCl2 (aq) + H2 (g) is approximately -1002 kJ/mol."
+}

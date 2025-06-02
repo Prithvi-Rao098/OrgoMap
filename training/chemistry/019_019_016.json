@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving gases",
+    "message_1": "Calculate the standard enthalpy change (ΔH°) for the following reaction at 298 K:\n2SO₂(g) + O₂(g) → 2SO₃(g)\ngiven the following standard enthalpy of formation values:\nΔH°f (SO₂(g)) = -296.8 kJ/mol\nΔH°f (O₂(g)) = 0 kJ/mol\nΔH°f (SO₃(g)) = -395.7 kJ/mol",
+    "message_2": "To calculate the standard enthalpy change (ΔH°) for the reaction, we can use the formula:\n\nΔH° = Σ ΔH°f (products) - Σ ΔH°f (reactants)\n\nFor the given reaction:\n\n2SO₂(g) + O₂(g) → 2SO₃(g)\n\nThe enthalpy change (ΔH°) can be calculated as follows:\n\nΔH° = [2 × ΔH°f (SO₃(g))] - [2 × ΔH°f (SO₂(g)) + ΔH°f (O₂(g))]\n\nSubstitute the given values:\n\nΔH° = [2 × (-395.7 kJ/mol)] - [2 × (-296.8 kJ/mol) + 0 kJ/mol]\n\nΔH° = (-791.4 kJ) - (-593.6 kJ)\n\nΔH° = -197.8 kJ\n\nThe standard enthalpy change (ΔH°) for the reaction is -197.8 kJ."
+}

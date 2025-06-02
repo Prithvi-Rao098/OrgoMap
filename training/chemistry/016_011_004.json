@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of mixing calculations",
+    "message_1": "What is the heat of mixing when 25 mL of 1.0 M HCl solution is added to 25 mL of 1.0 M NaOH solution at 25°C? The heat of neutralization for the reaction between HCl and NaOH is -57.1 kJ/mol.",
+    "message_2": "To calculate the heat of mixing, we need to first determine the number of moles of HCl and NaOH reacting in the solution.\n\nMoles of HCl = (volume in L) × (concentration in mol/L)\nMoles of HCl = (25 mL × (1 L/1000 mL)) × (1.0 mol/L) = 0.025 mol\n\nMoles of NaOH = (volume in L) × (concentration in mol/L)\nMoles of NaOH = (25 mL × (1 L/1000 mL)) × (1.0 mol/L) = 0.025 mol\n\nSince the moles of HCl and NaOH are equal, the reaction will go to completion and all of the HCl and NaOH will react.\n\nNow, we can use the heat of neutralization to calculate the heat of mixing.\n\nHeat of mixing = (moles of HCl) × (heat of neutralization)\nHeat of mixing = (0.025 mol) × (-57.1 kJ/mol) = -1.4275 kJ\n\nThe heat of mixing when 25 mL of 1.0 M HCl solution is added to 25 mL of 1.0 M NaOH solution at 25°C is -1.4275 kJ."
+}

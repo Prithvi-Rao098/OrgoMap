@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of sublimation calculations",
+    "message_1": "What is the heat of sublimation of carbon dioxide (CO2) if 50 g solid CO2 is completely converted into gas phase without changing the temperature and pressure conditions? Given: The molar heat of sublimation of CO2 is 25.2 kJ/mol.",
+    "message_2": "To calculate the heat of sublimation for the given amount of CO2, we first need to determine the number of moles of CO2. The molar mass of CO2 is approximately 44.01 g/mol (12.01 g/mol for carbon and 2 * 16.00 g/mol for oxygen).\n\nNumber of moles of CO2 = (mass of CO2) / (molar mass of CO2)\nNumber of moles of CO2 = 50 g / 44.01 g/mol = 1.136 moles\n\nNow, we can use the molar heat of sublimation to find the total heat of sublimation for the given amount of CO2.\n\nHeat of sublimation = (number of moles of CO2) * (molar heat of sublimation)\nHeat of sublimation = 1.136 moles * 25.2 kJ/mol = 28.62 kJ\n\nTherefore, the heat of sublimation of 50 g of carbon dioxide is approximately 28.62 kJ."
+}

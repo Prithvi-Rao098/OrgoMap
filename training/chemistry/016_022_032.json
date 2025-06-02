@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of isomerization calculations",
+    "message_1": "Sure! Here's a precise problem a chemistry student can solve:\n\nCalculate the enthalpy change for the isomerization of but-2-ene to 2-methylpropene given the following bond dissociation energy values:\n\nC-C single bond = 356 kJ/mol\n\nC=C double bond = 612 kJ/mol\n\nC-H bond = 413 kJ/mol\n\nHint: Make sure to draw the molecular structure of but-2-ene and 2-methylpropene to determine the bonds broken and formed during the isomerization process, then use bond dissociation energy values to calculate the enthalpy change.",
+    "message_2": "First, let's draw the molecular structures of but-2-ene and 2-methylpropene:\n\nBut-2-ene: H2C=CH-CH2-CH3\n2-methylpropene: H2C=C(CH3)-CH3\n\nNow, let's determine the bonds broken and formed during the isomerization process:\n\nBonds broken in but-2-ene:\n1 C=C double bond\n5 C-H bonds\n2 C-C single bonds\n\nBonds formed in 2-methylpropene:\n1 C=C double bond\n6 C-H bonds\n1 C-C single bond\n\nNow, we can use the bond dissociation energy values to calculate the enthalpy change:\n\nEnthalpy change = Σ(bonds broken) - Σ(bonds formed)\n\nEnthalpy change = [(1 × 612) + (5 × 413) + (2 × 356)] - [(1 × 612) + (6 × 413) + (1 × 356)]\n\nEnthalpy change = (612 + 2065 + 712) - (612 + 2478 + 356)\n\nEnthalpy change = 3389 - 3446\n\nEnthalpy change = -57 kJ/mol\n\nThe enthalpy change for the isomerization of but-2-ene to 2-methylpropene is -57 kJ/mol."
+}

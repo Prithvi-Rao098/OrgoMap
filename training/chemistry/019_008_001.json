@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard electrode potential for a redox reaction",
+    "message_1": "Calculate the standard electrode potential for the following redox reaction at 298K:\n\nFe3+(aq) + e- → Fe2+(aq) \n\nGiven the E°(Fe3+/Fe2+) = +0.77V.",
+    "message_2": "The standard electrode potential (E°) for the given redox reaction is already provided:\n\nFe3+(aq) + e- → Fe2+(aq)\n\nE°(Fe3+/Fe2+) = +0.77V\n\nTherefore, the standard electrode potential for this reaction at 298K is +0.77V."
+}

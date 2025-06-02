@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Acid-base reactions",
+    "message_1": "What is the balanced chemical equation for the reaction between hydrochloric acid (HCl) and sodium hydroxide (NaOH), and how many moles of sodium chloride (NaCl) will be produced when 50 mL of 0.1 M HCl is reacted with excess NaOH?",
+    "message_2": "The balanced chemical equation for the reaction between hydrochloric acid (HCl) and sodium hydroxide (NaOH) is:\n\nHCl (aq) + NaOH (aq) → NaCl (aq) + H2O (l)\n\nTo find the moles of sodium chloride (NaCl) produced, we first need to determine the moles of hydrochloric acid (HCl) in the 50 mL of 0.1 M solution:\n\nmoles of HCl = (volume in L) × (molarity)\nmoles of HCl = (50 mL × (1 L / 1000 mL)) × 0.1 M\nmoles of HCl = 0.005 moles\n\nSince the reaction between HCl and NaOH is a 1:1 ratio, the moles of NaCl produced will be equal to the moles of HCl reacted:\n\nmoles of NaCl = moles of HCl\nmoles of NaCl = 0.005 moles\n\nSo, 0.005 moles of sodium chloride (NaCl) will be produced when 50 mL of 0.1 M HCl is reacted with excess NaOH."
+}

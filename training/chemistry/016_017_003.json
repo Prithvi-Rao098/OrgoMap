@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of oxidation calculations",
+    "message_1": "Calculate the enthalpy of oxidation for the reaction of 2 moles of magnesium (Mg) with 1 mole of oxygen gas (O2) under standard conditions. Given the standard enthalpy of formation (ΔH°f) of MgO is -601.8 kJ/mol.",
+    "message_2": "To calculate the enthalpy of oxidation for the reaction of 2 moles of magnesium with 1 mole of oxygen gas, we can use the following balanced chemical equation:\n\n2 Mg (s) + O₂ (g) → 2 MgO (s)\n\nNext, we can use the standard enthalpy of formation (ΔH°f) of MgO, which is given as -601.8 kJ/mol. The standard enthalpy of formation for elements in their standard states (Mg and O₂) is zero.\n\nThe enthalpy change for the reaction (ΔH°rxn) can be calculated using the following equation:\n\nΔH°rxn = Σ [ΔH°f (products)] - Σ [ΔH°f (reactants)]\n\nFor this reaction, we have:\n\nΔH°rxn = [2 × ΔH°f (MgO)] - [2 × ΔH°f (Mg) + ΔH°f (O₂)]\n\nSince the standard enthalpy of formation for Mg and O₂ is zero, the equation becomes:\n\nΔH°rxn = [2 × (-601.8 kJ/mol)] - [0]\n\nΔH°rxn = -1203.6 kJ\n\nTherefore, the enthalpy of oxidation for the reaction of 2 moles of magnesium with 1 mole of oxygen gas under standard conditions is -1203.6 kJ."
+}

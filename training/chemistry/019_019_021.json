@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving gases",
+    "message_1": "How much heat energy is released or absorbed when 4 moles of carbon monoxide combine with 6 moles of hydrogen gas to form 4 moles of methane gas and 2 moles of water vapor at standard conditions? Use the given standard enthalpy values of -110.5 kJ/mol for CO and -241.8 kJ/mol for H2 for the calculation.",
+    "message_2": "To calculate the heat energy released or absorbed during a chemical reaction, we can use the following equation:\n\nΔH = Σ ΔH(products) - Σ ΔH(reactants)\n\nwhere ΔH is the change in enthalpy (heat energy) and the standard enthalpy values for each substance are given.\n\nFirst, let's write the balanced chemical equation for the reaction:\n\n2CO + 6H2 → 4CH4 + 2H2O\n\nNow, we need to find the standard enthalpy values for the products, methane (CH4) and water vapor (H2O). The standard enthalpy of formation for methane is -74.8 kJ/mol, and for water vapor, it is -241.8 kJ/mol.\n\nNext, we'll use the equation to calculate the heat energy released or absorbed:\n\nΔH = [4(-74.8) + 2(-241.8)] - [2(-110.5) + 6(-241.8)]\n\nΔH = [-299.2 - 483.6] - [-221 + (-1450.8)]\n\nΔH = (-782.8) - (-1671.8)\n\nΔH = 889 kJ\n\nSince the value of ΔH is positive, 889 kJ of heat energy is absorbed during the reaction."
+}

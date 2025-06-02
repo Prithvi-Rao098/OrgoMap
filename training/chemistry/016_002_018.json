@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Hess's Law calculations",
+    "message_1": "What is the enthalpy change (in kJ/mol) for the combustion of propane (C3H8) using Hess's Law? Use the following information: \n\nC3H8 + 5O2 → 3CO2 + 4H2O ∆H = −2043 kJ/mol \n\n2CO + O2 → 2CO2 ∆H = −566 kJ/mol \n\nH2 + 1/2O2 → H2O ∆H = −285.8 kJ/mol",
+    "message_2": "The enthalpy change for the combustion of propane (C3H8) is already given in the information provided:\n\nC3H8 + 5O2 → 3CO2 + 4H2O ∆H = −2043 kJ/mol\n\nSo, the enthalpy change for the combustion of propane is -2043 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Le Chatelier's principle problems",
+    "message_1": "A chemistry student needs to determine the direction in which equilibrium will shift when the concentration of reactants in a reversible reaction is changed using Le Chatelier's principle. Given the reaction equation: 2SO2(g) + O2(g) ⇄ 2SO3(g), if the concentration of SO2 is increased, will the reaction shift to the left or right?",
+    "message_2": "When the concentration of SO2 is increased, according to Le Chatelier's principle, the reaction will shift in the direction that counteracts the change. In this case, the reaction will shift to the right, towards the formation of more SO3, in order to reduce the increased concentration of SO2."
+}

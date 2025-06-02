@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Acid dissociation constant calculations",
+    "message_1": "What is the acid dissociation constant (Ka) of a 0.25 M solution of acetic acid (CH3COOH) which has a pH of 2.89 at 25°C?",
+    "message_2": "To find the acid dissociation constant (Ka) of a 0.25 M solution of acetic acid (CH3COOH) with a pH of 2.89 at 25°C, we can use the following steps:\n\n1. Calculate the hydrogen ion concentration [H+] from the pH value:\npH = -log[H+]\n2.89 = -log[H+]\n[H+] = 10^(-2.89) = 1.29 x 10^(-3) M\n\n2. Write the dissociation equation for acetic acid:\nCH3COOH ⇌ CH3COO- + H+\n\n3. Set up an ICE (Initial, Change, Equilibrium) table to determine the equilibrium concentrations of the species involved in the dissociation:\n\n         CH3COOH   ⇌   CH3COO-   +   H+\nInitial:  0.25 M         0 M           0 M\nChange:  -x M           +x M         +x M\nEquilibrium: 0.25-x M    x M           x M\n\nSince [H+] = 1.29 x 10^(-3) M, we can assume that x = 1.29 x 10^(-3) M.\n\n4. Write the expression for Ka and plug in the equilibrium concentrations:\n\nKa = ([CH3COO-][H+])/[CH3COOH]\nKa = (1.29 x 10^(-3) M * 1.29 x 10^(-3) M) / (0.25 M - 1.29 x 10^(-3) M)\n\n5. Solve for Ka:\n\nKa ≈ (1.66 x 10^(-6)) / (0.2487)\nKa ≈ 6.68 x 10^(-5)\n\nThe acid dissociation constant (Ka) of the 0.25 M solution of acetic acid (CH3COOH) with a pH of 2.89 at 25°C is approximately 6.68 x 10^(-5)."
+}

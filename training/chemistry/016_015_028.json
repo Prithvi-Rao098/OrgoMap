@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of crystallization calculations",
+    "message_1": "Calculate the heat of crystallization of NaCl if 1786 kJ of heat is released when 5.00 moles of NaCl form from its elements in their standard states.",
+    "message_2": "To calculate the heat of crystallization of NaCl, we first need to determine the heat released per mole of NaCl formed from its elements in their standard states.\n\nGiven that 1786 kJ of heat is released when 5.00 moles of NaCl are formed, we can calculate the heat released per mole as follows:\n\nHeat released per mole = Total heat released / Number of moles\nHeat released per mole = 1786 kJ / 5.00 moles\nHeat released per mole = 357.2 kJ/mol\n\nTherefore, the heat of crystallization of NaCl is 357.2 kJ/mol."
+}

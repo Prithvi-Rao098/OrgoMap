@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of solution calculations",
+    "message_1": "What is the enthalpy of solution of 5 grams of ammonium nitrate in 100 grams of water at room temperature? Given the molar heat of solution for ammonium nitrate is -25.7 kJ/mol.",
+    "message_2": "To calculate the enthalpy of solution, we first need to determine the number of moles of ammonium nitrate (NH4NO3) in 5 grams. The molar mass of NH4NO3 is:\n\nMolar mass = (14.01 g/mol N * 2) + (1.01 g/mol H * 8) + (16.00 g/mol O * 3)\nMolar mass = 28.02 g/mol + 8.08 g/mol + 48.00 g/mol\nMolar mass = 80.10 g/mol\n\nNow, we can find the number of moles of NH4NO3 in 5 grams:\n\nmoles = mass / molar mass\nmoles = 5 g / 80.10 g/mol\nmoles = 0.06242 mol\n\nNow that we have the number of moles, we can calculate the enthalpy of solution using the given molar heat of solution:\n\nEnthalpy of solution = moles * molar heat of solution\nEnthalpy of solution = 0.06242 mol * (-25.7 kJ/mol)\nEnthalpy of solution = -1.603 kJ\n\nThe enthalpy of solution of 5 grams of ammonium nitrate in 100 grams of water at room temperature is approximately -1.603 kJ."
+}

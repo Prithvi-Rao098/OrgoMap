@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Acid dissociation constant calculations",
+    "message_1": "Calculate the pH of a 0.1 M solution of hydrochloric acid assuming complete dissociation. The acid dissociation constant (Ka) for HCl is 1.3 × 10^-6 at 25°C.",
+    "message_2": "Since hydrochloric acid (HCl) is a strong acid, it will completely dissociate in water. This means that the concentration of hydrogen ions (H+) will be equal to the initial concentration of HCl.\n\n[H+] = 0.1 M\n\nTo calculate the pH, we use the formula:\n\npH = -log10[H+]\n\npH = -log10(0.1)\n\npH = -(-1)\n\npH = 1\n\nSo, the pH of a 0.1 M solution of hydrochloric acid is 1."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of enthalpy change for a chemical reaction",
+    "message_1": "Calculate the standard enthalpy change for the combustion of methane gas using the following reaction: CH4(g) + 2O2(g) → CO2(g) + 2H2O(g). Given the standard enthalpy of formation values for methane, carbon dioxide, and water, calculate the heat released or absorbed during this reaction. Express your answer in kJ/mol.",
+    "message_2": "To calculate the standard enthalpy change for the combustion of methane gas, we need the standard enthalpy of formation values for methane (CH4), carbon dioxide (CO2), and water (H2O). Please provide these values."
+}

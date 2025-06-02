@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the bond dissociation energy of a molecule",
+    "message_1": "Calculate the bond dissociation energy of the carbon-hydrogen bond in methane (CH4) given that the bond enthalpy of C-H bond is 413 kJ/mol.",
+    "message_2": "The bond dissociation energy is the energy required to break a specific chemical bond, in this case, the carbon-hydrogen bond in methane (CH4). Since methane has 4 C-H bonds, we need to calculate the energy required to break one of these bonds.\n\nThe bond enthalpy of the C-H bond is given as 413 kJ/mol. This value represents the energy required to break one mole of C-H bonds. To find the bond dissociation energy for a single C-H bond in methane, we can simply use the given bond enthalpy value.\n\nThe bond dissociation energy of the carbon-hydrogen bond in methane (CH4) is 413 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Predicting the bond order of a molecule",
+    "message_1": "What is the bond order of a nitrogen molecule (N2) using molecular orbital theory?",
+    "message_2": "To determine the bond order of a nitrogen molecule (N2) using molecular orbital theory, we need to first find the number of electrons in the molecule and then fill the molecular orbitals in the order of increasing energy.\n\nNitrogen has 7 electrons, so a nitrogen molecule (N2) has 14 electrons in total. The order of molecular orbitals in terms of increasing energy is as follows: σ1s, σ*1s, σ2s, σ*2s, π2p, π*2p, and σ2p.\n\nNow, let's fill the molecular orbitals with the 14 electrons:\n- 2 electrons in σ1s\n- 2 electrons in σ*1s\n- 2 electrons in σ2s\n- 2 electrons in σ*2s\n- 4 electrons in π2p (2 electrons in each of the two degenerate π2p orbitals)\n- 2 electrons in σ2p\n\nThe bond order can be calculated using the formula:\n\nBond order = (number of electrons in bonding orbitals - number of electrons in antibonding orbitals) / 2\n\nIn the case of N2:\nBond order = (10 - 4) / 2 = 6 / 2 = 3\n\nSo, the bond order of a nitrogen molecule (N2) using molecular orbital theory is 3. This means that there is a triple bond between the two nitrogen atoms in the molecule."
+}

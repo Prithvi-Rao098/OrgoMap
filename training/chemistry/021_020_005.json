@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the heat of formation of a molecule",
+    "message_1": "What is the heat of formation of sulfur trioxide (SO3) at standard conditions (25°C and 1 atm), given the following information:\n\n2SO2(g) + O2(g) -> 2SO3(g)  ΔH = -197 kJ/mol\n\nHint: Use Hess's Law and standard enthalpies of formation to calculate the heat of formation of SO3.",
+    "message_2": "To calculate the heat of formation of sulfur trioxide (SO3) at standard conditions, we can use Hess's Law. According to Hess's Law, the enthalpy change of a reaction is the same whether it occurs in one step or several steps. \n\nThe given reaction is:\n\n2SO2(g) + O2(g) -> 2SO3(g)  ΔH = -197 kJ/mol\n\nWe can rewrite this reaction as:\n\n1. 2S(s) + 2O2(g) -> 2SO2(g)  ΔH1 = 2ΔHf(SO2)\n2. 2SO2(g) + O2(g) -> 2SO3(g)  ΔH2 = -197 kJ/mol\n3. S(s) + 3/2 O2(g) -> SO3(g)  ΔH3 = ΔHf(SO3)\n\nWe want to find ΔHf(SO3), which is the heat of formation of SO3. Using Hess's Law, we can add reactions 1 and 2 to get reaction 3:\n\nΔH3 = ΔH1 + ΔH2\n\nΔHf(SO3) = 2ΔHf(SO2) - 197 kJ/mol\n\nWe need the standard enthalpy of formation for SO2, which is -296.8 kJ/mol. Now we can plug this value into the equation:\n\nΔHf(SO3) = 2(-296.8 kJ/mol) - (-197 kJ/mol)\n\nΔHf(SO3) = -593.6 kJ/mol + 197 kJ/mol\n\nΔHf(SO3) = -396.6 kJ/mol\n\nSo, the heat of formation of sulfur trioxide (SO3) at standard conditions (25°C and 1 atm) is -396.6 kJ/mol."
+}

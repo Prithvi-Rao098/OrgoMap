@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a fusion reaction",
+    "message_1": "What is the standard enthalpy change for the fusion of 10 grams of solid sodium (Na) at its melting point, given that the molar heat of fusion of sodium is 2.60 kJ/mol?",
+    "message_2": "To calculate the standard enthalpy change for the fusion of 10 grams of solid sodium, we first need to determine the number of moles of sodium in 10 grams. The molar mass of sodium (Na) is 22.99 g/mol.\n\nNumber of moles = mass / molar mass\nNumber of moles = 10 g / 22.99 g/mol ≈ 0.435 mol\n\nNow, we can use the molar heat of fusion (2.60 kJ/mol) to calculate the standard enthalpy change for the fusion of 0.435 mol of sodium.\n\nStandard enthalpy change = number of moles × molar heat of fusion\nStandard enthalpy change = 0.435 mol × 2.60 kJ/mol ≈ 1.13 kJ\n\nTherefore, the standard enthalpy change for the fusion of 10 grams of solid sodium at its melting point is approximately 1.13 kJ."
+}

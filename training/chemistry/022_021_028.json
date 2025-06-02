@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Equilibrium constant calculations",
+    "message_1": "What is the equilibrium constant (Kc) for the reaction 2NO2(g) <=> N2O4(g) when the concentration of NO2(g) is 0.15 M and the concentration of N2O4(g) is 0.45 M at a given temperature?",
+    "message_2": "To find the equilibrium constant (Kc) for the reaction, we can use the expression:\n\nKc = [N2O4] / [NO2]^2\n\nwhere [N2O4] is the concentration of N2O4 at equilibrium and [NO2] is the concentration of NO2 at equilibrium.\n\nGiven the concentrations of NO2(g) and N2O4(g) at equilibrium, we can plug the values into the expression:\n\nKc = (0.45 M) / (0.15 M)^2\n\nKc = 0.45 / 0.0225\n\nKc = 20\n\nThe equilibrium constant (Kc) for the reaction 2NO2(g) <=> N2O4(g) at the given temperature is 20."
+}

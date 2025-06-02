@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of dissolution calculations",
+    "message_1": "The problem that a chemistry student can solve is: \nCalculate the enthalpy change when 25.0 g of NaCl is dissolved in 200.0 g of water, given that the final temperature of the solution is 25.0°C and the initial temperature of the water was 20.0°C. The heat capacity of water is 4.184 J/g°C.",
+    "message_2": "To calculate the enthalpy change, we first need to determine the heat absorbed by the water as it changes temperature. We can do this using the formula:\n\nq = mcΔT\n\nwhere q is the heat absorbed, m is the mass of the water, c is the heat capacity of water, and ΔT is the change in temperature.\n\nGiven:\nm (mass of water) = 200.0 g\nc (heat capacity of water) = 4.184 J/g°C\nΔT (change in temperature) = 25.0°C - 20.0°C = 5.0°C\n\nNow, we can calculate the heat absorbed by the water:\n\nq = (200.0 g)(4.184 J/g°C)(5.0°C) = 4184 J\n\nSince the heat absorbed by the water is equal to the heat released by the NaCl dissolving, the enthalpy change for the dissolution of NaCl can be calculated as:\n\nΔH = -q\n\nΔH = -4184 J\n\nThe enthalpy change when 25.0 g of NaCl is dissolved in 200.0 g of water is -4184 J."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of formation calculations",
+    "message_1": "What is the enthalpy of formation of sucrose (C12H22O11) given the enthalpies of combustion of graphite, hydrogen, and sucrose are -394 kJ/mol, -286 kJ/mol, and -5648 kJ/mol, respectively?",
+    "message_2": "To find the enthalpy of formation of sucrose, we can use the following equation:\n\nΔHf(sucrose) = ΣΔHf(products) - ΣΔHf(reactants)\n\nThe balanced combustion reaction for sucrose is:\n\nC12H22O11(s) + 12O2(g) → 12CO2(g) + 11H2O(l)\n\nThe enthalpy of combustion of sucrose is given as -5648 kJ/mol. We can use this information to find the enthalpy of formation of sucrose.\n\nFirst, we need to find the enthalpy of formation of the products:\n\nΔHf(CO2) = -394 kJ/mol (enthalpy of combustion of graphite)\nΔHf(H2O) = -286 kJ/mol (enthalpy of combustion of hydrogen)\n\nNow, we can calculate the enthalpy of formation of sucrose:\n\nΔHf(sucrose) = [12ΔHf(CO2) + 11ΔHf(H2O)] - [ΔHc(sucrose) + 12ΔHf(O2)]\n\nSince the enthalpy of formation of O2 is 0 (it's an element in its standard state), the equation simplifies to:\n\nΔHf(sucrose) = [12(-394) + 11(-286)] - (-5648)\n\nΔHf(sucrose) = [-4728 - 3146] + 5648\n\nΔHf(sucrose) = -7874 + 5648\n\nΔHf(sucrose) = -2226 kJ/mol\n\nThe enthalpy of formation of sucrose is -2226 kJ/mol."
+}

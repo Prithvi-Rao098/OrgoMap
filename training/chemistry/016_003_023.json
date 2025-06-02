@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Bond dissociation energy calculations",
+    "message_1": "What is the bond dissociation energy of a carbon-carbon single bond in ethane (C2H6) given that the enthalpy change for the reaction \nC2H6(g) → 2CH3(g) is -84.68 kJ/mol?",
+    "message_2": "The bond dissociation energy is the energy required to break a bond, so we need to find the energy required to break the carbon-carbon single bond in ethane. The given enthalpy change for the reaction C2H6(g) → 2CH3(g) is -84.68 kJ/mol. Since the reaction is exothermic (negative enthalpy change), the bond dissociation energy will be the opposite of the enthalpy change.\n\nBond dissociation energy of C-C single bond in ethane = +84.68 kJ/mol"
+}

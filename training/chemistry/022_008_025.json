@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Single replacement reactions",
+    "message_1": "A chemistry student is given a piece of copper and asked to react it with dilute hydrochloric acid. Will the reaction occur and if so, what product (if any) will be produced? Use your knowledge of single replacement reactions to explain your answer.",
+    "message_2": "The reaction between copper and dilute hydrochloric acid will not occur. This is because copper is less reactive than hydrogen, which is present in the hydrochloric acid (HCl). In a single replacement reaction, a more reactive element can replace a less reactive element in a compound. However, since copper is less reactive than hydrogen, it cannot replace hydrogen in the HCl compound.\n\nIf the student were to use a more reactive acid, such as nitric acid (HNO3), then a reaction would occur, producing copper nitrate (Cu(NO3)2) and hydrogen gas (H2). But in the case of dilute hydrochloric acid, no reaction will take place, and no products will be formed."
+}

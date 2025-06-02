@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Identifying the type of hybrid orbitals in a molecule",
+    "message_1": "What hybrid orbitals would you expect for the central atom in a molecule of CH3OH?",
+    "message_2": "In a molecule of CH3OH (methanol), the central atom is carbon. To determine the hybrid orbitals, we need to consider the electron domains around the central atom. In methanol, carbon is bonded to three hydrogen atoms and one oxygen atom, which means it has four electron domains.\n\nAccording to the VSEPR (Valence Shell Electron Pair Repulsion) theory, four electron domains result in a tetrahedral geometry. To achieve this geometry, the carbon atom undergoes hybridization, which is the mixing of atomic orbitals to form new hybrid orbitals.\n\nIn this case, carbon's 2s orbital mixes with its three 2p orbitals to form four sp3 hybrid orbitals. These sp3 hybrid orbitals are then used to form four sigma bonds with the three hydrogen atoms and the oxygen atom in the methanol molecule. So, the central carbon atom in CH3OH is expected to have sp3 hybrid orbitals."
+}

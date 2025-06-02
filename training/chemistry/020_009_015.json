@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Determining the equilibrium constant for a reaction involving gases",
+    "message_1": "Calculate the equilibrium constant (Kc) for the following reaction at 300 K:\n    \n    N2(g) + 3 H2(g) ↔ 2 NH3(g)\n    \ngiven that at equilibrium, the concentration of N2 is 0.12 M, H2 is 0.20 M, and NH3 is 0.16 M.",
+    "message_2": "To calculate the equilibrium constant (Kc) for the given reaction, we can use the formula:\n\nKc = [NH3]^2 / ([N2] * [H2]^3)\n\nAt equilibrium, the concentrations are given as:\n\n[N2] = 0.12 M\n[H2] = 0.20 M\n[NH3] = 0.16 M\n\nNow, we can plug these values into the formula:\n\nKc = (0.16)^2 / (0.12 * (0.20)^3)\n\nKc = 0.0256 / (0.12 * 0.008)\n\nKc = 0.0256 / 0.00096\n\nKc ≈ 26.67\n\nTherefore, the equilibrium constant (Kc) for the given reaction at 300 K is approximately 26.67."
+}

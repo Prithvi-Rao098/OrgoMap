@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Enthalpy of reaction calculations",
+    "message_1": "What is the enthalpy change for the combustion of 2 moles of butane (C4H10) if the enthalpy change for the combustion of 1 mole of butane is -2878 kJ/mol?",
+    "message_2": "To find the enthalpy change for the combustion of 2 moles of butane, you simply multiply the enthalpy change for 1 mole by the number of moles.\n\nEnthalpy change for 2 moles of butane = (-2878 kJ/mol) × 2 moles = -5756 kJ"
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a dissolution reaction",
+    "message_1": "What is the standard enthalpy change of the dissolution reaction of 5.00 g of solid NaOH in 100.0 mL of water at 25°C? Given that the molar heat capacity of water is 75.3 J/(mol°C), and the density of the resulting solution is 1.04 g/mL. Assume that heat loss to the surroundings is negligible.",
+    "message_2": "To calculate the standard enthalpy change of the dissolution reaction, we need to know the heat of solution of NaOH. The heat of solution of NaOH is -44.5 kJ/mol.\n\nFirst, let's find the number of moles of NaOH in 5.00 g:\nNaOH has a molar mass of 22.99 g/mol (Na) + 15.999 g/mol (O) + 1.007 g/mol (H) = 39.996 g/mol.\n\nmoles of NaOH = (5.00 g) / (39.996 g/mol) = 0.125 mol\n\nNow, let's calculate the heat released during the dissolution of NaOH:\nq = moles × heat of solution\nq = (0.125 mol) × (-44.5 kJ/mol) = -5.5625 kJ\n\nSince the heat is released during the dissolution, the enthalpy change is negative. Therefore, the standard enthalpy change of the dissolution reaction of 5.00 g of solid NaOH in 100.0 mL of water at 25°C is -5.5625 kJ."
+}

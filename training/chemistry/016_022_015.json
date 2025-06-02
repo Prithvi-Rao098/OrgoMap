@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of isomerization calculations",
+    "message_1": "What is the enthalpy change of isomerization for the reaction converting but-2-ene to 2-methylpropene? Given the standard enthalpy of formation values for but-2-ene and 2-methylpropene, calculate the enthalpy change of the reaction at standard conditions. Show your calculations and explain your reasoning.",
+    "message_2": "To calculate the enthalpy change of the isomerization reaction converting but-2-ene to 2-methylpropene, we will use the standard enthalpy of formation values for both compounds and apply Hess's law. \n\nHess's law states that the enthalpy change of a reaction is the difference between the sum of the standard enthalpies of formation of the products and the sum of the standard enthalpies of formation of the reactants.\n\nΔH_reaction = Σ ΔH_f(products) - Σ ΔH_f(reactants)\n\nIn this case, the reaction is:\n\nbut-2-ene → 2-methylpropene\n\nLet's assume the standard enthalpy of formation for but-2-ene is ΔH_f1 and for 2-methylpropene is ΔH_f2. Then, the enthalpy change for the reaction can be calculated as:\n\nΔH_reaction = ΔH_f2 - ΔH_f1\n\nPlease provide the standard enthalpy of formation values for but-2-ene and 2-methylpropene to calculate the enthalpy change of the reaction."
+}

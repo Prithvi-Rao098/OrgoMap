@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Acid-base reactions",
+    "message_1": "What is the pH of a solution formed when 25 mL of 0.1 M HCl is added to 75 mL of 0.2 M NaOH?",
+    "message_2": "To find the pH of the resulting solution, we first need to determine the amount of moles of HCl and NaOH in the solution and then find the resulting concentration of H+ or OH- ions.\n\n1. Calculate the moles of HCl and NaOH:\nmoles of HCl = volume (L) × concentration (M)\nmoles of HCl = 0.025 L × 0.1 M = 0.0025 moles\n\nmoles of NaOH = volume (L) × concentration (M)\nmoles of NaOH = 0.075 L × 0.2 M = 0.015 moles\n\n2. Determine the limiting reactant and the moles of the excess reactant remaining:\nSince HCl and NaOH react in a 1:1 ratio, HCl is the limiting reactant, and there will be some NaOH left over after the reaction.\n\nmoles of NaOH remaining = moles of NaOH - moles of HCl\nmoles of NaOH remaining = 0.015 moles - 0.0025 moles = 0.0125 moles\n\n3. Calculate the concentration of OH- ions in the resulting solution:\nThe total volume of the solution is 25 mL + 75 mL = 100 mL = 0.1 L.\n\nconcentration of OH- ions = moles of NaOH remaining / total volume (L)\nconcentration of OH- ions = 0.0125 moles / 0.1 L = 0.125 M\n\n4. Calculate the pOH and pH of the solution:\npOH = -log10(concentration of OH- ions)\npOH = -log10(0.125) ≈ 0.90\n\npH = 14 - pOH\npH = 14 - 0.90 ≈ 13.10\n\nThe pH of the solution formed when 25 mL of 0.1 M HCl is added to 75 mL of 0.2 M NaOH is approximately 13.10."
+}

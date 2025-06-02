@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "What is the heat capacity of 50 grams of aluminum if 100 Joules of heat is added to it and its temperature rises from 20°C to 50°C?",
+    "message_2": "To find the heat capacity of aluminum, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat added (100 Joules), m is the mass of aluminum (50 grams), c is the specific heat capacity of aluminum, and ΔT is the change in temperature (50°C - 20°C = 30°C).\n\nFirst, we need to find the specific heat capacity of aluminum, which is 0.897 J/g°C.\n\nNow we can plug the values into the formula:\n\n100 J = (50 g)(0.897 J/g°C)(30°C)\n\nWe need to solve for c:\n\n100 J = (50 g)(0.897 J/g°C)(30°C)\n100 J = 1345.5c\n\nNow, divide both sides by 1345.5:\n\nc = 100 J / 1345.5\nc ≈ 0.0743 J/°C\n\nThe heat capacity of 50 grams of aluminum is approximately 0.0743 J/°C."
+}

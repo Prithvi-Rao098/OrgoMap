@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a phase transition reaction",
+    "message_1": "Calculate the standard enthalpy change for the transition of liquid water at 100°C to steam at the same temperature, given that the enthalpy of vaporization of water is 40.7 kJ mol-1.",
+    "message_2": "To calculate the standard enthalpy change for the transition of liquid water at 100°C to steam at the same temperature, we can use the given enthalpy of vaporization of water.\n\nEnthalpy of vaporization (ΔHvap) is the amount of energy required to convert 1 mole of a substance from the liquid phase to the gas phase at a constant temperature.\n\nIn this case, the enthalpy of vaporization of water is given as 40.7 kJ mol⁻¹.\n\nSince we are considering the transition of 1 mole of liquid water to steam at the same temperature (100°C), the standard enthalpy change (ΔH) for this process will be equal to the enthalpy of vaporization.\n\nΔH = ΔHvap\nΔH = 40.7 kJ mol⁻¹\n\nTherefore, the standard enthalpy change for the transition of liquid water at 100°C to steam at the same temperature is 40.7 kJ mol⁻¹."
+}

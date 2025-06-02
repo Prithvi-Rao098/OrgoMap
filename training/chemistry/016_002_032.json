@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Hess's Law calculations",
+    "message_1": "Calculate the enthalpy change for the reaction below using Hess's Law: \n\n2CO(g) + O2(g) -> 2CO2(g), delta H = -566 kJ/mol \n\nGiven the following reactions and their corresponding enthalpy changes: \n\nCO(g) + 1/2O2(g) -> CO2(g), delta H = -283 kJ/mol\n\nC(s) + O2(g) -> CO2(g), delta H = -393.5 kJ/mol",
+    "message_2": "To use Hess's Law, we need to manipulate the given reactions so that they add up to the target reaction: 2CO(g) + O2(g) -> 2CO2(g). \n\nFirst, we notice that the target reaction has 2CO2(g) as a product, while the given reactions have only 1CO2(g) as a product. Therefore, we need to multiply the first given reaction by 2:\n\n2[CO(g) + 1/2O2(g) -> CO2(g)], delta H = 2(-283 kJ/mol) = -566 kJ/mol\n\nNow, the manipulated reaction is:\n\n2CO(g) + O2(g) -> 2CO2(g), delta H = -566 kJ/mol\n\nThis is the same as the target reaction, so the enthalpy change for the target reaction is -566 kJ/mol."
+}

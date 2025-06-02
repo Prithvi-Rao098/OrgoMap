@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of vaporization calculations",
+    "message_1": "What is the enthalpy of vaporization of water if it takes 40 kJ of energy to vaporize 20 g of water at 100°C?",
+    "message_2": "To calculate the enthalpy of vaporization, we can use the formula:\n\nEnthalpy of vaporization = Energy required to vaporize / Mass of water vaporized\n\nGiven that it takes 40 kJ of energy to vaporize 20 g of water at 100°C, we can plug these values into the formula:\n\nEnthalpy of vaporization = 40 kJ / 20 g\n\nEnthalpy of vaporization = 2 kJ/g\n\nSo, the enthalpy of vaporization of water at 100°C is 2 kJ/g."
+}

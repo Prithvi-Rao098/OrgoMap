@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Predicting the bond angle in a molecule",
+    "message_1": "What is the predicted bond angle in a water molecule based on its molecular geometry and electron pair geometry, and how does it differ from the ideal bond angle?",
+    "message_2": "A water molecule (H2O) has a bent molecular geometry due to the presence of two lone pairs of electrons on the central oxygen atom. The electron pair geometry of a water molecule is tetrahedral, which has an ideal bond angle of 109.5°.\n\nHowever, the presence of the two lone pairs on the oxygen atom causes a repulsion between the electron pairs, which pushes the hydrogen atoms closer together. As a result, the actual bond angle in a water molecule is approximately 104.5°, which is smaller than the ideal tetrahedral bond angle of 109.5°."
+}

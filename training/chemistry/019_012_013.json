@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a dissolution reaction",
+    "message_1": "What is the standard enthalpy change (in kJ/mol) when 10.0 g of potassium chloride (KCl) dissolves in water at 25°C? The molar mass of KCl is 74.55 g/mol and the enthalpy of solution is -17.76 kJ/mol.",
+    "message_2": "To find the standard enthalpy change when 10.0 g of potassium chloride (KCl) dissolves in water, we first need to determine the number of moles of KCl in 10.0 g.\n\nmoles of KCl = mass / molar mass\nmoles of KCl = 10.0 g / 74.55 g/mol = 0.134 moles\n\nNow, we can use the enthalpy of solution to find the standard enthalpy change for this amount of KCl.\n\nStandard enthalpy change = moles × enthalpy of solution\nStandard enthalpy change = 0.134 moles × (-17.76 kJ/mol) = -2.38 kJ\n\nSo, the standard enthalpy change when 10.0 g of potassium chloride dissolves in water at 25°C is -2.38 kJ."
+}

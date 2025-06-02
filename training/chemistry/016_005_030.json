@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of combustion calculations",
+    "message_1": "A chemistry experiment involves burning a sample of propane gas, C3H8, and measuring the heat released. If 2.00 grams of propane is burned completely to produce CO2(g) and H2O(l), and the heat of combustion is found to be -2044 kJ/mol, what is the heat released in kJ when 2.00 grams of propane is burned?",
+    "message_2": "First, we need to determine the number of moles of propane in 2.00 grams. The molar mass of propane (C3H8) is:\n\n(3 * 12.01 g/mol for C) + (8 * 1.01 g/mol for H) = 36.03 + 8.08 = 44.11 g/mol\n\nNow, we can find the number of moles of propane in 2.00 grams:\n\n2.00 g / 44.11 g/mol = 0.0453 moles of propane\n\nSince the heat of combustion is -2044 kJ/mol, we can find the heat released for 0.0453 moles of propane:\n\nHeat released = (0.0453 moles) * (-2044 kJ/mol) = -92.6 kJ\n\nSo, the heat released when 2.00 grams of propane is burned is approximately -92.6 kJ."
+}

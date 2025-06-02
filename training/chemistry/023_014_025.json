@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical synthesis",
+    "sub_topic": "Preparation of 4-bromoacetanilide from acetanilide and bromine",
+    "message_1": "What is the mass of bromine needed to prepare 10 grams of 4-bromoacetanilide from acetanilide if the yield of the reaction is 87%?",
+    "message_2": "To determine the mass of bromine needed, we first need to find the theoretical mass of 4-bromoacetanilide that would be produced without considering the yield. Then, we can use stoichiometry to find the mass of bromine required.\n\n1. Calculate the theoretical mass of 4-bromoacetanilide:\nActual mass = 10 g\nYield = 87% = 0.87\n\nTheoretical mass = Actual mass / Yield\nTheoretical mass = 10 g / 0.87 = 11.49 g\n\n2. Determine the stoichiometry of the reaction:\nAcetanilide + Bromine -> 4-Bromoacetanilide\n\n3. Calculate the molar mass of each compound:\nAcetanilide: C8H9NO = (12.01 * 8) + (1.01 * 9) + 14.01 + 16.00 = 135.17 g/mol\nBromine: Br2 = 2 * 79.90 = 159.80 g/mol\n4-Bromoacetanilide: C8H8BrNO = (12.01 * 8) + (1.01 * 8) + 79.90 + 14.01 + 16.00 = 214.07 g/mol\n\n4. Use stoichiometry to find the mass of bromine required:\n11.49 g 4-Bromoacetanilide * (1 mol 4-Bromoacetanilide / 214.07 g 4-Bromoacetanilide) * (1 mol Bromine / 1 mol 4-Bromoacetanilide) * (159.80 g Bromine / 1 mol Bromine)\n\nMass of Bromine = 11.49 g * (1/214.07) * (1/1) * (159.80/1) = 8.52 g\n\nTherefore, 8.52 grams of bromine are needed to prepare 10 grams of 4-bromoacetanilide from acetanilide with an 87% yield."
+}

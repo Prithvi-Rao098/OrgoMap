@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a vaporization reaction",
+    "message_1": "Calculate the standard enthalpy change for the vaporization of 1 mole of water at 100°C and 1 atm pressure. The enthalpy of formation of liquid water is -285.8 kJ/mol and the enthalpy of formation of water vapor is -241.8 kJ/mol.",
+    "message_2": "To calculate the standard enthalpy change for the vaporization of 1 mole of water, we can use the following equation:\n\nΔH_vaporization = ΔH_f (water vapor) - ΔH_f (liquid water)\n\nwhere ΔH_vaporization is the standard enthalpy change for vaporization, and ΔH_f is the standard enthalpy of formation for water vapor and liquid water.\n\nGiven values:\nΔH_f (liquid water) = -285.8 kJ/mol\nΔH_f (water vapor) = -241.8 kJ/mol\n\nNow, we can plug these values into the equation:\n\nΔH_vaporization = (-241.8 kJ/mol) - (-285.8 kJ/mol)\n\nΔH_vaporization = 44.0 kJ/mol\n\nThe standard enthalpy change for the vaporization of 1 mole of water at 100°C and 1 atm pressure is 44.0 kJ/mol."
+}

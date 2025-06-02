@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of hydration calculations",
+    "message_1": "What is the heat of hydration for the reaction between 50 grams of anhydrous copper (II) sulfate and excess water at 25°C? Given the molar heat of hydration of copper (II) sulfate as -90.4 kJ/mol.",
+    "message_2": "To find the heat of hydration for the reaction, we first need to determine the number of moles of anhydrous copper (II) sulfate in 50 grams.\n\nThe molar mass of copper (II) sulfate (CuSO4) is:\nCu: 63.5 g/mol\nS: 32.1 g/mol\nO: 16.0 g/mol * 4 = 64.0 g/mol\nTotal: 63.5 + 32.1 + 64.0 = 159.6 g/mol\n\nNow, we can find the number of moles in 50 grams:\nmoles = mass / molar mass\nmoles = 50 g / 159.6 g/mol = 0.313 moles\n\nNow that we have the number of moles, we can find the heat of hydration using the given molar heat of hydration:\nheat of hydration = moles * molar heat of hydration\nheat of hydration = 0.313 moles * (-90.4 kJ/mol) = -28.3 kJ\n\nThe heat of hydration for the reaction between 50 grams of anhydrous copper (II) sulfate and excess water at 25°C is -28.3 kJ."
+}

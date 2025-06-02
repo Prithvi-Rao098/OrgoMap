@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of crystallization calculations",
+    "message_1": "Calculate the heat of crystallization in kJ/mol of a substance, given that 100 g of it dissolved in water and cooled from 60°C to 20°C, releasing 5490 J of heat. The molar mass of the substance is 120 g/mol.",
+    "message_2": "First, we need to determine the number of moles of the substance. We can do this by dividing the mass of the substance by its molar mass:\n\nmoles = mass / molar mass\nmoles = 100 g / 120 g/mol\nmoles = 0.833 mol\n\nNow, we know that the substance released 5490 J of heat when it dissolved in water and cooled from 60°C to 20°C. To find the heat of crystallization per mole, we need to divide the total heat released by the number of moles:\n\nheat of crystallization = heat released / moles\nheat of crystallization = 5490 J / 0.833 mol\nheat of crystallization = 6590 J/mol\n\nFinally, we need to convert the heat of crystallization from J/mol to kJ/mol:\n\nheat of crystallization = 6590 J/mol * (1 kJ / 1000 J)\nheat of crystallization = 6.59 kJ/mol\n\nSo, the heat of crystallization of the substance is 6.59 kJ/mol."
+}

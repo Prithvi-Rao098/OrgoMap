@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of hydrolysis calculations",
+    "message_1": "Calculate the enthalpy change for the hydrolysis of 2 moles of sucrose (C12H22O11) into glucose (C6H12O6) and fructose (C6H12O6), given the enthalpy change of hydrolysis for glucose and fructose are -2801 and -2802 kJ/mol respectively.",
+    "message_2": "To calculate the enthalpy change for the hydrolysis of 2 moles of sucrose, we first need to determine the enthalpy change for the hydrolysis of 1 mole of sucrose. The balanced chemical equation for the hydrolysis of sucrose is:\n\nC12H22O11 + H2O → C6H12O6 (glucose) + C6H12O6 (fructose)\n\nSince the enthalpy change of hydrolysis for glucose and fructose are -2801 and -2802 kJ/mol respectively, we can calculate the enthalpy change for the hydrolysis of 1 mole of sucrose by adding the enthalpy changes for glucose and fructose:\n\nΔH1 = ΔH(glucose) + ΔH(fructose)\nΔH1 = -2801 kJ/mol + (-2802 kJ/mol)\nΔH1 = -5603 kJ/mol\n\nNow, we can calculate the enthalpy change for the hydrolysis of 2 moles of sucrose:\n\nΔH2 = 2 * ΔH1\nΔH2 = 2 * (-5603 kJ/mol)\nΔH2 = -11206 kJ\n\nTherefore, the enthalpy change for the hydrolysis of 2 moles of sucrose is -11206 kJ."
+}

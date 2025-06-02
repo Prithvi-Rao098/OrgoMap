@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a phase transition reaction",
+    "message_1": "Calculate the standard enthalpy change for the phase transition of solid copper to liquid copper given the following data: \n- the melting point of copper is 1,085°C \n- the molar heat of fusion of copper is 13.1 kJ/mol.",
+    "message_2": "To calculate the standard enthalpy change (ΔH) for the phase transition of solid copper to liquid copper, we can use the given molar heat of fusion (ΔHfus) and the number of moles of copper involved in the process. Since we are not given a specific amount of copper, we can calculate the enthalpy change per mole of copper.\n\nThe molar heat of fusion (ΔHfus) is the amount of energy required to convert 1 mole of a substance from its solid phase to its liquid phase at its melting point. In this case, the molar heat of fusion of copper is given as 13.1 kJ/mol.\n\nSince we are calculating the standard enthalpy change for the phase transition of solid copper to liquid copper, we can simply use the given molar heat of fusion value:\n\nΔH = ΔHfus\nΔH = 13.1 kJ/mol\n\nThe standard enthalpy change for the phase transition of solid copper to liquid copper is 13.1 kJ/mol."
+}

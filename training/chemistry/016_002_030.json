@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Hess's Law calculations",
+    "message_1": "Calculate the enthalpy change for the following reaction using Hess's Law calculations:\n2H2S(g) + 3O2(g) → 2H2O(l) + 2SO2(g)\nGiven the following information:\n2H2(g) + O2(g) → 2H2O(l) ΔH1 = -484 kJ/mol\n2S(s) + 3O2(g) → 2SO3(g) ΔH2 = -791 kJ/mol\n2H2(g) + S(s) → 2H2S(g) ΔH3 = -36 kJ/mol",
+    "message_2": "To solve this problem using Hess's Law, we need to manipulate the given reactions in such a way that when they are added together, they will result in the desired reaction. \n\nFirst, we need to reverse the third reaction and multiply it by 2:\n\n2H2S(g) → 4H2(g) + 2S(s) ΔH3' = +72 kJ/mol\n\nNow, we need to subtract 2SO3(g) from the second reaction to get 2SO2(g) in the products:\n\n2SO3(g) → 2S(s) + 3O2(g) ΔH2' = +791 kJ/mol\n2SO3(g) → 2SO2(g) + O2(g) ΔH4 = unknown\n\nSubtracting the second equation from the first:\n\n2S(s) + 2O2(g) → 2SO2(g) ΔH4 = -198 kJ/mol\n\nNow, we can add the manipulated reactions together:\n\n2H2(g) + O2(g) → 2H2O(l) ΔH1 = -484 kJ/mol\n2H2S(g) → 4H2(g) + 2S(s) ΔH3' = +72 kJ/mol\n2S(s) + 2O2(g) → 2SO2(g) ΔH4 = -198 kJ/mol\n---------------------------------------------\n2H2S(g) + 3O2(g) → 2H2O(l) + 2SO2(g) ΔH = ?\n\nAdding the enthalpy changes:\n\nΔH = ΔH1 + ΔH3' + ΔH4\nΔH = -484 kJ/mol + 72 kJ/mol - 198 kJ/mol\nΔH = -610 kJ/mol\n\nSo, the enthalpy change for the given reaction is -610 kJ/mol."
+}

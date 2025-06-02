@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the heat of formation of a molecule",
+    "message_1": "Calculate the heat of formation for the compound methane (CH4) given that the enthalpy change for the reaction of carbon (C) with hydrogen gas (H2) to form methane gas (CH4) is -74.8 kJ/mol.",
+    "message_2": "The heat of formation (ΔHf) of a compound is the change in enthalpy during the formation of 1 mole of the substance from its constituent elements in their standard states. For methane (CH4), the reaction can be represented as:\n\nC (graphite) + 2 H2 (g) → CH4 (g)\n\nThe given enthalpy change for this reaction is -74.8 kJ/mol. Since this reaction represents the formation of 1 mole of methane from its constituent elements in their standard states, the heat of formation for methane (ΔHf°) is equal to the enthalpy change for this reaction:\n\nΔHf° (CH4) = -74.8 kJ/mol"
+}

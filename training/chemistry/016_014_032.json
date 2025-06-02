@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of sublimation calculations",
+    "message_1": "What is the heat of sublimation for dry ice (solid carbon dioxide) given that its enthalpy of fusion is 9.2 kJ/mol and its enthalpy of vaporization is 25.1 kJ/mol?",
+    "message_2": "The heat of sublimation is the amount of energy required to convert a substance from its solid phase directly to its gas phase without passing through the liquid phase. In the case of dry ice (solid carbon dioxide), we can calculate the heat of sublimation by adding the enthalpy of fusion and the enthalpy of vaporization.\n\nHeat of Sublimation = Enthalpy of Fusion + Enthalpy of Vaporization\n\nGiven:\nEnthalpy of Fusion = 9.2 kJ/mol\nEnthalpy of Vaporization = 25.1 kJ/mol\n\nHeat of Sublimation = 9.2 kJ/mol + 25.1 kJ/mol = 34.3 kJ/mol\n\nTherefore, the heat of sublimation for dry ice is 34.3 kJ/mol."
+}

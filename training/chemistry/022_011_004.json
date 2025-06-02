@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Gas evolution reactions",
+    "message_1": "What is the volume of oxygen gas (in mL) evolved at STP when 5.00 g of potassium chlorate undergoes complete decomposition?",
+    "message_2": "To solve this problem, we will follow these steps:\n\n1. Write the balanced chemical equation for the decomposition of potassium chlorate.\n2. Calculate the number of moles of potassium chlorate.\n3. Determine the number of moles of oxygen gas produced.\n4. Calculate the volume of oxygen gas at STP.\n\nStep 1: Balanced chemical equation for the decomposition of potassium chlorate:\n2 KClO3(s) → 2 KCl(s) + 3 O2(g)\n\nStep 2: Calculate the number of moles of potassium chlorate:\nMolar mass of KClO3 = 39.10 (K) + 35.45 (Cl) + 3 * 16.00 (O) = 122.55 g/mol\nNumber of moles = mass / molar mass = 5.00 g / 122.55 g/mol = 0.0408 mol\n\nStep 3: Determine the number of moles of oxygen gas produced:\nFrom the balanced equation, 2 moles of KClO3 produce 3 moles of O2.\nSo, 0.0408 mol of KClO3 will produce (3/2) * 0.0408 mol of O2 = 0.0612 mol of O2.\n\nStep 4: Calculate the volume of oxygen gas at STP:\nAt STP (Standard Temperature and Pressure: 0°C and 1 atm), 1 mole of any gas occupies 22.4 L.\nVolume of O2 = 0.0612 mol * 22.4 L/mol = 1.37 L\n\nTo convert the volume to mL, multiply by 1000:\nVolume of O2 = 1.37 L * 1000 mL/L = 1370 mL\n\nSo, the volume of oxygen gas evolved at STP when 5.00 g of potassium chlorate undergoes complete decomposition is 1370 mL."
+}

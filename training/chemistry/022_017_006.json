@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Hess's Law problems",
+    "message_1": "Calculate the enthalpy change for the following reaction, using Hess's Law:\n\n2H2S(g) + 3O2(g) → 2H2O(l) + 2SO2(g)\n\nGiven the following enthalpy changes: \n\n2H2(g) + O2(g) → 2H2O(l)       ΔH1 = -484 kJ\n\n2SO2(g) + O2(g) → 2SO3(g)     ΔH2 = -198 kJ\n\n2H2(g) + S(s) → H2S(g)          ΔH3 = +25kJ",
+    "message_2": "To solve this problem using Hess's Law, we need to manipulate the given reactions and their enthalpy changes to match the target reaction. \n\nTarget reaction: 2H2S(g) + 3O2(g) → 2H2O(l) + 2SO2(g)\n\n1. Reverse the third reaction and multiply by 2:\n   2H2S(g) → 4H2(g) + 2S(s)          ΔH3' = -50 kJ\n\n2. Add the first reaction to the modified third reaction:\n   4H2(g) + 2S(s) + 2H2(g) + O2(g) → 4H2O(l) + 2S(s) + 2SO2(g)\n   ΔH = ΔH1 + ΔH3' = -484 kJ - 50 kJ = -534 kJ\n\n3. Now we have the reaction:\n   4H2(g) + 2S(s) + O2(g) → 4H2O(l) + 2SO2(g)\n\n4. Divide the entire reaction by 2 to match the target reaction:\n   2H2S(g) + 3O2(g) → 2H2O(l) + 2SO2(g)\n   ΔH = -534 kJ / 2 = -267 kJ\n\nThe enthalpy change for the target reaction is -267 kJ."
+}

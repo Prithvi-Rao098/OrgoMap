@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving gases",
+    "message_1": "What is the standard enthalpy change for the reaction taking place between hydrogen gas and oxygen gas to produce water vapor at standard conditions?",
+    "message_2": "The standard enthalpy change for the reaction between hydrogen gas and oxygen gas to produce water vapor at standard conditions can be determined using the balanced chemical equation and the standard enthalpies of formation for the reactants and products.\n\nThe balanced chemical equation for the reaction is:\n\n2 H₂(g) + O₂(g) → 2 H₂O(g)\n\nThe standard enthalpies of formation (ΔHf°) for the substances involved are:\n\nH₂(g): 0 kJ/mol (since it is an element in its standard state)\nO₂(g): 0 kJ/mol (since it is an element in its standard state)\nH₂O(g): -241.8 kJ/mol\n\nUsing the equation ΔH° = Σ ΔHf°(products) - Σ ΔHf°(reactants), we can calculate the standard enthalpy change for the reaction:\n\nΔH° = [2 × (-241.8 kJ/mol)] - [2 × 0 kJ/mol + 0 kJ/mol]\nΔH° = -483.6 kJ/mol\n\nSo, the standard enthalpy change for the reaction between hydrogen gas and oxygen gas to produce water vapor at standard conditions is -483.6 kJ/mol."
+}

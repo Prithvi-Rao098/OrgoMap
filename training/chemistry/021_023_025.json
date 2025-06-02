@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the isomerism of a molecule",
+    "message_1": "How can you determine whether a molecule has structural isomers or not and give a specific example?",
+    "message_2": "To determine whether a molecule has structural isomers or not, you can follow these steps:\n\n1. Identify the molecular formula of the compound.\n2. Determine the number of atoms of each element present in the molecule.\n3. Analyze the possible ways to arrange these atoms to form different structures while adhering to the rules of chemical bonding and valency.\n4. If more than one valid structure can be formed, the molecule has structural isomers.\n\nFor example, let's consider the molecular formula C4H10. The molecule contains four carbon atoms and ten hydrogen atoms. There are two possible ways to arrange these atoms:\n\n1. Butane (n-butane): A straight-chain structure where all four carbon atoms are connected in a row, with hydrogen atoms filling the remaining bonds.\n   H H H H\n   | | | |\nH--C-C-C-C--H\n   | | | |\n   H H H H\n\n2. Isobutane (methylpropane): A branched structure where three carbon atoms form a chain, and the fourth carbon atom is connected to the middle carbon atom as a branch (methyl group).\n      H H H\n      | | |\nH H H-C-C-C--H\n  | | | |\n  H H-C-H\n      |\n      H\n\nBoth structures have the same molecular formula (C4H10) but different arrangements of atoms, making them structural isomers."
+}

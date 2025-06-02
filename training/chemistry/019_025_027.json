@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving coordination compounds.",
+    "message_1": "What is the standard enthalpy change for the reaction between iron(III) chloride hexahydrate and sodium hydroxide to form iron(III) hydroxide and sodium chloride, given the following reaction equation and standard enthalpy values for the reactants and products:\nFeCl3·6H2O(s) + 3NaOH(aq) → Fe(OH)3(s) + 3NaCl(aq)\nΔH°f FeCl3·6H2O(s) = -743.34 kJ/mol\nΔH°f NaOH(aq) = -469.11 kJ/mol\nΔH°f Fe(OH)3(s) = -1037.9 kJ/mol\nΔH°f NaCl(aq) = -407.3 kJ/mol",
+    "message_2": "To calculate the standard enthalpy change for the reaction, we can use the following equation:\n\nΔH°rxn = ΣΔH°f(products) - ΣΔH°f(reactants)\n\nFor the products, we have:\n1 mol of Fe(OH)3(s) and 3 mol of NaCl(aq)\n\nFor the reactants, we have:\n1 mol of FeCl3·6H2O(s) and 3 mol of NaOH(aq)\n\nNow, we can plug in the given standard enthalpy values:\n\nΔH°rxn = [(1 × -1037.9) + (3 × -407.3)] - [(1 × -743.34) + (3 × -469.11)]\n\nΔH°rxn = [-1037.9 - 1221.9] - [-743.34 - 1407.33]\n\nΔH°rxn = [-2259.8] - [-2150.67]\n\nΔH°rxn = -109.13 kJ/mol\n\nThe standard enthalpy change for the reaction between iron(III) chloride hexahydrate and sodium hydroxide to form iron(III) hydroxide and sodium chloride is -109.13 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the bond enthalpy of a molecule",
+    "message_1": "What is the bond enthalpy of the carbon-carbon bond in a molecule of ethane? Given that the enthalpy change for the reaction C2H6(g) → 2CH3(g) is +84.7 kJ/mol, calculate the bond enthalpy for the C-C bond in ethane.",
+    "message_2": "To calculate the bond enthalpy of the carbon-carbon bond in ethane, we need to consider the enthalpy change for the reaction C2H6(g) → 2CH3(g), which is given as +84.7 kJ/mol.\n\nIn this reaction, one molecule of ethane (C2H6) is broken down into two methyl radicals (CH3). The only bond being broken in this process is the carbon-carbon (C-C) bond in ethane. Therefore, the enthalpy change for this reaction corresponds to the bond enthalpy of the C-C bond in ethane.\n\nThus, the bond enthalpy for the C-C bond in ethane is +84.7 kJ/mol."
+}

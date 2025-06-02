@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Single replacement reactions",
+    "message_1": "Sure! Here's a question for the student to solve:\n\n\"What happens when a piece of zinc is placed in a solution of copper sulfate? Write the balanced chemical equation for the reaction, identify the type of reaction, and predict which elements will be oxidized and which will be reduced.\"",
+    "message_2": "When a piece of zinc is placed in a solution of copper sulfate, a single displacement (redox) reaction occurs. Zinc replaces copper in the copper sulfate solution, forming zinc sulfate and copper metal. The balanced chemical equation for this reaction is:\n\nZn (s) + CuSO₄ (aq) → ZnSO₄ (aq) + Cu (s)\n\nIn this reaction, zinc is oxidized, meaning it loses electrons, while copper is reduced, meaning it gains electrons. The oxidation and reduction half-reactions are as follows:\n\nOxidation half-reaction: Zn (s) → Zn²⁺ (aq) + 2e⁻\nReduction half-reaction: Cu²⁺ (aq) + 2e⁻ → Cu (s)\n\nSo, in summary, when zinc is placed in a copper sulfate solution, a single displacement reaction occurs, forming zinc sulfate and copper metal. Zinc is oxidized, and copper is reduced."
+}

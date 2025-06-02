@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Equilibrium constant calculations",
+    "message_1": "Determine the equilibrium constant (Kc) for the reaction 2NO(g) + O2(g) ⇌ 2NO2(g) if the initial concentration of NO is 0.15 M, O2 is 0.10 M and NO2 is 0.30 M at equilibrium.",
+    "message_2": "To determine the equilibrium constant (Kc) for the given reaction, we first need to write the expression for Kc. For the reaction:\n\n2NO(g) + O2(g) ⇌ 2NO2(g)\n\nThe expression for Kc is:\n\nKc = [NO2]^2 / ([NO]^2 * [O2])\n\nAt equilibrium, the concentrations are given as:\n\n[NO] = 0.15 M\n[O2] = 0.10 M\n[NO2] = 0.30 M\n\nNow, we can plug these values into the Kc expression:\n\nKc = (0.30)^2 / ((0.15)^2 * (0.10))\n\nKc = 0.09 / (0.0225 * 0.10)\n\nKc = 0.09 / 0.00225\n\nKc ≈ 40\n\nTherefore, the equilibrium constant (Kc) for the given reaction is approximately 40."
+}

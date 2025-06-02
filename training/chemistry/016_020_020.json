@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of desorption calculations",
+    "message_1": "What is the theoretical amount of heat required to desorb 5 grams of CO2 adsorbed on activated carbon if the enthalpy change for this process is -25 kJ/mol? (Assume complete desorption of CO2)",
+    "message_2": "To calculate the theoretical amount of heat required to desorb 5 grams of CO2, we first need to determine the number of moles of CO2 present. The molar mass of CO2 is 12.01 g/mol (for carbon) + 2 * 16.00 g/mol (for oxygen) = 44.01 g/mol.\n\nNow, we can calculate the number of moles of CO2:\nmoles of CO2 = mass of CO2 / molar mass of CO2\nmoles of CO2 = 5 g / 44.01 g/mol = 0.1136 mol\n\nSince the enthalpy change for the desorption process is -25 kJ/mol, the heat required to desorb CO2 is positive (since we need to supply heat to reverse the process). Therefore, the heat required is +25 kJ/mol.\n\nFinally, we can calculate the theoretical amount of heat required to desorb 5 grams of CO2:\nHeat required = moles of CO2 * enthalpy change per mole\nHeat required = 0.1136 mol * 25 kJ/mol = 2.84 kJ\n\nSo, the theoretical amount of heat required to desorb 5 grams of CO2 adsorbed on activated carbon is 2.84 kJ."
+}

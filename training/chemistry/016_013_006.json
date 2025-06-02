@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of hydration calculations",
+    "message_1": "Calculate the heat of hydration of copper (II) sulfate pentahydrate given that 5.00 g of the hydrate was dissolved in 100.0 mL of water at 25°C, and the resulting solution temperature increased from 25°C to 30°C. The molar mass of copper (II) sulfate pentahydrate is 249.685 g/mol and the specific heat capacity of water is 4.184 J/g°C.",
+    "message_2": "First, we need to calculate the moles of copper (II) sulfate pentahydrate that were dissolved:\n\nmoles = mass / molar mass\nmoles = 5.00 g / 249.685 g/mol\nmoles = 0.02003 mol\n\nNext, we need to calculate the heat absorbed by the water:\n\nq = mass x specific heat capacity x change in temperature\nq = 100.0 g x 4.184 J/g°C x (30°C - 25°C)\nq = 100.0 g x 4.184 J/g°C x 5°C\nq = 2092 J\n\nNow, we can calculate the heat of hydration per mole of copper (II) sulfate pentahydrate:\n\nheat of hydration = q / moles\nheat of hydration = 2092 J / 0.02003 mol\nheat of hydration = 104,450 J/mol\n\nThe heat of hydration of copper (II) sulfate pentahydrate is approximately 104,450 J/mol."
+}

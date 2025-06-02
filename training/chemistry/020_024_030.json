@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of adding a catalyst on the equilibrium position of a redox reaction",
+    "message_1": "Consider the redox reaction 2Fe^2+(aq) + H2O2(aq) + 2H^+(aq) ⟷ 2Fe^3+(aq) + 2H2O(l). If a catalyst is added to the reaction mixture at equilibrium, will the concentration of Fe^3+ increase, decrease or remain the same? Justify your answer mathematically.",
+    "message_2": "When a catalyst is added to a reaction mixture at equilibrium, it increases the rate of both the forward and reverse reactions equally. However, it does not change the position of the equilibrium or the equilibrium constant (K). \n\nIn this redox reaction, the equilibrium constant K can be expressed as:\n\nK = [Fe^3+]^2[H2O]^2 / ([Fe^2+]^2[H2O2][H^+]^2)\n\nSince the catalyst does not change the value of K, the ratio of the concentrations of the products to the reactants remains the same. Therefore, the concentration of Fe^3+ will remain the same when a catalyst is added to the reaction mixture at equilibrium."
+}

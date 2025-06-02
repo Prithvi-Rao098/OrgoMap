@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Balancing chemical equations",
+    "message_1": "Using the given chemical reaction 2H₂ + O₂ → 2H₂O, balance the equation and determine the coefficients for each reactant and product.",
+    "message_2": "The given chemical reaction is already balanced:\n\n2H₂ + O₂ → 2H₂O\n\nThe coefficients for each reactant and product are as follows:\n\n- Hydrogen (H₂): 2 (reactant)\n- Oxygen (O₂): 1 (reactant)\n- Water (H₂O): 2 (product)"
+}

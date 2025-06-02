@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of changing the concentration of reactants or products on the equilibrium position of a redox reaction",
+    "message_1": "What is the new equilibrium constant for the following redox reaction when the concentration of reactant iodine is doubled, assuming all other concentrations remain constant:\n\n2I^- + Cl2 ⇌ 2Cl^- + I2    Kc = 10.0 at 25°C",
+    "message_2": "When the concentration of a reactant is changed, the equilibrium constant (Kc) remains the same, as it is only affected by temperature changes. However, the reaction will shift to re-establish equilibrium.\n\nIn this case, when the concentration of iodine (I2) is doubled, the reaction will shift towards the reactants to counteract the change and re-establish equilibrium. The new equilibrium concentrations of the species will be different, but the equilibrium constant (Kc) will still be 10.0 at 25°C."
+}

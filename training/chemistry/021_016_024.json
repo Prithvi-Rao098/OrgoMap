@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the electronegativity difference between two atoms",
+    "message_1": "What is the electronegativity difference between the hydrogen and chlorine atoms in an HCl molecule, and what type of bond do they form?",
+    "message_2": "The electronegativity value for hydrogen is 2.1, while for chlorine it is 3.16. The electronegativity difference between hydrogen and chlorine in an HCl molecule is:\n\n3.16 (Cl) - 2.1 (H) = 1.06\n\nSince the electronegativity difference is between 0.5 and 1.7, the bond formed between hydrogen and chlorine in an HCl molecule is a polar covalent bond."
+}

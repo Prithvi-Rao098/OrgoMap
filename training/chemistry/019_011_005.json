@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a formation reaction",
+    "message_1": "What is the standard enthalpy change (∆H°f) for the formation of methane gas (CH4) from its elements in their standard states at 298 K? \n\nC (s) + 2H2 (g) → CH4 (g) \n\nGiven Data: \n∆H°f (kJ/mol) \nC (s) = 0 \nH2 (g) = 0 \nCH4 (g) = -74.8",
+    "message_2": "The standard enthalpy change (∆H°f) for the formation of methane gas (CH4) from its elements in their standard states at 298 K is already given in the problem:\n\n∆H°f (CH4, g) = -74.8 kJ/mol\n\nThis value represents the enthalpy change when one mole of methane gas is formed from its elements (carbon and hydrogen) in their standard states at 298 K."
+}

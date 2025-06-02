@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Identifying the Lewis structure of a molecule",
+    "message_1": "What is the Lewis structure of the carbon dioxide (CO2) molecule and what is the hybridization of the central carbon atom?",
+    "message_2": "The Lewis structure of the carbon dioxide (CO2) molecule is:\n\nO = C = O\n\nIn this structure, the central carbon atom is double bonded to two oxygen atoms. Each double bond consists of four electrons, two in each bond. The carbon atom has four valence electrons, and each oxygen atom has six valence electrons. The Lewis structure satisfies the octet rule for all atoms involved.\n\nThe hybridization of the central carbon atom in CO2 is sp. This is because the carbon atom forms two sigma (σ) bonds with the two oxygen atoms, and there are no lone pairs on the carbon atom. The hybridization can be determined by counting the number of sigma bonds and lone pairs around the central atom. In this case, there are two sigma bonds, which corresponds to an sp hybridization."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of reaction calculations",
+    "message_1": "What is the enthalpy change for the combustion reaction of methane gas (CH4) when 2.50 moles of methane are burned in excess oxygen gas under standard conditions?",
+    "message_2": "The balanced chemical equation for the combustion of methane is:\n\nCH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)\n\nThe standard enthalpy change of combustion for methane (ΔH°) is -890.4 kJ/mol.\n\nTo find the enthalpy change for 2.50 moles of methane, we can use the following equation:\n\nΔH = n × ΔH°\n\nwhere n is the number of moles of methane and ΔH° is the standard enthalpy change of combustion for methane.\n\nΔH = (2.50 mol) × (-890.4 kJ/mol) = -2226 kJ\n\nSo, the enthalpy change for the combustion of 2.50 moles of methane is -2226 kJ."
+}

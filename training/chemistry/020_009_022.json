@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Determining the equilibrium constant for a reaction involving gases",
+    "message_1": "What is the equilibrium constant for the reaction between nitrogen gas and hydrogen gas to form ammonia gas at 500°C given that the equilibrium concentrations are [N2] = 0.25 M, [H2] = 0.20 M and [NH3] = 0.10 M?",
+    "message_2": "The balanced chemical equation for the formation of ammonia from nitrogen and hydrogen gases is:\n\nN2(g) + 3H2(g) ⇌ 2NH3(g)\n\nTo find the equilibrium constant (Kc) for this reaction, we can use the equilibrium concentrations given:\n\n[N2] = 0.25 M\n[H2] = 0.20 M\n[NH3] = 0.10 M\n\nThe expression for Kc is:\n\nKc = [NH3]^2 / ([N2] * [H2]^3)\n\nNow, we can plug in the equilibrium concentrations:\n\nKc = (0.10)^2 / (0.25 * (0.20)^3)\n\nKc = 0.01 / (0.25 * 0.008)\n\nKc = 0.01 / 0.002\n\nKc = 5\n\nSo, the equilibrium constant for the reaction between nitrogen gas and hydrogen gas to form ammonia gas at 500°C is 5."
+}

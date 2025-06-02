@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of reaction quotient for a chemical reaction",
+    "message_1": "What is the reaction quotient, Q, for the chemical reaction below at 298K with [A] = 0.5 M, [B] = 2.0 M, and [C] = 1.0 M?\n\n2A + 3B ⇌ 4C",
+    "message_2": "The reaction quotient, Q, is calculated using the concentrations of the reactants and products raised to the power of their stoichiometric coefficients. For the given reaction:\n\n2A + 3B ⇌ 4C\n\nThe formula for Q is:\n\nQ = ([C]^4) / ([A]^2 * [B]^3)\n\nGiven the concentrations [A] = 0.5 M, [B] = 2.0 M, and [C] = 1.0 M, we can plug these values into the formula:\n\nQ = (1.0^4) / (0.5^2 * 2.0^3)\n\nQ = (1) / (0.25 * 8)\n\nQ = 1 / 2\n\nQ = 0.5\n\nSo, the reaction quotient, Q, for the given reaction at 298K with the provided concentrations is 0.5."
+}

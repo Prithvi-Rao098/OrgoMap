@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Hess's Law problems",
+    "message_1": "Given the following equations and their respective enthalpy changes:\n\n1) 2H2 (g) + O2 (g) → 2H2O (l) ΔH = -484 kJ/mol \n2) C2H5OH (l) + 3O2 (g) → 2CO2 (g) + 3H2O (l) ΔH = -1,367 kJ/mol \n3) C2H5OH (l) → C2H4 (g) + H2O (g) ΔH = +44 kJ/mol \n\nUsing Hess’s Law, determine the ΔH for the following reaction: \nC2H5OH (l) → 2CO2 (g) + 3H2 (g)",
+    "message_2": "To use Hess's Law, we need to manipulate the given equations so that they can be combined to form the target equation: C2H5OH (l) → 2CO2 (g) + 3H2 (g).\n\nFirst, we need to reverse equation 1 and multiply it by 3/2 to get 3H2 (g) as a product:\n\n1') 3H2O (l) → 3H2 (g) + 3/2 O2 (g) ΔH = +3/2 * 484 kJ/mol = +726 kJ/mol\n\nNext, we need to reverse equation 3 to get C2H5OH (l) as a reactant:\n\n3') C2H4 (g) + H2O (g) → C2H5OH (l) ΔH = -44 kJ/mol\n\nNow, we can add equations 1', 2, and 3' to get the target equation:\n\n1') 3H2O (l) → 3H2 (g) + 3/2 O2 (g) ΔH = +726 kJ/mol\n2) C2H5OH (l) + 3O2 (g) → 2CO2 (g) + 3H2O (l) ΔH = -1,367 kJ/mol\n3') C2H4 (g) + H2O (g) → C2H5OH (l) ΔH = -44 kJ/mol\n-------------------------------------------------------------\nTarget: C2H5OH (l) → 2CO2 (g) + 3H2 (g) ΔH = ?\n\nNow, we can sum the enthalpy changes:\n\nΔH = +726 kJ/mol - 1,367 kJ/mol - 44 kJ/mol = -685 kJ/mol\n\nSo, the enthalpy change for the target reaction, C2H5OH (l) → 2CO2 (g) + 3H2 (g), is ΔH = -685 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving aqueous solutions",
+    "message_1": "What is the standard enthalpy change for the reaction between solid potassium hydroxide (KOH) and aqueous hydrochloric acid (HCl) to form aqueous potassium chloride (KCl) and liquid water (H2O)? Given the following balanced chemical equation:\n\nKOH(s) + HCl(aq) → KCl(aq) + H2O(l)\n\nMolar enthalpies of formation for KOH, HCl, KCl and H2O are -424.24 kJ/mol, -92.31 kJ/mol, -436.53 kJ/mol, and -285.83 kJ/mol respectively.",
+    "message_2": "To find the standard enthalpy change for the reaction, we can use the formula:\n\nΔH° = Σ ΔHf°(products) - Σ ΔHf°(reactants)\n\nwhere ΔH° is the standard enthalpy change, and ΔHf° represents the standard molar enthalpies of formation for the products and reactants.\n\nFor the given reaction:\n\nKOH(s) + HCl(aq) → KCl(aq) + H2O(l)\n\nΔH° = [ΔHf°(KCl) + ΔHf°(H2O)] - [ΔHf°(KOH) + ΔHf°(HCl)]\n\nSubstitute the given values:\n\nΔH° = [(-436.53 kJ/mol) + (-285.83 kJ/mol)] - [(-424.24 kJ/mol) + (-92.31 kJ/mol)]\n\nΔH° = (-722.36 kJ/mol) - (-516.55 kJ/mol)\n\nΔH° = 205.81 kJ/mol\n\nThe standard enthalpy change for the reaction between solid potassium hydroxide and aqueous hydrochloric acid to form aqueous potassium chloride and liquid water is 205.81 kJ/mol."
+}

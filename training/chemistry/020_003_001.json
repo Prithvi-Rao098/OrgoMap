@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Predicting the direction of a reaction at equilibrium based on changes in concentration, pressure, or temperature",
+    "message_1": "\"Given a chemical reaction at equilibrium, if the concentration of reactants is increased, predict the direction in which the reaction will shift to establish a new equilibrium position.\"",
+    "message_2": "According to Le Chatelier's principle, if a system at equilibrium is subjected to a change in concentration, temperature, or pressure, the system will adjust its equilibrium position to counteract the change.\n\nIn this case, if the concentration of reactants is increased, the system will try to counteract this change by shifting the equilibrium position to consume the excess reactants. Therefore, the reaction will shift in the direction of the products to establish a new equilibrium position. This will result in an increase in the concentration of products and a decrease in the concentration of reactants until a new equilibrium is established."
+}

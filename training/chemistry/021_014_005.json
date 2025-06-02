@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the VSEPR geometry of a molecule",
+    "message_1": "What is the VSEPR geometry of a molecule with the chemical formula CHCl3?",
+    "message_2": "The VSEPR (Valence Shell Electron Pair Repulsion) geometry of a molecule with the chemical formula CHCl3 (chloroform) can be determined by first identifying the central atom and the number of electron groups surrounding it.\n\nIn CHCl3, the central atom is carbon (C). It is bonded to one hydrogen (H) atom and three chlorine (Cl) atoms. There are no lone pairs on the central carbon atom. Therefore, there are a total of four electron groups surrounding the central carbon atom.\n\nAccording to VSEPR theory, these four electron groups will arrange themselves to minimize repulsion, resulting in a tetrahedral geometry. The bond angles in a tetrahedral geometry are approximately 109.5 degrees."
+}

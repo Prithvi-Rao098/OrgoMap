@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Le Chatelier's principle problems",
+    "message_1": "Consider the reaction N2O4(g) ⇌ 2NO2(g) which is exothermic. If the pressure of the system is increased, predict the direction in which the equilibrium will shift, and explain your answer using Le Chatelier's principle.",
+    "message_2": "When the pressure of the system is increased, the equilibrium will shift in the direction that has fewer moles of gas to counteract the change in pressure. In this case, the reaction is:\n\nN2O4(g) ⇌ 2NO2(g)\n\nOn the left side of the reaction, there is 1 mole of N2O4 gas, while on the right side, there are 2 moles of NO2 gas. According to Le Chatelier's principle, the equilibrium will shift to counteract the change in pressure. Since increasing the pressure favors the side with fewer moles of gas, the equilibrium will shift to the left, towards the formation of N2O4.\n\nThis shift in equilibrium will result in a decrease in the concentration of NO2 and an increase in the concentration of N2O4 until a new equilibrium is established."
+}

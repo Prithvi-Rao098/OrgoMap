@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Hess's Law problems",
+    "message_1": "What is the change in enthalpy for the reaction: \n2H2 + O2 → 2H2O, \ngiven the following thermochemical equations and their respective enthalpy changes: \n\n2H2 + O2 → 2H2O, ΔH = -484 kJ/mol \nH2 + ½O2 → H2O, ΔH = -286 kJ/mol",
+    "message_2": "The given reaction is:\n\n2H2 + O2 → 2H2O\n\nThe enthalpy change for this reaction is already provided in the first thermochemical equation:\n\n2H2 + O2 → 2H2O, ΔH = -484 kJ/mol\n\nSo, the change in enthalpy for the reaction is -484 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Reaction rate problems",
+    "message_1": "What is the rate of reaction between zinc metal and sulfuric acid at a concentration of 0.5M and 25°C, if 0.025 g of zinc reacts in 30 seconds and the surface area of zinc is 4.0 cm^2?",
+    "message_2": "To determine the rate of reaction, we first need to find the number of moles of zinc that reacted and then divide it by the time taken for the reaction.\n\nFirst, let's find the number of moles of zinc that reacted. The molar mass of zinc (Zn) is 65.38 g/mol.\n\nNumber of moles of Zn = mass of Zn / molar mass of Zn\nNumber of moles of Zn = 0.025 g / 65.38 g/mol = 3.82 × 10^(-4) mol\n\nNow, let's find the rate of reaction. The rate of reaction is defined as the change in the number of moles of reactants or products per unit time.\n\nRate of reaction = (number of moles of Zn reacted) / (time taken for the reaction)\nRate of reaction = (3.82 × 10^(-4) mol) / (30 s) = 1.27 × 10^(-5) mol/s\n\nThe rate of reaction between zinc metal and sulfuric acid at a concentration of 0.5M and 25°C, with 0.025 g of zinc reacting in 30 seconds and a surface area of 4.0 cm^2, is 1.27 × 10^(-5) mol/s."
+}

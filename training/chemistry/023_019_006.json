@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical synthesis",
+    "sub_topic": "Synthesis of polyacrylonitrile from acrylonitrile monomer",
+    "message_1": "How many moles of acrylonitrile monomer are required to synthesize 100 grams of polyacrylonitrile if the yield is 85%?",
+    "message_2": "To determine the number of moles of acrylonitrile monomer required, we first need to find the molecular weight of acrylonitrile and then calculate the number of moles needed to produce 100 grams of polyacrylonitrile with an 85% yield.\n\nAcrylonitrile has the molecular formula C3H3N. The molecular weight can be calculated as follows:\n\nMolecular weight of Acrylonitrile = (3 × 12.01) + (3 × 1.01) + (1 × 14.01) = 36.03 + 3.03 + 14.01 = 53.07 g/mol\n\nNow, we need to consider the yield of the reaction. Since the yield is 85%, we need to find out how many grams of polyacrylonitrile would be produced from 100 grams of the monomer if the reaction were 100% efficient.\n\n100 g (polyacrylonitrile) / 0.85 = 117.65 g (acrylonitrile)\n\nNow, we can calculate the number of moles of acrylonitrile required:\n\nmoles = mass / molecular weight\nmoles = 117.65 g / 53.07 g/mol = 2.22 moles\n\nTherefore, 2.22 moles of acrylonitrile monomer are required to synthesize 100 grams of polyacrylonitrile with an 85% yield."
+}

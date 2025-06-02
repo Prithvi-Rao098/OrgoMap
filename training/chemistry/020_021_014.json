@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Determining the equilibrium constant for a redox reaction",
+    "message_1": "What is the equilibrium constant of the following redox reaction at room temperature?\n\nFe2+(aq) + Ce4+(aq) ⇌ Fe3+(aq) + Ce3+(aq) \n\nGiven that the initial concentration of Fe2+ is 0.10 M, Ce4+ is 0.20 M, Fe3+ is 0.05 M, and Ce3+ is 0.15 M at equilibrium.",
+    "message_2": "To find the equilibrium constant (K) of the redox reaction, we can use the expression for the reaction quotient (Q) at equilibrium:\n\nK = [Fe3+][Ce3+] / [Fe2+][Ce4+]\n\nGiven the equilibrium concentrations of each species:\n\n[Fe2+] = 0.10 M\n[Ce4+] = 0.20 M\n[Fe3+] = 0.05 M\n[Ce3+] = 0.15 M\n\nSubstitute these values into the expression for K:\n\nK = (0.05)(0.15) / (0.10)(0.20)\n\nK = 0.0075 / 0.02\n\nK = 0.375\n\nThe equilibrium constant for the redox reaction at room temperature is 0.375."
+}

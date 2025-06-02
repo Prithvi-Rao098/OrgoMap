@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Predicting the effect of changing the pH on the equilibrium position of a redox reaction",
+    "message_1": "What is the effect of increasing the pH of a solution containing the redox system, Fe2+/ Fe3+ on the equilibrium concentration of Fe2+ at 25°C?",
+    "message_2": "Increasing the pH of a solution containing the redox system Fe2+/Fe3+ will affect the equilibrium concentration of Fe2+ at 25°C. The redox reaction between Fe2+ and Fe3+ can be represented as:\n\nFe3+ + e- ↔ Fe2+\n\nWhen the pH of the solution increases, the concentration of H+ ions decreases. The Fe3+ ions can react with the OH- ions (from the increased pH) to form Fe(OH)3, which is a precipitate:\n\nFe3+ + 3OH- → Fe(OH)3 (s)\n\nThis reaction removes Fe3+ ions from the solution, which shifts the redox equilibrium to the left according to Le Chatelier's principle. As a result, the equilibrium concentration of Fe2+ will increase in response to the increased pH."
+}

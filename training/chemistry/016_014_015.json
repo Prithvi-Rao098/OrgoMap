@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of sublimation calculations",
+    "message_1": "Calculate the heat of sublimation of solid carbon dioxide (CO2) given that its enthalpy of fusion is 8.44 kJ/mol and its enthalpy of vaporization is 25.2 kJ/mol. The molar mass of CO2 is 44.01 g/mol.",
+    "message_2": "The heat of sublimation is the amount of heat required to convert a substance from its solid phase directly to its gas phase without passing through the liquid phase. In the case of carbon dioxide, we are given the enthalpy of fusion (ΔH_fusion) and the enthalpy of vaporization (ΔH_vaporization).\n\nTo calculate the heat of sublimation (ΔH_sublimation), we can simply add the enthalpy of fusion and the enthalpy of vaporization:\n\nΔH_sublimation = ΔH_fusion + ΔH_vaporization\n\nΔH_sublimation = 8.44 kJ/mol + 25.2 kJ/mol\n\nΔH_sublimation = 33.64 kJ/mol\n\nSo, the heat of sublimation of solid carbon dioxide (CO2) is 33.64 kJ/mol."
+}

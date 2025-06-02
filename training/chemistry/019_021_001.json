@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving solids",
+    "message_1": "Calculate the standard enthalpy change for the reaction that occurs when 4.50 grams of magnesium oxide reacts with excess hydrochloric acid, given the following information:\n\n2HCl(aq) + MgO(s) → MgCl2(aq) + H2O(l)\tΔH = -120.3 kJ/mol\n\nMolar mass of MgO = 40.31 g/mol\n\nRound your answer to two decimal places.",
+    "message_2": "First, we need to determine the number of moles of magnesium oxide (MgO) in the given mass:\n\nmoles of MgO = mass / molar mass\nmoles of MgO = 4.50 g / 40.31 g/mol\nmoles of MgO = 0.1117 mol\n\nNow, we can use the stoichiometry of the reaction and the given standard enthalpy change to calculate the enthalpy change for the reaction with 0.1117 mol of MgO:\n\nΔH = -120.3 kJ/mol × 0.1117 mol\nΔH = -13.43 kJ\n\nThe standard enthalpy change for the reaction with 4.50 grams of magnesium oxide and excess hydrochloric acid is -13.43 kJ (rounded to two decimal places)."
+}

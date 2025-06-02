@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of isomerization calculations",
+    "message_1": "What is the enthalpy change involved in the isomerization reaction of hexene from trans-hexene to cis-hexene? Given the standard enthalpy of formation values for trans-hexene and cis-hexene are -123 kJ/mol and -130 kJ/mol respectively.",
+    "message_2": "To calculate the enthalpy change (ΔH) for the isomerization reaction of hexene from trans-hexene to cis-hexene, we can use the following equation:\n\nΔH = ΔH(products) - ΔH(reactants)\n\nIn this case, the reactant is trans-hexene, and the product is cis-hexene. The standard enthalpy of formation values are given as -123 kJ/mol for trans-hexene and -130 kJ/mol for cis-hexene.\n\nΔH = (-130 kJ/mol) - (-123 kJ/mol)\n\nΔH = -130 + 123\n\nΔH = -7 kJ/mol\n\nThe enthalpy change involved in the isomerization reaction of hexene from trans-hexene to cis-hexene is -7 kJ/mol."
+}
