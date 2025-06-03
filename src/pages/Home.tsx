@@ -12,7 +12,7 @@ const Home = () => {
       <section className="relative h-screen w-full flex items-center justify-center overflow-hidden">
         <img
           className="absolute inset-0 w-full h-full object-cover"
-          src="/imgs/Screenshot 2025-06-02 at 9.21.49 PM.png"
+          src="./imgs/chem-bg.png"
           alt="Chemistry background"
         />
         <div className="absolute inset-0 bg-black/50 z-0" />
