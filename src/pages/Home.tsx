@@ -10,16 +10,11 @@ const Home = () => {
 
       {/* Full-screen Hero with Background Image */}
       <section className="relative h-screen w-full flex items-center justify-center overflow-hidden">
-        <video
+        <img
           className="absolute inset-0 w-full h-full object-cover"
-          autoPlay
-          loop
-          muted
-          playsInline
-        >
-          <source src="/imgs/Chemistry Background Video _ Chemical Footage in HD 4K (1).mp4" type="video/mp4" />
-          Your browser does not support the video tag.
-        </video>
+          src="/imgs/Screenshot 2025-06-02 at 9.21.49 PM.png"
+          alt="Chemistry background"
+        />
         <div className="absolute inset-0 bg-black/50 z-0" />
         <div className="z-10 text-center px-4 text-white">
           <h1 className="text-5xl md:text-7xl font-bold mb-6">OrgoMap</h1>
