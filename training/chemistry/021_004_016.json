@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Identifying the hybridization of an atom in a molecule",
+    "message_1": "What is the hybridization of the Oxygen atom in the molecule of water (H2O)?",
+    "message_2": "In a water molecule (H2O), the oxygen atom is sp3 hybridized. \n\nTo determine the hybridization, we can look at the electron configuration and the number of electron domains around the central atom. Oxygen has an electron configuration of 1s²2s²2p⁴. In a water molecule, oxygen forms two sigma bonds with two hydrogen atoms and has two lone pairs of electrons. This gives a total of four electron domains around the oxygen atom. \n\nWhen there are four electron domains, the hybridization is sp3, which means one s orbital and three p orbitals are hybridized to form four sp3 hybrid orbitals. These sp3 hybrid orbitals are used for bonding with the hydrogen atoms and accommodating the lone pairs of electrons."
+}

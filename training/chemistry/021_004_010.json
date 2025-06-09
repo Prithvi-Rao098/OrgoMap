@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Identifying the hybridization of an atom in a molecule",
+    "message_1": "What is the hybridization of the central atom in the molecule CH2O?",
+    "message_2": "The central atom in the molecule CH2O (formaldehyde) is carbon. To determine the hybridization of the central atom, we need to consider the number of electron domains around the carbon atom.\n\nIn CH2O, carbon forms two single bonds with two hydrogen atoms and one double bond with the oxygen atom. The double bond consists of one sigma bond and one pi bond. Therefore, there are three sigma bonds around the carbon atom.\n\nSince there are three electron domains (three sigma bonds) around the carbon atom, the hybridization of the central carbon atom in CH2O is sp2."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the bond dissociation energy of a molecule",
+    "message_1": "What is the bond dissociation energy of the H-Cl bond in HCl molecule, given that the bond length is 127 pm and the enthalpy change for the reaction HCl(g) → H(g) + Cl(g) is 431 kJ/mol?",
+    "message_2": "The bond dissociation energy is the energy required to break a bond between two atoms. In this case, we are given the enthalpy change for the reaction HCl(g) → H(g) + Cl(g), which is the same as the bond dissociation energy for the H-Cl bond in the HCl molecule. Therefore, the bond dissociation energy of the H-Cl bond in the HCl molecule is 431 kJ/mol."
+}

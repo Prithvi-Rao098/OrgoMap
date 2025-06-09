@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Equilibrium constant calculations",
+    "message_1": "Calculate the equilibrium constant (Kc) of the chemical reaction: \n\n2NOCl(g) ⇌ 2NO(g) + Cl2(g) \n\nwhere the concentration of NOCl is 0.5 M, NO is 0.2 M, and Cl2 is 0.1 M at equilibrium at a certain temperature.",
+    "message_2": "To calculate the equilibrium constant (Kc) for the given reaction, we need to use the formula:\n\nKc = [products]^coefficients / [reactants]^coefficients\n\nFor the given reaction:\n\n2NOCl(g) ⇌ 2NO(g) + Cl2(g)\n\nKc = ([NO]^2 * [Cl2]) / [NOCl]^2\n\nWe are given the concentrations of the species at equilibrium:\n\n[NOCl] = 0.5 M\n[NO] = 0.2 M\n[Cl2] = 0.1 M\n\nNow, we can plug these values into the Kc formula:\n\nKc = (0.2^2 * 0.1) / (0.5^2)\n\nKc = (0.04 * 0.1) / 0.25\n\nKc = 0.004 / 0.25\n\nKc = 0.016\n\nSo, the equilibrium constant (Kc) for the given reaction is 0.016."
+}

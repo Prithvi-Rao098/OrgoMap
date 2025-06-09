@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of oxidation calculations",
+    "message_1": "Calculate the enthalpy change for the oxidation of 1 mole of methane gas to form carbon dioxide and water vapor, given the following balanced chemical equation: \nCH4(g) + 2O2(g) → CO2(g) + 2H2O(g)\n(enthalpy of formation: ΔHf(CH4)=-74.81 kJ/mol, ΔHf(CO2)=-393.51 kJ/mol, ΔHf(H2O)= -241.83 kJ/mol)",
+    "message_2": "To calculate the enthalpy change for the oxidation of 1 mole of methane gas to form carbon dioxide and water vapor, we can use the following equation:\n\nΔH_reaction = Σ ΔHf(products) - Σ ΔHf(reactants)\n\nFor the given balanced chemical equation:\n\nCH4(g) + 2O2(g) → CO2(g) + 2H2O(g)\n\nThe enthalpy of formation values are given as:\n\nΔHf(CH4) = -74.81 kJ/mol\nΔHf(CO2) = -393.51 kJ/mol\nΔHf(H2O) = -241.83 kJ/mol\n\nSince O2 is an element in its standard state, its enthalpy of formation is 0 kJ/mol.\n\nNow, we can plug these values into the equation:\n\n"
+}

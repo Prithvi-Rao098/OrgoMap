@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving gases",
+    "message_1": "Calculate the standard enthalpy change for the combustion of ethene gas (C2H4(g)) to form carbon dioxide gas (CO2(g)) and water vapor (H2O(g)), given the following thermochemical equations: \n\nC2H4(g) + 3O2(g) → 2CO2(g) + 2H2O(g)  ΔH°=-1411 kJ/mol\n\n2H2(g) + O2(g) → 2H2O(g)   ΔH°=-484 kJ/mol",
+    "message_2": "The given thermochemical equations are:\n\n1) C2H4(g) + 3O2(g) → 2CO2(g) + 2H2O(g)  ΔH° = -1411 kJ/mol\n\n2) 2H2(g) + O2(g) → 2H2O(g)   ΔH° = -484 kJ/mol\n\nWe are asked to find the standard enthalpy change for the combustion of ethene gas (C2H4(g)) to form carbon dioxide gas (CO2(g)) and water vapor (H2O(g)). This is already given in the first equation, so there is no need to manipulate the equations further.\n\nThe standard enthalpy change for the combustion of ethene gas (C2H4(g)) to form carbon dioxide gas (CO2(g)) and water vapor (H2O(g)) is ΔH° = -1411 kJ/mol."
+}

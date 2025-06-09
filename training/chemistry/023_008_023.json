@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical synthesis",
+    "sub_topic": "Preparation of p-nitroaniline from aniline and nitric acid",
+    "message_1": "What is the percent yield of p-nitroaniline obtained when 10g of aniline is reacted with excess nitric acid to produce p-nitroaniline and 8g of the product is obtained after purification?",
+    "message_2": "To calculate the percent yield of p-nitroaniline, we first need to determine the theoretical yield based on the stoichiometry of the reaction.\n\nThe balanced chemical equation for the reaction is:\n\nC6H7N + HNO3 → C6H6N2O2 + H2O\n\nAniline (C6H7N) has a molar mass of 93.13 g/mol, and p-nitroaniline (C6H6N2O2) has a molar mass of 138.12 g/mol.\n\nFirst, we need to convert the mass of aniline to moles:\n\n10 g aniline × (1 mol aniline / 93.13 g aniline) = 0.1073 mol aniline\n\nSince the reaction has a 1:1 stoichiometry, the theoretical yield of p-nitroaniline is also 0.1073 mol. Now, we can convert this to grams:\n\n0.1073 mol p-nitroaniline × (138.12 g p-nitroaniline / 1 mol p-nitroaniline) = 14.82 g p-nitroaniline (theoretical yield)\n\nNow that we have the theoretical yield, we can calculate the percent yield:\n\nPercent yield = (actual yield / theoretical yield) × 100\nPercent yield = (8 g p-nitroaniline / 14.82 g p-nitroaniline) × 100 = 53.98%\n\nThe percent yield of p-nitroaniline in this reaction is approximately 53.98%."
+}

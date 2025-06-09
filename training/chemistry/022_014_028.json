@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Limiting reactant problems",
+    "message_1": "What is the mass of sodium chloride (NaCl) produced when 2 grams of sodium (Na) reacts with 4 grams of chlorine (Cl2) in a limiting reactant problem?",
+    "message_2": "To solve this problem, we need to determine the limiting reactant and then calculate the mass of sodium chloride (NaCl) produced.\n\nFirst, let's find the moles of each reactant:\n\n1. Sodium (Na): \nMolar mass of Na = 22.99 g/mol\n2 g Na * (1 mol Na / 22.99 g Na) = 0.087 mol Na\n\n2. Chlorine (Cl2): \nMolar mass of Cl2 = 2 * 35.45 g/mol = 70.90 g/mol\n4 g Cl2 * (1 mol Cl2 / 70.90 g Cl2) = 0.056 mol Cl2\n\nNow, let's find the stoichiometry of the reaction:\n2 Na + Cl2 → 2 NaCl\n\nFrom the balanced equation, we can see that 2 moles of Na react with 1 mole of Cl2. \n\nNow, let's determine the limiting reactant by comparing the mole ratios:\n\n0.087 mol Na / 2 = 0.0435\n0.056 mol Cl2 / 1 = 0.056\n\nSince 0.0435 is smaller than 0.056, Na is the limiting reactant.\n\nNow, we can calculate the mass of NaCl produced using the stoichiometry of the reaction:\n\n0.087 mol Na * (1 mol NaCl / 1 mol Na) = 0.087 mol NaCl\n\nMolar mass of NaCl = 22.99 g/mol (Na) + 35.45 g/mol (Cl) = 58.44 g/mol\n\n0.087 mol NaCl * (58.44 g NaCl / 1 mol NaCl) = 5.08 g NaCl\n\nSo, the mass of sodium chloride (NaCl) produced when 2 grams of sodium (Na) reacts with 4 grams of chlorine (Cl2) in a limiting reactant problem is 5.08 grams."
+}

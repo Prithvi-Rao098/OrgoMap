@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat capacity calculations",
+    "message_1": "What is the heat capacity of a copper rod that absorbs 500 Joules of heat and shows a temperature increase from 25°C to 50°C?",
+    "message_2": "To find the heat capacity of the copper rod, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat absorbed (in Joules), m is the mass of the rod (in kg), c is the specific heat capacity of copper (in J/kg·°C), and ΔT is the change in temperature (in °C).\n\nWe are given the values for Q (500 J) and ΔT (50°C - 25°C = 25°C). The specific heat capacity of copper is 385 J/kg·°C. We need to find the mass (m) of the copper rod.\n\nRearranging the formula to solve for m:\n\nm = Q / (cΔT)\n\nPlugging in the given values:\n\nm = 500 J / (385 J/kg·°C × 25°C)\n\nm ≈ 0.0519 kg\n\nNow that we have the mass of the copper rod, we can find its heat capacity. Heat capacity (C) is the product of mass (m) and specific heat capacity (c):\n\nC = mc\n\nC = 0.0519 kg × 385 J/kg·°C\n\nC ≈ 19.98 J/°C\n\nThe heat capacity of the copper rod is approximately 19.98 J/°C."
+}

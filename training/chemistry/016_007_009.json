@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Standard enthalpy of formation calculations",
+    "message_1": "Calculate the standard enthalpy of formation of methane (CH4) given the following enthalpy data: \n\nC(graphite) + 2H2(g) → CH4(g)   ΔH° = -74.8 kJ/mol \n\nΔH°f[C(graphite)] = 0 kJ/mol\n\nΔH°f[H2(g)] = 0 kJ/mol \n\n(Hint: Use Hess's Law and the fact that the standard enthalpy of formation of an element in its most stable state is zero.)",
+    "message_2": "We can use Hess's Law to calculate the standard enthalpy of formation of methane (CH4). Hess's Law states that the total enthalpy change of a reaction is the sum of the enthalpy changes of its individual steps, regardless of the order in which they occur.\n\nIn this case, we are given the following enthalpy data:\n\nC(graphite) + 2H2(g) → CH4(g)   ΔH° = -74.8 kJ/mol\n\nΔH°f[C(graphite)] = 0 kJ/mol\n\nΔH°f[H2(g)] = 0 kJ/mol\n\nSince the standard enthalpy of formation of an element in its most stable state is zero, we can write the reaction as:\n\nΔH°f[CH4(g)] = ΔH°f[C(graphite)] + 2ΔH°f[H2(g)] + ΔH°\n\nWe know that ΔH°f[C(graphite)] = 0 kJ/mol and ΔH°f[H2(g)] = 0 kJ/mol, so the equation simplifies to:\n\nΔH°f[CH4(g)] = 0 + 0 + (-74.8 kJ/mol)\n\nΔH°f[CH4(g)] = -74.8 kJ/mol\n\nTherefore, the standard enthalpy of formation of methane (CH4) is -74.8 kJ/mol."
+}

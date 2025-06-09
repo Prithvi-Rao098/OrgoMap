@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Determination of standard enthalpy of formation for a compound",
+    "message_1": "Determine the standard enthalpy of formation of methane (CH4) using Hess's Law, given the following reactions and enthalpy changes: \n\n1. C(graphite) + 2H2(g) -> CH4(g)      ΔH1 = -74.6 kJ/mol \n2. 2H2(g) + O2(g) -> 2H2O(l)          ΔH2 = -571.7 kJ/mol \n3. C(graphite) + O2(g) -> CO2(g)     ΔH3 = -393.5 kJ/mol.",
+    "message_2": "To determine the standard enthalpy of formation of methane (CH4) using Hess's Law, we need to manipulate the given reactions to form the desired reaction: \n\nC(graphite) + 2H2(g) -> CH4(g)\n\nThe desired reaction is already given as reaction 1, so we don't need to manipulate any of the reactions. Therefore, the standard enthalpy of formation of methane (CH4) is:\n\nΔHf°(CH4) = ΔH1 = -74.6 kJ/mol"
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of hydrolysis calculations",
+    "message_1": "What is the enthalpy change for the hydrolysis of 1 mole of magnesium chloride? Given the reaction: MgCl2 + 2H2O → Mg(OH)2 + 2HCl. The enthalpy change for the reaction Mg(OH)2 + 2HCl → MgCl2 + 2H2O is -94.5 kJ/mol.",
+    "message_2": "To find the enthalpy change for the hydrolysis of 1 mole of magnesium chloride, we can use the given enthalpy change for the reverse reaction and change its sign.\n\nThe given reaction is:\nMg(OH)2 + 2HCl → MgCl2 + 2H2O, ΔH = -94.5 kJ/mol\n\nThe reverse reaction (hydrolysis of magnesium chloride) is:\nMgCl2 + 2H2O → Mg(OH)2 + 2HCl\n\nSince the reverse reaction is the opposite of the given reaction, the enthalpy change for the hydrolysis of 1 mole of magnesium chloride will be the opposite sign of the given enthalpy change.\n\nΔH (hydrolysis) = +94.5 kJ/mol"
+}

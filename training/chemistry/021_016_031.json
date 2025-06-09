@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the electronegativity difference between two atoms",
+    "message_1": "What is the electronegativity difference between a nitrogen atom (EN = 3.04) and an oxygen atom (EN = 3.44)?",
+    "message_2": "The electronegativity difference between a nitrogen atom (EN = 3.04) and an oxygen atom (EN = 3.44) can be calculated by subtracting the electronegativity of nitrogen from that of oxygen:\n\nElectronegativity difference = EN(Oxygen) - EN(Nitrogen)\nElectronegativity difference = 3.44 - 3.04\nElectronegativity difference = 0.40\n\nSo, the electronegativity difference between nitrogen and oxygen is 0.40."
+}

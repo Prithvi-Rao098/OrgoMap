@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving solids",
+    "message_1": "What is the standard enthalpy change for the reaction in which 2 moles of graphite react with 1 mole of molecular oxygen to produce 2 moles of carbon monoxide gas, given that the standard enthalpy of formation for graphite, oxygen gas and carbon monoxide gas are -393.5 kJ/mol, 0 kJ/mol, and -110.5 kJ/mol respectively?",
+    "message_2": "To calculate the standard enthalpy change for the reaction, we can use the following equation:\n\nΔH° = Σ ΔH°(products) - Σ ΔH°(reactants)\n\nThe balanced chemical equation for the reaction is:\n\n2 C(graphite) + O2(g) → 2 CO(g)\n\nNow, we can plug in the standard enthalpies of formation for each substance:\n\nΔH° = [2 × ΔH°(CO)] - [2 × ΔH°(C) + ΔH°(O2)]\n\nGiven the standard enthalpies of formation for graphite (C), oxygen gas (O2), and carbon monoxide gas (CO) are -393.5 kJ/mol, 0 kJ/mol, and -110.5 kJ/mol respectively:\n\nΔH° = [2 × (-110.5 kJ/mol)] - [2 × (-393.5 kJ/mol) + 0 kJ/mol]\n\nΔH° = [-221 kJ] - [-787 kJ]\n\nΔH° = 566 kJ\n\nThe standard enthalpy change for the reaction is 566 kJ."
+}

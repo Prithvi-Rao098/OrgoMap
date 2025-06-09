@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the electronegativity difference between two atoms",
+    "message_1": "Calculate the electronegativity difference between carbon and hydrogen in a methane (CH4) molecule using the Pauling scale of electronegativity.",
+    "message_2": "On the Pauling scale of electronegativity, carbon has an electronegativity value of 2.55, and hydrogen has a value of 2.20. To calculate the electronegativity difference between carbon and hydrogen in a methane (CH4) molecule, subtract the electronegativity value of hydrogen from that of carbon:\n\nElectronegativity difference = Electronegativity of carbon - Electronegativity of hydrogen\nElectronegativity difference = 2.55 - 2.20\nElectronegativity difference = 0.35\n\nThe electronegativity difference between carbon and hydrogen in a methane molecule is 0.35 on the Pauling scale."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of solution calculations",
+    "message_1": "What is the enthalpy change of the dissolution of 5.00 g of sodium chloride in 100.0 mL of water at 25°C, given that the final temperature of the solution is 28.6°C and the heat capacity of the solution is 4.18 J/g°C?",
+    "message_2": "To calculate the enthalpy change of the dissolution, we first need to determine the heat absorbed by the solution (q). We can do this using the formula:\n\nq = mcΔT\n\nwhere m is the mass of the solution, c is the heat capacity, and ΔT is the change in temperature.\n\nFirst, we need to find the mass of the solution. We know that the mass of sodium chloride is 5.00 g, and the mass of water is 100.0 mL. Assuming the density of water is 1 g/mL, the mass of water is also 100.0 g. Therefore, the mass of the solution is:\n\nm = 5.00 g (NaCl) + 100.0 g (water) = 105.0 g\n\nNext, we can calculate the change in temperature:\n\nΔT = T_final - T_initial = 28.6°C - 25°C = 3.6°C\n\nNow we can calculate the heat absorbed by the solution:\n\nq = (105.0 g) × (4.18 J/g°C) × (3.6°C) = 1573.32 J\n\nSince the dissolution of sodium chloride is an endothermic process, the enthalpy change (ΔH) will be positive. Therefore, the enthalpy change of the dissolution of 5.00 g of sodium chloride in 100.0 mL of water at 25°C is:\n\nΔH = +1573.32 J"
+}

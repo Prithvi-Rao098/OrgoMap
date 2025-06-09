@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Le Chatelier's principle problems",
+    "message_1": "A chemistry student needs to determine the effect on the equilibrium position of a chemical reaction when the concentration of a reactant is decreased. The student is given the balanced equation: \n\nN₂(g) + 3H₂(g) ⇌ 2NH₃(g) + heat\n\nIf the concentration of H₂ is decreased by removing 50% of its concentration, what would be the effect on the concentration of N₂, NH₃, and the position of equilibrium?",
+    "message_2": "When the concentration of H₂ is decreased by 50%, the system will no longer be at equilibrium. According to Le Chatelier's principle, the system will shift to counteract the change and re-establish equilibrium. In this case, the system will shift to the left (towards the reactants) to compensate for the decrease in H₂ concentration.\n\nAs a result, the concentration of NH₃ will decrease as it is converted back into N₂ and H₂. The concentration of N₂ will increase as more N₂ is produced from the conversion of NH₃. The position of equilibrium will shift to the left, favoring the reactants.\n\nIn summary, the concentration of N₂ will increase, the concentration of NH₃ will decrease, and the position of equilibrium will shift to the left."
+}

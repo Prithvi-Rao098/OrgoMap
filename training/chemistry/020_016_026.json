@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of changing the concentration of a salt on the solubility of a sparingly soluble salt",
+    "message_1": "What is the new solubility of a sparingly soluble salt (Ksp = 1.7 x 10^-5) when the concentration of a different salt is increased from 0.1 M to 0.2 M?",
+    "message_2": "To solve this problem, we need to know if the different salt has a common ion with the sparingly soluble salt. The presence of a common ion will affect the solubility of the sparingly soluble salt due to the common ion effect. Please provide the chemical formulas of the sparingly soluble salt and the different salt."
+}

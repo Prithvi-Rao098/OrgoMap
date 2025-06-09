@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat capacity calculations",
+    "message_1": "A chemistry student wants to know the specific heat capacity of aluminum. The student has an aluminum block weighing 100 grams at a temperature of 20°C. The student heats the block until its temperature reaches 90°C by adding 500 Joules of heat. What is the specific heat capacity of aluminum?",
+    "message_2": "To find the specific heat capacity of aluminum, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat added (in Joules), m is the mass of the aluminum block (in grams), c is the specific heat capacity (in J/g°C), and ΔT is the change in temperature (in °C).\n\nWe are given the following information:\nq = 500 J\nm = 100 g\nΔT = 90°C - 20°C = 70°C\n\nNow we can solve for the specific heat capacity (c):\n\n500 J = (100 g) * c * (70°C)\n\nTo isolate c, we can divide both sides by (100 g * 70°C):\n\nc = 500 J / (100 g * 70°C)\nc = 500 J / 7000 g°C\nc ≈ 0.0714 J/g°C\n\nThe specific heat capacity of aluminum is approximately 0.0714 J/g°C."
+}

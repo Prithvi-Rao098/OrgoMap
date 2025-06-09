@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard electrode potential for a redox reaction",
+    "message_1": "Calculate the standard electrode potential for the redox reaction: \n\nFe3+(aq) + e- → Fe2+(aq) \n\ngiven that the standard reduction potential for the Fe3+(aq)/Fe2+(aq) couple is +0.77 V.",
+    "message_2": "The standard electrode potential for the redox reaction Fe3+(aq) + e- → Fe2+(aq) is already given as the standard reduction potential for the Fe3+(aq)/Fe2+(aq) couple, which is +0.77 V. \n\nSo, the standard electrode potential for this redox reaction is +0.77 V."
+}

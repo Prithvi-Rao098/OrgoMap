@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of formation calculations",
+    "message_1": "Calculate the standard enthalpy of formation, ΔH°f, of carbon dioxide (CO2) gas given the following thermochemical equations:\n\n    C(s) + O2(g) → CO2(g)    ΔH°rxn = -393.5 kJ/mol\n    C(s) + O2(g) → CO(g)    ΔH°rxn = -110.5 kJ/mol\n    CO(g) + 1/2 O2(g) → CO2(g)    ΔH°rxn = -283.0 kJ/mol \n\nAssume that all reactants and products are in their standard states.",
+    "message_2": "The standard enthalpy of formation, ΔH°f, of carbon dioxide (CO2) gas can be determined using the given thermochemical equations. The first equation already represents the formation of CO2 from its elements in their standard states:\n\nC(s) + O2(g) → CO2(g)    ΔH°rxn = -393.5 kJ/mol\n\nIn this case, ΔH°rxn is equal to the standard enthalpy of formation, ΔH°f, of CO2. Therefore, the standard enthalpy of formation of carbon dioxide (CO2) gas is:\n\nΔH°f (CO2) = -393.5 kJ/mol"
+}

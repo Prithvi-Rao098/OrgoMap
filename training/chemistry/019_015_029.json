@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a fusion reaction",
+    "message_1": "Calculate the standard enthalpy change for the fusion reaction of solid sodium chloride (NaCl) at 25°C, given the following information: \n\nΔHf°[NaCl(s)] = -411 kJ/mol\n\nΔHf°[Na(s)] = 108 kJ/mol\n\nΔHf°[Cl2(g)] = 0 kJ/mol \n\nThe balanced chemical equation for the fusion reaction of NaCl is:\n\nNaCl(s) → Na(s) + 1/2Cl2(g)",
+    "message_2": "To calculate the standard enthalpy change for the fusion reaction of solid sodium chloride (NaCl) at 25°C, we can use Hess's Law. According to Hess's Law, the total enthalpy change for a reaction is the sum of the enthalpy changes for the individual steps in the reaction.\n\nFor the given reaction:\n\nNaCl(s) → Na(s) + 1/2Cl2(g)\n\nWe can use the standard enthalpies of formation (ΔHf°) for the reactants and products to calculate the enthalpy change for the reaction:\n\nΔHreaction = Σ ΔHf°(products) - Σ ΔHf°(reactants)\n\nΔHreaction = [(1 mol Na × ΔHf°[Na(s)]) + (0.5 mol Cl2 × ΔHf°[Cl2(g)])] - (1 mol NaCl × ΔHf°[NaCl(s)])\n\nΔHreaction = [(1 mol × 108 kJ/mol) + (0.5 mol × 0 kJ/mol)] - (1 mol × -411 kJ/mol)\n\nΔHreaction = [108 kJ + 0 kJ] - (-411 kJ)\n\nΔHreaction = 108 kJ + 411 kJ\n\nΔHreaction = 519 kJ/mol\n\nSo, the standard enthalpy change for the fusion reaction of solid sodium chloride (NaCl) at 25°C is 519 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a formation reaction",
+    "message_1": "What is the standard enthalpy change of formation for methane (CH4), given that its combustion reaction with oxygen (O2) produces carbon dioxide (CO2) and water (H2O)?",
+    "message_2": "To determine the standard enthalpy change of formation for methane (CH₄), we need to know the standard enthalpy change of combustion for methane and the standard enthalpy change of formation for carbon dioxide (CO₂) and water (H₂O).\n\nThe balanced combustion reaction for methane is:\n\nCH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)\n\nThe standard enthalpy change of combustion for methane (ΔHc°) is -890.3 kJ/mol.\n\nThe standard enthalpy change of formation (ΔHf°) for CO₂(g) is -393.5 kJ/mol, and for H₂O(l) is -285.8 kJ/mol.\n\nUsing Hess's Law, we can determine the standard enthalpy change of formation for methane:\n\nΔHf°(CH₄) = ΔHc°(CH₄) - [ΔHf°(CO₂) + 2ΔHf°(H₂O)]\n\nΔHf°(CH₄) = -890.3 kJ/mol - [-393.5 kJ/mol + 2(-285.8 kJ/mol)]\n\nΔHf°(CH₄) = -890.3 kJ/mol - (-964.1 kJ/mol)\n\nΔHf°(CH₄) = 73.8 kJ/mol\n\nSo, the standard enthalpy change of formation for methane (CH₄) is 73.8 kJ/mol."
+}

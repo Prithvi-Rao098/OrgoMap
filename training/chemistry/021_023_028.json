@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the isomerism of a molecule",
+    "message_1": "What type(s) of isomerism can be observed in the molecule C6H12? Draw the structures of any isomers that can be formed and explain the type(s) of isomerism present in each.",
+    "message_2": "In the molecule C6H12, we can observe structural isomerism, specifically chain isomerism and positional isomerism. Here are some examples of isomers for C6H12:\n\n1. Hex-1-ene (Chain isomer)\n   H2C=CH-CH2-CH2-CH2-CH3\n\n2. Hex-2-ene (Chain isomer)\n   CH3-CH=CH-CH2-CH2-CH3\n\n3. 3-Methylpent-1-ene (Positional isomer)\n   CH3-CH=CH-CH(CH3)-CH2-CH3\n\n4. 2-Methylpent-2-ene (Positional isomer)\n   CH3-C(CH3)=CH-CH2-CH2-CH3\n\n5. Cyclohexane (Ring isomer)\n   -CH2-CH2-CH2-CH2-CH2-CH2-\n\n6. Methylcyclopentane (Ring isomer)\n   CH3\n    |\n   -CH2-CH2-CH2-CH2-CH2-\n\nIn these examples, chain isomerism occurs when the carbon atoms are connected in different ways, forming different carbon chains. For example, hex-1-ene and hex-2-ene have different carbon chain structures.\n\nPositional isomerism occurs when the position of the functional group (in this case, the double bond) changes within the same carbon chain. For example, 3-methylpent-1-ene and 2-methylpent-2-ene have the same carbon chain but different positions for the double bond.\n\nRing isomerism occurs when the carbon atoms are connected in a ring structure, such as in cyclohexane and methylcyclopentane."
+}

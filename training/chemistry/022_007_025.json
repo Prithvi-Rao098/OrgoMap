@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Decomposition reactions",
+    "message_1": "What is the balanced chemical equation for the decomposition of potassium chlorate (KClO3) when heated? Also, calculate the amount of oxygen (in grams) produced from the decomposition of 50 grams of potassium chlorate.",
+    "message_2": "The balanced chemical equation for the decomposition of potassium chlorate (KClO3) when heated is:\n\n2 KClO3(s) → 2 KCl(s) + 3 O2(g)\n\nTo calculate the amount of oxygen produced from the decomposition of 50 grams of potassium chlorate, we will use stoichiometry.\n\nFirst, we need to find the molar mass of KClO3:\nK = 39.10 g/mol\nCl = 35.45 g/mol\nO = 16.00 g/mol\n\nMolar mass of KClO3 = 39.10 + 35.45 + (3 × 16.00) = 122.55 g/mol\n\nNow, we can convert the mass of KClO3 to moles:\n50 g KClO3 × (1 mol KClO3 / 122.55 g KClO3) = 0.408 moles KClO3\n\nUsing the stoichiometry from the balanced equation, we can find the moles of O2 produced:\n0.408 moles KClO3 × (3 moles O2 / 2 moles KClO3) = 0.612 moles O2\n\nFinally, we can convert the moles of O2 to grams:\n0.612 moles O2 × (32.00 g/mol O2) = 19.58 grams O2\n\nSo, the amount of oxygen produced from the decomposition of 50 grams of potassium chlorate is approximately 19.58 grams."
+}

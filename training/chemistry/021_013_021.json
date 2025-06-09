@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Identifying the Lewis structure of a molecule",
+    "message_1": "What is the Lewis structure of the molecule CHCl3, and what is the total number of valence electrons in it?",
+    "message_2": "The Lewis structure of the molecule CHCl3 (chloroform) can be drawn as follows:\n\n      Cl\n       |\nH - C - Cl\n       |\n      Cl\n\nTo determine the total number of valence electrons in CHCl3, we need to consider the valence electrons of each atom:\n\n- Carbon (C) has 4 valence electrons.\n- Hydrogen (H) has 1 valence electron.\n- Chlorine (Cl) has 7 valence electrons, and there are 3 chlorine atoms in the molecule.\n\nSo, the total number of valence electrons in CHCl3 is:\n\n4 (C) + 1 (H) + 3 * 7 (Cl) = 4 + 1 + 21 = 26 valence electrons."
+}

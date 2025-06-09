@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Percent yield problems",
+    "message_1": "What is the percent yield of a chemical reaction when 5 grams of reactant A reacted with excess reactant B to produce 3.5 grams of product C, given that the theoretical yield of C is 4 grams?",
+    "message_2": "The percent yield of a chemical reaction can be calculated using the following formula:\n\nPercent Yield = (Actual Yield / Theoretical Yield) × 100\n\nIn this case, the actual yield is 3.5 grams of product C, and the theoretical yield is 4 grams of product C. Plugging these values into the formula:\n\nPercent Yield = (3.5 / 4) × 100 = 0.875 × 100 = 87.5%\n\nSo, the percent yield of the chemical reaction is 87.5%."
+}

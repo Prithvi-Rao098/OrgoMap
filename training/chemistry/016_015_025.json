@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of crystallization calculations",
+    "message_1": "Calculate the heat of crystallization of 5 moles of calcium chloride, given that the enthalpy change of hydration of calcium ions is –1622 kJ/mol and that of chloride ions is –364 kJ/mol.",
+    "message_2": "To calculate the heat of crystallization of 5 moles of calcium chloride (CaCl₂), we need to consider the enthalpy changes of hydration for both calcium ions (Ca²⁺) and chloride ions (Cl⁻).\n\nCalcium chloride dissociates into one calcium ion and two chloride ions in solution:\n\nCaCl₂ → Ca²⁺ + 2Cl⁻\n\nFor 1 mole of calcium chloride, the enthalpy change of hydration will be:\n\nΔH = (1 × ΔH_hydration(Ca²⁺)) + (2 × ΔH_hydration(Cl⁻))\n\nGiven that the enthalpy change of hydration of calcium ions is -1622 kJ/mol and that of chloride ions is -364 kJ/mol, we can substitute these values into the equation:\n\nΔH = (1 × -1622 kJ/mol) + (2 × -364 kJ/mol)\n\nΔH = -1622 kJ/mol - 728 kJ/mol\n\nΔH = -2350 kJ/mol\n\nThis is the enthalpy change of hydration for 1 mole of calcium chloride. Now, we need to calculate the heat of crystallization for 5 moles of calcium chloride:\n\nHeat of crystallization = 5 moles × ΔH\n\nHeat of crystallization = 5 × -2350 kJ/mol\n\nHeat of crystallization = -11750 kJ\n\nSo, the heat of crystallization of 5 moles of calcium chloride is -11750 kJ."
+}

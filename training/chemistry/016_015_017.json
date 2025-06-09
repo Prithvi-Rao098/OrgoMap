@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of crystallization calculations",
+    "message_1": "What is the heat of crystallization of potassium chloride if 50 grams of KCl dissolved in water releases 430 J of heat energy to form a saturated solution and then the solution was allowed to cool and crystallize out KCl? The final mass of the KCl crystals obtained was 30 grams.",
+    "message_2": "To calculate the heat of crystallization of potassium chloride (KCl), we need to determine the amount of heat energy released when the KCl crystals form from the saturated solution. We are given that 50 grams of KCl dissolved in water releases 430 J of heat energy to form a saturated solution. Then, 30 grams of KCl crystals are obtained after cooling and crystallization.\n\nFirst, we need to find the heat energy released per gram of KCl when it dissolves in water:\n\nHeat energy released per gram of KCl = Total heat energy released / Mass of KCl dissolved\n= 430 J / 50 g\n= 8.6 J/g\n\nNext, we need to determine the heat energy released when 30 grams of KCl crystallize:\n\nHeat energy released during crystallization = Heat energy released per gram of KCl × Mass of KCl crystals\n= 8.6 J/g × 30 g\n= 258 J\n\nNow, we can calculate the heat of crystallization of KCl:\n\nHeat of crystallization = Heat energy released during crystallization / Mass of KCl crystals\n= 258 J / 30 g\n= 8.6 J/g\n\nTherefore, the heat of crystallization of potassium chloride is 8.6 J/g."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Hess's Law problems",
+    "message_1": "Calculate the enthalpy change for the following reaction:\n\n2H2O2(aq) → 2H2O(l) + O2(g)\n\nUsing the following information:\n\n2H2O(l) + 105.2 kJ → 2H2(g) + O2(g)\n2H2(g) + O2(g) → 2H2O2(aq) + 484.4 kJ",
+    "message_2": "To calculate the enthalpy change for the reaction 2H2O2(aq) → 2H2O(l) + O2(g), we can use Hess's Law. Hess's Law states that the enthalpy change of a reaction is the same whether it occurs in one step or several steps. We can use the given reactions to create a pathway to the desired reaction.\n\nGiven reactions:\n1) 2H2O(l) + 105.2 kJ → 2H2(g) + O2(g)\n2) 2H2(g) + O2(g) → 2H2O2(aq) + 484.4 kJ\n\nWe want to find the enthalpy change for the reaction:\n3) 2H2O2(aq) → 2H2O(l) + O2(g)\n\nFirst, we need to reverse reaction 1:\n1') 2H2(g) + O2(g) → 2H2O(l) - 105.2 kJ\n\nNow, we can add reaction 1' and reaction 2 to get the desired reaction:\n1') 2H2(g) + O2(g) → 2H2O(l) - 105.2 kJ\n2) 2H2(g) + O2(g) → 2H2O2(aq) + 484.4 kJ\n----------------------------------------------\n3) 2H2O2(aq) → 2H2O(l) + O2(g) + (484.4 - 105.2) kJ\n\nThe enthalpy change for the desired reaction is:\nΔH = 484.4 kJ - 105.2 kJ = 379.2 kJ"
+}

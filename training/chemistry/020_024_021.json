@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of adding a catalyst on the equilibrium position of a redox reaction",
+    "message_1": "How does the addition of a catalyst affect the equilibrium position of a redox reaction involving the conversion of hydrogen peroxide to water and oxygen gas in the presence of potassium iodide as a catalyst? Calculate the new equilibrium constant (K') if the original equilibrium constant (K) was 1.8x10^–5 and the addition of the catalyst increased the rate of the reaction by a factor of 10.",
+    "message_2": "The addition of a catalyst in a chemical reaction, such as the redox reaction involving the conversion of hydrogen peroxide to water and oxygen gas in the presence of potassium iodide as a catalyst, does not affect the equilibrium position or the equilibrium constant (K) of the reaction. A catalyst works by lowering the activation energy of the reaction, which increases the rate at which the reaction proceeds, but it does not change the thermodynamics of the reaction.\n\nSince the catalyst increases the rate of the reaction by a factor of 10, the reaction will reach equilibrium faster, but the equilibrium constant (K) will remain the same. Therefore, the new equilibrium constant (K') will still be 1.8x10^–5, as the catalyst does not change the equilibrium constant, only the rate at which equilibrium is reached."
+}

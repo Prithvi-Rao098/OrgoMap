@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of reduction calculations",
+    "message_1": "What is the enthalpy change of the reduction reaction for the following reaction: \n\nCdO(s) + H2(g) -> Cd(s) + H2O(l) \n\ngiven that the standard enthalpy change of formation for CdO(s), H2O(l), and Cd(s) are -258.3 kJ/mol, -285.8 kJ/mol, and 0 kJ/mol respectively?",
+    "message_2": "To calculate the enthalpy change of the reduction reaction, we can use the following formula:\n\nΔH_reaction = Σ ΔH_f(products) - Σ ΔH_f(reactants)\n\nwhere ΔH_reaction is the enthalpy change of the reaction, ΔH_f is the standard enthalpy change of formation, and the summation symbols represent the sum of the enthalpy changes of formation for the products and reactants, respectively.\n\nFor the given reaction:\n\nCdO(s) + H2(g) -> Cd(s) + H2O(l)\n\nThe enthalpy change of formation for the reactants is:\n\nΔH_f(CdO) = -258.3 kJ/mol\nΔH_f(H2) = 0 kJ/mol (since H2 is in its standard state)\n\nThe enthalpy change of formation for the products is:\n\nΔH_f(Cd) = 0 kJ/mol (since Cd is in its standard state)\nΔH_f(H2O) = -285.8 kJ/mol\n\nNow, we can plug these values into the formula:\n\nΔH_reaction = [(-285.8 kJ/mol) - (-258.3 kJ/mol)] - [0 kJ/mol]\n\nΔH_reaction = -27.5 kJ/mol\n\nThe enthalpy change of the reduction reaction is -27.5 kJ/mol."
+}

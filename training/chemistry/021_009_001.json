@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Predicting the bond order of a molecule",
+    "message_1": "What is the bond order of the nitrogen molecule (N2)?",
+    "message_2": "The bond order of the nitrogen molecule (N2) is 3. This is calculated by finding the difference between the number of bonding electrons and the number of antibonding electrons, divided by 2. In the case of N2, there are 10 bonding electrons and 4 antibonding electrons, resulting in a bond order of (10-4)/2 = 3."
+}

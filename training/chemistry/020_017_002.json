@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Determining the equilibrium constant for a complex ion formation reaction",
+    "message_1": "What is the equilibrium constant of the reaction between Ag+ and NH3 to form Ag(NH3)2+ if a solution has an initial concentration of 0.1 M Ag+ and 0.2 M NH3, and at equilibrium, the concentration of Ag(NH3)2+ is 0.02 M?",
+    "message_2": "The reaction between Ag+ and NH3 to form Ag(NH3)2+ can be represented as:\n\nAg+ + 2NH3 ⇌ Ag(NH3)2+\n\nTo find the equilibrium constant (K) for this reaction, we can use the equilibrium concentrations of the reactants and products. First, we need to determine the change in concentration for each species during the reaction:\n\nInitial concentrations:\n[Ag+] = 0.1 M\n[NH3] = 0.2 M\n[Ag(NH3)2+] = 0 M\n\nEquilibrium concentrations:\n[Ag(NH3)2+] = 0.02 M\n\nSince 1 mole of Ag+ reacts with 2 moles of NH3 to form 1 mole of Ag(NH3)2+, the change in concentration for each species is:\n\nΔ[Ag+] = -0.02 M\nΔ[NH3] = -2 * 0.02 M = -0.04 M\nΔ[Ag(NH3)2+] = +0.02 M\n\nNow we can find the equilibrium concentrations for Ag+ and NH3:\n\n[Ag+]_eq = 0.1 M - 0.02 M = 0.08 M\n[NH3]_eq = 0.2 M - 0.04 M = 0.16 M\n\nNow we can calculate the equilibrium constant (K) using the expression:\n\nK = [Ag(NH3)2+] / ([Ag+] * [NH3]^2)\n\nK = (0.02 M) / ((0.08 M) * (0.16 M)^2)\n\nK ≈ 97.66\n\nThe equilibrium constant for the reaction between Ag+ and NH3 to form Ag(NH3)2+ is approximately 97.66."
+}

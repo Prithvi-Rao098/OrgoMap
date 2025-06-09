@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Equilibrium constant calculations",
+    "message_1": "What is the equilibrium constant (Kc) for the reaction N2(g) + 3H2(g) ⇌ 2NH3(g) at a temperature of 400 K, if the concentration of nitrogen gas is 0.23 M, hydrogen gas is 0.16 M, and ammonia gas is 0.11 M at equilibrium?",
+    "message_2": "To find the equilibrium constant (Kc) for the given reaction, we can use the formula:\n\nKc = [NH3]^2 / ([N2] * [H2]^3)\n\nwhere [NH3], [N2], and [H2] are the equilibrium concentrations of ammonia, nitrogen, and hydrogen gases, respectively.\n\nGiven the equilibrium concentrations:\n[N2] = 0.23 M\n[H2] = 0.16 M\n[NH3] = 0.11 M\n\nPlugging these values into the formula:\n\nKc = (0.11)^2 / (0.23 * (0.16)^3)\n\nKc = 0.0121 / (0.23 * 0.004096)\n\nKc = 0.0121 / 0.00094176\n\nKc ≈ 12.85\n\nThe equilibrium constant (Kc) for the reaction N2(g) + 3H2(g) ⇌ 2NH3(g) at a temperature of 400 K with the given concentrations is approximately 12.85."
+}

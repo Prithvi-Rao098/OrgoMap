@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the heat of formation of a molecule",
+    "message_1": "Calculate the standard heat of formation (in kJ/mol) of water (H2O) given the following bond energies: \nH-H = 436 kJ/mol, O=O = 498 kJ/mol, H-O = 463 kJ/mol.",
+    "message_2": "To calculate the standard heat of formation of water (H2O), we need to consider the bond energies of the reactants and products. The balanced chemical equation for the formation of water is:\n\nH2 (g) + 1/2 O2 (g) → H2O (l)\n\nNow, let's calculate the energy change for this reaction:\n\n1. Breaking the H-H bond in H2 (g) requires 436 kJ/mol.\n2. Breaking 1/2 of the O=O bond in O2 (g) requires 1/2 * 498 kJ/mol = 249 kJ/mol.\n3. Forming two H-O bonds in H2O (l) releases 2 * 463 kJ/mol = 926 kJ/mol.\n\nThe standard heat of formation (ΔHf) is the difference between the energy required to break the bonds in the reactants and the energy released when forming the bonds in the products:\n\nΔHf = (Energy required to break bonds) - (Energy released when forming bonds)\nΔHf = (436 + 249) - 926\nΔHf = 685 - 926\nΔHf = -241 kJ/mol\n\nThe standard heat of formation of water (H2O) is -241 kJ/mol."
+}

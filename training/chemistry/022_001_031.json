@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Balancing chemical equations",
+    "message_1": "Consider the chemical equation: \n\nFe + H2SO4 → FeSO4 + H2 \n\nWhat is the coefficient of Fe when the equation is balanced using the smallest whole number coefficients?",
+    "message_2": "The balanced equation is:\n\nFe + H2SO4 → FeSO4 + H2\n\nThe coefficients for all the elements are already balanced with the smallest whole numbers. Therefore, the coefficient of Fe is 1."
+}

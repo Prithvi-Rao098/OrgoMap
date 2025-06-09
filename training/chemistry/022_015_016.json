@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Percent yield problems",
+    "message_1": "Assuming complete reaction, a chemistry student added 32 grams of reactant A to a reaction mixture that should produce 28 grams of product B. However, the actual yield of B was only 22 grams. What is the percent yield of product B for this chemical reaction?",
+    "message_2": "Percent yield is calculated using the formula:\n\nPercent yield = (Actual yield / Theoretical yield) × 100\n\nIn this case, the actual yield of product B is 22 grams, and the theoretical yield (assuming complete reaction) is 28 grams.\n\nPercent yield = (22 grams / 28 grams) × 100\nPercent yield = 0.7857 × 100\nPercent yield ≈ 78.57%\n\nThe percent yield of product B for this chemical reaction is approximately 78.57%."
+}

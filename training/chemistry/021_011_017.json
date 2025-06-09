@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the bond dissociation energy of a molecule",
+    "message_1": "What is the bond dissociation energy (in kJ/mol) of the H-H bond in H2 molecule if it requires 436 kJ/mol of energy to break one mole of H2 into individual H atoms?",
+    "message_2": "The bond dissociation energy is the energy required to break a bond in a molecule. In this case, we are given that it requires 436 kJ/mol of energy to break one mole of H2 into individual H atoms. Since there is only one H-H bond in an H2 molecule, the bond dissociation energy of the H-H bond is equal to the energy required to break one mole of H2.\n\nTherefore, the bond dissociation energy of the H-H bond in H2 molecule is 436 kJ/mol."
+}

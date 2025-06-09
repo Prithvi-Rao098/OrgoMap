@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Hess's Law calculations",
+    "message_1": "A chemistry student needs to determine the standard enthalpy change for the formation of NH3(g) from its constituent elements, using Hess's Law calculations. The student is given the following information:\n\nΔHf°(NH3) = -46 kJ/mol\nΔHf°(N2) = 0 kJ/mol\nΔHf°(H2) = 0 kJ/mol\nΔH298°(N2H4) = 95 kJ/mol\nΔHf°(N2H4) = 50 kJ/mol\n2NH3(g) + N2H4(l) → 3N2(g) + 4H2(g)\n\nWhat is the value of ΔHf° for NH3, based on the above data?",
+    "message_2": "The given information states that ΔHf°(NH3) = -46 kJ/mol. This is the standard enthalpy change for the formation of NH3(g) from its constituent elements. Therefore, the value of ΔHf° for NH3 is -46 kJ/mol."
+}

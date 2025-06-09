@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "What is the theoretical yield of carbon dioxide gas when 10 grams of sodium bicarbonate reacts with excess hydrochloric acid according to the following balanced chemical equation: \nNaHCO3 + HCl → NaCl + CO2 + H2O\n(Atomic masses: Na = 23, H = 1, C = 12, O = 16, Cl = 35.5)",
+    "message_2": "To calculate the theoretical yield of CO2, we first need to determine the number of moles of sodium bicarbonate (NaHCO3) in the 10 grams given.\n\nThe molar mass of NaHCO3 is:\nNa = 23 g/mol\nH = 1 g/mol\nC = 12 g/mol\nO = 16 g/mol (x3 for three oxygen atoms)\n\nMolar mass of NaHCO3 = 23 + 1 + 12 + (16 x 3) = 84 g/mol\n\nNow, we can determine the moles of NaHCO3:\nmoles of NaHCO3 = mass / molar mass = 10 g / 84 g/mol = 0.119 moles\n\nThe balanced chemical equation shows that 1 mole of NaHCO3 reacts to produce 1 mole of CO2. Therefore, the moles of CO2 produced will be equal to the moles of NaHCO3.\n\nmoles of CO2 = 0.119 moles\n\nNow, we can calculate the mass of CO2 produced using the molar mass of CO2:\nC = 12 g/mol\nO = 16 g/mol (x2 for two oxygen atoms)\n\nMolar mass of CO2 = 12 + (16 x 2) = 44 g/mol\n\nMass of CO2 = moles of CO2 x molar mass of CO2 = 0.119 moles x 44 g/mol = 5.24 g\n\nThe theoretical yield of carbon dioxide gas is 5.24 grams."
+}

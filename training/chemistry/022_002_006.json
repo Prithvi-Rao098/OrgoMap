@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "What mass of potassium chlorate (KClO3) is required to produce 12.5 grams of oxygen gas (O2) according to the following balanced equation?\n\n2 KClO3 → 2 KCl + 3 O2",
+    "message_2": "To solve this problem, we will use the stoichiometry method. First, we need to find the molar mass of KClO3 and O2.\n\nMolar mass of KClO3 = (39.10 g/mol for K) + (35.45 g/mol for Cl) + (3 × 16.00 g/mol for O) = 122.55 g/mol\n\nMolar mass of O2 = 2 × 16.00 g/mol = 32.00 g/mol\n\nNow, we will use the balanced equation to find the ratio of moles of KClO3 to moles of O2:\n\n2 KClO3 → 3 O2\n\nFrom the balanced equation, we can see that 2 moles of KClO3 produce 3 moles of O2.\n\nNext, we need to find the moles of O2 produced:\n\nmoles of O2 = mass of O2 / molar mass of O2 = 12.5 g / 32.00 g/mol = 0.3906 mol\n\nNow, we can use the mole ratio to find the moles of KClO3 required:\n\nmoles of KClO3 = (moles of O2 × moles of KClO3) / moles of O2 = (0.3906 mol × 2) / 3 = 0.2604 mol\n\nFinally, we can find the mass of KClO3 required:\n\nmass of KClO3 = moles of KClO3 × molar mass of KClO3 = 0.2604 mol × 122.55 g/mol = 31.91 g\n\nSo, 31.91 grams of potassium chlorate (KClO3) is required to produce 12.5 grams of oxygen gas (O2)."
+}

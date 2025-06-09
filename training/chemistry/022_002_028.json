@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "What mass of NaOH (in grams) is needed to react completely with 25.0 g of HCl according to the following balanced chemical equation?\n\n2NaOH(aq) + H2SO4(aq) → Na2SO4(aq) + 2H2O(l)",
+    "message_2": "The given balanced chemical equation is incorrect for the reaction between NaOH and HCl. The correct balanced chemical equation for the reaction between NaOH and HCl is:\n\nNaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l)\n\nNow, we can proceed to find the mass of NaOH needed to react completely with 25.0 g of HCl.\n\nFirst, we need to find the moles of HCl:\nMoles of HCl = mass of HCl / molar mass of HCl\nMolar mass of HCl = 1 (H) + 35.5 (Cl) = 36.5 g/mol\nMoles of HCl = 25.0 g / 36.5 g/mol = 0.6849 mol\n\nFrom the balanced equation, we can see that the mole ratio between NaOH and HCl is 1:1. Therefore, the moles of NaOH needed is equal to the moles of HCl.\n\nMoles of NaOH = 0.6849 mol\n\nNow, we can find the mass of NaOH:\nMass of NaOH = moles of NaOH × molar mass of NaOH\nMolar mass of NaOH = 23 (Na) + 16 (O) + 1 (H) = 40 g/mol\nMass of NaOH = 0.6849 mol × 40 g/mol = 27.4 g\n\nSo, 27.4 grams of NaOH is needed to react completely with 25.0 g of HCl."
+}

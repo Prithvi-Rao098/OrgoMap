@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Reaction rate problems",
+    "message_1": "What is the reaction rate of the decomposition of 2 moles of hydrogen peroxide in the presence of a catalyst at 25°C and 1 atm pressure, if the concentration of the catalyst is 0.1 M and the decomposition takes place within 20 seconds?",
+    "message_2": "To calculate the reaction rate, we need to know the change in concentration of the reactant (hydrogen peroxide) over time. The balanced equation for the decomposition of hydrogen peroxide is:\n\n2 H2O2 → 2 H2O + O2\n\nSince 2 moles of hydrogen peroxide decompose within 20 seconds, we can calculate the average reaction rate as follows:\n\nReaction rate = (Change in concentration of H2O2) / (Change in time)\nReaction rate = (Final concentration - Initial concentration) / (Final time - Initial time)\n\nIn this case, the initial concentration of hydrogen peroxide is 2 moles, and the final concentration is 0 moles (since it completely decomposes). The initial time is 0 seconds, and the final time is 20 seconds.\n\nReaction rate = (0 - 2) / (20 - 0)\nReaction rate = -2 / 20\nReaction rate = -0.1 M/s\n\nThe negative sign indicates that the concentration of hydrogen peroxide is decreasing over time. Therefore, the reaction rate of the decomposition of hydrogen peroxide in the presence of a catalyst at 25°C and 1 atm pressure is 0.1 M/s."
+}

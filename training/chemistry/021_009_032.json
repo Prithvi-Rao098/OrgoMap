@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Predicting the bond order of a molecule",
+    "message_1": "Calculate the bond order of O2, O2+, O2- and O22-.",
+    "message_2": "To calculate the bond order, we need to consider the molecular orbital (MO) diagram of the oxygen molecule and its ions. The bond order is calculated as follows:\n\nBond order = (Number of electrons in bonding MOs - Number of electrons in antibonding MOs) / 2\n\n1. O2 molecule:\nOxygen has 8 electrons, so O2 has 16 electrons. The MO configuration is:\nσ1s², σ*1s², σ2s², σ*2s², σ2pz², π2px², π2py², π*2px¹, π*2py¹\n\nBond order of O2 = (10 - 6) / 2 = 2\n\n2. O2+ ion:\nO2+ has 15 electrons. The MO configuration is:\nσ1s², σ*1s², σ2s², σ*2s², σ2pz², π2px², π2py², π*2px¹\n\nBond order of O2+ = (9 - 6) / 2 = 1.5\n\n3. O2- ion:\nO2- has 17 electrons. The MO configuration is:\nσ1s², σ*1s², σ2s², σ*2s², σ2pz², π2px², π2py², π*2px¹, π*2py²\n\nBond order of O2- = (10 - 7) / 2 = 1.5\n\n4. O22- ion:\nO22- has 18 electrons. The MO configuration is:\nσ1s², σ*1s², σ2s², σ*2s², σ2pz², π2px², π2py², π*2px², π*2py²\n\nBond order of O22- = (10 - 8) / 2 = 1\n\nSo, the bond orders are as follows:\nO2: 2\nO2+: 1.5\nO2-: 1.5\nO22-: 1"
+}

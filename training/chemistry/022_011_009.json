@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Gas evolution reactions",
+    "message_1": "What is the volume of carbon dioxide gas evolved when 10g of calcium carbonate (CaCO3) reacts with excess hydrochloric acid (HCl) at STP?",
+    "message_2": "To solve this problem, we will use the balanced chemical equation, stoichiometry, and the molar volume of a gas at STP.\n\nThe balanced chemical equation for the reaction between calcium carbonate and hydrochloric acid is:\n\nCaCO3 (s) + 2 HCl (aq) → CaCl2 (aq) + H2O (l) + CO2 (g)\n\nFirst, we need to find the moles of calcium carbonate (CaCO3) in 10g.\n\nMolar mass of CaCO3 = 40.08 (Ca) + 12.01 (C) + 3 * 16.00 (O) = 100.09 g/mol\n\nMoles of CaCO3 = mass / molar mass = 10g / 100.09 g/mol = 0.0999 mol\n\nFrom the balanced equation, we can see that 1 mole of CaCO3 produces 1 mole of CO2. Therefore, 0.0999 moles of CaCO3 will produce 0.0999 moles of CO2.\n\nAt STP (standard temperature and pressure), 1 mole of any gas occupies 22.4 liters. So, the volume of CO2 produced can be calculated as follows:\n\nVolume of CO2 = moles of CO2 * molar volume at STP = 0.0999 mol * 22.4 L/mol = 2.24 L\n\nSo, the volume of carbon dioxide gas evolved when 10g of calcium carbonate reacts with excess hydrochloric acid at STP is approximately 2.24 liters."
+}

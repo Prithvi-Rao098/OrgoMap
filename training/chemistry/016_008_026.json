@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of fusion calculations",
+    "message_1": "What is the amount of energy required to melt 50 grams of ice at 0°C, given that the heat of fusion of ice is 333.55 J/g?",
+    "message_2": "To calculate the amount of energy required to melt 50 grams of ice at 0°C, we can use the formula:\n\nEnergy (Q) = mass (m) × heat of fusion (Lf)\n\nwhere:\n- Energy (Q) is the amount of energy required, in joules (J)\n- mass (m) is the mass of the ice, in grams (g)\n- heat of fusion (Lf) is the energy required to change 1 gram of ice at 0°C to 1 gram of water at 0°C, in joules per gram (J/g)\n\nGiven the mass of ice (m) is 50 grams and the heat of fusion (Lf) is 333.55 J/g, we can plug these values into the formula:\n\nQ = 50 g × 333.55 J/g\n\nQ = 16677.5 J\n\nTherefore, the amount of energy required to melt 50 grams of ice at 0°C is 16,677.5 joules."
+}

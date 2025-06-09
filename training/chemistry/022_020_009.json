@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Activation energy calculations",
+    "message_1": "What is the activation energy required for the reaction between hydrogen gas and iodine gas to produce hydrogen iodide gas, given the following information: \n\n- The rate constant for the reaction is 5.5 x 10^-3 L/mol*s at a temperature of 400 K. \n- The activation energy for the forward reaction is 180 kJ/mol. \n- The activation energy for the reverse reaction is 210 kJ/mol.",
+    "message_2": "The activation energy for the forward reaction between hydrogen gas and iodine gas to produce hydrogen iodide gas is given as 180 kJ/mol. Since the problem asks for the activation energy required for this reaction, the answer is 180 kJ/mol."
+}

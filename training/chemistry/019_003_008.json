@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "Given a certain substance with a mass of 25 grams and an initial temperature of 25°C, if it absorbs 500 joules of heat energy, what is the final temperature of the substance? The heat capacity of the substance is 0.5 J/g·°C.",
+    "message_2": "To find the final temperature of the substance, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat energy absorbed (500 J), m is the mass of the substance (25 g), c is the heat capacity (0.5 J/g·°C), and ΔT is the change in temperature.\n\nFirst, we need to find the change in temperature (ΔT):\n\n500 J = (25 g)(0.5 J/g·°C)(ΔT)\n\nNow, we can solve for ΔT:\n\nΔT = 500 J / (25 g * 0.5 J/g·°C) = 500 J / 12.5 J/°C = 40°C\n\nSo, the change in temperature is 40°C. Since the initial temperature was 25°C, the final temperature will be:\n\nFinal temperature = Initial temperature + ΔT = 25°C + 40°C = 65°C\n\nThe final temperature of the substance is 65°C."
+}

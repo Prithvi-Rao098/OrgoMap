@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Predicting the direction of a reaction at equilibrium based on changes in concentration, pressure, or temperature",
+    "message_1": "Given the equilibrium equation N2(g) + 3H2(g) ⇌ 2NH3(g), if the concentration of N2 is increased by 0.2 M while the temperature is held constant, what will be the effect on the equilibrium concentration of NH3?",
+    "message_2": "To determine the effect on the equilibrium concentration of NH3 when the concentration of N2 is increased by 0.2 M, we can use Le Chatelier's principle. According to Le Chatelier's principle, when a system at equilibrium is subjected to a change in concentration, the system will adjust to counteract the change and re-establish equilibrium.\n\nIn this case, when the concentration of N2 is increased by 0.2 M, the system will shift to the right to consume the excess N2 and re-establish equilibrium. This shift to the right will result in an increase in the concentration of NH3.\n\nTo determine the exact change in the concentration of NH3, we can use the reaction stoichiometry. For every 1 mole of N2 consumed, 2 moles of NH3 are produced. Therefore, the change in the concentration of NH3 will be twice the change in the concentration of N2.\n\nΔ[NH3] = 2 × Δ[N2]\nΔ[NH3] = 2 × 0.2 M\nΔ[NH3] = 0.4 M\n\nSo, the equilibrium concentration of NH3 will increase by 0.4 M when the concentration of N2 is increased by 0.2 M while the temperature is held constant."
+}

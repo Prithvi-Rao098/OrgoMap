@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the type of bond between two atoms",
+    "message_1": "What type of bond is likely to form between a sulfur atom and a chlorine atom, and how is it determined?",
+    "message_2": "A covalent bond is likely to form between a sulfur atom and a chlorine atom. This is determined by the electronegativity difference between the two atoms. \n\nSulfur (S) has an electronegativity value of 2.58, and chlorine (Cl) has an electronegativity value of 3.16. The electronegativity difference between them is 3.16 - 2.58 = 0.58. \n\nWhen the electronegativity difference between two atoms is less than 1.7, they are likely to form a covalent bond. In this case, the difference is 0.58, which indicates that a covalent bond will form between the sulfur and chlorine atoms."
+}

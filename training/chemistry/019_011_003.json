@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a formation reaction",
+    "message_1": "Calculate the standard enthalpy change (∆H°) for the formation of ammonia (NH3) at 298 K using the following data: \n\nN2(g) + 3H2(g) → 2NH3(g)  ∆H° = −92.4 kJ/mol \n\nHint: Standard enthalpy change (∆H°) for a reaction is calculated by taking the sum of the standard enthalpies of the products minus the sum of the standard enthalpies of the reactants.",
+    "message_2": "The given balanced chemical equation is:\n\nN2(g) + 3H2(g) → 2NH3(g)  ∆H° = −92.4 kJ/mol\n\nTo calculate the standard enthalpy change (∆H°) for the formation of ammonia (NH3) at 298 K, we can use the given ∆H° value directly since it is already provided for the balanced equation.\n\n∆H° = -92.4 kJ/mol\n\nThis means that the standard enthalpy change for the formation of ammonia (NH3) at 298 K is -92.4 kJ/mol."
+}

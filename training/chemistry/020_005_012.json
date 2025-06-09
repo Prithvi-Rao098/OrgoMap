@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Determining the effect of adding or removing a reactant or product on the equilibrium position",
+    "message_1": "What is the effect on the equilibrium position of a reaction if we add more reactant or remove product from the reaction mixture at equilibrium, specifically for the reaction: N2(g) + 3H2(g) <=> 2NH3(g)?",
+    "message_2": "According to Le Chatelier's principle, if a system at equilibrium is subjected to a change in concentration, pressure, or temperature, the equilibrium will shift to counteract the imposed change and restore a new equilibrium.\n\nIn the case of the reaction: N2(g) + 3H2(g) <=> 2NH3(g)\n\n1. If we add more reactant (N2 or H2) to the reaction mixture at equilibrium, the system will shift to the right to consume the added reactants and produce more NH3. This will result in an increase in the concentration of NH3 and a decrease in the concentrations of N2 and H2 until a new equilibrium is established.\n\n2. If we remove the product (NH3) from the reaction mixture at equilibrium, the system will shift to the right to produce more NH3 to compensate for the loss. This will result in a decrease in the concentrations of N2 and H2 and an increase in the concentration of NH3 until a new equilibrium is established.\n\nIn both cases, the equilibrium position shifts to the right, favoring the formation of the product (NH3) to counteract the changes made to the reaction mixture."
+}

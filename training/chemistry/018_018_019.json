@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical kinetics",
+    "sub_topic": "Investigating the effect of reaction equilibrium on reaction rate",
+    "message_1": "How does the presence of a catalyst affect the rate of a chemical reaction at equilibrium?",
+    "message_2": "The presence of a catalyst affects the rate of a chemical reaction at equilibrium by increasing the rate at which the reaction reaches equilibrium, but it does not change the position of the equilibrium itself. A catalyst works by providing an alternative reaction pathway with a lower activation energy, which allows more reactant molecules to have sufficient energy to undergo the reaction. This results in an increase in the rate of both the forward and reverse reactions.\n\nHowever, since the catalyst affects both the forward and reverse reactions equally, the equilibrium constant (K) remains unchanged. The reaction will simply reach equilibrium more quickly with a catalyst present, but the concentrations of the reactants and products at equilibrium will be the same as in the uncatalyzed reaction."
+}

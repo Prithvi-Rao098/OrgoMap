@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving coordination compounds.",
+    "message_1": "Calculate the standard enthalpy change (∆H°) for the reaction of the coordination compound [Co(NH3)6]Cl3 (aq) with NaOH (aq) to produce [Co(NH3)6](OH)3 (aq) and NaCl (aq). Given, the standard enthalpy of formation (∆H°f) for [Co(NH3)6]Cl3, [Co(NH3)6](OH)3 and NaCl are -784.8 kJ/mol, -1273.6 kJ/mol and -411.2 kJ/mol, respectively.",
+    "message_2": "To calculate the standard enthalpy change (∆H°) for the reaction, we can use the following equation:\n\n∆H° = Σ ∆H°f(products) - Σ ∆H°f(reactants)\n\nThe balanced chemical equation for the reaction is:\n\n[Co(NH3)6]Cl3 (aq) + 3 NaOH (aq) → [Co(NH3)6](OH)3 (aq) + 3 NaCl (aq)\n\nNow, we can plug in the given standard enthalpies of formation (∆H°f) for each compound:\n\n∆H° = (1 × -1273.6 kJ/mol + 3 × -411.2 kJ/mol) - (1 × -784.8 kJ/mol)\n\n∆H° = (-1273.6 - 1233.6) - (-784.8)\n\n∆H° = -2507.2 + 784.8\n\n∆H° = -1722.4 kJ/mol\n\nThe standard enthalpy change (∆H°) for the reaction is -1722.4 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Hess's Law problems",
+    "message_1": "What is the enthalpy change for the reaction between sodium hydroxide (NaOH) and hydrochloric acid (HCl) if the enthalpy change for the reaction between sodium hydroxide and potassium hydroxide (KOH) is -57.2 kJ/mol and the enthalpy change for the reaction between potassium hydroxide and hydrochloric acid is -57.3 kJ/mol?",
+    "message_2": "To find the enthalpy change for the reaction between sodium hydroxide (NaOH) and hydrochloric acid (HCl), we can use Hess's Law. Hess's Law states that the enthalpy change for a reaction is the same, whether it occurs in one step or several steps. In this case, we are given two reactions:\n\n1) NaOH + KOH → products (ΔH1 = -57.2 kJ/mol)\n2) KOH + HCl → products (ΔH2 = -57.3 kJ/mol)\n\nWe want to find the enthalpy change for the reaction:\n\n3) NaOH + HCl → products (ΔH3)\n\nTo do this, we can manipulate the given reactions to create the desired reaction. In this case, we can reverse reaction 1 and add it to reaction 2:\n\n1) NaOH + KOH → products (ΔH1 = -57.2 kJ/mol)\nReverse: products → NaOH + KOH (ΔH1' = +57.2 kJ/mol)\n\nAdd reversed reaction 1 to reaction 2:\n\nΔH1' + ΔH2 = ΔH3\n(+57.2 kJ/mol) + (-57.3 kJ/mol) = ΔH3\n\nΔH3 = -0.1 kJ/mol\n\nSo, the enthalpy change for the reaction between sodium hydroxide (NaOH) and hydrochloric acid (HCl) is -0.1 kJ/mol."
+}

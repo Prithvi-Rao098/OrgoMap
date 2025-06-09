@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Equilibrium constant calculations",
+    "message_1": "What is the equilibrium constant (Kc) expression for the following chemical equation: 2NO2(g) ⇌ N2O4(g)? Given the concentration of NO2 to be 0.025 mol/L and the concentration of N2O4 to be 0.0105 mol/L at equilibrium, calculate the value of Kc.",
+    "message_2": "The equilibrium constant (Kc) expression for the given chemical equation 2NO2(g) ⇌ N2O4(g) can be written as:\n\nKc = [N2O4] / [NO2]^2\n\nGiven the concentration of NO2 to be 0.025 mol/L and the concentration of N2O4 to be 0.0105 mol/L at equilibrium, we can now calculate the value of Kc:\n\nKc = (0.0105) / (0.025)^2\n\nKc = 0.0105 / 0.000625\n\nKc ≈ 16.8\n\nTherefore, the value of Kc for the given reaction is approximately 16.8."
+}

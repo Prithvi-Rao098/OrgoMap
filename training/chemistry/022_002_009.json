@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "What is the mass of product formed when 15.0 grams of magnesium reacts with excess hydrochloric acid? (Assume the reaction goes to completion)",
+    "message_2": "The reaction between magnesium (Mg) and hydrochloric acid (HCl) can be represented by the following balanced chemical equation:\n\nMg + 2HCl → MgCl2 + H2\n\nTo determine the mass of the product (magnesium chloride, MgCl2) formed, we will use stoichiometry. First, we need to find the molar mass of magnesium and magnesium chloride:\n\nMolar mass of Mg = 24.31 g/mol\nMolar mass of MgCl2 = 24.31 g/mol (Mg) + 2 * 35.45 g/mol (Cl) = 95.21 g/mol\n\nNow, we will convert the given mass of magnesium (15.0 grams) to moles:\n\nmoles of Mg = mass of Mg / molar mass of Mg\nmoles of Mg = 15.0 g / 24.31 g/mol = 0.617 moles\n\nAccording to the balanced chemical equation, 1 mole of Mg reacts with 2 moles of HCl to produce 1 mole of MgCl2. Therefore, the moles of MgCl2 produced will be equal to the moles of Mg reacted:\n\nmoles of MgCl2 = 0.617 moles\n\nNow, we will convert the moles of MgCl2 to mass:\n\nmass of MgCl2 = moles of MgCl2 * molar mass of MgCl2\nmass of MgCl2 = 0.617 moles * 95.21 g/mol = 58.75 g\n\nSo, the mass of magnesium chloride (MgCl2) formed when 15.0 grams of magnesium reacts with excess hydrochloric acid is approximately 58.75 grams."
+}

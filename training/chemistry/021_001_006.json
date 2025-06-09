@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the type of bond between two atoms",
+    "message_1": "What type of chemical bond will form between an atom of potassium and an atom of chlorine, and what is the percentage ionic character of this bond?",
+    "message_2": "A chemical bond between an atom of potassium (K) and an atom of chlorine (Cl) will form an ionic bond. Potassium is a metal from Group 1 (alkali metals) and has one valence electron, while chlorine is a non-metal from Group 17 (halogens) and has seven valence electrons. Potassium will lose its valence electron to chlorine, resulting in a positively charged potassium ion (K+) and a negatively charged chloride ion (Cl-). These ions will be attracted to each other, forming an ionic bond.\n\nTo calculate the percentage ionic character of this bond, we can use the following formula:\n\n% Ionic Character = (1 - e^(-0.25 * (EN1 - EN2)^2)) * 100\n\nwhere EN1 and EN2 are the electronegativities of the two atoms involved in the bond. The electronegativity values for potassium and chlorine are 0.82 and 3.16, respectively.\n\n% Ionic Character = (1 - e^(-0.25 * (0.82 - 3.16)^2)) * 100\n% Ionic Character ≈ 89.2%\n\nSo, the bond between potassium and chlorine has approximately 89.2% ionic character."
+}

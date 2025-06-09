@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of vaporization calculations",
+    "message_1": "What is the enthalpy of vaporization of water at 373K? Given the heat of formation of liquid water is -285.8 kJ/mol and the heat of formation of water vapor is -241.8 kJ/mol. The vapor pressure of water at the boiling point (373K) is 101.325 kPa.",
+    "message_2": "The enthalpy of vaporization (ΔHvap) is the amount of energy required to convert a substance from the liquid phase to the gas phase at a constant temperature and pressure. In this case, we are given the heat of formation of liquid water and water vapor, and we can use this information to calculate the enthalpy of vaporization.\n\nΔHvap = ΔHf (water vapor) - ΔHf (liquid water)\n\nΔHvap = (-241.8 kJ/mol) - (-285.8 kJ/mol)\n\nΔHvap = 44 kJ/mol\n\nThe enthalpy of vaporization of water at 373K is 44 kJ/mol."
+}

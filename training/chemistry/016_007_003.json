@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Standard enthalpy of formation calculations",
+    "message_1": "Calculate the standard enthalpy of formation of carbon dioxide (CO2) using the following information:\n\nC(graphite) + O2(g) -> CO2(g), ΔH° = -393.5 kJ/mol\nC(graphite) + 2H2(g) -> CH4(g), ΔH° = -74.8 kJ/mol\n2H2(g) + O2(g) -> 2H2O(l), ΔH° = -572.0 kJ/mol",
+    "message_2": "The standard enthalpy of formation of carbon dioxide (CO2) is already given in the first reaction:\n\nC(graphite) + O2(g) -> CO2(g), ΔH° = -393.5 kJ/mol\n\nTherefore, the standard enthalpy of formation of CO2 is -393.5 kJ/mol."
+}

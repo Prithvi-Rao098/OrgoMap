@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of changing the temperature on the equilibrium constant",
+    "message_1": "What is the new equilibrium constant for the reaction of 2 NO(g) + O2(g) ⇌ 2 NO2(g) when the temperature is raised from 350 K to 400 K, given that the original equilibrium constant at 350 K is Kc = 4.1 x 10^-3?",
+    "message_2": "To determine the new equilibrium constant at 400 K, we need to know the enthalpy change (ΔH) for the reaction and the original equilibrium constant at 350 K. The relationship between the equilibrium constants at different temperatures can be determined using the van't Hoff equation:\n\nln(K2/K1) = -ΔH/R * (1/T2 - 1/T1)\n\nwhere K1 and K2 are the equilibrium constants at temperatures T1 and T2, respectively, ΔH is the enthalpy change of the reaction, and R is the gas constant (8.314 J/mol·K).\n\nHowever, we do not have the enthalpy change (ΔH) for the reaction provided. Without this information, we cannot calculate the new equilibrium constant at 400 K."
+}

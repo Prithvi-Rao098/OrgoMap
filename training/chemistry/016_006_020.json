@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of reaction calculations",
+    "message_1": "Sure! Here's a question: \n\nThe combustion of ethanol (C2H5OH) releases 327.6 kJ/mol of energy. Calculate the enthalpy change of combustion when 10 grams of ethanol reacts in excess oxygen. Assume that the density of ethanol is 0.789 g/mL and the specific heat capacity of water is 4.18 J/g*K.",
+    "message_2": "To calculate the enthalpy change of combustion for 10 grams of ethanol, we first need to determine the number of moles of ethanol in 10 grams. The molecular weight of ethanol (C2H5OH) is:\n\n(2 * 12.01) + (6 * 1.01) + (1 * 16.00) = 24.02 + 6.06 + 16.00 = 46.08 g/mol\n\nNow we can find the number of moles of ethanol in 10 grams:\n\nmoles of ethanol = mass / molecular weight\nmoles of ethanol = 10 g / 46.08 g/mol = 0.217 mol\n\nThe enthalpy change of combustion for ethanol is given as -327.6 kJ/mol. Since the combustion reaction is exothermic, the enthalpy change is negative. To find the enthalpy change for 0.217 mol of ethanol, we can use the following equation:\n\nΔH_combustion = moles of ethanol * enthalpy change per mole\nΔH_combustion = 0.217 mol * (-327.6 kJ/mol) = -71.0 kJ\n\nSo, the enthalpy change of combustion when 10 grams of ethanol reacts in excess oxygen is approximately -71.0 kJ."
+}

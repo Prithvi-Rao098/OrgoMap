@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of formation calculations",
+    "message_1": "What is the enthalpy of formation of magnesium oxide (MgO) given that the enthalpy of combustion of magnesium (Mg) is -601.6 kJ/mol and the enthalpy of combustion of oxygen gas (O2) is -393.5 kJ/mol?",
+    "message_2": "To find the enthalpy of formation of magnesium oxide (MgO), we need to consider the following reactions:\n\n1. Combustion of magnesium (Mg):\nMg (s) + 1/2 O2 (g) → MgO (s)      ΔH1 = -601.6 kJ/mol\n\n2. Combustion of oxygen gas (O2):\nC (graphite) + O2 (g) → CO2 (g)      ΔH2 = -393.5 kJ/mol\n\nNow, we need to find the reaction that represents the formation of MgO from its elements in their standard states. This can be done by manipulating the given reactions:\n\n1. Mg (s) + 1/2 O2 (g) → MgO (s)      ΔH1 = -601.6 kJ/mol\n\n2. C (graphite) + O2 (g) → CO2 (g)      ΔH2 = -393.5 kJ/mol\n   Multiply by 1/2:\n   1/2 C (graphite) + 1/2 O2 (g) → 1/2 CO2 (g)      1/2 ΔH2 = -196.75 kJ/mol\n\nNow, add reactions 1 and 2:\nMg (s) + 1/2 O2 (g) + 1/2 C (graphite) + 1/2 O2 (g) → MgO (s) + 1/2 CO2 (g)\n\nSimplify the reaction:\nMg (s) + C (graphite) → MgO (s) + 1/2 CO2 (g)\n\nNow, add the enthalpies of the reactions:\nΔHf (MgO) = ΔH1 + 1/2 ΔH2\nΔHf (MgO) = -601.6 kJ/mol + (-196.75 kJ/mol)\nΔHf (MgO) = -798.35 kJ/mol\n\nThe enthalpy of formation of magnesium oxide (MgO) is -798.35 kJ/mol."
+}

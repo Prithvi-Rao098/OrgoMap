@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of crystallization calculations",
+    "message_1": "What is the heat released when 25 grams of sodium hydroxide (NaOH) crystallizes out of a solution at its freezing point, given the enthalpy of fusion of NaOH is -44.51 kJ/mol? (Molar mass of NaOH = 40.00 g/mol)",
+    "message_2": "First, we need to determine the number of moles of sodium hydroxide (NaOH) in the 25 grams of the sample.\n\nmoles of NaOH = mass of NaOH / molar mass of NaOH\nmoles of NaOH = 25 g / 40.00 g/mol\nmoles of NaOH = 0.625 mol\n\nNext, we will use the enthalpy of fusion of NaOH to calculate the heat released during the crystallization process.\n\nHeat released (q) = moles of NaOH × enthalpy of fusion\nq = 0.625 mol × -44.51 kJ/mol\n\nq = -27.81875 kJ\n\nThe heat released during the crystallization of 25 grams of sodium hydroxide is approximately -27.82 kJ."
+}

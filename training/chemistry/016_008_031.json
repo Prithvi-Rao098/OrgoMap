@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of fusion calculations",
+    "message_1": "Calculate the enthalpy change for the fusion of 50.0 g of ice at its melting point (0 °C). The molar enthalpy of fusion of water is 6.01 kJ/mol.",
+    "message_2": "To calculate the enthalpy change for the fusion of 50.0 g of ice, we first need to determine the number of moles of ice. The molar mass of water (H2O) is 18.015 g/mol.\n\nNumber of moles = mass / molar mass\nNumber of moles = 50.0 g / 18.015 g/mol = 2.776 moles\n\nNow, we can use the molar enthalpy of fusion to calculate the enthalpy change.\n\nEnthalpy change = number of moles × molar enthalpy of fusion\nEnthalpy change = 2.776 moles × 6.01 kJ/mol = 16.681 kJ\n\nTherefore, the enthalpy change for the fusion of 50.0 g of ice at its melting point is 16.681 kJ."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Identifying the type of hybrid orbitals in a molecule",
+    "message_1": "What are the hybrid orbitals in the molecule C2H4, and what type of bond is present between each pair of atoms?",
+    "message_2": "In the molecule C2H4 (ethylene), the hybrid orbitals are sp2 hybrid orbitals. The carbon atoms in C2H4 are sp2 hybridized, which means that they have three sp2 hybrid orbitals and one unhybridized 2p orbital.\n\nThe bonding between the atoms in C2H4 is as follows:\n\n1. Carbon-Carbon (C-C) bond: There is a sigma bond formed by the overlap of sp2 hybrid orbitals from each carbon atom, and a pi bond formed by the side-by-side overlap of the unhybridized 2p orbitals from each carbon atom. This results in a double bond (one sigma bond and one pi bond) between the two carbon atoms.\n\n2. Carbon-Hydrogen (C-H) bonds: Each carbon atom forms three sigma bonds with three hydrogen atoms. These sigma bonds are formed by the overlap of the sp2 hybrid orbitals of the carbon atoms with the 1s orbitals of the hydrogen atoms. There are a total of four C-H sigma bonds in the ethylene molecule."
+}

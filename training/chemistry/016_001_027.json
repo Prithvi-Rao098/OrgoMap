@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of formation calculations",
+    "message_1": "What is the enthalpy of formation of ammonia gas (NH3) at 298 K and 1 atm pressure using the given bond energies: N≡N = 418 kJ/mol, H-H = 436 kJ/mol, and N-H = 391 kJ/mol?",
+    "message_2": "To calculate the enthalpy of formation of ammonia gas (NH3) using the given bond energies, we need to consider the balanced chemical equation for the formation of ammonia:\n\nN2(g) + 3H2(g) → 2NH3(g)\n\nNow, we will calculate the total bond energy of reactants and products:\n\nReactants:\n1 N≡N bond: 1 × 418 kJ/mol = 418 kJ/mol\n3 H-H bonds: 3 × 436 kJ/mol = 1308 kJ/mol\nTotal bond energy of reactants: 418 kJ/mol + 1308 kJ/mol = 1726 kJ/mol\n\nProducts:\n6 N-H bonds: 6 × 391 kJ/mol = 2346 kJ/mol\nTotal bond energy of products: 2346 kJ/mol\n\nNow, we can calculate the enthalpy of formation (ΔHf) using the following formula:\n\nΔHf = Total bond energy of products - Total bond energy of reactants\n\nΔHf = 2346 kJ/mol - 1726 kJ/mol = -92 kJ/mol (for 2 moles of NH3)\n\nSince we need the enthalpy of formation for 1 mole of NH3, we will divide the result by 2:\n\nΔHf = -92 kJ/mol ÷ 2 = -46 kJ/mol\n\nSo, the enthalpy of formation of ammonia gas (NH3) at 298 K and 1 atm pressure is -46 kJ/mol."
+}

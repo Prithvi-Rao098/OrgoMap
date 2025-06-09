@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a phase transition reaction",
+    "message_1": "Calculate the standard enthalpy change for the liquid-to-gas phase transition of water at 100°C and atmospheric pressure, given that the enthalpy of vaporization of water is 40.7 kJ/mol.",
+    "message_2": "The standard enthalpy change for the liquid-to-gas phase transition of water at 100°C and atmospheric pressure is simply the enthalpy of vaporization of water, which is given as 40.7 kJ/mol. \n\nSo, the standard enthalpy change for this phase transition is 40.7 kJ/mol."
+}

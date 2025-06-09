@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving liquids",
+    "message_1": "Calculate the standard enthalpy change for the reaction of 2 moles of liquid ethanol with 3 moles of gaseous oxygen to form 2 moles of liquid acetic acid and 3 moles of gaseous water at 1 atm and 25°C, given the standard enthalpy of formation of ethanol, acetic acid, and water are -277.6 kJ/mol, -487.5 kJ/mol, and -285.8 kJ/mol respectively.",
+    "message_2": "To calculate the standard enthalpy change for the reaction, we can use the formula:\n\nΔH° = Σ ΔH°f(products) - Σ ΔH°f(reactants)\n\nwhere ΔH° is the standard enthalpy change, and ΔH°f is the standard enthalpy of formation.\n\nFor the given reaction:\n\n2 C2H5OH (l) + 3 O2 (g) → 2 CH3COOH (l) + 3 H2O (g)\n\nThe standard enthalpy of formation for the products is:\n\n(2 moles CH3COOH × -487.5 kJ/mol) + (3 moles H2O × -285.8 kJ/mol)\n\nThe standard enthalpy of formation for the reactants is:\n\n(2 moles C2H5OH × -277.6 kJ/mol) + (3 moles O2 × 0 kJ/mol) (since the standard enthalpy of formation for an element in its standard state is zero)\n\nNow, we can calculate the standard enthalpy change:\n\nΔH° = [ (2 × -487.5) + (3 × -285.8) ] - [ (2 × -277.6) + (3 × 0) ]\nΔH° = [ (-975) + (-857.4) ] - [ (-555.2) ]\nΔH° = -1832.4 + 555.2\nΔH° = -1277.2 kJ\n\nThe standard enthalpy change for the reaction is -1277.2 kJ."
+}

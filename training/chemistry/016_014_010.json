@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of sublimation calculations",
+    "message_1": "Calculate the heat required to sublime 34.5 g of dry ice (solid CO2) at a constant temperature and pressure, given that the heat of sublimation of CO2 is 25.2 kJ/mol.",
+    "message_2": "To calculate the heat required to sublime 34.5 g of dry ice, we first need to determine the number of moles of CO2 present. The molar mass of CO2 is:\n\nC: 12.01 g/mol\nO: 16.00 g/mol\n\nCO2: 12.01 + (2 × 16.00) = 44.01 g/mol\n\nNow, we can find the number of moles of CO2:\n\nmoles = mass / molar mass\nmoles = 34.5 g / 44.01 g/mol = 0.784 mol\n\nNext, we can use the heat of sublimation (25.2 kJ/mol) to calculate the heat required to sublime the given amount of dry ice:\n\nheat = moles × heat of sublimation\nheat = 0.784 mol × 25.2 kJ/mol = 19.76 kJ\n\nTherefore, the heat required to sublime 34.5 g of dry ice is approximately 19.76 kJ."
+}

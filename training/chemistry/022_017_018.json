@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Hess's Law problems",
+    "message_1": "Sure, how about this:\n\nUsing Hess's Law, calculate the enthalpy change for the combustion of ethene (C2H4) to form carbon dioxide (CO2) and water (H2O), given the following two reactions:\n\nC2H4(g) + 3 O2(g) → 2 CO2(g) + 2 H2O(g)     ΔH1 = -1411 kJ/mol\nC(graphite) + O2(g) → CO2(g)                        ΔH2 = -393.5 kJ/mol\n\nAssuming standard conditions, determine if this reaction is exothermic or endothermic.",
+    "message_2": "To use Hess's Law, we need to manipulate the given reactions so that they add up to the desired reaction. The desired reaction is:\n\nC2H4(g) + 3 O2(g) → 2 CO2(g) + 2 H2O(g)\n\nWe are given two reactions:\n\n1. C2H4(g) + 3 O2(g) → 2 CO2(g) + 2 H2O(g)     ΔH1 = -1411 kJ/mol\n2. C(graphite) + O2(g) → CO2(g)                        ΔH2 = -393.5 kJ/mol\n\nThe first reaction is already the desired reaction, so we don't need to manipulate it. The second reaction, however, does not involve ethene (C2H4) and is not needed to calculate the enthalpy change for the combustion of ethene. Therefore, we can ignore the second reaction.\n\nSo, the enthalpy change for the combustion of ethene (C2H4) to form carbon dioxide (CO2) and water (H2O) is:\n\nΔH = ΔH1 = -1411 kJ/mol\n\nSince the enthalpy change is negative, the reaction is exothermic, meaning it releases heat."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Predicting the effect of changing the pressure on the equilibrium position",
+    "message_1": "What is the predicted effect of increasing the pressure on the equilibrium position of the reaction between nitrogen and hydrogen to form ammonia, N2(g) + 3 H2(g) ⇌ 2 NH3(g), at a constant temperature and volume?",
+    "message_2": "According to Le Chatelier's principle, if a system at equilibrium is subjected to a change in pressure, the system will adjust itself to counteract the change and restore a new equilibrium. In this case, increasing the pressure will cause the reaction to shift in the direction that has fewer moles of gas to reduce the pressure.\n\nFor the reaction N2(g) + 3 H2(g) ⇌ 2 NH3(g), there are 4 moles of gas on the reactant side (1 mole of N2 and 3 moles of H2) and 2 moles of gas on the product side (2 moles of NH3).\n\nWhen the pressure is increased, the equilibrium will shift towards the side with fewer moles of gas, which is the product side (formation of ammonia). This means that the reaction will proceed in the forward direction, producing more ammonia and consuming nitrogen and hydrogen."
+}

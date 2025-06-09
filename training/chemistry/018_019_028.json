@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical kinetics",
+    "sub_topic": "Investigating the effect of reaction rate on equilibrium constant",
+    "message_1": "What is the effect of changing the concentration of one reactant on the equilibrium constant of a reaction with a known rate?",
+    "message_2": "Changing the concentration of one reactant in a chemical reaction will affect the position of the equilibrium, but it will not change the equilibrium constant (K) of the reaction. The equilibrium constant is a fixed value for a given reaction at a specific temperature and is independent of the initial concentrations of reactants and products.\n\nWhen the concentration of a reactant is increased, the system will shift towards the products to re-establish equilibrium, according to Le Chatelier's principle. Conversely, if the concentration of a reactant is decreased, the system will shift towards the reactants. However, in both cases, the value of the equilibrium constant remains the same. The rate of the reaction may be affected by the change in concentration, but this does not impact the equilibrium constant."
+}

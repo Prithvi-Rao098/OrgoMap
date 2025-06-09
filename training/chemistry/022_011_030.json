@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Gas evolution reactions",
+    "message_1": "What is the volume of hydrogen gas that will be produced at standard temperature and pressure (STP) when 2.5 grams of zinc metal reacts with hydrochloric acid? The balanced chemical equation for the reaction is: Zn + 2HCl -> ZnCl2 + H2.",
+    "message_2": "To find the volume of hydrogen gas produced at STP, we will first need to determine the number of moles of hydrogen gas (H2) produced in the reaction. We can do this using the stoichiometry of the balanced chemical equation and the molar mass of the reactants.\n\n1. Calculate the moles of zinc (Zn) in 2.5 grams:\nMolar mass of Zn = 65.38 g/mol\nMoles of Zn = mass of Zn / molar mass of Zn\nMoles of Zn = 2.5 g / 65.38 g/mol = 0.0382 mol\n\n2. Determine the moles of hydrogen gas (H2) produced using the stoichiometry of the balanced chemical equation:\n1 mol Zn produces 1 mol H2\n0.0382 mol Zn will produce 0.0382 mol H2\n\n3. Calculate the volume of hydrogen gas produced at STP (standard temperature and pressure):\nAt STP, 1 mole of any gas occupies 22.4 liters.\nVolume of H2 = moles of H2 × volume occupied by 1 mole of gas at STP\nVolume of H2 = 0.0382 mol × 22.4 L/mol = 0.855 L\n\nTherefore, the volume of hydrogen gas produced at STP when 2.5 grams of zinc metal reacts with hydrochloric acid is 0.855 liters."
+}

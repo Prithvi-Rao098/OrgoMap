@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of reaction calculations",
+    "message_1": "What is the enthalpy change for the combustion of 2 moles of propane (C3H8) according to the balanced chemical equation below?\n\nC3H8(g) + 5 O2(g) → 3 CO2(g) + 4 H2O(l) \n\nGiven: \nΔHf (CO2) = -393.5 kJ/mol\nΔHf (H2O) = -285.8 kJ/mol\nΔHf (C3H8) = -104.7 kJ/mol \n\nAnswer:\n-2043.9 kJ/mol",
+    "message_2": "To calculate the enthalpy change for the combustion of 2 moles of propane, we will use the following equation:\n\nΔH = ΣΔHf(products) - ΣΔHf(reactants)\n\nFor the products, we have 3 moles of CO2 and 4 moles of H2O:\n\nΣΔHf(products) = (3 mol CO2 × -393.5 kJ/mol CO2) + (4 mol H2O × -285.8 kJ/mol H2O)\nΣΔHf(products) = -1180.5 kJ + -1143.2 kJ = -2323.7 kJ\n\nFor the reactants, we have 2 moles of C3H8:\n\nΣΔHf(reactants) = (2 mol C3H8 × -104.7 kJ/mol C3H8) = -209.4 kJ\n\nNow, we can calculate the enthalpy change:\n\nΔH = ΣΔHf(products) - ΣΔHf(reactants)\nΔH = -2323.7 kJ - (-209.4 kJ) = -2114.3 kJ\n\nSo, the enthalpy change for the combustion of 2 moles of propane is -2114.3 kJ."
+}

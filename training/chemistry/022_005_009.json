@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Combustion reactions",
+    "message_1": "What is the balanced chemical equation for the complete combustion of propane (C3H8) and how many moles of oxygen gas are required for the reaction to produce 5 moles of carbon dioxide and 4 moles of water?",
+    "message_2": "The balanced chemical equation for the complete combustion of propane (C3H8) is:\n\nC3H8 + 5O2 → 3CO2 + 4H2O\n\nFrom the balanced equation, we can see that 1 mole of propane reacts with 5 moles of oxygen gas to produce 3 moles of carbon dioxide and 4 moles of water.\n\nNow, we are given that the reaction produces 5 moles of carbon dioxide and 4 moles of water. To find the moles of oxygen gas required, we can use the stoichiometric ratios from the balanced equation.\n\nFirst, let's find the moles of propane required to produce 5 moles of carbon dioxide:\n\n(5 moles CO2) × (1 mole C3H8 / 3 moles CO2) = 5/3 moles C3H8\n\nNow, let's find the moles of oxygen gas required to react with the calculated moles of propane:\n\n(5/3 moles C3H8) × (5 moles O2 / 1 mole C3H8) = 25/3 moles O2\n\nSo, 25/3 moles of oxygen gas are required for the reaction to produce 5 moles of carbon dioxide and 4 moles of water."
+}

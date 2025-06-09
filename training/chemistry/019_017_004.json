@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a sublimation reaction",
+    "message_1": "What is the standard enthalpy change (ΔH°) for the sublimation of solid iodine (I<sub>2</sub>) to its gaseous state at 1 atm and 298 K? Given the enthalpy of fusion of iodine to be 15.5 kJ/mol and the enthalpy of vaporization to be 41.3 kJ/mol.",
+    "message_2": "To find the standard enthalpy change (ΔH°) for the sublimation of solid iodine (I₂) to its gaseous state, we can use the given enthalpy of fusion and enthalpy of vaporization. Sublimation is the process of a solid changing directly into a gas, bypassing the liquid phase. In this case, we can consider the sublimation process as a combination of the melting (fusion) of solid iodine to liquid iodine and the vaporization of liquid iodine to gaseous iodine.\n\nThe enthalpy change for sublimation (ΔH°sub) can be calculated as follows:\n\nΔH°sub = ΔH°fusion + ΔH°vaporization\n\nGiven the enthalpy of fusion (ΔH°fusion) is 15.5 kJ/mol and the enthalpy of vaporization (ΔH°vaporization) is 41.3 kJ/mol, we can plug these values into the equation:\n\nΔH°sub = 15.5 kJ/mol + 41.3 kJ/mol\n\nΔH°sub = 56.8 kJ/mol\n\nSo, the standard enthalpy change (ΔH°) for the sublimation of solid iodine (I₂) to its gaseous state at 1 atm and 298 K is 56.8 kJ/mol."
+}

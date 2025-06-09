@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a sublimation reaction",
+    "message_1": "What is the standard enthalpy change for the sublimation of solid iodine into gaseous iodine atoms? Express your answer in units of kJ/mol.",
+    "message_2": "The standard enthalpy change for the sublimation of solid iodine (I2) into gaseous iodine atoms (I) can be calculated using the following steps:\n\n1. Determine the standard enthalpy change for the dissociation of one mole of I2 into two moles of I atoms:\nI2 (g) → 2I (g); ΔH_dissociation = 151 kJ/mol\n\n2. Determine the standard enthalpy change for the sublimation of one mole of I2 from solid to gas:\nI2 (s) → I2 (g); ΔH_sublimation = 62 kJ/mol\n\n3. Combine the two enthalpy changes to find the overall standard enthalpy change for the sublimation of solid iodine into gaseous iodine atoms:\nΔH_total = ΔH_sublimation + 0.5 * ΔH_dissociation\nΔH_total = 62 kJ/mol + 0.5 * 151 kJ/mol\nΔH_total = 62 kJ/mol + 75.5 kJ/mol\nΔH_total = 137.5 kJ/mol\n\nThe standard enthalpy change for the sublimation of solid iodine into gaseous iodine atoms is 137.5 kJ/mol."
+}

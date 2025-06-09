@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the heat of formation of a molecule",
+    "message_1": "What is the heat of formation of methane (CH4) assuming standard conditions (25°C and 1 atm pressure)?",
+    "message_2": "The heat of formation (ΔHf°) of a compound is the change in enthalpy during the formation of 1 mole of the substance from its constituent elements, with all substances in their standard states at 25°C and 1 atm pressure.\n\nFor methane (CH4), the heat of formation (ΔHf°) is -74.8 kJ/mol. This means that 74.8 kJ of energy is released when 1 mole of methane is formed from its constituent elements (carbon and hydrogen) under standard conditions."
+}

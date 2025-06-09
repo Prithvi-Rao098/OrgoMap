@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Precipitation reactions",
+    "message_1": "What is the net ionic equation for the precipitation reaction between silver nitrate (AgNO3) and potassium chloride (KCl)?",
+    "message_2": "To find the net ionic equation for the precipitation reaction between silver nitrate (AgNO₃) and potassium chloride (KCl), follow these steps:\n\n1. Write the balanced molecular equation:\nAgNO₃(aq) + KCl(aq) → AgCl(s) + KNO₃(aq)\n\n2. Write the complete ionic equation by breaking all soluble compounds into their respective ions:\nAg⁺(aq) + NO₃⁻(aq) + K⁺(aq) + Cl⁻(aq) → AgCl(s) + K⁺(aq) + NO₃⁻(aq)\n\n3. Identify and remove spectator ions (ions that appear on both sides of the equation and do not participate in the reaction):\nSpectator ions: K⁺(aq) and NO₃⁻(aq)\n\n4. Write the net ionic equation with the remaining ions:\nAg⁺(aq) + Cl⁻(aq) → AgCl(s)\n\nSo, the net ionic equation for the precipitation reaction between silver nitrate and potassium chloride is:\nAg⁺(aq) + Cl⁻(aq) → AgCl(s)"
+}

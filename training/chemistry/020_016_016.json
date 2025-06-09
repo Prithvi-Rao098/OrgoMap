@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of changing the concentration of a salt on the solubility of a sparingly soluble salt",
+    "message_1": "What is the final concentration of silver ions (Ag+) in a saturated solution of silver chloride (AgCl) when the concentration of chloride ions (Cl-) is increased from 0.1 M to 0.2 M? The Ksp of AgCl is 1.8 x 10^-10.",
+    "message_2": "To find the final concentration of silver ions (Ag+) in a saturated solution of silver chloride (AgCl) when the concentration of chloride ions (Cl-) is increased from 0.1 M to 0.2 M, we can use the solubility product constant (Ksp) expression for AgCl:\n\nKsp = [Ag+][Cl-]\n\nGiven that the Ksp of AgCl is 1.8 x 10^-10, we can set up the equation as follows:\n\n1.8 x 10^-10 = [Ag+][0.2]\n\nNow, we can solve for the concentration of silver ions (Ag+):\n\n[Ag+] = (1.8 x 10^-10) / 0.2\n[Ag+] = 9 x 10^-10 M\n\nSo, the final concentration of silver ions (Ag+) in the saturated solution of silver chloride (AgCl) when the concentration of chloride ions (Cl-) is increased from 0.1 M to 0.2 M is 9 x 10^-10 M."
+}

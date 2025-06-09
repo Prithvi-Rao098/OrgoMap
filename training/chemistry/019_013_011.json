@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a neutralization reaction",
+    "message_1": "What is the standard enthalpy change for the neutralization reaction between hydrochloric acid (HCl) and sodium hydroxide (NaOH)? Express your answer in kilojoules per mole of HCl. (Assume that the reaction is in water and under standard conditions.)",
+    "message_2": "The neutralization reaction between hydrochloric acid (HCl) and sodium hydroxide (NaOH) can be represented by the following balanced chemical equation:\n\nHCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)\n\nThe standard enthalpy change for this reaction, also known as the heat of neutralization, is approximately -57.32 kJ/mol of HCl under standard conditions."
+}

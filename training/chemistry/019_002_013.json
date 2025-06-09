@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Determination of standard enthalpy of formation for a compound",
+    "message_1": "Calculate the standard enthalpy of formation of ammonia gas (NH3) using the following information:\n- Standard enthalpy of formation for nitrogen gas (N2) = 0 kJ/mol\n- Standard enthalpy of formation for hydrogen gas (H2) = 0 kJ/mol\n- Standard enthalpy of formation for ammonia gas (NH3) = -46 kJ/mol",
+    "message_2": "The standard enthalpy of formation for ammonia gas (NH3) is already given in the information provided. It is -46 kJ/mol. There is no need for further calculation."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the solubility of a substance in a solvent",
+    "message_1": "What is the solubility of 10 grams of potassium nitrate (KNO3) in 100 mL of water at 25°C?",
+    "message_2": "To determine the solubility of potassium nitrate (KNO3) in water at 25°C, we need to refer to its solubility curve or solubility data. According to the solubility curve of KNO3, at 25°C, approximately 37 grams of KNO3 can dissolve in 100 mL of water.\n\nNow, we have 10 grams of KNO3, and we want to know if it will dissolve completely in 100 mL of water at 25°C. Since 10 grams is less than the maximum solubility of 37 grams at 25°C, the 10 grams of KNO3 will dissolve completely in 100 mL of water at this temperature."
+}

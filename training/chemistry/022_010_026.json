@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Precipitation reactions",
+    "message_1": "What mass of silver chloride will be formed when 250 mL of 0.100 M silver nitrate reacts with 500 mL of 0.200 M calcium chloride?",
+    "message_2": "To solve this problem, we will use the concept of stoichiometry. The balanced chemical equation for the reaction between silver nitrate (AgNO₃) and calcium chloride (CaCl₂) is:\n\n2 AgNO₃(aq) + CaCl₂(aq) → 2 AgCl(s) + Ca(NO₃)₂(aq)\n\nFirst, we need to determine the moles of each reactant:\n\nMoles of AgNO₃ = (0.100 mol/L) * (0.250 L) = 0.025 mol\nMoles of CaCl₂ = (0.200 mol/L) * (0.500 L) = 0.100 mol\n\nNow, we need to determine the limiting reactant. We can do this by comparing the mole ratios of the reactants:\n\nMole ratio of AgNO₃ to CaCl₂ = (0.025 mol) / (0.100 mol) = 0.25\n\nSince the mole ratio is less than the stoichiometric ratio (2:1), AgNO₃ is the limiting reactant.\n\nNow, we can determine the moles of silver chloride (AgCl) produced:\n\nMoles of AgCl = (0.025 mol AgNO₃) * (2 mol AgCl / 2 mol AgNO₃) = 0.025 mol AgCl\n\nFinally, we can convert the moles of AgCl to mass using the molar mass of AgCl (143.32 g/mol):\n\nMass of AgCl = (0.025 mol) * (143.32 g/mol) = 3.583 g\n\nSo, 3.583 grams of silver chloride will be formed in this reaction."
+}

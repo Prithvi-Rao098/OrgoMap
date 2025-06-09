@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a vaporization reaction",
+    "message_1": "What is the standard enthalpy change of vaporization of water at 373 K according to the following data:\n\nH2(g) + O2(g) → H2O(l)     ΔH° = -285.8 kJ/mol\n\nH2O(l) → H2O(g)             ΔH° = +40.7 kJ/mol\n\nNote: The answer should be in units of kJ/mol.",
+    "message_2": "The standard enthalpy change of vaporization of water at 373 K can be found using the given data. We have the following reactions:\n\n1) H2(g) + 1/2 O2(g) → H2O(l)     ΔH° = -285.8 kJ/mol\n2) H2O(l) → H2O(g)             ΔH° = +40.7 kJ/mol\n\nTo find the enthalpy change of vaporization, we need to consider the second reaction:\n\nH2O(l) → H2O(g)             ΔH° = +40.7 kJ/mol\n\nThe standard enthalpy change of vaporization of water at 373 K is +40.7 kJ/mol."
+}

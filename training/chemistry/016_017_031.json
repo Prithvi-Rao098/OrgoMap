@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of oxidation calculations",
+    "message_1": "Calculate the enthalpy change for the oxidation of 5 moles of hydrogen gas using the standard enthalpies of formation of water and hydrogen gas.",
+    "message_2": "To calculate the enthalpy change for the oxidation of 5 moles of hydrogen gas, we will use the following balanced chemical equation:\n\n2 H₂(g) + O₂(g) → 2 H₂O(l)\n\nThe standard enthalpy of formation (ΔHf°) of water (H₂O) is -285.8 kJ/mol, and the standard enthalpy of formation of hydrogen gas (H₂) and oxygen gas (O₂) are both 0 kJ/mol, as they are in their elemental forms.\n\nUsing Hess's Law, we can calculate the enthalpy change (ΔH) for the reaction:\n\nΔH = Σ [ΔHf°(products)] - Σ [ΔHf°(reactants)]\n\nΔH = [2 × (-285.8 kJ/mol)] - [2 × 0 kJ/mol + 0 kJ/mol]\n\nΔH = -571.6 kJ\n\nNow, we need to calculate the enthalpy change for the oxidation of 5 moles of hydrogen gas. Since the balanced equation shows that 2 moles of hydrogen gas react to produce 2 moles of water, we can set up a proportion:\n\n5 moles H₂ / 2 moles H₂ = x / -571.6 kJ\n\nx = (5 moles H₂ × -571.6 kJ) / 2 moles H₂\n\nx = -1429 kJ\n\nTherefore, the enthalpy change for the oxidation of 5 moles of hydrogen gas is -1429 kJ."
+}

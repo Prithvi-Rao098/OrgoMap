@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of isomerization calculations",
+    "message_1": "What is the enthalpy change of isomerization for the following reaction?\n\nCH3CH=CHCH3 (1-butene) ⇌ CH3CH2CH=CH2 (2-butene)\n\nGiven that the enthalpy of formation for 1-butene is -44.23 kJ/mol and for 2-butene is -44.72 kJ/mol. The heat of combustion for 1-butene is -2654 kJ/mol and for 2-butene is -2654.4 kJ/mol.",
+    "message_2": "To find the enthalpy change of isomerization for the given reaction, we can use the difference in enthalpy of formation between the two isomers:\n\nΔH_isomerization = ΔH_f(2-butene) - ΔH_f(1-butene)\n\nΔH_isomerization = (-44.72 kJ/mol) - (-44.23 kJ/mol)\n\nΔH_isomerization = -0.49 kJ/mol\n\nThe enthalpy change of isomerization for the given reaction is -0.49 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Percent yield problems",
+    "message_1": "A student formed 25 grams of carbon dioxide through a chemical reaction. If the theoretical yield of carbon dioxide is 30 grams, what is the percent yield of the reaction?",
+    "message_2": "To calculate the percent yield of the reaction, you can use the following formula:\n\nPercent Yield = (Actual Yield / Theoretical Yield) x 100\n\nIn this case, the actual yield is 25 grams, and the theoretical yield is 30 grams. Plugging these values into the formula:\n\nPercent Yield = (25 / 30) x 100 = 0.8333 x 100 = 83.33%\n\nThe percent yield of the reaction is 83.33%."
+}

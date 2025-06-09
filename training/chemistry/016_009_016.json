@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of vaporization calculations",
+    "message_1": "What is the enthalpy of vaporization of ethanol? Given the following information:\n\n- The boiling point of ethanol is 78.4 °C\n- The normal boiling point of ethanol is 78.4 °C\n- The heat of vaporization of ethanol is 38.56 kJ/mol\n- The molar mass of ethanol is 46.07 g/mol. \n\nCalculate the enthalpy of vaporization of ethanol in kJ/mol.",
+    "message_2": "The enthalpy of vaporization of ethanol is already given in the information provided. It is 38.56 kJ/mol."
+}

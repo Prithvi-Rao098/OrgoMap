@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the electronegativity difference between two atoms",
+    "message_1": "What is the electronegativity difference between a potassium atom (electronegativity value of 0.82) and a chlorine atom (electronegativity value of 3.16)?",
+    "message_2": "The electronegativity difference between a potassium atom and a chlorine atom can be calculated by subtracting the electronegativity value of potassium from that of chlorine:\n\nElectronegativity difference = Electronegativity of chlorine - Electronegativity of potassium\nElectronegativity difference = 3.16 - 0.82\nElectronegativity difference = 2.34\n\nSo, the electronegativity difference between a potassium atom and a chlorine atom is 2.34."
+}

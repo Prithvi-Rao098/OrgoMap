@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Oxidation state determination",
+    "message_1": "Determine the oxidation state of each atom in the compound KMnO4.",
+    "message_2": "In the compound KMnO4, we have the following atoms: potassium (K), manganese (Mn), and oxygen (O). To determine the oxidation state of each atom, we'll use the general rules for assigning oxidation states.\n\n1. Potassium (K): As an alkali metal, potassium has an oxidation state of +1.\n\n2. Oxygen (O): In most compounds, oxygen has an oxidation state of -2. In KMnO4, there are four oxygen atoms, so the total oxidation state for oxygen is -8.\n\n3. Manganese (Mn): To determine the oxidation state of manganese, we'll use the fact that the sum of the oxidation states of all atoms in a neutral compound is zero. In this case, we have:\n\n(+1) + (Mn oxidation state) + (-8) = 0\n\nSolving for the Mn oxidation state, we get:\n\nMn oxidation state = +7\n\nSo, the oxidation states of each atom in KMnO4 are:\n\n- Potassium (K): +1\n- Manganese (Mn): +7\n- Oxygen (O): -2 (for each oxygen atom)"
+}

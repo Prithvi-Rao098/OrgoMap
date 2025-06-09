@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Standard enthalpy of formation calculations",
+    "message_1": "What is the standard enthalpy of formation of methane (CH4) given the following bond dissociation energies (in kJ/mol): C-H = 413, C-C = 348, C=C = 614, C≡C = 837, H-H = 436?",
+    "message_2": "To calculate the standard enthalpy of formation of methane (CH4), we need to consider the bond dissociation energies of the reactants and products involved in the formation reaction. The formation reaction for methane can be written as:\n\nC (graphite) + 2 H2 (g) → CH4 (g)\n\nNow, we need to calculate the energy required to break the bonds in the reactants and the energy released when the bonds in the product are formed.\n\nFor the reactants, we have:\n\n1 C-C bond in graphite: We don't need to consider this bond since it's not broken in the formation of methane.\n\n2 H-H bonds in H2: 2 × 436 kJ/mol = 872 kJ/mol\n\nFor the product, we have:\n\n4 C-H bonds in CH4: 4 × 413 kJ/mol = 1652 kJ/mol\n\nNow, we can calculate the standard enthalpy of formation (ΔHf°) using the following equation:\n\nΔHf° = Σ (Bond energies of reactants) - Σ (Bond energies of products)\n\nΔHf° = (872 kJ/mol) - (1652 kJ/mol) = -780 kJ/mol\n\nSo, the standard enthalpy of formation of methane (CH4) is -780 kJ/mol."
+}

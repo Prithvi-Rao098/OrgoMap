@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Coordination chemistry",
+    "sub_topic": "Isomerism in coordination compounds",
+    "message_1": "In the coordination compound [Co(en)2Cl2]Cl, identify the types of isomerism present and draw the structures of each isomer.",
+    "message_2": "In the coordination compound [Co(en)2Cl2]Cl, there are two types of isomerism present: geometrical isomerism and optical isomerism.\n\n1. Geometrical isomerism:\nThere are two geometrical isomers for this compound: cis and trans.\n\na) Cis isomer: The two chloride (Cl) ligands are adjacent to each other.\nb) Trans isomer: The two chloride (Cl) ligands are opposite to each other.\n\n2. Optical isomerism:\nOptical isomers are non-superimposable mirror images of each other. They are also called enantiomers. The cis isomer exhibits optical isomerism.\n\na) Cis-dextro (Δ): The cis isomer that rotates plane-polarized light to the right.\nb) Cis-levo (Λ): The cis isomer that rotates plane-polarized light to the left.\n\nHere are the structures of each isomer:\n\nCis isomer (Δ and Λ enantiomers):\n```\n H   H         H   H\n  \\ /           \\ /\n   N---Co---N     N---Co---N\n  / \\   |   / \\ / \\   |   / \\\n H   H  Cl  H   H H   H  Cl  H\n          Δ             Λ\n```\n\nTrans isomer:\n```\n H   H         H   H\n  \\ /           \\ /\n   N---Co---N     N---Co---N\n  / \\   |   / \\ / \\   |   / \\\n H   H  Cl  H   H H   H  Cl  H\n          trans\n```\n\nNote that the trans isomer does not exhibit optical isomerism because it has a plane of symmetry."
+}

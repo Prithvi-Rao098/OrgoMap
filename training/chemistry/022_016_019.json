@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Enthalpy of reaction calculations",
+    "message_1": "What is the enthalpy change for the reaction when 2 moles of hydrogen gas react with 1 mole of oxygen gas to form 2 moles of water vapor? (Hint: Use the balanced chemical equation and standard enthalpies of formation for each compound involved.)",
+    "message_2": "To calculate the enthalpy change for the reaction, we can use the balanced chemical equation and the standard enthalpies of formation for each compound involved. The balanced chemical equation for the reaction is:\n\n2 H₂(g) + O₂(g) → 2 H₂O(g)\n\nNow, we need the standard enthalpies of formation (ΔHf°) for each compound:\n\nΔHf°(H₂) = 0 kJ/mol (since it is an element in its standard state)\nΔHf°(O₂) = 0 kJ/mol (since it is an element in its standard state)\nΔHf°(H₂O) = -241.8 kJ/mol (for water vapor)\n\nUsing the equation ΔH°(reaction) = Σ ΔHf°(products) - Σ ΔHf°(reactants), we can calculate the enthalpy change for the reaction:\n\nΔH°(reaction) = [2 × (-241.8 kJ/mol)] - [2 × 0 kJ/mol + 0 kJ/mol]\nΔH°(reaction) = (-483.6 kJ) - 0\nΔH°(reaction) = -483.6 kJ\n\nSo, the enthalpy change for the reaction when 2 moles of hydrogen gas react with 1 mole of oxygen gas to form 2 moles of water vapor is -483.6 kJ."
+}

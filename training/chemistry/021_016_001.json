@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the electronegativity difference between two atoms",
+    "message_1": "What is the electronegativity difference between the carbon atom and the nitrogen atom in a molecule of hydrogen cyanide (HCN)?",
+    "message_2": "To find the electronegativity difference between the carbon atom and the nitrogen atom in a molecule of hydrogen cyanide (HCN), we need to know the electronegativity values of carbon and nitrogen.\n\nThe electronegativity of carbon (C) is 2.55, and the electronegativity of nitrogen (N) is 3.04 (using the Pauling scale).\n\nThe electronegativity difference between carbon and nitrogen in HCN is:\n\nElectronegativity difference = |Electronegativity of Nitrogen - Electronegativity of Carbon|\n\nElectronegativity difference = |3.04 - 2.55|\n\nElectronegativity difference = 0.49"
+}

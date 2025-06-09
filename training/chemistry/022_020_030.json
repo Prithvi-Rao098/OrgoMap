@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Activation energy calculations",
+    "message_1": "What is the activation energy for the reaction between hydrogen and oxygen to form water, given the following information?\n\n- The rate constant for the reaction is 2.5 x 10^-4 M/s at 298 K.\n- The activation energy for the reaction is 280 kJ/mol.\n- The temperature is kept constant at 298 K.",
+    "message_2": "The activation energy for the reaction between hydrogen and oxygen to form water is already given in the information provided:\n\nThe activation energy for the reaction is 280 kJ/mol."
+}

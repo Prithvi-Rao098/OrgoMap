@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Percent yield problems",
+    "message_1": "What is the percent yield of a chemical reaction if you start with 50 grams of reactant A, but only produce 35 grams of product B, when the balanced equation indicates that you should produce 40 grams of product B?",
+    "message_2": "To calculate the percent yield of a chemical reaction, you can use the following formula:\n\nPercent Yield = (Actual Yield / Theoretical Yield) x 100\n\nIn this case, the actual yield is the amount of product B produced, which is 35 grams. The theoretical yield, according to the balanced equation, is 40 grams.\n\nPercent Yield = (35 grams / 40 grams) x 100\n\nPercent Yield = 0.875 x 100\n\nPercent Yield = 87.5%\n\nThe percent yield of the chemical reaction is 87.5%."
+}

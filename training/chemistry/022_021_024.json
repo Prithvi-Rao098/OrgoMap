@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Equilibrium constant calculations",
+    "message_1": "What is the equilibrium constant expression for the reaction between nitrogen gas and hydrogen gas to form ammonia gas, if the balanced equation is:\n\nN2(g) + 3H2(g) ⇌ 2NH3(g) \n\nand the equilibrium concentrations are [N2] = 0.025 M, [H2] = 0.015 M, and [NH3] = 0.010 M. Calculate the equilibrium constant (Kc) for this reaction.",
+    "message_2": "The equilibrium constant expression (Kc) for the given reaction can be written as:\n\nKc = [NH3]^2 / ([N2] * [H2]^3)\n\nNow, we can plug in the given equilibrium concentrations:\n\nKc = ([0.010]^2) / (0.025 * [0.015]^3)\n\nKc = (0.0001) / (0.025 * 0.000003375)\n\nKc = 0.0001 / 0.000084375\n\nKc ≈ 1.185\n\nTherefore, the equilibrium constant (Kc) for this reaction is approximately 1.185."
+}

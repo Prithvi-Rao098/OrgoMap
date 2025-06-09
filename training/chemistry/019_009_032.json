@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard free energy change for a redox reaction",
+    "message_1": "What is the standard free energy change for the following redox reaction at 298 K?\nZn(s) + Cu2+(aq) → Zn2+(aq) + Cu(s)\nGiven: E°(Cu2+/Cu) = 0.34 V and E°(Zn2+/Zn) = -0.76 V",
+    "message_2": "To calculate the standard free energy change (ΔG°) for the redox reaction, we first need to determine the standard cell potential (E°cell) for the reaction. The standard cell potential can be found by subtracting the standard reduction potential of the anode (Zn) from the standard reduction potential of the cathode (Cu):\n\nE°cell = E°(Cu²⁺/Cu) - E°(Zn²⁺/Zn)\n\nE°cell = 0.34 V - (-0.76 V) = 1.10 V\n\nNow that we have the standard cell potential, we can calculate the standard free energy change using the following equation:\n\nΔG° = -nFE°cell\n\nwhere n is the number of moles of electrons transferred in the reaction (in this case, n = 2, as one mole of Zn loses 2 electrons and one mole of Cu²⁺ gains 2 electrons), F is the Faraday's constant (96,485 C/mol), and E°cell is the standard cell potential.\n\nΔG° = -2 * 96,485 C/mol * 1.10 V\n\nΔG° = -212,267 J/mol\n\nThe standard free energy change for the redox reaction at 298 K is -212,267 J/mol."
+}

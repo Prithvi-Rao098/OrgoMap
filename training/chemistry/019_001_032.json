@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of enthalpy change for a chemical reaction",
+    "message_1": "What is the enthalpy change for the reaction between 2.50 grams of magnesium metal and excess hydrochloric acid, given the balanced equation: \nMg(s) + 2HCl(aq) -> MgCl2(aq) + H2(g) \nand the following thermochemical equation: \nMg(s) + 2HCl(aq) -> MgCl2(aq) + H2(g)        ΔH = -465.2 kJ/mol Mg",
+    "message_2": "To find the enthalpy change for the reaction between 2.50 grams of magnesium metal and excess hydrochloric acid, we need to first determine the number of moles of magnesium involved in the reaction.\n\nThe molar mass of magnesium (Mg) is 24.31 g/mol. \n\nNumber of moles of Mg = mass / molar mass\nNumber of moles of Mg = 2.50 g / 24.31 g/mol = 0.1028 mol\n\nNow, we can use the given thermochemical equation to find the enthalpy change for the reaction:\n\nMg(s) + 2HCl(aq) -> MgCl2(aq) + H2(g)        ΔH = -465.2 kJ/mol Mg\n\nSince the enthalpy change is given per mole of Mg, we can multiply the number of moles of Mg by the enthalpy change per mole to find the total enthalpy change for the reaction:\n\nTotal enthalpy change = (0.1028 mol Mg) × (-465.2 kJ/mol Mg) = -47.83 kJ\n\nThe enthalpy change for the reaction between 2.50 grams of magnesium metal and excess hydrochloric acid is -47.83 kJ."
+}

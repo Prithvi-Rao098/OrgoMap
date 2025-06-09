@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the electronegativity difference between two atoms",
+    "message_1": "What is the electronegativity difference between the oxygen atom and the hydrogen atom in a molecule of water (H2O)?",
+    "message_2": "The electronegativity values of oxygen and hydrogen are approximately 3.44 and 2.20, respectively, according to the Pauling scale. To find the electronegativity difference between the two atoms in a water molecule (H2O), subtract the electronegativity value of hydrogen from that of oxygen:\n\nElectronegativity difference = Electronegativity of oxygen - Electronegativity of hydrogen\nElectronegativity difference = 3.44 - 2.20\nElectronegativity difference ≈ 1.24"
+}

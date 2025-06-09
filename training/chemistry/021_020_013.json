@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the heat of formation of a molecule",
+    "message_1": "What is the standard enthalpy of formation of methane gas (CH4) given the following bond energies: \n\nC-C = 347 kJ/mol\nC-H = 413 kJ/mol \n\n(Hint: Use the formula ∆Hf° = ∑(bonds broken) - ∑(bonds formed))",
+    "message_2": "To calculate the standard enthalpy of formation of methane gas (CH4), we need to consider the bonds broken and bonds formed during the reaction. The formation of methane involves the combination of one carbon atom and four hydrogen atoms.\n\nThe given bond energies are:\nC-C = 347 kJ/mol\nC-H = 413 kJ/mol\n\nIn the formation of methane, there are no C-C bonds involved, so we don't need to consider the C-C bond energy. However, there are four C-H bonds formed in methane.\n\nUsing the formula ∆Hf° = ∑(bonds broken) - ∑(bonds formed):\n\n∆Hf° = 0 - (4 * 413 kJ/mol)\n\n∆Hf° = -1652 kJ/mol\n\nThe standard enthalpy of formation of methane gas (CH4) is -1652 kJ/mol."
+}

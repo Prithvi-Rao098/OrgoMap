@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "What mass of carbon dioxide is produced when 5.0 grams of methane (CH4) completely react with oxygen (O2) according to the following balanced equation:\nCH4 + 2O2 → CO2 + 2H2O",
+    "message_2": "To solve this problem, we will use the concept of stoichiometry, which involves using the balanced chemical equation to determine the amount of product formed from a given amount of reactants.\n\nFirst, we need to find the molar mass of methane (CH4) and carbon dioxide (CO2).\n\nMolar mass of CH4 = 12.01 g/mol (C) + 4 * 1.01 g/mol (H) = 16.05 g/mol\nMolar mass of CO2 = 12.01 g/mol (C) + 2 * 16.00 g/mol (O) = 44.01 g/mol\n\nNow, we will convert the given mass of methane (5.0 grams) into moles:\n\nmoles of CH4 = mass of CH4 / molar mass of CH4\nmoles of CH4 = 5.0 g / 16.05 g/mol = 0.3115 moles\n\nAccording to the balanced equation, 1 mole of CH4 produces 1 mole of CO2. Therefore, the moles of CO2 produced will be equal to the moles of CH4 reacted:\n\nmoles of CO2 = 0.3115 moles of CH4\n\nNow, we will convert the moles of CO2 back into grams:\n\nmass of CO2 = moles of CO2 * molar mass of CO2\nmass of CO2 = 0.3115 moles * 44.01 g/mol = 13.71 g\n\nSo, 13.71 grams of carbon dioxide (CO2) will be produced when 5.0 grams of methane (CH4) completely react with oxygen (O2)."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of solution calculations",
+    "message_1": "What is the enthalpy change when 10 g of potassium chloride (KCl) is dissolved in 100 mL of water at 25°C? The molar enthalpy of solution of KCl is -17.6 kJ/mol.",
+    "message_2": "To calculate the enthalpy change, we first need to determine the number of moles of KCl being dissolved. The molar mass of KCl is 39.1 g/mol (for potassium) + 35.45 g/mol (for chlorine) = 74.55 g/mol.\n\nNow, we can find the number of moles of KCl in the 10 g sample:\n\nmoles of KCl = mass / molar mass\nmoles of KCl = 10 g / 74.55 g/mol\nmoles of KCl ≈ 0.134 mol\n\nNow that we have the number of moles, we can calculate the enthalpy change using the molar enthalpy of solution:\n\nenthalpy change = moles × molar enthalpy of solution\nenthalpy change = 0.134 mol × (-17.6 kJ/mol)\nenthalpy change ≈ -2.36 kJ\n\nSo, the enthalpy change when 10 g of potassium chloride is dissolved in 100 mL of water at 25°C is approximately -2.36 kJ."
+}

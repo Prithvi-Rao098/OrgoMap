@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of precipitation calculations",
+    "message_1": "What is the enthalpy change of precipitation for the reaction of 50.0 mL of 0.25 M lead(II) nitrate with excess sodium sulfate, assuming complete reaction and a 1.00 g/mL density of the resulting solution?",
+    "message_2": "To determine the enthalpy change of precipitation for the reaction, we first need to write the balanced chemical equation for the reaction:\n\nPb(NO₃)₂(aq) + Na₂SO₄(aq) → PbSO₄(s) + 2NaNO₃(aq)\n\nNext, we need to find the moles of lead(II) nitrate in the 50.0 mL of 0.25 M solution:\n\nmoles = Molarity × Volume\nmoles = 0.25 mol/L × 0.050 L = 0.0125 mol\n\nSince the reaction goes to completion, all of the lead(II) nitrate will react with the sodium sulfate to form lead(II) sulfate. Now we need to find the enthalpy change for the formation of lead(II) sulfate. The enthalpy change for the formation of one mole of a compound from its elements in their standard states is called the standard enthalpy of formation (ΔHf°). We can use the following equation to calculate the enthalpy change of precipitation:\n\nΔH = moles × ΔHf°(PbSO₄)\n\nThe standard enthalpy of formation for PbSO₄ is -910 kJ/mol. Now we can calculate the enthalpy change for the precipitation reaction:\n\nΔH = 0.0125 mol × (-910 kJ/mol) = -11.375 kJ\n\nThe enthalpy change of precipitation for the reaction is -11.375 kJ."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Limiting reactant problems",
+    "message_1": "How many grams of sodium sulfate will be produced when 20 grams of sodium chloride react with excess sulfuric acid?",
+    "message_2": "To solve this problem, we need to use the balanced chemical equation for the reaction between sodium chloride (NaCl) and sulfuric acid (H2SO4) to produce sodium sulfate (Na2SO4) and hydrochloric acid (HCl):\n\n2 NaCl + H2SO4 → Na2SO4 + 2 HCl\n\nNext, we need to find the molar mass of each compound involved in the reaction:\n\nNaCl: 58.44 g/mol (22.99 g/mol for Na + 35.45 g/mol for Cl)\nNa2SO4: 142.04 g/mol (2 * 22.99 g/mol for Na + 32.07 g/mol for S + 4 * 16.00 g/mol for O)\n\nNow, we need to find the moles of NaCl in the given 20 grams:\n\nmoles of NaCl = mass / molar mass\nmoles of NaCl = 20 g / 58.44 g/mol = 0.3425 mol\n\nFrom the balanced chemical equation, we can see that 2 moles of NaCl react to produce 1 mole of Na2SO4. Therefore, we can find the moles of Na2SO4 produced:\n\nmoles of Na2SO4 = (0.3425 mol NaCl) * (1 mol Na2SO4 / 2 mol NaCl) = 0.17125 mol Na2SO4\n\nFinally, we can find the mass of Na2SO4 produced:\n\nmass of Na2SO4 = moles * molar mass\nmass of Na2SO4 = 0.17125 mol * 142.04 g/mol = 24.33 g\n\nSo, 24.33 grams of sodium sulfate will be produced when 20 grams of sodium chloride react with excess sulfuric acid."
+}

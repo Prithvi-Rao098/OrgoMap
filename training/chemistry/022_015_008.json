@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Percent yield problems",
+    "message_1": "What is the percent yield of a reaction if you start with 2.5 grams of sodium chloride (NaCl) and react with excess silver nitrate (AgNO3) to form 3.5 grams of silver chloride (AgCl)? The balanced chemical equation for the reaction is: 2 NaCl + AgNO3 → 2 AgCl + 2 NaNO3.",
+    "message_2": "To calculate the percent yield, we first need to determine the theoretical yield of AgCl based on the amount of NaCl used.\n\n1. Calculate the moles of NaCl:\nMolecular weight of NaCl = 58.44 g/mol (22.99 g/mol for Na + 35.45 g/mol for Cl)\nMoles of NaCl = (2.5 g NaCl) / (58.44 g/mol) = 0.0428 mol NaCl\n\n2. Determine the moles of AgCl produced theoretically:\nFrom the balanced equation, 2 moles of NaCl produce 2 moles of AgCl.\nMoles of AgCl = 0.0428 mol NaCl * (2 mol AgCl / 2 mol NaCl) = 0.0428 mol AgCl\n\n3. Calculate the theoretical yield of AgCl:\nMolecular weight of AgCl = 143.32 g/mol (107.87 g/mol for Ag + 35.45 g/mol for Cl)\nTheoretical yield of AgCl = (0.0428 mol AgCl) * (143.32 g/mol) = 6.130 g AgCl\n\n4. Calculate the percent yield:\nPercent yield = (Actual yield / Theoretical yield) * 100\nPercent yield = (3.5 g AgCl / 6.130 g AgCl) * 100 = 57.1%\n\nThe percent yield of the reaction is 57.1%."
+}

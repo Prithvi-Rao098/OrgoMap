@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Percent yield problems",
+    "message_1": "A student reacted 10.0 grams of NaOH with 12.0 grams of HCl to produce NaCl and H2O. The balanced chemical equation for the reaction is as follows:\nNaOH + HCl → NaCl + H2O\n\nIf the expected yield of NaCl is 9.0 grams, what is the percent yield of the reaction?",
+    "message_2": "First, we need to determine the limiting reactant. To do this, we will compare the moles of NaOH and HCl used in the reaction.\n\nMolar mass of NaOH = 22.99 (Na) + 15.999 (O) + 1.00784 (H) = 39.996 g/mol\nMoles of NaOH = 10.0 g / 39.996 g/mol = 0.250 mol\n\nMolar mass of HCl = 1.00784 (H) + 35.453 (Cl) = 36.461 g/mol\nMoles of HCl = 12.0 g / 36.461 g/mol = 0.329 mol\n\nSince the balanced equation has a 1:1 ratio between NaOH and HCl, NaOH is the limiting reactant because it has fewer moles (0.250 mol) compared to HCl (0.329 mol).\n\nNow, we can calculate the theoretical yield of NaCl based on the limiting reactant (NaOH).\n\nMolar mass of NaCl = 22.99 (Na) + 35.453 (Cl) = 58.443 g/mol\nTheoretical yield of NaCl = 0.250 mol * 58.443 g/mol = 14.611 g\n\nNow, we can calculate the percent yield using the expected yield (9.0 g) and the theoretical yield (14.611 g).\n\nPercent yield = (Expected yield / Theoretical yield) * 100\nPercent yield = (9.0 g / 14.611 g) * 100 = 61.6%\n\nThe percent yield of the reaction is 61.6%."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Determining the equilibrium constant for a reaction involving gases",
+    "message_1": "What is the equilibrium constant expression for the following gas phase reaction at 25°C?\n\nN2(g) + 3H2(g) ⇌ 2NH3(g)\n\nGiven the equilibrium concentrations of N2, H2 and NH3, calculate the value of the equilibrium constant (Kc) for this reaction.",
+    "message_2": "The equilibrium constant expression (Kc) for the given gas phase reaction is:\n\nKc = [NH3]^2 / ([N2] * [H2]^3)\n\nTo calculate the value of Kc, you need to provide the equilibrium concentrations of N2, H2, and NH3. Please provide these concentrations."
+}

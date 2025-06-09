@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Identifying the Lewis structure of a molecule",
+    "message_1": "What is the Lewis structure of the molecule PCl3?",
+    "message_2": "The Lewis structure of the molecule PCl3 (Phosphorus trichloride) can be drawn as follows:\n\n1. Determine the total number of valence electrons in the molecule. Phosphorus (P) has 5 valence electrons, and each chlorine (Cl) atom has 7 valence electrons. Since there are three chlorine atoms, the total number of valence electrons is 5 + (3 × 7) = 26.\n\n2. Place the least electronegative atom (P) in the center and surround it with the more electronegative atoms (Cl).\n\n         Cl\n          |\n          P\n         / \\\n       Cl   Cl\n\n3. Connect the central atom (P) to each surrounding atom (Cl) with a single bond. This uses 2 electrons for each bond, so 6 electrons are used in total.\n\n4. Distribute the remaining 20 electrons (26 total - 6 used) as lone pairs around the chlorine atoms to satisfy the octet rule. Each chlorine atom will have 3 lone pairs (6 electrons) around it.\n\nThe final Lewis structure for PCl3 is:\n\n         Cl\n          :\n          |\n    :     P     :\n    Cl----|----Cl\n          :\n          :\n\nEach chlorine atom has 3 lone pairs and is single-bonded to the central phosphorus atom, which has one lone pair."
+}

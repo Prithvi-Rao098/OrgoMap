@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat capacity calculations",
+    "message_1": "What is the heat capacity of a 50 g copper block when heated from 25°C to 95°C, given that the specific heat capacity of copper is 0.385 J/g·°C? Calculate the amount of heat energy required to raise the temperature of the copper block by 70°C.",
+    "message_2": "To calculate the amount of heat energy required to raise the temperature of the copper block by 70°C, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat energy, m is the mass of the copper block, c is the specific heat capacity of copper, and ΔT is the change in temperature.\n\nGiven:\nm = 50 g\nc = 0.385 J/g·°C\nΔT = 95°C - 25°C = 70°C\n\nNow, we can plug these values into the formula:\n\nq = (50 g) × (0.385 J/g·°C) × (70°C)\n\nq = 50 × 0.385 × 70\n\nq = 1347.5 J\n\nThe amount of heat energy required to raise the temperature of the 50 g copper block by 70°C is 1347.5 J."
+}

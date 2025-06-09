@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Hess's Law problems",
+    "message_1": "What is the enthalpy change for the reaction: CaCO3(s) → CaO(s) + CO2(g), given the following reactions?\n\nCaCO3(s) → CaO(s) + CO(g)   ΔH = 281 kJ/mol \n\nCO(g) + 1/2 O2(g) → CO2(g)  ΔH = -283 kJ/mol",
+    "message_2": "To find the enthalpy change for the reaction CaCO3(s) → CaO(s) + CO2(g), you can use Hess's Law, which states that the enthalpy change of a reaction is the same, whether it occurs in one step or several steps. In this case, you can combine the given reactions to form the desired reaction.\n\nFirst, reverse the second reaction:\n\nCO2(g) → CO(g) + 1/2 O2(g)  ΔH = 283 kJ/mol\n\nNow, add the two reactions together:\n\nCaCO3(s) → CaO(s) + CO(g)   ΔH = 281 kJ/mol\nCO2(g) → CO(g) + 1/2 O2(g)  ΔH = 283 kJ/mol\n----------------------------------------------\nCaCO3(s) + CO2(g) → CaO(s) + CO(g) + CO(g) + 1/2 O2(g)  ΔH = 281 kJ/mol + 283 kJ/mol\n\nSimplify the reaction:\n\nCaCO3(s) → CaO(s) + CO2(g)  ΔH = 564 kJ/mol\n\nSo, the enthalpy change for the reaction CaCO3(s) → CaO(s) + CO2(g) is 564 kJ/mol."
+}

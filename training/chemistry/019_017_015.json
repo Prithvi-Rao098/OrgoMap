@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a sublimation reaction",
+    "message_1": "Calculate the standard enthalpy change for the sublimation of iodine, given that the sublimation of 1 mole of iodine requires 62.44 kJ of energy and the standard enthalpy of formation of iodine (s) is 0 kJ/mol.",
+    "message_2": "The standard enthalpy change for the sublimation of iodine can be calculated using the given information. Since the standard enthalpy of formation of iodine (s) is 0 kJ/mol, we can directly use the energy required for the sublimation of 1 mole of iodine as the standard enthalpy change for the sublimation process.\n\nStandard enthalpy change for sublimation of iodine = 62.44 kJ/mol\n\nTherefore, the standard enthalpy change for the sublimation of iodine is 62.44 kJ/mol."
+}

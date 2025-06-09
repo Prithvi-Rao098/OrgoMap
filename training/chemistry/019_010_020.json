@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a combustion reaction",
+    "message_1": "What is the standard enthalpy change for the combustion of 2 moles of methane (CH4) gas, given the following reaction equation:\n\nCH4(g) + 2O2(g) -> CO2(g) + 2H2O(l)\n\nGiven that the standard enthalpy of formation for CH4(g), CO2(g), and H2O(l) are -74.8 kJ/mol, -393.5 kJ/mol, and -286.0 kJ/mol respectively.",
+    "message_2": "To calculate the standard enthalpy change for the combustion of 2 moles of methane, we can use the following equation:\n\nΔH = ΣnΔHf(products) - ΣnΔHf(reactants)\n\nwhere ΔH is the standard enthalpy change, n is the number of moles, and ΔHf is the standard enthalpy of formation.\n\nFor the products:\n1 mole of CO2: 1 * (-393.5 kJ/mol) = -393.5 kJ\n2 moles of H2O: 2 * (-286.0 kJ/mol) = -572.0 kJ\n\nFor the reactants:\n1 mole of CH4: 1 * (-74.8 kJ/mol) = -74.8 kJ\n2 moles of O2: 2 * 0 kJ/mol (since O2 is in its standard state) = 0 kJ\n\nNow, we can plug these values into the equation:\n\nΔH = (-393.5 kJ + (-572.0 kJ)) - (-74.8 kJ + 0 kJ)\nΔH = -965.5 kJ + 74.8 kJ\nΔH = -890.7 kJ\n\nSince the question asks for the standard enthalpy change for the combustion of 2 moles of methane, we need to multiply the ΔH value by 2:\n\nΔH for 2 moles of CH4 = -890.7 kJ * 2 = -1781.4 kJ\n\nSo, the standard enthalpy change for the combustion of 2 moles of methane is -1781.4 kJ."
+}

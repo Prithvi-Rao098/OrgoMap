@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of oxidation calculations",
+    "message_1": "Determine the enthalpy change for the oxidation of 2 moles of iron (Fe) to form iron oxide (FeO) using the following data: \n\nFe + 1/2 O2 → FeO   ΔH = -65.0 kJ/mol \n4 Fe + 3 O2 → 2 Fe2O3   ΔH = -1648.6 kJ/mol",
+    "message_2": "To determine the enthalpy change for the oxidation of 2 moles of iron (Fe) to form iron oxide (FeO), we can use the given reactions and their enthalpy changes. First, we need to manipulate the given reactions to obtain the desired reaction.\n\nGiven reactions:\n1. Fe + 1/2 O2 → FeO   ΔH = -65.0 kJ/mol\n2. 4 Fe + 3 O2 → 2 Fe2O3   ΔH = -1648.6 kJ/mol\n\nWe need to find the enthalpy change for the following reaction:\n3. 2 Fe + O2 → 2 FeO\n\nTo obtain reaction 3, we can multiply reaction 1 by 2:\n(2) * (Fe + 1/2 O2 → FeO) = 2 Fe + O2 → 2 FeO\n\nNow, we can find the enthalpy change for reaction 3 by multiplying the enthalpy change of reaction 1 by 2:\nΔH3 = (2) * (-65.0 kJ/mol) = -130.0 kJ/mol\n\nSo, the enthalpy change for the oxidation of 2 moles of iron (Fe) to form iron oxide (FeO) is -130.0 kJ/mol."
+}

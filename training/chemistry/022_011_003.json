@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Gas evolution reactions",
+    "message_1": "What is the volume of carbon dioxide gas (CO2) liberated at STP when 3.75 grams of calcium carbonate (CaCO3) react with excess hydrochloric acid (HCl)?",
+    "message_2": "To solve this problem, we will follow these steps:\n\n1. Write the balanced chemical equation for the reaction.\n2. Calculate the number of moles of CaCO3.\n3. Determine the number of moles of CO2 produced.\n4. Calculate the volume of CO2 at STP.\n\nStep 1: Balanced chemical equation\nCaCO3 (s) + 2 HCl (aq) → CaCl2 (aq) + H2O (l) + CO2 (g)\n\nStep 2: Calculate the number of moles of CaCO3\nMolar mass of CaCO3 = 40.08 (Ca) + 12.01 (C) + 3 * 16.00 (O) = 100.09 g/mol\nNumber of moles of CaCO3 = mass / molar mass = 3.75 g / 100.09 g/mol = 0.0375 mol\n\nStep 3: Determine the number of moles of CO2 produced\nFrom the balanced equation, 1 mole of CaCO3 produces 1 mole of CO2.\nSo, 0.0375 mol of CaCO3 will produce 0.0375 mol of CO2.\n\nStep 4: Calculate the volume of CO2 at STP\nAt STP (Standard Temperature and Pressure: 0°C and 1 atm), 1 mole of any gas occupies 22.4 liters.\nVolume of CO2 = number of moles * volume per mole at STP = 0.0375 mol * 22.4 L/mol = 0.84 L\n\nTherefore, the volume of carbon dioxide gas (CO2) liberated at STP when 3.75 grams of calcium carbonate (CaCO3) react with excess hydrochloric acid (HCl) is 0.84 liters."
+}

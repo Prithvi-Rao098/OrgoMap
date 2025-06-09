@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of dissolution calculations",
+    "message_1": "What is the enthalpy change when dissolving 5 grams of NaOH in 100 ml of water at 25°C, given that the molar enthalpy of dissolution of NaOH is -44.5 kJ/mol?",
+    "message_2": "To calculate the enthalpy change, we first need to determine the number of moles of NaOH being dissolved. The molar mass of NaOH is approximately 40 g/mol (23 g/mol for Na, 16 g/mol for O, and 1 g/mol for H).\n\nNumber of moles = mass / molar mass\nNumber of moles = 5 g / 40 g/mol = 0.125 mol\n\nNow, we can use the molar enthalpy of dissolution to find the enthalpy change:\n\nEnthalpy change = number of moles × molar enthalpy of dissolution\nEnthalpy change = 0.125 mol × (-44.5 kJ/mol) = -5.56 kJ\n\nSo, the enthalpy change when dissolving 5 grams of NaOH in 100 ml of water at 25°C is -5.56 kJ."
+}

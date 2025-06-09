@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical synthesis",
+    "sub_topic": "Synthesis of polystyrene from styrene monomer",
+    "message_1": "\"Using the proper laboratory techniques and equipment, what is the minimum amount of styrene monomer required to be polymerized to achieve 10 grams of polystyrene with a molecular weight of 100,000 g/mol?\"",
+    "message_2": "To determine the minimum amount of styrene monomer required to be polymerized to achieve 10 grams of polystyrene with a molecular weight of 100,000 g/mol, we can use the following equation:\n\nAmount of monomer (g) = (Desired mass of polymer (g) * Molecular weight of monomer (g/mol)) / Molecular weight of polymer (g/mol)\n\nThe molecular weight of styrene monomer is approximately 104 g/mol. Now, we can plug in the values into the equation:\n\nAmount of monomer (g) = (10 g * 104 g/mol) / 100,000 g/mol\n\nAmount of monomer (g) = 1040 / 100,000\n\nAmount of monomer (g) = 0.0104 g\n\nTherefore, the minimum amount of styrene monomer required to be polymerized to achieve 10 grams of polystyrene with a molecular weight of 100,000 g/mol is 0.0104 grams."
+}

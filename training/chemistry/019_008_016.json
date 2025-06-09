@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard electrode potential for a redox reaction",
+    "message_1": "What is the standard electrode potential of the reaction: \n\nZn(s) | Zn²⁺(aq, 1M) || Cu²⁺(aq, 1M) | Cu(s) \n\nGiven that the standard reduction potential of Cu²⁺/Cu is +0.34 V and the standard reduction potential of Zn²⁺/Zn is -0.76 V.",
+    "message_2": "To find the standard electrode potential of the given reaction, we need to use the Nernst equation. The Nernst equation is:\n\nE_cell = E_cathode - E_anode\n\nIn this case, the Cu²⁺/Cu half-cell is the cathode (reduction) and the Zn²⁺/Zn half-cell is the anode (oxidation). We are given the standard reduction potentials for both half-cells:\n\nE°(Cu²⁺/Cu) = +0.34 V\nE°(Zn²⁺/Zn) = -0.76 V\n\nNow, we can plug these values into the Nernst equation:\n\nE_cell = E_cathode - E_anode\nE_cell = (+0.34 V) - (-0.76 V)\nE_cell = +0.34 V + 0.76 V\nE_cell = +1.10 V\n\nThe standard electrode potential of the given reaction is +1.10 V."
+}

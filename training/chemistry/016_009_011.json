@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of vaporization calculations",
+    "message_1": "Calculate the enthalpy of vaporization of water at a temperature of 100 degrees Celsius and a pressure of 1 atm, given that the boiling point of water is 100 degrees Celsius and its enthalpy of vaporization at standard conditions (100 degrees Celsius and 1 atm) is 40.7 kJ/mol.",
+    "message_2": "Since the given temperature and pressure are the same as the standard conditions (100 degrees Celsius and 1 atm), the enthalpy of vaporization of water at these conditions is the same as the given value. Therefore, the enthalpy of vaporization of water at 100 degrees Celsius and 1 atm is 40.7 kJ/mol."
+}

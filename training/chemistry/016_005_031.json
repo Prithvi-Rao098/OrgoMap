@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of combustion calculations",
+    "message_1": "Calculate the amount of heat released when 0.5 moles of propane, C3H8, combust completely in oxygen gas, O2, according to the following balanced equation:\n\nC3H8(g) + 5O2(g) -> 3CO2(g) + 4H2O(l), ∆H = -2220 kJ/mol.",
+    "message_2": "To calculate the amount of heat released, we can use the stoichiometry of the balanced equation and the given enthalpy change (∆H) for the reaction.\n\nThe balanced equation tells us that 1 mole of propane (C3H8) reacts to release -2220 kJ of heat. We are given 0.5 moles of propane, so we can set up a proportion to find the heat released:\n\n(Heat released) / (0.5 moles of C3H8) = -2220 kJ/mol / (1 mole of C3H8)\n\nNow, we can solve for the heat released:\n\nHeat released = (0.5 moles of C3H8) * (-2220 kJ/mol)\n\nHeat released = -1110 kJ\n\nSo, the amount of heat released when 0.5 moles of propane combust completely in oxygen gas is -1110 kJ. The negative sign indicates that the reaction is exothermic, meaning heat is released."
+}

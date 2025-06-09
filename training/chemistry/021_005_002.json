@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the polarity of a bond",
+    "message_1": "What is the dipole moment of the hydrogen chloride (HCl) molecule and why is the bond polar?",
+    "message_2": "The dipole moment of the hydrogen chloride (HCl) molecule is approximately 1.08 Debye (D).\n\nThe bond in HCl is polar because of the difference in electronegativity between hydrogen (H) and chlorine (Cl) atoms. Electronegativity is a measure of an atom's ability to attract electrons in a chemical bond. In HCl, chlorine has a higher electronegativity value (3.16) compared to hydrogen (2.20). This difference in electronegativity causes the electrons in the bond to be more attracted to the chlorine atom, creating a partial negative charge (δ-) on the chlorine and a partial positive charge (δ+) on the hydrogen. This separation of charges results in a polar bond and gives the molecule a dipole moment."
+}

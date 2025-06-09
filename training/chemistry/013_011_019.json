@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Surface chemistry",
+    "sub_topic": "Micelle formation and critical micelle concentration",
+    "message_1": "What is the critical micelle concentration (CMC) of sodium dodecyl sulfate (SDS) in water at a temperature of 25°C and how does it vary with the addition of salt to the solution?",
+    "message_2": "The critical micelle concentration (CMC) of sodium dodecyl sulfate (SDS) in water at 25°C is approximately 8.2 mM (millimolar). The CMC is the concentration at which surfactant molecules, like SDS, begin to aggregate into micelles in a solution.\n\nWhen salt is added to the solution, the CMC of SDS typically decreases. This is because the presence of salt ions can shield the electrostatic repulsion between the negatively charged head groups of SDS molecules, making it easier for them to aggregate into micelles. The extent to which the CMC decreases depends on the type and concentration of the salt added. Generally, the higher the salt concentration, the lower the CMC of SDS in the solution."
+}

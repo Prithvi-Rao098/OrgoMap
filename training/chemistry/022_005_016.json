@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Combustion reactions",
+    "message_1": "Sure! Here's a precise question for a chemistry student to solve from Chemical Reactions and the subtopic Combustion Reactions:\n\nWhat is the balanced chemical equation for the complete combustion of ethane (C2H6) in the presence of excess oxygen (O2)? \n\nHint: The products of a complete combustion reaction of a hydrocarbon are always carbon dioxide (CO2) gas and water (H2O) vapor.",
+    "message_2": "To balance the chemical equation for the complete combustion of ethane, we need to ensure that the number of atoms of each element on the reactants side is equal to the number of atoms of the same element on the products side.\n\nThe unbalanced equation for the complete combustion of ethane is:\n\nC2H6 + O2 → CO2 + H2O\n\nNow, let's balance the equation step by step:\n\n1. Balance the carbon atoms:\nC2H6 + O2 → 2CO2 + H2O\n\n2. Balance the hydrogen atoms:\nC2H6 + O2 → 2CO2 + 3H2O\n\n3. Finally, balance the oxygen atoms:\nC2H6 + 7/2 O2 → 2CO2 + 3H2O\n\nHowever, it's better to have whole numbers in a balanced equation. To achieve this, we can multiply the entire equation by 2:\n\n2(C2H6) + 2(7/2 O2) → 2(2CO2) + 2(3H2O)\n\nThis simplifies to:\n\n2C2H6 + 7O2 → 4CO2 + 6H2O\n\nSo, the balanced chemical equation for the complete combustion of ethane is:\n\n2C2H6 + 7O2 → 4CO2 + 6H2O"
+}

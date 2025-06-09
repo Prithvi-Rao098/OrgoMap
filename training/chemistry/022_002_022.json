@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "If 2.5 moles of NaOH reacts with excess HCl, how many moles of NaCl can be produced?",
+    "message_2": "The balanced chemical equation for the reaction between NaOH and HCl is:\n\nNaOH + HCl → NaCl + H2O\n\nFrom the balanced equation, we can see that 1 mole of NaOH reacts with 1 mole of HCl to produce 1 mole of NaCl. Therefore, the mole ratio between NaOH and NaCl is 1:1.\n\nGiven that 2.5 moles of NaOH reacts with excess HCl, we can use the mole ratio to determine the moles of NaCl produced:\n\n2.5 moles NaOH × (1 mole NaCl / 1 mole NaOH) = 2.5 moles NaCl\n\nSo, 2.5 moles of NaCl can be produced."
+}

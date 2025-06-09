@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of solution calculations",
+    "message_1": "Calculate the enthalpy change (in kJ/mol) for dissolving 10 grams of NaOH in 100 mL of water at 25°C, given that the molar heat of solution for NaOH is -444.6 kJ/mol.",
+    "message_2": "First, we need to determine the number of moles of NaOH in 10 grams. The molar mass of NaOH is:\n\nNa = 22.99 g/mol\nO = 16.00 g/mol\nH = 1.01 g/mol\nMolar mass of NaOH = 22.99 + 16.00 + 1.01 = 40.00 g/mol\n\nNow, we can calculate the number of moles of NaOH in 10 grams:\n\nmoles of NaOH = mass / molar mass\nmoles of NaOH = 10 g / 40.00 g/mol = 0.25 mol\n\nNow that we have the number of moles, we can calculate the enthalpy change for dissolving 0.25 mol of NaOH using the given molar heat of solution:\n\nEnthalpy change = moles × molar heat of solution\nEnthalpy change = 0.25 mol × (-444.6 kJ/mol) = -111.15 kJ\n\nThe enthalpy change for dissolving 10 grams of NaOH in 100 mL of water at 25°C is -111.15 kJ."
+}

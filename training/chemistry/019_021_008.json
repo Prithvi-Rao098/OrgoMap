@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving solids",
+    "message_1": "What is the standard enthalpy change for the combustion of 1 mole of graphite (solid) at standard conditions, given the following equation and standard enthalpies of formation: \n\nC(s) + O2(g) → CO2(g)  ΔH°f = -393.5 kJ/mol for CO2(g), \n\nassuming that the standard enthalpy of formation of graphite is zero?",
+    "message_2": "To find the standard enthalpy change for the combustion of 1 mole of graphite, we can use the following equation:\n\nΔH°rxn = Σ ΔH°f(products) - Σ ΔH°f(reactants)\n\nIn this case, the reaction is:\n\nC(s) + O2(g) → CO2(g)\n\nThe standard enthalpy of formation (ΔH°f) for CO2(g) is given as -393.5 kJ/mol, and the standard enthalpy of formation for graphite (C(s)) is assumed to be zero. The standard enthalpy of formation for O2(g) is also zero since it is in its elemental form.\n\nNow, we can plug the values into the equation:\n\nΔH°rxn = [1 mol × (-393.5 kJ/mol)] - [1 mol × 0 kJ/mol + 1 mol × 0 kJ/mol]\n\nΔH°rxn = -393.5 kJ/mol\n\nSo, the standard enthalpy change for the combustion of 1 mole of graphite at standard conditions is -393.5 kJ/mol."
+}

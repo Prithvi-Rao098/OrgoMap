@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of oxidation calculations",
+    "message_1": "What is the enthalpy change of the oxidation of 1 mole of iron(II) hydroxide (Fe(OH)2) to form iron(III) oxide (Fe2O3)? The balanced chemical equation for the reaction is:\n\n2Fe(OH)2(s) + 1.5O2(g) → Fe2O3(s) + 2H2O(l)\n\nGiven: \n- Enthalpy change of formation of Fe(OH)2 is -619 kJ/mol\n- Enthalpy change of formation of Fe2O3 is -825 kJ/mol\n- Standard enthalpy of formation of H2O is -286 kJ/mol\n",
+    "message_2": "To find the enthalpy change of the reaction, we can use Hess's Law, which states that the enthalpy change of a reaction is equal to the sum of the enthalpy changes of formation of the products minus the sum of the enthalpy changes of formation of the reactants.\n\nΔH_reaction = Σ ΔH_f(products) - Σ ΔH_f(reactants)\n\nFor the given reaction:\n\n2Fe(OH)2(s) + 1.5O2(g) → Fe2O3(s) + 2H2O(l)\n\nThe enthalpy change of the reaction is:\n\nΔH_reaction = [1 * ΔH_f(Fe2O3) + 2 * ΔH_f(H2O)] - [2 * ΔH_f(Fe(OH)2) + 1.5 * ΔH_f(O2)]\n\nSince the standard enthalpy of formation for an element in its standard state is zero, ΔH_f(O2) = 0.\n\nΔH_reaction = [1 * (-825 kJ/mol) + 2 * (-286 kJ/mol)] - [2 * (-619 kJ/mol)]\n\nΔH_reaction = (-825 - 572) - (-1238)\n\nΔH_reaction = -1397 + 1238\n\nΔH_reaction = -159 kJ/mol\n\nSo, the enthalpy change of the oxidation of 1 mole of iron(II) hydroxide to form iron(III) oxide is -159 kJ/mol."
+}

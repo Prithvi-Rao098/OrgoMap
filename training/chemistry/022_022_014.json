@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Le Chatelier's principle problems",
+    "message_1": "A chemistry student is experimenting with the reaction: N2(g) + 3H2(g) ⇌ 2NH3(g). They want to investigate the effect of pressure on the yield of ammonia. Write a problem for the student to solve using Le Chatelier's principle that will help them predict the effect of changes in pressure on the equilibrium position of the reaction.",
+    "message_2": "Problem:\n\nA chemistry student is studying the reaction between nitrogen gas (N2) and hydrogen gas (H2) to form ammonia gas (NH3) according to the following balanced equation:\n\nN2(g) + 3H2(g) ⇌ 2NH3(g)\n\nThe student wants to investigate the effect of pressure on the yield of ammonia at equilibrium. They set up an experiment in a closed container with an initial pressure of 1 atm and equal concentrations of N2 and H2. The student then increases the pressure of the system to 3 atm while keeping the temperature constant.\n\nUsing Le Chatelier's principle, predict the effect of the increase in pressure on the equilibrium position of the reaction. Will the yield of ammonia increase, decrease, or remain the same? Explain your reasoning."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of formation calculations",
+    "message_1": "What is the enthalpy of formation of water (H2O) given the enthalpies of combustion of hydrogen (H2) and oxygen (O2) are −286 kJ/mol and −394 kJ/mol, respectively?",
+    "message_2": "To find the enthalpy of formation of water (H2O), we need to consider the balanced chemical equation for the formation of water from its elements:\n\nH2 (g) + 1/2 O2 (g) → H2O (l)\n\nThe enthalpy of formation of water can be calculated using Hess's Law, which states that the total enthalpy change for a reaction is independent of the pathway taken. In this case, we can use the given enthalpies of combustion to determine the enthalpy of formation.\n\nThe enthalpies of combustion for hydrogen and oxygen are given as:\n\nH2 (g) + 1/2 O2 (g) → H2O (l); ΔH_combustion (H2) = -286 kJ/mol\nO2 (g) → 1/2 O2 (g); ΔH_combustion (O2) = -394 kJ/mol\n\nSince the enthalpy of combustion of oxygen is given for the formation of 1/2 mole of O2, we can ignore it in our calculations as it does not contribute to the formation of water.\n\nTherefore, the enthalpy of formation of water (H2O) is equal to the enthalpy of combustion of hydrogen:\n\nΔH_formation (H2O) = ΔH_combustion (H2) = -286 kJ/mol"
+}

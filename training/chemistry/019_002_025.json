@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Determination of standard enthalpy of formation for a compound",
+    "message_1": "What is the standard enthalpy of formation of magnesium oxide (MgO) given the equation:\n\n2 Mg(s) + O2(g) -> 2 MgO(s)\n\nand the following data:\n\n-Standard enthalpy of formation of Mg(s) = 0 kJ/mol\n-Standard enthalpy of formation of O2(g) = 0 kJ/mol\n-Standard enthalpy of combustion of Mg(s) = -601 kJ/mol\n-Standard enthalpy of combustion of MgO(s) = -3811 kJ/mol",
+    "message_2": "To find the standard enthalpy of formation of MgO, we can use the given standard enthalpies of combustion. The combustion reactions for Mg and MgO are:\n\nMg(s) + 1/2 O2(g) -> MgO(s)  (ΔH_combustion = -601 kJ/mol)\nMgO(s) + 2 HCl(aq) -> MgCl2(aq) + H2O(l)  (ΔH_combustion = -3811 kJ/mol)\n\nNow, we can use Hess's Law to find the enthalpy of formation of MgO. We need to manipulate the given reactions to match the target reaction:\n\n2 Mg(s) + O2(g) -> 2 MgO(s)\n\nFirst, multiply the first reaction by 2:\n\n2 Mg(s) + O2(g) -> 2 MgO(s)  (ΔH = -1202 kJ/mol)\n\nNow, the first reaction matches the target reaction. Therefore, the standard enthalpy of formation of MgO is -1202 kJ/mol for 2 moles of MgO. To find the enthalpy of formation for 1 mole of MgO, divide by 2:\n\nΔH_formation (MgO) = -1202 kJ/mol / 2 = -601 kJ/mol"
+}

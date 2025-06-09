@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of reduction calculations",
+    "message_1": "Sure! Here is a question for the student to solve:\n\nSuppose a sample of iron oxide (Fe2O3) with a mass of 10 grams is reduced to iron (Fe) in the presence of carbon monoxide (CO) gas according to the following balanced equation:\n\nFe2O3(s) + 3 CO(g) -> 2 Fe(s) + 3 CO2(g)\n\nIf the enthalpy change (∆H) for this reaction is -820 kJ/mol of Fe2O3, calculate the amount of heat released in kJ during the reduction of the 10 g sample of Fe2O3.",
+    "message_2": "To calculate the amount of heat released during the reduction of the 10 g sample of Fe2O3, we need to determine the number of moles of Fe2O3 in the sample and then use the enthalpy change to find the heat released.\n\nFirst, let's find the molar mass of Fe2O3:\nFe2O3 = (2 × 55.85 g/mol for Fe) + (3 × 16.00 g/mol for O) = 111.70 g/mol + 48.00 g/mol = 159.70 g/mol\n\nNow, we can find the number of moles of Fe2O3 in the 10 g sample:\nmoles of Fe2O3 = mass of Fe2O3 / molar mass of Fe2O3 = 10 g / 159.70 g/mol = 0.0626 mol\n\nSince the enthalpy change is given per mole of Fe2O3, we can now calculate the heat released:\nHeat released = moles of Fe2O3 × ∆H = 0.0626 mol × (-820 kJ/mol) = -51.33 kJ\n\nTherefore, the amount of heat released during the reduction of the 10 g sample of Fe2O3 is approximately -51.33 kJ."
+}

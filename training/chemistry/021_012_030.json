@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Predicting the bond strength of a molecule",
+    "message_1": "What is the bond dissociation energy of a carbon-carbon single bond in ethane (C2H6), and how does it compare to the bond dissociation energy of a carbon-carbon double bond in ethene (C2H4)?",
+    "message_2": "The bond dissociation energy of a carbon-carbon single bond in ethane (C2H6) is approximately 348 kJ/mol. In comparison, the bond dissociation energy of a carbon-carbon double bond in ethene (C2H4) is approximately 612 kJ/mol. \n\nThis means that the carbon-carbon double bond in ethene is stronger than the carbon-carbon single bond in ethane, and it requires more energy to break the double bond than the single bond."
+}

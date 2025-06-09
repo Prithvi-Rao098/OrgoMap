@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a sublimation reaction",
+    "message_1": "What is the standard enthalpy change for the sublimation of iodine at 25°C and 1 atm pressure, if the enthalpy of formation of solid iodine is -107.3 kJ/mol and that of gaseous iodine is 62.4 kJ/mol?",
+    "message_2": "The standard enthalpy change for the sublimation of iodine can be calculated using the enthalpy of formation values for solid and gaseous iodine. Sublimation is the process of a solid converting directly into a gas, bypassing the liquid phase. In this case, solid iodine (I2) is converting into gaseous iodine (I2).\n\nThe standard enthalpy change for sublimation (ΔHsub) can be calculated using the following equation:\n\nΔHsub = ΔHf(gaseous iodine) - ΔHf(solid iodine)\n\nGiven the enthalpy of formation values:\n\nΔHf(solid iodine) = -107.3 kJ/mol\nΔHf(gaseous iodine) = 62.4 kJ/mol\n\nSubstitute the values into the equation:\n\nΔHsub = 62.4 kJ/mol - (-107.3 kJ/mol)\n\nΔHsub = 62.4 kJ/mol + 107.3 kJ/mol\n\nΔHsub = 169.7 kJ/mol\n\nTherefore, the standard enthalpy change for the sublimation of iodine at 25°C and 1 atm pressure is 169.7 kJ/mol."
+}

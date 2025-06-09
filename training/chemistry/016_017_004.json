@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of oxidation calculations",
+    "message_1": "What is the enthalpy change of the oxidation of methane to carbon dioxide and water vapor, given that the balanced chemical equation is:\n\nCH4(g) + 2O2(g) → CO2(g) + 2H2O(g)\n\nand the enthalpies of formation of CH4(g), CO2(g), and H2O(g) are -74.87 kJ/mol, -393.51 kJ/mol, and -241.83 kJ/mol, respectively.",
+    "message_2": "To calculate the enthalpy change of the reaction, we can use the following formula:\n\nΔH_reaction = Σ ΔH_f(products) - Σ ΔH_f(reactants)\n\nwhere ΔH_f is the enthalpy of formation of the compounds.\n\nFor the given reaction:\n\nΔH_reaction = [1 × (-393.51 kJ/mol) + 2 × (-241.83 kJ/mol)] - [1 × (-74.87 kJ/mol) + 2 × 0 kJ/mol]\n\nNote that the enthalpy of formation of O2(g) is 0 kJ/mol since it is in its standard state.\n\nΔH_reaction = (-393.51 - 2 × 241.83 + 74.87) kJ/mol\nΔH_reaction = (-393.51 - 483.66 + 74.87) kJ/mol\nΔH_reaction = (-801.30 + 74.87) kJ/mol\nΔH_reaction = -726.43 kJ/mol\n\nThe enthalpy change of the oxidation of methane to carbon dioxide and water vapor is -726.43 kJ/mol."
+}

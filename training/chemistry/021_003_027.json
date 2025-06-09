@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Predicting the bond angle in a molecule",
+    "message_1": "What is the bond angle in a molecule of ammonia (NH3) and how is it predicted using the theory of valence shell electron pair repulsion (VSEPR)?",
+    "message_2": "The bond angle in a molecule of ammonia (NH3) is approximately 107.5 degrees. This bond angle can be predicted using the theory of valence shell electron pair repulsion (VSEPR).\n\nAccording to the VSEPR theory, the electron pairs around the central atom in a molecule repel each other and arrange themselves in a way that minimizes this repulsion. In the case of ammonia, the central atom is nitrogen (N), which has three bonding electron pairs with the three hydrogen (H) atoms and one lone pair of non-bonding electrons.\n\nThe arrangement that minimizes the repulsion between these four electron pairs is a tetrahedral geometry. However, since we are only considering the bond angles between the hydrogen atoms, the shape of the ammonia molecule is described as trigonal pyramidal.\n\nIn a perfect tetrahedral geometry, the bond angles would be 109.5 degrees. However, the lone pair of electrons on the nitrogen atom repels the bonding electron pairs more strongly than the bonding pairs repel each other. This results in a slightly smaller bond angle of approximately 107.5 degrees between the hydrogen atoms in the ammonia molecule."
+}

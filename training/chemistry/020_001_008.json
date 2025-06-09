@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the equilibrium constant for a given reaction",
+    "message_1": "What is the equilibrium constant, Kc, for the following reaction at 298 K, if the concentration of the reactants and products are [NO2] = 0.5 M, [N2O4] = 0.3 M? \n\n2NO2(g) ⇌ N2O4(g)",
+    "message_2": "To find the equilibrium constant (Kc) for the reaction, we can use the expression:\n\nKc = [Products] / [Reactants]\n\nFor the given reaction, the expression for Kc is:\n\nKc = [N2O4] / [NO2]^2\n\nWe are given the concentrations of NO2 and N2O4 at equilibrium:\n\n[NO2] = 0.5 M\n[N2O4] = 0.3 M\n\nNow, we can plug these values into the Kc expression:\n\nKc = (0.3) / (0.5)^2\n\nKc = 0.3 / 0.25\n\nKc = 1.2\n\nSo, the equilibrium constant (Kc) for the given reaction at 298 K is 1.2."
+}

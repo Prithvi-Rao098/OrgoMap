@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of sublimation calculations",
+    "message_1": "Given a sample of dry ice (solid CO2) with a mass of 50 grams, calculate the amount of heat energy that needs to be added to sublimate it completely into gaseous CO2 at a temperature of -78.5°C. The heat of sublimation of CO2 is 25.2 kJ/mol. (Assume that CO2 is an ideal gas under these conditions.)",
+    "message_2": "To calculate the amount of heat energy needed to sublimate the dry ice, we first need to determine the number of moles of CO2 in the 50-gram sample. The molar mass of CO2 is 12.01 g/mol (C) + 2 * 16.00 g/mol (O) = 44.01 g/mol.\n\nNumber of moles = mass / molar mass\nNumber of moles = 50 g / 44.01 g/mol ≈ 1.136 moles\n\nNow, we can use the heat of sublimation (25.2 kJ/mol) to calculate the amount of heat energy required to sublimate the entire sample.\n\nHeat energy = number of moles * heat of sublimation\nHeat energy = 1.136 moles * 25.2 kJ/mol ≈ 28.63 kJ\n\nTherefore, approximately 28.63 kJ of heat energy needs to be added to the 50-gram sample of dry ice to sublimate it completely into gaseous CO2 at a temperature of -78.5°C."
+}

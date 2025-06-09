@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Predicting the dipole moment of a molecule",
+    "message_1": "What is the dipole moment of CHCl3 molecule and what is the direction of the dipole moment?",
+    "message_2": "Chloroform (CHCl3) is a polar molecule due to the presence of three highly electronegative chlorine atoms and one hydrogen atom. The dipole moment of CHCl3 can be calculated using the equation:\n\nμ = Q × d\n\nwhere μ is the dipole moment, Q is the charge, and d is the distance between the charges.\n\nTo calculate the dipole moment, we need to consider the individual bond dipoles and their directions. The bond dipole moment of the C-H bond is smaller than that of the C-Cl bond due to the smaller electronegativity difference between carbon and hydrogen compared to carbon and chlorine.\n\nThe molecule has a tetrahedral geometry, with bond angles of approximately 109.5°. The dipole moment of CHCl3 can be calculated by considering the vector sum of the individual bond dipoles. Due to the geometry of the molecule, the dipole moment of the C-H bond will be opposed by the vector sum of the three C-Cl bond dipoles.\n\nThe dipole moment of CHCl3 is approximately 1.04 D (Debye), where 1 D = 3.336 × 10^(-30) C·m. The direction of the dipole moment is from the carbon atom towards the center of the three chlorine atoms, which is also the direction of the net negative charge in the molecule."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of reduction calculations",
+    "message_1": "Using standard enthalpies of formation, calculate the enthalpy change for the reduction of iron(III) oxide (Fe2O3) to iron metal (Fe).",
+    "message_2": "To calculate the enthalpy change for the reduction of iron(III) oxide (Fe2O3) to iron metal (Fe), we need to use the following equation:\n\nΔH_reaction = Σ ΔH_f(products) - Σ ΔH_f(reactants)\n\nThe balanced chemical equation for the reduction of iron(III) oxide to iron metal is:\n\nFe2O3 + 3CO → 2Fe + 3CO2\n\nNow, we need the standard enthalpies of formation (ΔH_f) for each substance involved in the reaction:\n\nΔH_f(Fe2O3) = -824.2 kJ/mol\nΔH_f(CO) = -110.5 kJ/mol\nΔH_f(Fe) = 0 kJ/mol (since it's an element in its standard state)\nΔH_f(CO2) = -393.5 kJ/mol\n\nNow, we can plug these values into the equation:\n\nΔH_reaction = [2ΔH_f(Fe) + 3ΔH_f(CO2)] - [ΔH_f(Fe2O3) + 3ΔH_f(CO)]\n\nΔH_reaction = [2(0) + 3(-393.5)] - [-824.2 + 3(-110.5)]\n\nΔH_reaction = [-1180.5] - [-1155.7]\n\nΔH_reaction = -24.8 kJ/mol\n\nSo, the enthalpy change for the reduction of iron(III) oxide (Fe2O3) to iron metal (Fe) is -24.8 kJ/mol."
+}

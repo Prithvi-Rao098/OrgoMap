@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of polymerization calculations",
+    "message_1": "What is the enthalpy of polymerization of polystyrene if 25 grams of styrene monomer undergo polymerization at constant pressure and release 100 kJ of heat energy?",
+    "message_2": "To calculate the enthalpy of polymerization of polystyrene, we need to determine the amount of heat released per mole of styrene monomer. First, we need to find the number of moles of styrene monomer in 25 grams.\n\nThe molecular weight of styrene (C8H8) is:\n(8 x 12.01 g/mol for C) + (8 x 1.01 g/mol for H) = 104.15 g/mol\n\nNow, we can find the number of moles of styrene monomer in 25 grams:\nmoles = mass / molecular weight\nmoles = 25 g / 104.15 g/mol = 0.240 mol\n\nSince 100 kJ of heat energy is released during the polymerization of 0.240 mol of styrene monomer, we can calculate the enthalpy of polymerization per mole:\n\nenthalpy of polymerization = heat energy released / moles of styrene monomer\nenthalpy of polymerization = 100 kJ / 0.240 mol = 416.67 kJ/mol\n\nTherefore, the enthalpy of polymerization of polystyrene is approximately 416.67 kJ/mol."
+}

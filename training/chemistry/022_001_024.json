@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Balancing chemical equations",
+    "message_1": "Balance the chemical equation for the reaction of sulfur dioxide (SO2) with oxygen (O2) to form sulfur trioxide (SO3).",
+    "message_2": "To balance the chemical equation for the reaction of sulfur dioxide (SO2) with oxygen (O2) to form sulfur trioxide (SO3), follow these steps:\n\n1. Write the unbalanced equation:\n   SO2 + O2 → SO3\n\n2. Count the number of atoms of each element on both sides of the equation:\n   Left side: 1 S, 2 O (in SO2) + 2 O (in O2) = 1 S, 4 O\n   Right side: 1 S, 3 O (in SO3)\n\n3. Balance the sulfur atoms first. They are already balanced, with one sulfur atom on each side of the equation.\n\n4. Balance the oxygen atoms. There are 4 oxygen atoms on the left side and 3 on the right side. To balance the oxygen atoms, multiply the SO3 by 2:\n   SO2 + O2 → 2SO3\n\n5. Now, count the atoms again:\n   Left side: 1 S, 2 O (in SO2) + 2 O (in O2) = 1 S, 4 O\n   Right side: 2 S, 6 O (in 2SO3)\n\n6. The oxygen atoms are balanced, but now there are 2 sulfur atoms on the right side. To balance the sulfur atoms, multiply the SO2 by 2:\n   2SO2 + O2 → 2SO3\n\n7. Count the atoms one last time:\n   Left side: 2 S, 4 O (in 2SO2) + 2 O (in O2) = 2 S, 6 O\n   Right side: 2 S, 6 O (in 2SO3)\n\nNow, the chemical equation is balanced:\n2SO2 + O2 → 2SO3"
+}

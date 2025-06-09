@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of sublimation calculations",
+    "message_1": "What is the heat of sublimation of solid carbon dioxide (dry ice) given that its vapor pressure is 5.73 atm at its triple point and its normal boiling point is -78.5°C? The enthalpy of fusion of CO2 is 8.4 kJ/mol and the enthalpy of vaporization is 25.2 kJ/mol.",
+    "message_2": "To find the heat of sublimation of solid carbon dioxide (CO2), we need to determine the enthalpy change when CO2 changes directly from the solid phase to the gas phase. The heat of sublimation can be calculated by adding the enthalpy of fusion and the enthalpy of vaporization.\n\nHeat of sublimation = Enthalpy of fusion + Enthalpy of vaporization\n\nGiven:\nEnthalpy of fusion (ΔHfus) = 8.4 kJ/mol\nEnthalpy of vaporization (ΔHvap) = 25.2 kJ/mol\n\nHeat of sublimation = ΔHfus + ΔHvap\nHeat of sublimation = 8.4 kJ/mol + 25.2 kJ/mol\nHeat of sublimation = 33.6 kJ/mol\n\nTherefore, the heat of sublimation of solid carbon dioxide (dry ice) is 33.6 kJ/mol."
+}

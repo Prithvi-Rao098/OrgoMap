@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of formation calculations",
+    "message_1": "What is the standard enthalpy of formation of methane (CH4) given the following combustion reaction: CH4(g) + 2O2(g) -> CO2(g) + 2H2O(l), with the heat of combustion of methane being -890.4 kJ/mol?",
+    "message_2": "To find the standard enthalpy of formation of methane (ΔHf°), we need to use the following equation:\n\nΔHf°(CH4) = ΔHcomb°(CH4) + ΔHf°(CO2) + 2ΔHf°(H2O) - 2ΔHf°(O2)\n\nWe know the heat of combustion of methane (ΔHcomb°(CH4)) is -890.4 kJ/mol. We also know the standard enthalpy of formation of O2 is 0 kJ/mol since it is an element in its standard state. We need to find the standard enthalpy of formation for CO2 and H2O.\n\nThe standard enthalpy of formation for CO2 (ΔHf°(CO2)) is -393.5 kJ/mol, and for H2O (ΔHf°(H2O)) is -285.8 kJ/mol.\n\nNow we can plug these values into the equation:\n\nΔHf°(CH4) = -890.4 kJ/mol + (-393.5 kJ/mol) + 2(-285.8 kJ/mol) - 2(0 kJ/mol)\n\nΔHf°(CH4) = -890.4 kJ/mol + (-393.5 kJ/mol) - 571.6 kJ/mol\n\nΔHf°(CH4) = -1855.5 kJ/mol + 571.6 kJ/mol\n\nΔHf°(CH4) = -1283.9 kJ/mol\n\nThe standard enthalpy of formation of methane (CH4) is -1283.9 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical kinetics",
+    "sub_topic": "Investigating the effect of reaction rate on equilibrium constant",
+    "message_1": "What is the equilibrium constant for the reaction: \n2NOBr(g) <--> 2NO(g) + Br2(g) \nif the rate of the forward reaction is 0.25 M/s and the rate of the reverse reaction is 0.1 M/s at a certain temperature?",
+    "message_2": "To find the equilibrium constant (Kc) for the given reaction, we can use the formula:\n\nKc = rate of forward reaction / rate of reverse reaction\n\nGiven the rate of the forward reaction is 0.25 M/s and the rate of the reverse reaction is 0.1 M/s, we can plug these values into the formula:\n\nKc = 0.25 M/s / 0.1 M/s\n\nKc = 2.5\n\nSo, the equilibrium constant for the reaction is 2.5 at the given temperature."
+}

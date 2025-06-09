@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of hydration calculations",
+    "message_1": "What is the enthalpy change when 50 grams of anhydrous copper (II) sulfate reacts with water to form 100 mL of a hydrated copper (II) sulfate solution with a concentration of 2 M? Given the molar enthalpy of hydration of anhydrous copper (II) sulfate is -90.5 kj/mol and the density of the solution is 1.2 g/mL.",
+    "message_2": "First, we need to determine the number of moles of anhydrous copper (II) sulfate in 50 grams. The molar mass of anhydrous copper (II) sulfate (CuSO4) is:\n\nCu: 63.5 g/mol\nS: 32.1 g/mol\nO: 16.0 g/mol * 4 = 64.0 g/mol\nTotal: 63.5 + 32.1 + 64.0 = 159.6 g/mol\n\nNow, we can find the number of moles:\n\nmoles = mass / molar mass\nmoles = 50 g / 159.6 g/mol = 0.313 mol\n\nNext, we can calculate the enthalpy change for the hydration of 0.313 mol of anhydrous copper (II) sulfate:\n\nΔH = moles * molar enthalpy of hydration\nΔH = 0.313 mol * (-90.5 kJ/mol) = -28.3 kJ\n\nTherefore, the enthalpy change when 50 grams of anhydrous copper (II) sulfate reacts with water to form 100 mL of a hydrated copper (II) sulfate solution with a concentration of 2 M is -28.3 kJ."
+}

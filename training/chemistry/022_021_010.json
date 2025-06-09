@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Equilibrium constant calculations",
+    "message_1": "What is the equilibrium constant (Kc) for the reaction: \n\nN2(g) + 3H2(g) ⇌ 2NH3(g)\n\nat a certain temperature in which the concentrations of N2, H2, and NH3 are 0.25 M, 0.10 M, and 0.20 M, respectively?",
+    "message_2": "To find the equilibrium constant (Kc) for the reaction, we can use the formula:\n\nKc = [NH3]^2 / ([N2] * [H2]^3)\n\nGiven the concentrations of N2, H2, and NH3 are 0.25 M, 0.10 M, and 0.20 M, respectively, we can plug these values into the formula:\n\nKc = (0.20)^2 / (0.25 * (0.10)^3)\n\nKc = (0.04) / (0.25 * 0.001)\n\nKc = 0.04 / 0.00025\n\nKc = 160\n\nSo, the equilibrium constant (Kc) for the reaction at this certain temperature is 160."
+}

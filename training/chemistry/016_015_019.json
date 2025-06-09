@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of crystallization calculations",
+    "message_1": "Calculate the heat of crystallization for the solidification of 25 grams of a solution containing 10% sucrose (C12H22O11) by mass. The enthalpy of solution for sucrose in water at a given temperature is -5.73 kJ/mol. The molar mass of sucrose is 342.3 g/mol. Assuming that the solution completely solidifies upon cooling, determine the energy released or absorbed in the process.",
+    "message_2": "First, we need to determine the mass of sucrose in the solution:\n\n25 g solution * 0.10 (10% sucrose) = 2.5 g sucrose\n\nNext, we need to convert the mass of sucrose to moles:\n\n2.5 g sucrose * (1 mol sucrose / 342.3 g sucrose) = 0.0073 mol sucrose\n\nNow, we can use the enthalpy of solution to calculate the energy released or absorbed during the solidification process:\n\nEnergy = moles of sucrose * enthalpy of solution\nEnergy = 0.0073 mol sucrose * (-5.73 kJ/mol)\nEnergy = -0.0418 kJ\n\nSince the energy value is negative, it indicates that the process is exothermic, and energy is released during the solidification of the sucrose solution. The heat of crystallization for the solidification of 25 grams of the solution is approximately -0.0418 kJ."
+}

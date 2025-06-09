@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat capacity calculations",
+    "message_1": "Sure, here's a specific problem related to Thermochemistry and Heat capacity calculations that a chemistry student can solve:\n\nA 25.0 g sample of iron (specific heat capacity = 0.449 J/g°C) is heated from 25.0°C to 75.0°C. How much heat energy (in joules) was required to raise the temperature of the iron sample by 50.0°C?",
+    "message_2": "To solve this problem, we can use the formula for heat energy (q) required to change the temperature of a substance:\n\nq = mcΔT\n\nwhere:\nq = heat energy (in joules)\nm = mass of the substance (in grams)\nc = specific heat capacity of the substance (in J/g°C)\nΔT = change in temperature (in °C)\n\nGiven:\nm = 25.0 g (mass of iron)\nc = 0.449 J/g°C (specific heat capacity of iron)\nΔT = 75.0°C - 25.0°C = 50.0°C (change in temperature)\n\nNow, we can plug these values into the formula:\n\nq = (25.0 g) × (0.449 J/g°C) × (50.0°C)\n\nq = 25.0 × 0.449 × 50.0\n\nq = 561.25 J\n\nSo, 561.25 joules of heat energy were required to raise the temperature of the iron sample by 50.0°C."
+}

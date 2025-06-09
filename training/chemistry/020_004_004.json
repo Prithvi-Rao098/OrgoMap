@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of a catalyst on the equilibrium position",
+    "message_1": "If the equilibrium constant (Kc) for the reaction N2(g) + 3H2(g) ⇌ 2NH3(g) at a certain temperature is 4.0×10^-3, and a catalyst is added to speed up the reaction, how will the equilibrium position shift? Calculate the new equilibrium constant if the catalyst increases the rate of the forward reaction by a factor of 10.",
+    "message_2": "Adding a catalyst to a reaction does not change the equilibrium constant (Kc) or the equilibrium position. A catalyst works by lowering the activation energy for both the forward and reverse reactions, which increases the rate at which the reaction reaches equilibrium. However, the equilibrium constant and position remain the same because the catalyst affects both the forward and reverse reactions equally.\n\nIn this case, even if the catalyst increases the rate of the forward reaction by a factor of 10, it will also increase the rate of the reverse reaction by the same factor. Therefore, the equilibrium constant (Kc) will remain the same at 4.0×10^-3, and the equilibrium position will not shift."
+}

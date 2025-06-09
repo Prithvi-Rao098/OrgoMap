@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of hydration calculations",
+    "message_1": "What is the heat of hydration for the reaction of one mole of magnesium sulfate heptahydrate dissolving in water? The molar mass of magnesium sulfate heptahydrate is 246.47 g/mol and the heat of hydration for each water molecule is -44.5 kJ/mol. Express your answer in kJ/mol.",
+    "message_2": "Magnesium sulfate heptahydrate has the chemical formula MgSO4·7H2O, which means that there are 7 water molecules associated with each molecule of magnesium sulfate. To find the heat of hydration for the reaction of one mole of magnesium sulfate heptahydrate dissolving in water, we need to consider the heat of hydration for each of the 7 water molecules.\n\nSince the heat of hydration for each water molecule is -44.5 kJ/mol, we can multiply this value by the number of water molecules in the heptahydrate:\n\nHeat of hydration = (-44.5 kJ/mol) × 7\n\nHeat of hydration = -311.5 kJ/mol\n\nTherefore, the heat of hydration for the reaction of one mole of magnesium sulfate heptahydrate dissolving in water is -311.5 kJ/mol."
+}

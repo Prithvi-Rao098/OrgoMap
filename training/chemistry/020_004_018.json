@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of a catalyst on the equilibrium position",
+    "message_1": "How much would the equilibrium constant (Kc) change if a catalyst is added to the reaction system, given the initial concentration of reactants and products? Specifically, consider the equilibrium reaction: \n\nN2(g) + 3H2(g) ⇌ 2NH3(g)\n\nwith an initial concentration of N2 = 0.10 M, H2 = 0.20 M, and NH3 = 0.25 M. The activation energy of the reaction is 150 kJ/mol and the catalyst lowers it by 50 kJ/mol. Calculate the change in Kc for this reaction when the catalyst is added to the system.",
+    "message_2": "Adding a catalyst to a reaction system does not change the equilibrium constant (Kc). A catalyst works by lowering the activation energy of a reaction, which speeds up the rate at which the reaction reaches equilibrium. However, it does not affect the position of the equilibrium itself or the equilibrium concentrations of the reactants and products.\n\nIn this case, the catalyst lowers the activation energy by 50 kJ/mol, but the equilibrium constant (Kc) remains the same. The reaction will reach equilibrium faster, but the concentrations of N2, H2, and NH3 at equilibrium will not change due to the addition of the catalyst."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Acid-base reactions",
+    "message_1": "What is the pH of a solution that is made by adding 50 mL of 0.1 M HCl to 200 mL of 0.05 M NaOH?",
+    "message_2": "To find the pH of the solution, we first need to determine the moles of HCl and NaOH, and then find the moles of the excess reactant after the reaction between HCl and NaOH.\n\nMoles of HCl = (volume in L) × (concentration in mol/L)\nMoles of HCl = (50 mL × (1 L/1000 mL)) × 0.1 M = 0.005 mol\n\nMoles of NaOH = (volume in L) × (concentration in mol/L)\nMoles of NaOH = (200 mL × (1 L/1000 mL)) × 0.05 M = 0.01 mol\n\nSince HCl and NaOH react in a 1:1 ratio, 0.005 mol of HCl will react with 0.005 mol of NaOH, leaving an excess of 0.005 mol of NaOH.\n\nNow, we can find the concentration of the excess NaOH in the final solution:\n\nTotal volume of the solution = 50 mL + 200 mL = 250 mL = 0.25 L\n\nConcentration of excess NaOH = (moles of excess NaOH) / (total volume in L)\nConcentration of excess NaOH = 0.005 mol / 0.25 L = 0.02 M\n\nSince NaOH is a strong base, it will dissociate completely in water, producing OH- ions. The concentration of OH- ions will be equal to the concentration of excess NaOH.\n\nNow, we can find the pOH of the solution:\n\npOH = -log10[OH-]\npOH = -log10(0.02) ≈ 1.70\n\nFinally, we can find the pH of the solution using the relationship between pH and pOH:\n\npH + pOH = 14\npH = 14 - pOH\npH = 14 - 1.70 ≈ 12.30\n\nSo, the pH of the solution is approximately 12.30."
+}

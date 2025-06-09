@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of reaction calculations",
+    "message_1": "What is the enthalpy change for the reaction of 2 moles of hydrochloric acid (HCl) reacting with 1 mole of calcium carbonate (CaCO3), given the following information:\n\n- The enthalpy change for the reaction of 1 mole of hydrochloric acid with calcium carbonate is -975 kJ/mol.\n- The molar mass of HCl is 36.46 g/mol.\n- The molar mass of CaCO3 is 100.09 g/mol.\n- The reactants are initially at a temperature of 25°C and a pressure of 1 atm.",
+    "message_2": "To find the enthalpy change for the reaction of 2 moles of HCl with 1 mole of CaCO3, we can use the given enthalpy change for the reaction of 1 mole of HCl with CaCO3 and multiply it by the number of moles of HCl involved in the reaction.\n\nGiven enthalpy change for 1 mole of HCl reacting with CaCO3: -975 kJ/mol\n\nSince there are 2 moles of HCl reacting with 1 mole of CaCO3, we can multiply the given enthalpy change by 2:\n\nEnthalpy change for 2 moles of HCl reacting with 1 mole of CaCO3 = 2 * (-975 kJ/mol) = -1950 kJ/mol\n\nTherefore, the enthalpy change for the reaction of 2 moles of hydrochloric acid with 1 mole of calcium carbonate is -1950 kJ/mol."
+}

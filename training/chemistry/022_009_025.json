@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Double replacement reactions",
+    "message_1": "Chemistry student, can you predict the products and balance the following double replacement chemical reaction: NaCl + AgNO3?",
+    "message_2": "In a double replacement reaction, the cations and anions of the reactants switch places to form new products. In this case, the reactants are sodium chloride (NaCl) and silver nitrate (AgNO3). The cations are Na+ and Ag+, while the anions are Cl- and NO3-. \n\nWhen the cations and anions switch places, the new products formed are sodium nitrate (NaNO3) and silver chloride (AgCl). The balanced chemical equation for this reaction is:\n\nNaCl (aq) + AgNO3 (aq) → NaNO3 (aq) + AgCl (s)"
+}

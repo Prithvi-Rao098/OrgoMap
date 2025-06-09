@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Predicting the dipole moment of a molecule",
+    "message_1": "What is the dipole moment of carbon dioxide?",
+    "message_2": "Carbon dioxide (CO2) is a linear molecule with a carbon atom in the center and two oxygen atoms on either side. The oxygen atoms are more electronegative than the carbon atom, which means they attract electrons more strongly. This creates a polar bond between the carbon and oxygen atoms, with a partial positive charge on the carbon atom and partial negative charges on the oxygen atoms.\n\nHowever, due to the linear geometry of the CO2 molecule, the two polar bonds are exactly opposite to each other. This means that the dipole moments of the two C=O bonds cancel each other out, resulting in an overall dipole moment of zero for the carbon dioxide molecule."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Predicting the bond order of a molecule",
+    "message_1": "What is the bond order of the NO molecule?",
+    "message_2": "The bond order of the NO molecule can be determined by looking at its molecular orbital diagram and calculating the difference between the number of electrons in bonding and antibonding orbitals, divided by 2.\n\nNO has a total of 15 electrons (7 from nitrogen and 8 from oxygen). In the molecular orbital diagram, the electrons fill up the orbitals in the following order: σ1s, σ*1s, σ2s, σ*2s, π2px, π2py, and σ2pz.\n\nThe bonding orbitals are σ1s, σ2s, π2px, π2py, and σ2pz, which contain a total of 12 electrons. The antibonding orbitals are σ*1s and σ*2s, which contain a total of 3 electrons.\n\nBond order = (number of electrons in bonding orbitals - number of electrons in antibonding orbitals) / 2\nBond order = (12 - 3) / 2\nBond order = 9 / 2\nBond order = 4.5\n\nTherefore, the bond order of the NO molecule is 4.5."
+}

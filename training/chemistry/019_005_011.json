@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of Gibbs free energy change for a chemical reaction",
+    "message_1": "What is the standard Gibbs free energy change at 298 K for the reaction A + 2B → 2C if the standard Gibbs free energy of formation for A, B, and C are 100 kJ/mol, -50 kJ/mol, and -120 kJ/mol, respectively?",
+    "message_2": "To calculate the standard Gibbs free energy change (ΔG°) for the reaction A + 2B → 2C, we can use the following equation:\n\nΔG° = Σ(ΔGf°(products)) - Σ(ΔGf°(reactants))\n\nwhere ΔGf° represents the standard Gibbs free energy of formation for each substance.\n\nFor this reaction, the equation becomes:\n\nΔG° = [2 * ΔGf°(C)] - [ΔGf°(A) + 2 * ΔGf°(B)]\n\nNow, we can plug in the given values for the standard Gibbs free energy of formation for A, B, and C:\n\nΔG° = [2 * (-120 kJ/mol)] - [100 kJ/mol + 2 * (-50 kJ/mol)]\n\nΔG° = (-240 kJ/mol) - (100 kJ/mol - 100 kJ/mol)\n\nΔG° = -240 kJ/mol\n\nSo, the standard Gibbs free energy change for the reaction A + 2B → 2C at 298 K is -240 kJ/mol."
+}

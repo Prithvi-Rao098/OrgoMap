@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of combustion calculations",
+    "message_1": "Calculate the enthalpy of combustion for sucrose (C₁₂H₂₂O₁₁) given that 5.25 g of sucrose were burned in a bomb calorimeter and the temperature rose by 2.75 °C. The heat capacity of the calorimeter is 20.45 kJ/°C.",
+    "message_2": "To calculate the enthalpy of combustion for sucrose, we first need to determine the amount of heat released during the combustion process. We can do this using the heat capacity of the calorimeter and the temperature change.\n\nq = heat capacity × ΔT\nq = 20.45 kJ/°C × 2.75 °C\nq = 56.2375 kJ\n\nNow we need to determine the moles of sucrose burned. To do this, we'll use the molar mass of sucrose, which is 342.3 g/mol.\n\nmoles of sucrose = mass / molar mass\nmoles of sucrose = 5.25 g / 342.3 g/mol\nmoles of sucrose = 0.01534 mol\n\nNow we can calculate the enthalpy of combustion per mole of sucrose:\n\nΔH_combustion = q / moles of sucrose\nΔH_combustion = 56.2375 kJ / 0.01534 mol\nΔH_combustion = 3663.9 kJ/mol\n\nThe enthalpy of combustion for sucrose is approximately 3663.9 kJ/mol."
+}

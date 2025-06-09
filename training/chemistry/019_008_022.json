@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard electrode potential for a redox reaction",
+    "message_1": "Calculate the standard electrode potential of the following reaction: \n\nCu2+(aq) + 2e- ⇌ Cu(s) \n\nGiven that the standard reduction potential of Cu2+(aq) is +0.34 V and the standard electrode potential of hydrogen electrode is 0.00 V.",
+    "message_2": "The standard electrode potential (E°) of a reaction is the potential difference between the two half-reactions when they are at standard conditions (1 M concentration, 1 atm pressure, and 25°C temperature). In this case, the reaction is:\n\nCu2+(aq) + 2e- ⇌ Cu(s)\n\nThe standard reduction potential of Cu2+(aq) is given as +0.34 V. Since the reaction is a reduction reaction (gaining electrons), the standard electrode potential of the reaction will be the same as the standard reduction potential:\n\nE°(Cu2+/Cu) = +0.34 V\n\nThe standard electrode potential of the hydrogen electrode is 0.00 V, but it is not involved in this reaction, so it does not affect the calculation. The standard electrode potential of the given reaction is +0.34 V."
+}

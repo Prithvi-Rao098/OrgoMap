@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Identifying the type of hybrid orbitals in a molecule",
+    "message_1": "What is the hybridization of the central atom in SO2 molecule?",
+    "message_2": "In the SO2 molecule, sulfur (S) is the central atom. To determine its hybridization, we need to consider the number of bonding groups (atoms) and lone pairs of electrons around the central atom.\n\nSulfur is in group 6 of the periodic table, so it has 6 valence electrons. In SO2, sulfur forms two double bonds with the two oxygen atoms. This accounts for 4 of the valence electrons (2 per double bond). The remaining 2 valence electrons form a lone pair on the sulfur atom.\n\nNow, we count the number of electron domains around the central atom:\n- 2 double bonds = 2 electron domains\n- 1 lone pair = 1 electron domain\n\nTotal electron domains = 3\n\nThree electron domains correspond to sp² hybridization. Therefore, the hybridization of the central atom (sulfur) in the SO2 molecule is sp²."
+}

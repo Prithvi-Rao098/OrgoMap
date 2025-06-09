@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of changing the concentration of a salt on the solubility of a sparingly soluble salt",
+    "message_1": "What is the new equilibrium concentration of Ag+ ions in a saturated solution of AgCl when the concentration of NaCl is increased from 0.1 M to 0.3 M? The solubility product of AgCl at room temperature is 1.77 x 10^-10.",
+    "message_2": "To solve this problem, we need to consider the common ion effect. The presence of a common ion (in this case, Cl-) will affect the solubility of AgCl.\n\nThe solubility product constant (Ksp) expression for AgCl is:\n\nKsp = [Ag+][Cl-]\n\nGiven that the Ksp of AgCl at room temperature is 1.77 x 10^-10, we can write:\n\n1.77 x 10^-10 = [Ag+][Cl-]\n\nWhen the concentration of NaCl is increased from 0.1 M to 0.3 M, the concentration of Cl- ions also increases from 0.1 M to 0.3 M. Since NaCl is a strong electrolyte, it will completely dissociate in water, and the concentration of Cl- ions will be equal to the concentration of NaCl.\n\nNow, we can substitute the new concentration of Cl- ions (0.3 M) into the Ksp expression:\n\n1.77 x 10^-10 = [Ag+](0.3)\n\nTo find the new equilibrium concentration of Ag+ ions, we can solve for [Ag+]:\n\n[Ag+] = (1.77 x 10^-10) / 0.3\n\n[Ag+] ≈ 5.9 x 10^-11 M\n\nSo, the new equilibrium concentration of Ag+ ions in the saturated solution of AgCl when the concentration of NaCl is increased from 0.1 M to 0.3 M is approximately 5.9 x 10^-11 M."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of neutralization calculations",
+    "message_1": "Calculate the amount of heat energy released when 50 mL of 1 M hydrochloric acid (HCl) is mixed with 50 mL of 1 M sodium hydroxide (NaOH) solution. The heat of neutralization for the reaction between HCl and NaOH is -57.1 kJ/mol.",
+    "message_2": "To calculate the heat energy released, we first need to determine the number of moles of HCl and NaOH reacting. Since both solutions have the same concentration and volume, they will react in a 1:1 ratio.\n\nMoles of HCl = (concentration of HCl) × (volume of HCl)\nMoles of HCl = (1 mol/L) × (50 mL × (1 L/1000 mL))\nMoles of HCl = 0.05 mol\n\nMoles of NaOH = (concentration of NaOH) × (volume of NaOH)\nMoles of NaOH = (1 mol/L) × (50 mL × (1 L/1000 mL))\nMoles of NaOH = 0.05 mol\n\nNow that we have the moles of both reactants, we can calculate the heat energy released using the heat of neutralization.\n\nHeat energy released = (moles of HCl) × (heat of neutralization)\nHeat energy released = (0.05 mol) × (-57.1 kJ/mol)\nHeat energy released = -2.855 kJ\n\nThe negative sign indicates that the reaction is exothermic, meaning that it releases heat. Therefore, 2.855 kJ of heat energy is released when 50 mL of 1 M HCl is mixed with 50 mL of 1 M NaOH."
+}

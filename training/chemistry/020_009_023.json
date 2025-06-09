@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Determining the equilibrium constant for a reaction involving gases",
+    "message_1": "Using the following equilibrium reaction: \n\n2NO(g) + Br2(g) ⇌ 2NOBr(g)\n\nIf a 2.00 L flask is filled with 0.500 mol NO, 3.00 mol Br2, and 2.00 mol NOBr at 25°C, what is the equilibrium constant, Kc, for the reaction at this temperature?",
+    "message_2": "To find the equilibrium constant, Kc, we first need to determine the equilibrium concentrations of all species involved in the reaction. \n\nInitial concentrations:\n[NO] = 0.500 mol / 2.00 L = 0.250 M\n[Br2] = 3.00 mol / 2.00 L = 1.50 M\n[NOBr] = 2.00 mol / 2.00 L = 1.00 M\n\nLet x be the change in concentration at equilibrium. Since the stoichiometry of the reaction is 2:1:2, the changes in concentration will be as follows:\n\n[NO] = 0.250 - 2x\n[Br2] = 1.50 - x\n[NOBr] = 1.00 + 2x\n\nNow we can write the expression for Kc:\n\nKc = [NOBr]^2 / ([NO]^2 * [Br2])\n\nAt equilibrium, we substitute the expressions for the concentrations:\n\nKc = [(1.00 + 2x)^2] / ([(0.250 - 2x)^2] * (1.50 - x))\n\nSince the reaction is already at equilibrium, we don't need to find the value of x. We can directly substitute the given equilibrium concentrations into the Kc expression:\n\nKc = [(1.00)^2] / ([(0.250)^2] * (1.50))\n\nKc = 1 / (0.0625 * 1.50)\n\nKc ≈ 10.67\n\nSo, the equilibrium constant, Kc, for the reaction at 25°C is approximately 10.67."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Surface chemistry",
+    "sub_topic": "Micelle formation and critical micelle concentration",
+    "message_1": "What is the critical micelle concentration of sodium dodecyl sulfate (SDS) in water at 25°C? How does the pH of the solution affect the critical micelle concentration?",
+    "message_2": "The critical micelle concentration (CMC) of sodium dodecyl sulfate (SDS) in water at 25°C is approximately 8.2 mM (millimolar). The CMC is the concentration at which surfactant molecules, like SDS, start to aggregate and form micelles in a solution.\n\nThe pH of the solution can affect the CMC of SDS, but the effect is generally minor. SDS is an anionic surfactant, meaning it has a negatively charged head group. At very low pH values (highly acidic conditions), the negative charge on the head group can be neutralized, which may lead to a slight increase in the CMC. However, under most typical conditions (pH 5-9), the pH has a negligible effect on the CMC of SDS."
+}

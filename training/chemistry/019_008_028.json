@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard electrode potential for a redox reaction",
+    "message_1": "Determine the standard electrode potential, given that the standard reduction potential for the half-reaction, Ag+ (aq) + e- → Ag(s) is +0.80 V and the standard oxidation potential for the half-reaction, Fe(s) → Fe2+(aq) + 2e-, is -0.44 V. Using this information, predict whether or not the reaction Ag(s) + Fe2+(aq) → Fe(s) + Ag+(aq) will occur spontaneously under standard conditions.",
+    "message_2": "To determine the standard electrode potential, we need to add the standard reduction potential and the standard oxidation potential.\n\nStandard reduction potential for Ag+ (aq) + e- → Ag(s) is +0.80 V.\nStandard oxidation potential for Fe(s) → Fe2+(aq) + 2e- is -0.44 V.\n\nStandard electrode potential (E°cell) = E°reduction + E°oxidation\nE°cell = (+0.80 V) + (-0.44 V)\nE°cell = +0.36 V\n\nSince the standard electrode potential is positive (+0.36 V), the reaction Ag(s) + Fe2+(aq) → Fe(s) + Ag+(aq) will occur spontaneously under standard conditions."
+}

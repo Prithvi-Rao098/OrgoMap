@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of isomerization calculations",
+    "message_1": "What is the enthalpy change of isomerization for the following reaction?\n\n2-butene --> 1-butene\n\nGiven that the heat of formation for 2-butene and 1-butene are -15 kJ/mol and -20 kJ/mol respectively.",
+    "message_2": "To find the enthalpy change of isomerization for the reaction, we can use the following formula:\n\nΔH = ΔH(products) - ΔH(reactants)\n\nIn this case, the reactant is 2-butene and the product is 1-butene. We are given the heat of formation for both:\n\nΔH(2-butene) = -15 kJ/mol\nΔH(1-butene) = -20 kJ/mol\n\nNow, we can plug these values into the formula:\n\nΔH = (-20 kJ/mol) - (-15 kJ/mol)\n\nΔH = -20 kJ/mol + 15 kJ/mol\n\nΔH = -5 kJ/mol\n\nThe enthalpy change of isomerization for the reaction is -5 kJ/mol."
+}

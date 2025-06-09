@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Hess's Law problems",
+    "message_1": "Calculate the enthalpy change for the following reaction using Hess's Law: \n2SO3(g) → 2SO2(g) + O2(g)\nGiven the following enthalpy changes:\n2SO3(g) + ΔH1 → 2SO2(g) + O2(g); ΔH1 = 198.2 kJ/mol\nSO2(g) + 1/2O2(g) + ΔH2 → SO3(g); ΔH2 = -98.9 kJ/mol",
+    "message_2": "To calculate the enthalpy change for the given reaction using Hess's Law, we need to manipulate the given reactions and their enthalpy changes to match the target reaction.\n\nTarget reaction: 2SO3(g) → 2SO2(g) + O2(g)\n\nGiven reactions:\n1) 2SO3(g) + ΔH1 → 2SO2(g) + O2(g); ΔH1 = 198.2 kJ/mol\n2) SO2(g) + 1/2O2(g) + ΔH2 → SO3(g); ΔH2 = -98.9 kJ/mol\n\nFirst, we need to reverse the second reaction to match the target reaction:\n\n2') SO3(g) → SO2(g) + 1/2O2(g); ΔH2' = 98.9 kJ/mol\n\nNow, we need to multiply the second reaction by 2 to match the target reaction:\n\n2'') 2SO3(g) → 2SO2(g) + O2(g); ΔH2'' = 2 * 98.9 kJ/mol = 197.8 kJ/mol\n\nNow, we can add the reactions to get the target reaction:\n\n1) 2SO3(g) → 2SO2(g) + O2(g); ΔH1 = 198.2 kJ/mol\n2'') 2SO3(g) → 2SO2(g) + O2(g); ΔH2'' = 197.8 kJ/mol\n\nThe enthalpy change for the target reaction is the sum of the enthalpy changes of the manipulated reactions:\n\nΔH = ΔH1 + ΔH2'' = 198.2 kJ/mol + 197.8 kJ/mol = 396 kJ/mol\n\nSo, the enthalpy change for the reaction 2SO3(g) → 2SO2(g) + O2(g) is 396 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Identifying the type of hybrid orbitals in a molecule",
+    "message_1": "What is the hybridization of the central atom in the molecule of formaldehyde (CH2O)?",
+    "message_2": "The central atom in formaldehyde (CH2O) is carbon. To determine the hybridization, we need to consider the number of electron domains around the central atom. In formaldehyde, carbon forms two single bonds with two hydrogen atoms and a double bond with one oxygen atom.\n\nThe number of electron domains is equal to the number of sigma bonds + the number of lone pairs. In this case, there are 3 sigma bonds (2 C-H bonds and 1 C-O bond) and no lone pairs on the central carbon atom.\n\nAccording to the VSEPR theory, 3 electron domains correspond to sp2 hybridization. Therefore, the hybridization of the central carbon atom in formaldehyde (CH2O) is sp2."
+}

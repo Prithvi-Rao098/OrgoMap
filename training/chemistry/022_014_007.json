@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Limiting reactant problems",
+    "message_1": "A student has 20 grams of iron and 40 grams of oxygen. What is the limiting reactant in the reaction between iron and oxygen to form iron oxide (FeO)? How many grams of FeO can be produced assuming complete reaction and no excess reactants?",
+    "message_2": "To determine the limiting reactant and the amount of FeO produced, we first need to write the balanced chemical equation for the reaction:\n\n2 Fe + O2 → 2 FeO\n\nNext, we need to find the molar mass of each reactant and product:\n\nFe: 55.85 g/mol\nO2: 32.00 g/mol\nFeO: 71.85 g/mol (55.85 g/mol for Fe + 16.00 g/mol for O)\n\nNow, we can calculate the moles of each reactant:\n\nmoles of Fe = 20 g / 55.85 g/mol = 0.358 mol\nmoles of O2 = 40 g / 32.00 g/mol = 1.25 mol\n\nAccording to the balanced equation, 2 moles of Fe react with 1 mole of O2. We can now determine which reactant is limiting by comparing the mole ratios:\n\nFe: 0.358 mol / 2 = 0.179\nO2: 1.25 mol / 1 = 1.25\n\nSince 0.179 is less than 1.25, Fe is the limiting reactant.\n\nNow, we can calculate the amount of FeO produced using the stoichiometry of the balanced equation:\n\nmoles of FeO = 0.358 mol Fe * (2 mol FeO / 2 mol Fe) = 0.358 mol FeO\n\nFinally, we can convert the moles of FeO to grams:\n\ngrams of FeO = 0.358 mol * 71.85 g/mol = 25.7 g\n\nTherefore, 25.7 grams of FeO can be produced assuming complete reaction and no excess reactants."
+}

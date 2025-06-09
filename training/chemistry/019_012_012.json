@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a dissolution reaction",
+    "message_1": "Certainly! Here's a precise problem for the student to solve:\n\nCalculate the standard enthalpy change ($\\Delta H^\\circ$) for the dissolution reaction of 5.00 g of lithium chloride ($\\text{LiCl}$) in 150.0 mL of water, given that the density of water is 1.00 g/mL and the final temperature of the solution is 25.0$^\\circ$C. The molar enthalpy of solution of $\\text{LiCl}$ is -3.00 kJ/mol.",
+    "message_2": "To calculate the standard enthalpy change for the dissolution of lithium chloride, we first need to determine the number of moles of LiCl dissolved and then use the molar enthalpy of solution to find the total enthalpy change.\n\n1. Calculate the number of moles of LiCl:\nThe molar mass of LiCl is approximately 6.94 g/mol (Li) + 35.45 g/mol (Cl) = 42.39 g/mol.\nSo, the number of moles of LiCl is:\n(5.00 g LiCl) / (42.39 g/mol) = 0.118 mol LiCl\n\n2. Calculate the standard enthalpy change:\nNow that we have the number of moles of LiCl, we can use the molar enthalpy of solution to find the total enthalpy change:\nΔH° = (0.118 mol LiCl) × (-3.00 kJ/mol) = -0.354 kJ\n\nThe standard enthalpy change for the dissolution of 5.00 g of lithium chloride in 150.0 mL of water is -0.354 kJ."
+}

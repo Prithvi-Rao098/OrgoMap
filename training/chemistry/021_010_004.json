@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the bond enthalpy of a molecule",
+    "message_1": "What is the bond enthalpy of O-H bond in the molecule H2O? Show the calculation involved in determining the enthalpy change required to break one mole of O-H bonds in water.",
+    "message_2": "The bond enthalpy of the O-H bond in water (H2O) is the amount of energy required to break one mole of O-H bonds in the molecule. The bond enthalpy of the O-H bond in water is approximately 463 kJ/mol.\n\nTo calculate the enthalpy change required to break one mole of O-H bonds in water, we need to consider that there are two O-H bonds in one molecule of water. Therefore, the enthalpy change for breaking one mole of O-H bonds in water can be calculated as follows:\n\nEnthalpy change = Bond enthalpy of O-H bond × Number of O-H bonds in one molecule of water\nEnthalpy change = 463 kJ/mol × 2\nEnthalpy change = 926 kJ/mol\n\nSo, the enthalpy change required to break one mole of O-H bonds in water is 926 kJ/mol."
+}

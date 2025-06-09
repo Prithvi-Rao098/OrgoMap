@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the formal charge of an atom in a molecule",
+    "message_1": "What is the formal charge of the nitrogen atom in the molecule NH3?",
+    "message_2": "The formal charge of the nitrogen atom in the molecule NH3 (ammonia) can be calculated using the following formula:\n\nFormal charge = (Valence electrons of the atom) - (Non-bonding electrons) - 1/2 (Bonding electrons)\n\nFor nitrogen in NH3:\n1. Valence electrons of nitrogen = 5 (as nitrogen is in Group 15 of the periodic table)\n2. Non-bonding electrons = 2 (there is one lone pair on the nitrogen atom)\n3. Bonding electrons = 6 (as there are three single bonds between nitrogen and the three hydrogen atoms, each bond has 2 electrons)\n\nNow, we can calculate the formal charge:\n\nFormal charge = 5 - 2 - 1/2 (6) = 5 - 2 - 3 = 0\n\nSo, the formal charge of the nitrogen atom in NH3 is 0."
+}

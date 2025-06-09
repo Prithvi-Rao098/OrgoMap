@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Identifying the resonance structures of a molecule",
+    "message_1": "How many resonance structures are possible for the carbonate ion (CO3^-2) and draw all of them?",
+    "message_2": "There are three possible resonance structures for the carbonate ion (CO3^-2). Here are the structures:\n\n1. O=C-O(-)-O(-)\n   |\n   O\n\n2. O(-)-C=O\n   |\n   O(-)\n\n3. O(-)-O(-)\n   |\n   C=O\n\nIn each structure, the carbon atom is bonded to one oxygen atom with a double bond and the other two oxygen atoms with single bonds. The negative charges are distributed among the oxygen atoms. These three resonance structures contribute equally to the overall structure of the carbonate ion, which is a resonance hybrid of these three forms."
+}

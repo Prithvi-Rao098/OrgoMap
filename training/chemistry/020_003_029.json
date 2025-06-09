@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Predicting the direction of a reaction at equilibrium based on changes in concentration, pressure, or temperature",
+    "message_1": "Suppose you have a chemical reaction at equilibrium represented by the equation: \n2 NO2 (g)  <-->  N2O4 (g)\n\nIf more NO2 is added to the reaction mixture, what will be the effect on the concentration of N2O4 at equilibrium, given that the temperature and pressure remain constant?",
+    "message_2": "When more NO2 is added to the reaction mixture, the equilibrium will shift to counteract the change according to Le Chatelier's principle. In this case, the equilibrium will shift to the right to consume the excess NO2 and form more N2O4. As a result, the concentration of N2O4 at equilibrium will increase."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a formation reaction",
+    "message_1": "Calculate the standard enthalpy change of the formation reaction for carbon dioxide (CO2) given the standard enthalpies of formation for carbon monoxide (CO) and oxygen gas (O2) as -110.5 kJ/mol and -249.2 kJ/mol, respectively.",
+    "message_2": "The standard enthalpy change of the formation reaction for carbon dioxide (CO2) can be calculated using the standard enthalpies of formation for carbon monoxide (CO) and oxygen gas (O2). The balanced chemical equation for the formation of CO2 from CO and O2 is:\n\nCO + 1/2 O2 → CO2\n\nAccording to Hess's law, the enthalpy change of the overall reaction is the sum of the enthalpy changes of the individual reactions. In this case, we can write the overall reaction as the sum of the formation reactions for CO and O2, and the formation reaction for CO2:\n\nC + 1/2 O2 → CO (ΔHf = -110.5 kJ/mol)\n1/2 O2 → O2 (ΔHf = 0 kJ/mol, since O2 is in its standard state)\n\nAdding these two reactions gives:\n\nC + O2 → CO2 (ΔHf = ?)\n\nNow, we can calculate the standard enthalpy change of the formation reaction for CO2:\n\nΔHf (CO2) = ΔHf (CO) + ΔHf (1/2 O2)\nΔHf (CO2) = -110.5 kJ/mol + 0 kJ/mol\nΔHf (CO2) = -110.5 kJ/mol\n\nSo, the standard enthalpy change of the formation reaction for carbon dioxide (CO2) is -110.5 kJ/mol."
+}

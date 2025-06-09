@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Predicting the direction of a reaction at equilibrium based on changes in concentration, pressure, or temperature",
+    "message_1": "What will be the effect on the equilibrium of the following reaction if the pressure is increased: N2(g) + 3H2(g) ⇌ 2NH3(g)?",
+    "message_2": "When the pressure is increased in a system at equilibrium, the reaction will shift in the direction that has fewer moles of gas to counteract the pressure change. In this case, the reaction is:\n\nN2(g) + 3H2(g) ⇌ 2NH3(g)\n\nOn the left side of the equation (reactants), there are 1 mole of N2 and 3 moles of H2, totaling 4 moles of gas. On the right side of the equation (products), there are 2 moles of NH3. Since there are fewer moles of gas on the right side, when the pressure is increased, the equilibrium will shift towards the right, favoring the formation of NH3."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of combustion calculations",
+    "message_1": "How many kJ of heat are released when 2.5 g of octane undergo complete combustion according to the reaction:\n\n$$C_8H_{18} + 12.5 O_2 \\rightarrow 8 CO_2 + 9 H_2O$$\n\nGiven: Enthalpy of combustion of octane = -5,470 kJ/mol.",
+    "message_2": "First, we need to determine the number of moles of octane (C8H18) in 2.5 g. The molar mass of octane is:\n\nC: 12.01 g/mol * 8 = 96.08 g/mol\nH: 1.01 g/mol * 18 = 18.18 g/mol\nMolar mass of octane = 96.08 + 18.18 = 114.26 g/mol\n\nNow, we can find the number of moles of octane in 2.5 g:\n\nmoles of octane = mass / molar mass = 2.5 g / 114.26 g/mol = 0.02186 mol\n\nThe enthalpy of combustion of octane is given as -5,470 kJ/mol. To find the amount of heat released during the combustion of 0.02186 mol of octane, we can use the following equation:\n\nHeat released = moles of octane * enthalpy of combustion per mole\nHeat released = 0.02186 mol * (-5,470 kJ/mol) = -119.6 kJ\n\nTherefore, 119.6 kJ of heat are released when 2.5 g of octane undergo complete combustion."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of hydration calculations",
+    "message_1": "Calculate the heat of hydration when 10.0 g of calcium chloride (CaCl2) dissolves in 100 g of water at 25°C. The enthalpy of solution for calcium chloride is -81.5 kJ/mol.",
+    "message_2": "To calculate the heat of hydration, we first need to determine the number of moles of calcium chloride (CaCl2) that are present in the 10.0 g sample.\n\nThe molar mass of CaCl2 is:\nCa = 40.08 g/mol\nCl = 35.45 g/mol (and there are 2 Cl atoms)\nSo, the molar mass of CaCl2 = 40.08 + (2 × 35.45) = 111.0 g/mol\n\nNow, we can calculate the number of moles of CaCl2 in the 10.0 g sample:\nmoles of CaCl2 = mass / molar mass = 10.0 g / 111.0 g/mol = 0.09009 mol\n\nThe enthalpy of solution for calcium chloride is given as -81.5 kJ/mol. This means that when 1 mole of CaCl2 dissolves in water, it releases 81.5 kJ of heat. We can use this information to calculate the heat of hydration for the 0.09009 mol of CaCl2:\n\nHeat of hydration = moles of CaCl2 × enthalpy of solution per mole\nHeat of hydration = 0.09009 mol × -81.5 kJ/mol = -7.34 kJ\n\nSo, the heat of hydration when 10.0 g of calcium chloride dissolves in 100 g of water at 25°C is -7.34 kJ."
+}

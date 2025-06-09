@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of Gibbs free energy change for a chemical reaction",
+    "message_1": "Calculate the Gibbs Free Energy change for the following chemical reaction at 298 K:\n\n2H2(g) + O2(g) → 2H2O(l) \n\nGiven the standard Gibbs free energy of formation values: \n\nΔGf°[H2(g)] = 0 kJ/mol\n\nΔGf°[O2(g)] = 0 kJ/mol\n\nΔGf°[H2O(l)] = -237 kJ/mol",
+    "message_2": "To calculate the Gibbs Free Energy change (ΔG) for the reaction, we can use the following equation:\n\nΔG = Σ(ΔGf°[products]) - Σ(ΔGf°[reactants])\n\nFor this reaction, the products are 2 moles of H2O(l) and the reactants are 2 moles of H2(g) and 1 mole of O2(g).\n\nΔG = [2 × ΔGf°(H2O)] - [2 × ΔGf°(H2) + ΔGf°(O2)]\n\nGiven the standard Gibbs free energy of formation values:\n\nΔGf°[H2(g)] = 0 kJ/mol\nΔGf°[O2(g)] = 0 kJ/mol\nΔGf°[H2O(l)] = -237 kJ/mol\n\nSubstitute the given values into the equation:\n\nΔG = [2 × (-237 kJ/mol)] - [2 × (0 kJ/mol) + (0 kJ/mol)]\n\nΔG = (-474 kJ) - (0 kJ)\n\nΔG = -474 kJ\n\nThe Gibbs Free Energy change for the reaction at 298 K is -474 kJ."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a dissolution reaction",
+    "message_1": "Calculate the standard enthalpy change for the dissolution of 3.00 moles of sodium chloride in water, given that the molar enthalpy of solution of sodium chloride is -3.88 kJ/mol.",
+    "message_2": "To calculate the standard enthalpy change for the dissolution of 3.00 moles of sodium chloride in water, you can use the following formula:\n\nStandard enthalpy change = (moles of solute) × (molar enthalpy of solution)\n\nIn this case, the moles of solute is 3.00 moles, and the molar enthalpy of solution is -3.88 kJ/mol. Plugging these values into the formula, we get:\n\nStandard enthalpy change = (3.00 moles) × (-3.88 kJ/mol) = -11.64 kJ\n\nSo, the standard enthalpy change for the dissolution of 3.00 moles of sodium chloride in water is -11.64 kJ."
+}

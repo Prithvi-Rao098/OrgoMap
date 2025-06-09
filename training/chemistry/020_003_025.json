@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Predicting the direction of a reaction at equilibrium based on changes in concentration, pressure, or temperature",
+    "message_1": "How will the system of N2 (g) + 3H2 (g) <=> 2NH3 (g) (ΔH = -92.4 kJ/mol) at equilibrium be affected if the volume of the container was increased by adding an inert gas?",
+    "message_2": "When the volume of the container is increased by adding an inert gas, the total pressure in the container will decrease. According to Le Chatelier's principle, the system will shift to counteract this change and restore equilibrium.\n\nIn this case, the reaction will shift towards the side with more moles of gas to increase the pressure. The reactants side (N2 and H2) has a total of 4 moles of gas, while the product side (NH3) has 2 moles of gas. Therefore, the equilibrium will shift towards the reactants side (left) to increase the pressure and restore equilibrium. This will result in a decrease in the concentration of NH3 and an increase in the concentrations of N2 and H2."
+}

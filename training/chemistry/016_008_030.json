@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of fusion calculations",
+    "message_1": "What is the enthalpy of fusion of water if it takes 40.7 kJ/mol to melt ice at its melting point of 0 °C and raise the resulting liquid water to a temperature of 25 °C?",
+    "message_2": "To find the enthalpy of fusion of water, we need to separate the energy required to melt the ice from the energy required to raise the temperature of the liquid water.\n\nFirst, let's find the energy required to raise the temperature of the liquid water from 0 °C to 25 °C. We can use the formula:\n\nq = mcΔT\n\nwhere q is the heat energy, m is the mass (in moles), c is the specific heat capacity of water (4.18 J/g·°C or 75.3 J/mol·°C), and ΔT is the change in temperature.\n\nSince we are given the energy in kJ/mol, let's convert the specific heat capacity to kJ/mol·°C:\n\n75.3 J/mol·°C × (1 kJ / 1000 J) = 0.0753 kJ/mol·°C\n\nNow, we can calculate the energy required to raise the temperature of the liquid water:\n\nq = (1 mol)(0.0753 kJ/mol·°C)(25 °C) = 1.8825 kJ\n\nNow, let's find the energy required to melt the ice. We know that the total energy required is 40.7 kJ/mol, so we can subtract the energy required to raise the temperature of the liquid water:\n\nEnergy to melt ice = Total energy - Energy to raise temperature\nEnergy to melt ice = 40.7 kJ/mol - 1.8825 kJ = 38.8175 kJ/mol\n\nTherefore, the enthalpy of fusion of water is approximately 38.82 kJ/mol."
+}

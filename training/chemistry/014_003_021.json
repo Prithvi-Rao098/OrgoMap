@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Coordination chemistry",
+    "sub_topic": "Isomerism in coordination compounds",
+    "message_1": "Identify the types of isomerism present in the complex [Co(NH3)4Cl2]+ and draw their structural formulas.",
+    "message_2": "In the complex [Co(NH3)4Cl2]+, there are two types of isomerism present: geometrical isomerism and optical isomerism.\n\n1. Geometrical isomerism: This type of isomerism arises due to the different possible arrangements of ligands around the central metal ion. In this complex, there are two geometrical isomers: cis and trans.\n\na) Cis isomer: In the cis isomer, the two Cl- ligands are adjacent to each other in the octahedral arrangement.\n\n       Cl\n        |\nNH3-Co-NH3\n   |   |\n  NH3  NH3\n\nb) Trans isomer: In the trans isomer, the two Cl- ligands are opposite to each other in the octahedral arrangement.\n\n  NH3   Cl\n    \\ /\nCo---Co\n    / \\\n  NH3   Cl\n\n2. Optical isomerism: This type of isomerism occurs when a molecule has a non-superimposable mirror image. The cis isomer of [Co(NH3)4Cl2]+ exhibits optical isomerism, as it has a pair of enantiomers (non-superimposable mirror images).\n\na) Δ-cis isomer (left-handed):\n\n       Cl\n        |\nNH3-Co-NH3\n   |   |\n  NH3  NH3\n\nb) Λ-cis isomer (right-handed):\n\n  NH3  Cl\n    \\ /\nCo---Co\n    / \\\n  NH3   NH3\n\nIn summary, the complex [Co(NH3)4Cl2]+ exhibits geometrical isomerism (cis and trans) and optical isomerism (Δ-cis and Λ-cis)."
+}

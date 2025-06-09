@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a phase transition reaction",
+    "message_1": "Calculate the standard enthalpy change for the phase transition reaction of solid carbon dioxide (dry ice) to gaseous carbon dioxide at 298 K and 1 atm pressure, given that the standard enthalpy of sublimation of solid carbon dioxide is 25.2 kJ/mol.",
+    "message_2": "The standard enthalpy change for the phase transition reaction of solid carbon dioxide (dry ice) to gaseous carbon dioxide at 298 K and 1 atm pressure can be determined using the given standard enthalpy of sublimation.\n\nThe phase transition reaction is represented by the following equation:\n\nCO2(s) → CO2(g)\n\nThe standard enthalpy of sublimation (ΔH°sub) is the enthalpy change when one mole of a substance changes from solid to gas at a constant temperature and pressure. In this case, the standard enthalpy of sublimation for solid carbon dioxide is given as 25.2 kJ/mol.\n\nSince the phase transition reaction involves the direct conversion of solid carbon dioxide to gaseous carbon dioxide, the standard enthalpy change for this reaction (ΔH°) is equal to the standard enthalpy of sublimation:\n\nΔH° = ΔH°sub\n\nTherefore, the standard enthalpy change for the phase transition reaction of solid carbon dioxide to gaseous carbon dioxide at 298 K and 1 atm pressure is 25.2 kJ/mol."
+}

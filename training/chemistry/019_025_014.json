@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving coordination compounds.",
+    "message_1": "Calculate the standard enthalpy change (ΔH°) for the following reaction involving the coordination compound [Fe(H2O)6]2+:\n\n[Fe(H2O)6]2+(aq) + 2Cl-(aq) → [FeCl2(H2O)4](aq) + 2H2O(l) \n\nGiven: \n\nΔH°f [FeCl2(H2O)4](aq) = -334 kJ/mol \n\nΔH°f [Fe(H2O)6]2+(aq) = -393 kJ/mol \n\nΔH°f H2O(l) = -286 kJ/mol \n\nNote: The superscript \"°\" denotes standard conditions (i.e. 1 atm and 25°C) and the superscript \"f\" denotes standard enthalpy of formation.",
+    "message_2": "To calculate the standard enthalpy change (ΔH°) for the given reaction, we can use the following equation:\n\nΔH° = Σ ΔH°f(products) - Σ ΔH°f(reactants)\n\nwhere ΔH°f is the standard enthalpy of formation of each compound.\n\nFor the given reaction:\n\n[Fe(H2O)6]2+(aq) + 2Cl-(aq) → [FeCl2(H2O)4](aq) + 2H2O(l)\n\nΔH° = {[1 × ΔH°f [FeCl2(H2O)4](aq)] + [2 × ΔH°f H2O(l)]} - {[1 × ΔH°f [Fe(H2O)6]2+(aq)]}\n\nΔH° = {[1 × (-334 kJ/mol)] + [2 × (-286 kJ/mol)]} - {[1 × (-393 kJ/mol)]}\n\nΔH° = (-334 kJ/mol - 572 kJ/mol) - (-393 kJ/mol)\n\nΔH° = (-906 kJ/mol) + 393 kJ/mol\n\nΔH° = -513 kJ/mol\n\nThe standard enthalpy change (ΔH°) for the given reaction is -513 kJ/mol."
+}

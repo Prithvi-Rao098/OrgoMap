@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a sublimation reaction",
+    "message_1": "What is the standard enthalpy change for the sublimation of iodine (I2) given that the standard enthalpy change of formation of iodine molecules is -62.4 kJ/mol and the enthalpy of vaporization of iodine is 41.7 kJ/mol?",
+    "message_2": "The standard enthalpy change for the sublimation of iodine (I2) can be calculated by adding the standard enthalpy change of formation of iodine molecules and the enthalpy of vaporization of iodine.\n\nSublimation is the process of a solid changing directly into a gas, bypassing the liquid phase. In this case, we are given the standard enthalpy change of formation of iodine molecules (-62.4 kJ/mol) and the enthalpy of vaporization of iodine (41.7 kJ/mol).\n\nThe standard enthalpy change for sublimation (ΔH_sub) can be calculated using the following equation:\n\nΔH_sub = ΔH_f + ΔH_vap\n\nwhere ΔH_f is the standard enthalpy change of formation and ΔH_vap is the enthalpy of vaporization.\n\nPlugging in the given values:\n\nΔH_sub = (-62.4 kJ/mol) + (41.7 kJ/mol)\n\nΔH_sub = -20.7 kJ/mol\n\nTherefore, the standard enthalpy change for the sublimation of iodine (I2) is -20.7 kJ/mol."
+}

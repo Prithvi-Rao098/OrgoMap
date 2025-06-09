@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a fusion reaction",
+    "message_1": "What is the standard enthalpy change of fusion for sodium (Na) if it requires 2.60 kJ of heat energy to melt 10.0 g of solid Na at its melting point of 370.9 degrees Celsius? The molar mass of Na is 22.99 g/mol.",
+    "message_2": "To find the standard enthalpy change of fusion for sodium (ΔHfus), we can use the following formula:\n\nΔHfus = q / n\n\nwhere q is the heat energy required to melt the solid (2.60 kJ) and n is the number of moles of the substance.\n\nFirst, we need to find the number of moles of sodium (n):\n\nn = mass / molar mass\nn = 10.0 g / 22.99 g/mol\nn ≈ 0.435 mol\n\nNow, we can find the standard enthalpy change of fusion (ΔHfus):\n\nΔHfus = q / n\nΔHfus = 2.60 kJ / 0.435 mol\nΔHfus ≈ 5.98 kJ/mol\n\nSo, the standard enthalpy change of fusion for sodium is approximately 5.98 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of reaction quotient for a chemical reaction",
+    "message_1": "Sure, here's a precise problem for the student to solve:\n\nCalculate the reaction quotient (Q) for the following chemical reaction, given the initial concentrations of the reactants and products:\n\n2 NO₂(g) + O₂(g) ⇌ 2 NO₃(g)\n\nInitial concentrations: [NO₂] = 0.50 M, [O₂] = 0.20 M, [NO₃] = 0.00 M\n\n(Note: The brackets indicate molar concentration in units of moles per liter [M].)",
+    "message_2": "To calculate the reaction quotient (Q) for the given reaction, we'll use the following formula:\n\nQ = [NO₃]^2 / ([NO₂]^2 × [O₂])\n\nWe are given the initial concentrations of the reactants and products:\n\n[NO₂] = 0.50 M\n[O₂] = 0.20 M\n[NO₃] = 0.00 M\n\nNow, we can plug these values into the formula:\n\nQ = (0.00)^2 / ((0.50)^2 × (0.20))\n\nQ = 0 / (0.25 × 0.20)\n\nQ = 0 / 0.05\n\nQ = 0\n\nSo, the reaction quotient (Q) for the given reaction with the initial concentrations is 0."
+}

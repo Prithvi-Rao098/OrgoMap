@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of entropy change for a chemical reaction",
+    "message_1": "Calculate the change in entropy of the system when 2 moles of ammonia react to form 3 moles of hydrogen gas and 1 mole of nitrogen gas. The reaction takes place at a constant temperature of 298 K and at a pressure of 1 atm. The molar entropy of each component in the reaction is given below:\n\nAmmonia: 192.5 J/K·mol\nHydrogen gas: 130.6 J/K·mol\nNitrogen gas: 191.6 J/K·mol",
+    "message_2": "To calculate the change in entropy of the system, we need to find the difference between the entropy of the products and the entropy of the reactants. The reaction is as follows:\n\n2 NH3 (g) → 3 H2 (g) + N2 (g)\n\nFirst, let's calculate the entropy of the reactants:\n2 moles of ammonia: 2 * 192.5 J/K·mol = 385 J/K\n\nNow, let's calculate the entropy of the products:\n3 moles of hydrogen gas: 3 * 130.6 J/K·mol = 391.8 J/K\n1 mole of nitrogen gas: 1 * 191.6 J/K·mol = 191.6 J/K\n\nTotal entropy of products: 391.8 J/K + 191.6 J/K = 583.4 J/K\n\nNow, we can find the change in entropy of the system:\nΔS = S(products) - S(reactants) = 583.4 J/K - 385 J/K = 198.4 J/K\n\nThe change in entropy of the system is 198.4 J/K."
+}

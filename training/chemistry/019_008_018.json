@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard electrode potential for a redox reaction",
+    "message_1": "What is the standard electrode potential of the Zn/Zn2+ half-cell at 25°C if its standard reduction potential is -0.76 V?",
+    "message_2": "The standard electrode potential of a half-cell is the same as its standard reduction potential when the half-cell is written as a reduction reaction. In this case, the standard reduction potential of the Zn/Zn2+ half-cell is given as -0.76 V. Therefore, the standard electrode potential of the Zn/Zn2+ half-cell at 25°C is also -0.76 V."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Hess's Law calculations",
+    "message_1": "What is the heat of combustion of methane gas (CH4) at standard conditions, given the following data from the combustion of carbon (C), hydrogen (H2), and methane (CH4)?\n\nC(s) + O2(g) -> CO2(g)      ΔH⦵rxn = -393.5 kJ/mol\nH2(g) + 1/2O2(g) -> H2O(l)  ΔH⦵rxn = -285.8 kJ/mol\nCH4(g) + 2O2(g) -> CO2(g) + 2H2O(l)  ΔH⦵rxn = -890.4 kJ/mol\n\nAssume all reactants and products are at standard conditions (25°C and 1 atm).",
+    "message_2": "The heat of combustion of methane gas (CH₄) at standard conditions is already given in the problem statement:\n\nCH₄(g) + 2O₂(g) -> CO₂(g) + 2H₂O(l)  ΔH⦵rxn = -890.4 kJ/mol\n\nSo, the heat of combustion of methane gas (CH₄) at standard conditions is -890.4 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard electrode potential for a redox reaction",
+    "message_1": "What is the standard electrode potential of the cell reaction 2Hg(l) + O2(g) → 2HgO(s)? Given that the reduction potential of oxygen is +1.23V and the standard reduction potential of mercury oxide is +0.91V.",
+    "message_2": "To find the standard electrode potential of the cell reaction, we can use the formula:\n\nE°(cell) = E°(cathode) - E°(anode)\n\nIn this case, the reduction potential of oxygen is given as +1.23V, and the standard reduction potential of mercury oxide is +0.91V. Since oxygen is reduced to form HgO, it acts as the cathode. On the other hand, Hg is oxidized to form HgO, so it acts as the anode.\n\nE°(cell) = E°(cathode) - E°(anode)\nE°(cell) = (+1.23V) - (+0.91V)\nE°(cell) = 0.32V\n\nThe standard electrode potential of the cell reaction 2Hg(l) + O2(g) → 2HgO(s) is 0.32V."
+}

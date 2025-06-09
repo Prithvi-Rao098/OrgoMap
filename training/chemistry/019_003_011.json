@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "What is the specific heat capacity of a solid substance X if 50 g of it requires 200 J of heat to raise its temperature from 25°C to 50°C assuming no phase change occurs?",
+    "message_2": "To find the specific heat capacity of substance X, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat energy (in joules), m is the mass of the substance (in grams), c is the specific heat capacity (in J/g°C), and ΔT is the change in temperature (in °C).\n\nWe are given the following information:\n\nq = 200 J\nm = 50 g\nΔT = 50°C - 25°C = 25°C\n\nWe need to find the specific heat capacity (c). Rearranging the formula to solve for c, we get:\n\nc = q / (mΔT)\n\nNow, plug in the given values:\n\nc = 200 J / (50 g × 25°C)\n\nc = 200 J / 1250 g°C\n\nc = 0.16 J/g°C\n\nSo, the specific heat capacity of substance X is 0.16 J/g°C."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Le Chatelier's principle problems",
+    "message_1": "A chemistry student is studying the equilibrium reaction between nitrogen dioxide (NO2) and dinitrogen tetroxide (N2O4) and wants to test Le Chatelier's principle. They have a mixture of NO2 and N2O4 in a container. The student wants to determine the effect of temperature on the equilibrium position of the reaction. What temperature should the student use to shift the equilibrium towards the side with more NO2 gas?",
+    "message_2": "To shift the equilibrium towards the side with more NO2 gas, the student should increase the temperature. This is because the reaction between NO2 and N2O4 is an endothermic reaction in the forward direction (absorbs heat):\n\n2NO2 (g) ⇌ N2O4 (g) + heat\n\nAccording to Le Chatelier's principle, if you increase the temperature, the system will try to counteract the change by shifting the equilibrium towards the side that absorbs heat, which in this case is the side with more NO2 gas. Therefore, the student should use a higher temperature to shift the equilibrium towards the side with more NO2 gas."
+}

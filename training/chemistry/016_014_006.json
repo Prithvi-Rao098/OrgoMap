@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of sublimation calculations",
+    "message_1": "What is the heat of sublimation of iodine, given that it has a vapor pressure of 10 mmHg at -10°C and a normal boiling point of 184.35°C?",
+    "message_2": "To calculate the heat of sublimation of iodine, we can use the Clausius-Clapeyron equation, which relates the vapor pressure of a substance to its temperature and enthalpy change:\n\nln(P2/P1) = -ΔHsub/R * (1/T2 - 1/T1)\n\nWhere:\nP1 and P2 are the vapor pressures at temperatures T1 and T2, respectively\nΔHsub is the heat of sublimation\nR is the gas constant (8.314 J/mol·K)\n\nWe are given:\nP1 = 10 mmHg (at T1 = -10°C)\nP2 = 760 mmHg (at T2 = 184.35°C, the normal boiling point)\n\nFirst, we need to convert the temperatures to Kelvin:\nT1 = -10°C + 273.15 = 263.15 K\nT2 = 184.35°C + 273.15 = 457.5 K\n\nNow we can plug the values into the Clausius-Clapeyron equation:\n\nln(760/10) = -ΔHsub/8.314 * (1/457.5 - 1/263.15)\n\nSolving for ΔHsub:\n\nΔHsub = -8.314 * ln(76) / (1/457.5 - 1/263.15)\nΔHsub ≈ 62083 J/mol\n\nThe heat of sublimation of iodine is approximately 62,083 J/mol."
+}

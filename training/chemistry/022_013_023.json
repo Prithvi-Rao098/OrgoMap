@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Oxidation state determination",
+    "message_1": "What is the oxidation state of nitrogen in HNO3?",
+    "message_2": "The oxidation state of nitrogen in HNO3 (nitric acid) can be determined by assigning oxidation states to each element in the compound and then solving for the unknown oxidation state of nitrogen.\n\n1. Hydrogen (H) has an oxidation state of +1.\n2. Oxygen (O) has an oxidation state of -2.\n\nNow, let's assign the oxidation state of nitrogen (N) as x.\n\nIn HNO3, there is one hydrogen atom, one nitrogen atom, and three oxygen atoms. The sum of the oxidation states of all the atoms in the compound must equal the overall charge of the compound, which is 0 for a neutral molecule.\n\nSo, the equation will be:\n\n(+1) + x + 3(-2) = 0\n\nSolving for x:\n\nx - 6 + 1 = 0\nx - 5 = 0\nx = +5\n\nTherefore, the oxidation state of nitrogen in HNO3 is +5."
+}

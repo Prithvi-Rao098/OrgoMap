@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Redox reactions",
+    "message_1": "What is the balanced redox reaction of Iron (II) Sulphate and Potassium Permanganate in acidic medium?",
+    "message_2": "In acidic medium, the balanced redox reaction between Iron (II) Sulphate (FeSO₄) and Potassium Permanganate (KMnO₄) is as follows:\n\n5 FeSO₄ + 2 KMnO₄ + 8 H₂SO₄ → 5 Fe₂(SO₄)₃ + 2 MnSO₄ + K₂SO₄ + 8 H₂O\n\nHere's the step-by-step process to balance the redox reaction:\n\n1. Write the two half-reactions:\n\nFe²⁺ → Fe³⁺ (Oxidation half-reaction)\nMnO₄⁻ → Mn²⁺ (Reduction half-reaction)\n\n2. Balance the atoms in each half-reaction:\n\nFe²⁺ → Fe³⁺ (already balanced)\nMnO₄⁻ + 8 H⁺ + 5 e⁻ → Mn²⁺ + 4 H₂O (balanced)\n\n3. Balance the charges by adding electrons:\n\nFe²⁺ → Fe³⁺ + e⁻ (balanced)\n\n4. Multiply the half-reactions by appropriate factors to equalize the number of electrons:\n\n5(Fe²⁺ → Fe³⁺ + e⁻)\n2(MnO₄⁻ + 8 H⁺ + 5 e⁻ → Mn²⁺ + 4 H₂O)\n\n5. Add the half-reactions and simplify:\n\n5 Fe²⁺ + 2 MnO₄⁻ + 16 H⁺ → 5 Fe³⁺ + 2 Mn²⁺ + 8 H₂O\n\n6. Add the spectator ions to complete the balanced equation:\n\n5 FeSO₄ + 2 KMnO₄ + 8 H₂SO₄ → 5 Fe₂(SO₄)₃ + 2 MnSO₄ + K₂SO₄ + 8 H₂O"
+}

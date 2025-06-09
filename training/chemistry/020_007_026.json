@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Predicting the effect of changing the pressure on the equilibrium position",
+    "message_1": "If the pressure is increased in a system at equilibrium, how does the equilibrium position shift for a reaction that involves an increase in moles of gas? Support your answer with an explanation and an example reaction.",
+    "message_2": "When the pressure is increased in a system at equilibrium, the equilibrium position will shift in the direction that reduces the pressure. According to Le Chatelier's principle, if a change is applied to a system at equilibrium, the system will adjust itself to counteract the change and restore the equilibrium.\n\nFor a reaction that involves an increase in moles of gas, the equilibrium will shift in the direction that produces fewer moles of gas to counteract the increase in pressure. This is because fewer moles of gas will occupy less volume and exert less pressure on the system.\n\nAn example reaction is the synthesis of ammonia (NH3) from nitrogen (N2) and hydrogen (H2):\n\nN2(g) + 3H2(g) ⇌ 2NH3(g)\n\nIn this reaction, there are 4 moles of gas on the reactant side (1 mole of N2 and 3 moles of H2) and 2 moles of gas on the product side (2 moles of NH3). If the pressure is increased, the equilibrium will shift to the right, towards the side with fewer moles of gas (the product side), to reduce the pressure. This results in the formation of more ammonia (NH3) and consumption of nitrogen (N2) and hydrogen (H2)."
+}

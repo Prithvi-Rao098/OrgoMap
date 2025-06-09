@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Oxidation state determination",
+    "message_1": "What is the oxidation state of sulfur in H2SO4 (sulfuric acid)?",
+    "message_2": "In H2SO4, the oxidation state of sulfur is +6.\n\nHere's how to determine it:\n\n1. Hydrogen has an oxidation state of +1.\n2. Oxygen has an oxidation state of -2.\n3. The overall charge of the molecule is 0.\n\nUsing these rules, we can set up an equation:\n\n2(+1) + x + 4(-2) = 0\n\nWhere x is the oxidation state of sulfur. Solving for x:\n\n2 + x - 8 = 0\nx - 6 = 0\nx = +6\n\nSo, the oxidation state of sulfur in H2SO4 is +6."
+}

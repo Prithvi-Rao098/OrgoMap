@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Combustion reactions",
+    "message_1": "What is the heat of combustion (in kJ/mol) of butane (C4H10) gas at 25°C and 1 atm pressure, assuming complete combustion?",
+    "message_2": "The heat of combustion of butane (C4H10) can be calculated using the balanced chemical equation for the complete combustion of butane:\n\nC4H10(g) + 13/2 O2(g) → 4 CO2(g) + 5 H2O(l)\n\nThe heat of combustion can be determined using the standard enthalpies of formation (∆Hf°) for the reactants and products. The standard enthalpies of formation for the substances involved are:\n\n∆Hf° (C4H10, g) = -126 kJ/mol\n∆Hf° (O2, g) = 0 kJ/mol (since O2 is in its standard state)\n∆Hf° (CO2, g) = -393.5 kJ/mol\n∆Hf° (H2O, l) = -285.8 kJ/mol\n\nUsing these values, we can calculate the heat of combustion (∆Hcomb) using the following equation:\n\n∆Hcomb = [4 × ∆Hf° (CO2) + 5 × ∆Hf° (H2O)] - [∆Hf° (C4H10) + 13/2 × ∆Hf° (O2)]\n\n∆Hcomb = [4 × (-393.5 kJ/mol) + 5 × (-285.8 kJ/mol)] - [-126 kJ/mol + 13/2 × 0 kJ/mol]\n\n∆Hcomb = (-1574 kJ + -1429 kJ) - (-126 kJ)\n\n∆Hcomb = -3003 kJ/mol\n\nTherefore, the heat of combustion of butane (C4H10) gas at 25°C and 1 atm pressure, assuming complete combustion, is -3003 kJ/mol."
+}

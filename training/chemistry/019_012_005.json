@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a dissolution reaction",
+    "message_1": "Calculate the standard enthalpy change for the dissolution of 10 g of NaOH in 100 mL of water at 25°C if the molar enthalpy of dissolution is -44.5 kJ/mol.",
+    "message_2": "First, we need to determine the number of moles of NaOH in 10 g. The molar mass of NaOH is:\n\nNaOH = 22.99 g/mol (Na) + 15.999 g/mol (O) + 1.007 g/mol (H) = 39.996 g/mol\n\nNow, we can calculate the number of moles of NaOH:\n\nmoles of NaOH = mass / molar mass\nmoles of NaOH = 10 g / 39.996 g/mol = 0.2501 mol\n\nNext, we can calculate the standard enthalpy change for the dissolution of 0.2501 mol of NaOH using the given molar enthalpy of dissolution:\n\nΔH = moles × molar enthalpy of dissolution\nΔH = 0.2501 mol × (-44.5 kJ/mol) = -11.129 kJ\n\nThe standard enthalpy change for the dissolution of 10 g of NaOH in 100 mL of water at 25°C is -11.129 kJ."
+}

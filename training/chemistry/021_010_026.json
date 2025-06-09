@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the bond enthalpy of a molecule",
+    "message_1": "What is the bond enthalpy of the carbon-oxygen double bond in a carbon dioxide molecule (CO2), given that the bond dissociation energies for C-O single and double bonds are 351 kJ/mol and 799 kJ/mol, respectively?",
+    "message_2": "The bond enthalpy of the carbon-oxygen double bond in a carbon dioxide molecule (CO2) is given as the bond dissociation energy for the C=O double bond. In this case, the bond dissociation energy for the C=O double bond is provided as 799 kJ/mol. Therefore, the bond enthalpy of the carbon-oxygen double bond in CO2 is 799 kJ/mol."
+}

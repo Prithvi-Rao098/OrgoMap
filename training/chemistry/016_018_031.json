@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of ionization calculations",
+    "message_1": "Calculate the enthalpy of ionization of magnesium if 4.8 g of magnesium reacts completely with hydrochloric acid to form 224 mL of hydrogen gas at standard temperature and pressure (STP). The heat released during the reaction is -412 kJ/mol.",
+    "message_2": "First, we need to determine the number of moles of magnesium (Mg) and hydrogen gas (H2) involved in the reaction. \n\nThe molar mass of magnesium is 24.31 g/mol. \n\nMoles of Mg = mass of Mg / molar mass of Mg\nMoles of Mg = 4.8 g / 24.31 g/mol\nMoles of Mg = 0.197 mol\n\nAt STP, 1 mole of any gas occupies 22.4 L. \n\nMoles of H2 = volume of H2 / molar volume of H2\nMoles of H2 = 224 mL / 22,400 mL/mol\nMoles of H2 = 0.01 mol\n\nThe balanced chemical equation for the reaction between magnesium and hydrochloric acid is:\n\nMg + 2HCl → MgCl2 + H2\n\nFrom the balanced equation, we can see that 1 mole of Mg reacts with 1 mole of H2. Since we have 0.197 mol of Mg and 0.01 mol of H2, the limiting reactant is H2.\n\nNow, we can calculate the enthalpy of ionization of magnesium using the heat released during the reaction (-412 kJ/mol) and the moles of the limiting reactant (H2).\n\nEnthalpy of ionization of Mg = heat released / moles of limiting reactant\nEnthalpy of ionization of Mg = -412 kJ/mol / 0.01 mol\nEnthalpy of ionization of Mg = -41,200 kJ/mol\n\nThe enthalpy of ionization of magnesium is -41,200 kJ/mol."
+}

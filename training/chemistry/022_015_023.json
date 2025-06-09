@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Percent yield problems",
+    "message_1": "Sure, here is a precise problem for a chemistry student to solve:\n\n\"In a chemical reaction, 14 grams of reactant A is mixed with 15 grams of reactant B. If the theoretical yield of the reaction is 25 grams and the actual yield obtained in the lab is 20 grams, what is the percent yield of the reaction?\"",
+    "message_2": "To calculate the percent yield of the reaction, you can use the following formula:\n\nPercent Yield = (Actual Yield / Theoretical Yield) × 100\n\nIn this case, the actual yield is 20 grams, and the theoretical yield is 25 grams. Plugging these values into the formula, we get:\n\nPercent Yield = (20 / 25) × 100\n\nPercent Yield = 0.8 × 100\n\nPercent Yield = 80%\n\nSo, the percent yield of the reaction is 80%."
+}

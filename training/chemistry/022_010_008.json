@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Precipitation reactions",
+    "message_1": "What mass of calcium chloride (CaCl2) is needed to completely react with 100 mL of 0.2 M silver nitrate (AgNO3) solution to form silver chloride (AgCl) precipitate?",
+    "message_2": "To solve this problem, we will use the stoichiometry of the reaction between calcium chloride and silver nitrate. The balanced chemical equation for the reaction is:\n\nCaCl2 + 2AgNO3 → 2AgCl + Ca(NO3)2\n\nFrom the balanced equation, we can see that 1 mole of CaCl2 reacts with 2 moles of AgNO3.\n\nFirst, we need to find the moles of AgNO3 in the 100 mL of 0.2 M solution:\n\nmoles of AgNO3 = (volume in L) × (molarity)\nmoles of AgNO3 = (0.1 L) × (0.2 mol/L) = 0.02 mol\n\nNow, we can use the stoichiometry of the reaction to find the moles of CaCl2 needed:\n\nmoles of CaCl2 = (moles of AgNO3) × (1 mol CaCl2 / 2 mol AgNO3)\nmoles of CaCl2 = (0.02 mol) × (1/2) = 0.01 mol\n\nFinally, we can convert the moles of CaCl2 to mass using its molar mass (110.98 g/mol):\n\nmass of CaCl2 = (moles of CaCl2) × (molar mass of CaCl2)\nmass of CaCl2 = (0.01 mol) × (110.98 g/mol) = 1.1098 g\n\nSo, 1.1098 grams of calcium chloride is needed to completely react with 100 mL of 0.2 M silver nitrate solution to form silver chloride precipitate."
+}

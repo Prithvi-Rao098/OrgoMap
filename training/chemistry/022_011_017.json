@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Gas evolution reactions",
+    "message_1": "What is the volume of CO2 gas evolved when 25.0 g of sodium bicarbonate (NaHCO3) react with excess hydrochloric acid (HCl) at standard temperature and pressure (STP)?",
+    "message_2": "To solve this problem, we will follow these steps:\n\n1. Write the balanced chemical equation for the reaction between sodium bicarbonate and hydrochloric acid.\n2. Calculate the number of moles of sodium bicarbonate.\n3. Determine the number of moles of CO2 produced.\n4. Calculate the volume of CO2 gas evolved at STP.\n\nStep 1: Balanced chemical equation\nNaHCO3 (s) + HCl (aq) → NaCl (aq) + CO2 (g) + H2O (l)\n\nStep 2: Calculate the number of moles of sodium bicarbonate\nThe molar mass of NaHCO3 = 23 (Na) + 1 (H) + 12 (C) + 16 x 3 (O) = 84 g/mol\nNumber of moles of NaHCO3 = mass / molar mass = 25.0 g / 84 g/mol = 0.2976 mol\n\nStep 3: Determine the number of moles of CO2 produced\nFrom the balanced equation, 1 mole of NaHCO3 produces 1 mole of CO2.\nSo, 0.2976 mol of NaHCO3 will produce 0.2976 mol of CO2.\n\nStep 4: Calculate the volume of CO2 gas evolved at STP\nAt STP (standard temperature and pressure), 1 mole of any gas occupies 22.4 L.\nVolume of CO2 = number of moles of CO2 x volume occupied by 1 mole of CO2 at STP\nVolume of CO2 = 0.2976 mol x 22.4 L/mol = 6.67 L\n\nTherefore, the volume of CO2 gas evolved when 25.0 g of sodium bicarbonate reacts with excess hydrochloric acid at STP is 6.67 L."
+}

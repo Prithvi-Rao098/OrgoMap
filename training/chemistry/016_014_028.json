@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of sublimation calculations",
+    "message_1": "What is the heat of sublimation of iodine, given that the molar heat of fusion is 15.52 kJ/mol and the molar heat of vaporization is 41.39 kJ/mol?",
+    "message_2": "The heat of sublimation is the energy required to convert a substance from its solid phase directly to its gas phase, bypassing the liquid phase. In the case of iodine, we are given the molar heat of fusion (energy required to convert solid to liquid) and the molar heat of vaporization (energy required to convert liquid to gas). To find the heat of sublimation, we simply add these two values together:\n\nHeat of sublimation = Molar heat of fusion + Molar heat of vaporization\nHeat of sublimation = 15.52 kJ/mol + 41.39 kJ/mol\nHeat of sublimation = 56.91 kJ/mol\n\nTherefore, the heat of sublimation of iodine is 56.91 kJ/mol."
+}

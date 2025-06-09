@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a sublimation reaction",
+    "message_1": "What is the standard enthalpy change for the sublimation of solid carbon dioxide at 25°C, if 50 g of carbon dioxide is sublimed?",
+    "message_2": "The standard enthalpy change for the sublimation of solid carbon dioxide (CO2) can be calculated using the following formula:\n\nΔH = m × ΔH_sub\n\nwhere ΔH is the enthalpy change, m is the mass of CO2, and ΔH_sub is the standard enthalpy of sublimation for CO2.\n\nThe standard enthalpy of sublimation for CO2 at 25°C (298 K) is approximately 25.2 kJ/mol.\n\nFirst, we need to convert the mass of CO2 (50 g) to moles. The molar mass of CO2 is 12.01 g/mol (C) + 2 × 16.00 g/mol (O) = 44.01 g/mol.\n\nmoles of CO2 = mass / molar mass = 50 g / 44.01 g/mol ≈ 1.136 moles\n\nNow, we can calculate the enthalpy change:\n\nΔH = m × ΔH_sub = 1.136 moles × 25.2 kJ/mol ≈ 28.63 kJ\n\nThe standard enthalpy change for the sublimation of 50 g of solid carbon dioxide at 25°C is approximately 28.63 kJ."
+}

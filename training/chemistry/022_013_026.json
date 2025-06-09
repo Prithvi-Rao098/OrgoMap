@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Oxidation state determination",
+    "message_1": "What is the oxidation state of nitrogen in NH4NO2?",
+    "message_2": "In NH4NO2, there are two parts: the ammonium ion (NH4+) and the nitrite ion (NO2-). We will find the oxidation state of nitrogen in each part separately.\n\n1. In the ammonium ion (NH4+):\nSince hydrogen has an oxidation state of +1, and there are four hydrogen atoms, the total positive charge from hydrogen is +4. The ammonium ion has a net charge of +1. Therefore, the oxidation state of nitrogen (N) in NH4+ is -3 to balance the charge.\n\n2. In the nitrite ion (NO2-):\nOxygen has an oxidation state of -2, and there are two oxygen atoms, so the total negative charge from oxygen is -4. The nitrite ion has a net charge of -1. Therefore, the oxidation state of nitrogen (N) in NO2- is +3 to balance the charge.\n\nSo, in NH4NO2, the oxidation states of nitrogen are -3 in the ammonium ion and +3 in the nitrite ion."
+}

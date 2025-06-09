@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving gases",
+    "message_1": "Sure, here is a question for the student to solve:\n\nCalculate ΔH°rxn for the reaction N2(g) + 3H2(g) → 2NH3(g) given the following information:\n\n- ΔH°f for N2(g) = 0 kJ/mol\n- ΔH°f for H2(g) = 0 kJ/mol\n- ΔH°f for NH3(g) = -46.1 kJ/mol\n\nShow all steps and units of measurement used in your calculation.",
+    "message_2": "To calculate ΔH°rxn for the reaction N2(g) + 3H2(g) → 2NH3(g), we will use the following equation:\n\nΔH°rxn = Σ ΔH°f(products) - Σ ΔH°f(reactants)\n\nFirst, let's determine the ΔH°f values for the products and reactants:\n\nProducts:\n2 moles of NH3(g): 2 × (-46.1 kJ/mol) = -92.2 kJ\n\nReactants:\n1 mole of N2(g): 1 × 0 kJ/mol = 0 kJ\n3 moles of H2(g): 3 × 0 kJ/mol = 0 kJ\n\nNow, we can plug these values into the equation:\n\nΔH°rxn = (-92.2 kJ) - (0 kJ + 0 kJ)\n\nΔH°rxn = -92.2 kJ\n\nSo, the ΔH°rxn for the reaction N2(g) + 3H2(g) → 2NH3(g) is -92.2 kJ."
+}

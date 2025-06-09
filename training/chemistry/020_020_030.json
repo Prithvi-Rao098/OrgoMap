@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of changing the temperature on the formation of a complex ion",
+    "message_1": "Given the following equilibrium reaction: \n\nFe3+(aq) + 4CN-(aq) <--> Fe(CN)64-(aq)\n\nIf the equilibrium constant, Kc, is equal to 1.2 x 10^10 at 25°C, what will be the value of Kc at 50°C? And how will the equilibrium position shift when the temperature is changed from 25°C to 50°C?",
+    "message_2": "To determine the value of Kc at 50°C, we need to know the enthalpy change (ΔH) of the reaction and use the van't Hoff equation:\n\nln(K2/K1) = -ΔH/R * (1/T2 - 1/T1)\n\nwhere K1 is the equilibrium constant at temperature T1 (25°C), K2 is the equilibrium constant at temperature T2 (50°C), R is the gas constant (8.314 J/mol·K), and ΔH is the enthalpy change of the reaction.\n\nUnfortunately, without the value of ΔH, we cannot calculate the exact value of Kc at 50°C.\n\nHowever, we can still discuss how the equilibrium position will shift when the temperature is changed from 25°C to 50°C. If the reaction is exothermic (ΔH < 0), increasing the temperature will shift the equilibrium position to the left, favoring the reactants. If the reaction is endothermic (ΔH > 0), increasing the temperature will shift the equilibrium position to the right, favoring the products."
+}

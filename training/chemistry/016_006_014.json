@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of reaction calculations",
+    "message_1": "What is the enthalpy change when 2.5 moles of methane are burned completely in excess oxygen gas, given that the enthalpy of combustion of methane is -890 kJ/mol?",
+    "message_2": "To calculate the enthalpy change for the combustion of 2.5 moles of methane, you can use the following formula:\n\nEnthalpy change = moles of methane × enthalpy of combustion per mole\n\nEnthalpy change = 2.5 moles × (-890 kJ/mol)\n\nEnthalpy change = -2225 kJ\n\nSo, the enthalpy change when 2.5 moles of methane are burned completely in excess oxygen gas is -2225 kJ."
+}

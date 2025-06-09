@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of hydrolysis calculations",
+    "message_1": "Calculate the enthalpy change for the hydrolysis of 50 grams of sucrose (C12H22O11) when dissolved in 500 ml of water at 25°C. The molar mass of sucrose is 342.3 g/mol and the enthalpy change per mole of sucrose is -564.8 kJ/mol.",
+    "message_2": "To calculate the enthalpy change for the hydrolysis of 50 grams of sucrose, we first need to determine the number of moles of sucrose present in the solution. \n\nMoles of sucrose = mass of sucrose / molar mass of sucrose\nMoles of sucrose = 50 g / 342.3 g/mol\nMoles of sucrose ≈ 0.146 moles\n\nNow that we have the number of moles of sucrose, we can calculate the enthalpy change for the hydrolysis reaction using the given enthalpy change per mole of sucrose.\n\nEnthalpy change = moles of sucrose × enthalpy change per mole of sucrose\nEnthalpy change = 0.146 moles × (-564.8 kJ/mol)\nEnthalpy change ≈ -82.47 kJ\n\nThe enthalpy change for the hydrolysis of 50 grams of sucrose when dissolved in 500 ml of water at 25°C is approximately -82.47 kJ."
+}

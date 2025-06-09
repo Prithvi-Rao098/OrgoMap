@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of combustion calculations",
+    "message_1": "Calculate the enthalpy change of combustion for ethane (C2H6) when 5.00 g of ethane is completely burned in excess oxygen gas, given that the standard enthalpy of combustion of ethane is -1560 kJ/mol.",
+    "message_2": "First, we need to determine the number of moles of ethane (C2H6) in 5.00 g. The molar mass of ethane is:\n\nC2H6 = (2 × 12.01 g/mol for C) + (6 × 1.01 g/mol for H) = 24.02 + 6.06 = 30.08 g/mol\n\nNow, we can find the number of moles of ethane:\n\nmoles of C2H6 = (mass of C2H6) / (molar mass of C2H6)\nmoles of C2H6 = 5.00 g / 30.08 g/mol = 0.166 moles\n\nNext, we can use the standard enthalpy of combustion of ethane (-1560 kJ/mol) to calculate the enthalpy change for the combustion of 0.166 moles of ethane:\n\nΔH_combustion = moles of C2H6 × standard enthalpy of combustion\nΔH_combustion = 0.166 moles × -1560 kJ/mol = -258.96 kJ\n\nTherefore, the enthalpy change of combustion for 5.00 g of ethane is approximately -259 kJ."
+}

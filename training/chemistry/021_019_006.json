@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the solubility of a substance in a solvent",
+    "message_1": "What is the solubility of 10 grams of NaCl in 100 mL of water at 25°C?",
+    "message_2": "The solubility of a substance is the maximum amount that can dissolve in a given amount of solvent at a specific temperature. For sodium chloride (NaCl) in water at 25°C, the solubility is approximately 36 grams per 100 mL of water.\n\nIn this case, you have 10 grams of NaCl and 100 mL of water. Since the solubility of NaCl at 25°C is 36 grams per 100 mL of water, the 10 grams of NaCl will dissolve completely in the 100 mL of water, as it is below the solubility limit."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a formation reaction",
+    "message_1": "Determine the standard enthalpy change for the formation of methane gas (CH4) from its constituent elements (C and H2) given the following standard enthalpy of formation values: ΔHf°(C) = 0 kJ/mol and ΔHf°(H2) = 0 kJ/mol.",
+    "message_2": "To determine the standard enthalpy change for the formation of methane gas (CH4) from its constituent elements (C and H2), we need to consider the balanced chemical equation for the formation of methane:\n\nC (graphite) + 2 H2 (g) → CH4 (g)\n\nThe standard enthalpy change for this reaction (ΔH°) can be calculated using the following equation:\n\nΔH° = Σ ΔHf°(products) - Σ ΔHf°(reactants)\n\nGiven that the standard enthalpy of formation for both C (graphite) and H2 (g) is 0 kJ/mol, we only need to find the standard enthalpy of formation for CH4 (g). The standard enthalpy of formation for methane gas (CH4) is -74.8 kJ/mol.\n\nNow, we can calculate the standard enthalpy change for the formation of methane:\n\nΔH° = (-74.8 kJ/mol) - (0 kJ/mol + 0 kJ/mol) = -74.8 kJ/mol\n\nTherefore, the standard enthalpy change for the formation of methane gas (CH4) from its constituent elements (C and H2) is -74.8 kJ/mol."
+}

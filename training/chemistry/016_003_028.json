@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Bond dissociation energy calculations",
+    "message_1": "What is the bond dissociation energy of methane (CH4) at standard conditions (25°C and 1 atm)? Given that the enthalpy change of the reaction CH4(g) → C(g) + 4H(g) is 1665 kJ/mol.",
+    "message_2": "The bond dissociation energy of methane (CH4) is the energy required to break all the C-H bonds in one mole of methane molecules. In the given reaction, one mole of methane (CH4) dissociates into one mole of carbon (C) and four moles of hydrogen (H) atoms. \n\nThe enthalpy change of the reaction (ΔH) is given as 1665 kJ/mol. This value represents the total energy required to break all the C-H bonds in one mole of methane molecules.\n\nSince there are four C-H bonds in one methane molecule, we can calculate the bond dissociation energy of a single C-H bond by dividing the enthalpy change by the number of bonds:\n\nBond dissociation energy of C-H bond = (ΔH) / (number of C-H bonds)\n= 1665 kJ/mol / 4\n= 416.25 kJ/mol\n\nTherefore, the bond dissociation energy of a single C-H bond in methane (CH4) at standard conditions (25°C and 1 atm) is 416.25 kJ/mol."
+}

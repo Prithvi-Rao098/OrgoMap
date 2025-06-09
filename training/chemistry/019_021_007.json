@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving solids",
+    "message_1": "Calculate the standard enthalpy change for the reaction: \n\n2H2(g) + O2(g) --> 2H2O(l)\n\nGiven the following enthalpies of formation: \n\n∆Hf°(H2O, l) = -285.8 kJ/mol \n\n∆Hf°(H2, g) = -241.8 kJ/mol \n\n∆Hf°(O2, g) = 0 kJ/mol",
+    "message_2": "To calculate the standard enthalpy change for the reaction, we can use the following formula:\n\nΔH°(reaction) = Σ [ΔHf°(products)] - Σ [ΔHf°(reactants)]\n\nFor this reaction, we have:\n\nΔH°(reaction) = [2 * ΔHf°(H2O, l)] - [2 * ΔHf°(H2, g) + ΔHf°(O2, g)]\n\nSubstitute the given values:\n\nΔH°(reaction) = [2 * (-285.8 kJ/mol)] - [2 * (-241.8 kJ/mol) + 0 kJ/mol]\n\nΔH°(reaction) = (-571.6 kJ/mol) - (-483.6 kJ/mol)\n\nΔH°(reaction) = -88 kJ/mol\n\nThe standard enthalpy change for the reaction is -88 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Percent yield problems",
+    "message_1": "Sure! Here's a precise problem for the student to solve:\n\n\"Suppose a student performs a chemical reaction that produces 4.5 grams of the desired product. However, based on the reactants used, they calculated that they should have produced 5.0 grams. What is the percent yield of the reaction?\"",
+    "message_2": "To calculate the percent yield of the reaction, we can use the following formula:\n\nPercent yield = (Actual yield / Theoretical yield) x 100\n\nIn this case, the actual yield is the amount of product the student obtained, which is 4.5 grams. The theoretical yield is the amount of product they calculated they should have produced, which is 5.0 grams.\n\nNow, we can plug these values into the formula:\n\nPercent yield = (4.5 grams / 5.0 grams) x 100\n\nPercent yield = 0.9 x 100\n\nPercent yield = 90%\n\nSo, the percent yield of the reaction is 90%."
+}

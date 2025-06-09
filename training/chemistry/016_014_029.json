@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of sublimation calculations",
+    "message_1": "Calculate the Heat of Sublimation of iodine (I2) if 20.0 grams of iodine sublimate at standard temperature and pressure (STP) from a solid to a gas phase absorbing 62.30 kJ of heat energy in the process.",
+    "message_2": "To calculate the heat of sublimation of iodine (I2), we need to determine the amount of heat energy required to convert 1 mole of iodine from solid to gas phase. \n\nFirst, we need to find the number of moles of iodine in 20.0 grams. The molar mass of iodine (I2) is 253.8 g/mol (2 x 126.9 g/mol).\n\nNumber of moles = mass / molar mass\nNumber of moles = 20.0 g / 253.8 g/mol\nNumber of moles = 0.0788 mol\n\nNow, we know that 0.0788 moles of iodine absorb 62.30 kJ of heat energy during sublimation. To find the heat of sublimation per mole, we can use the following equation:\n\nHeat of sublimation (kJ/mol) = Heat energy absorbed (kJ) / Number of moles (mol)\n\nHeat of sublimation (kJ/mol) = 62.30 kJ / 0.0788 mol\nHeat of sublimation (kJ/mol) ≈ 790.4 kJ/mol\n\nTherefore, the heat of sublimation of iodine (I2) is approximately 790.4 kJ/mol."
+}

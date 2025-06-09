@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Hess's Law calculations",
+    "message_1": "A student needs to calculate the standard enthalpy of formation of magnesium oxide, MgO, using Hess's Law. The student has access to the following reactions and their corresponding enthalpy changes:\n\n1. Mg(s) + 1/2O2(g) → MgO(s)   ΔH = -601.8 kJ/mol\n2. Mg(s) + 2HCl(aq) → MgCl2(aq) + H2(g)   ΔH = -450.7 kJ/mol\n3. H2(g) + 1/2O2(g) → H2O(l)   ΔH = -285.8 kJ/mol\n\nWhat is the standard enthalpy of formation of MgO from its elements?",
+    "message_2": "The standard enthalpy of formation of MgO from its elements is already given in the first reaction:\n\nMg(s) + 1/2O2(g) → MgO(s)   ΔH = -601.8 kJ/mol\n\nThis reaction represents the formation of one mole of MgO from its elements, magnesium (Mg) and oxygen (O2), in their standard states. Therefore, the standard enthalpy of formation of MgO is -601.8 kJ/mol."
+}

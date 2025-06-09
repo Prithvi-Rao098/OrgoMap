@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of desorption calculations",
+    "message_1": "Calculate the enthalpy change of desorption for a solid substance using the given data: The mass of the substance is 2.5 g, and the temperature change during desorption is 25 °C. The heat capacity of the substance is 1.5 J/g·°C. The molar mass of the substance is 150 g/mol. Assume that the desorption process takes place at constant pressure.",
+    "message_2": "To calculate the enthalpy change of desorption, we can use the formula:\n\nΔH = m × C × ΔT\n\nwhere ΔH is the enthalpy change, m is the mass of the substance, C is the heat capacity, and ΔT is the temperature change.\n\nGiven data:\nm = 2.5 g\nC = 1.5 J/g·°C\nΔT = 25 °C\n\nNow, we can plug in the values into the formula:\n\nΔH = (2.5 g) × (1.5 J/g·°C) × (25 °C)\n\nΔH = 93.75 J\n\nThe enthalpy change of desorption for the solid substance is 93.75 J."
+}

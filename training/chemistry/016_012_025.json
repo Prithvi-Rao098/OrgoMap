@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of neutralization calculations",
+    "message_1": "Sure, here's a question for the student to solve:\n\nCalculate the heat released or absorbed when 50.0 mL of 1.0 M hydrochloric acid is added to 50.0 mL of 1.0 M sodium hydroxide at 25°C. The heat capacity of the solution is 4.18 J/g°C and the density of the solution is 1.00 g/mL. The heat of neutralization for the reaction is -57.1 kJ/mol. Is the reaction exothermic or endothermic?",
+    "message_2": "To solve this problem, we first need to determine the number of moles of both hydrochloric acid (HCl) and sodium hydroxide (NaOH) in the solution.\n\nMoles of HCl = (volume in L) × (concentration in mol/L)\nMoles of HCl = (50.0 mL × (1 L/1000 mL)) × (1.0 mol/L) = 0.050 mol\n\nMoles of NaOH = (volume in L) × (concentration in mol/L)\nMoles of NaOH = (50.0 mL × (1 L/1000 mL)) × (1.0 mol/L) = 0.050 mol\n\nSince the moles of HCl and NaOH are equal, the reaction will go to completion, and all of the acid and base will react.\n\nThe balanced chemical equation for the reaction is:\nHCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)\n\nNow, we can calculate the heat released or absorbed during the reaction using the heat of neutralization.\n\nHeat released or absorbed = (moles of HCl) × (heat of neutralization)\nHeat released or absorbed = (0.050 mol) × (-57.1 kJ/mol) = -2.855 kJ\n\nSince the heat released or absorbed is negative, the reaction is exothermic, meaning it releases heat."
+}

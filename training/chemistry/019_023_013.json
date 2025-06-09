@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving aqueous solutions",
+    "message_1": "Determine the standard enthalpy change of the reaction between 50.0 mL of 0.200 M hydrochloric acid (HCl) and 50.0 mL of 0.100 M sodium hydroxide (NaOH) at 25°C. The reaction is a neutralization reaction between HCl and NaOH, and the products are water and sodium chloride (NaCl). The molar enthalpy of formation of NaCl is -411.2 kJ/mol, and the specific heat capacity of the aqueous solution is 4.18 J/g°C.",
+    "message_2": "First, we need to determine the limiting reactant in the reaction between HCl and NaOH. \n\nThe balanced chemical equation for the reaction is:\n\nHCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)\n\nMoles of HCl = (volume in L) × (concentration in mol/L)\nMoles of HCl = (50.0 mL × (1 L / 1000 mL)) × 0.200 mol/L = 0.0100 mol\n\nMoles of NaOH = (volume in L) × (concentration in mol/L)\nMoles of NaOH = (50.0 mL × (1 L / 1000 mL)) × 0.100 mol/L = 0.00500 mol\n\nSince there are fewer moles of NaOH, it is the limiting reactant.\n\nNow, we can calculate the enthalpy change of the reaction using the molar enthalpy of formation of NaCl.\n\nΔH_reaction = moles of NaOH × ΔH_formation of NaCl\nΔH_reaction = 0.00500 mol × (-411.2 kJ/mol) = -2.056 kJ\n\nThe standard enthalpy change of the reaction between 50.0 mL of 0.200 M hydrochloric acid and 50.0 mL of 0.100 M sodium hydroxide at 25°C is -2.056 kJ."
+}

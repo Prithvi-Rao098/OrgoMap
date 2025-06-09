@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat capacity calculations",
+    "message_1": "What is the heat capacity of a 25 g aluminum block if it absorbs 288 Joules of heat and its temperature rises by 15°C?",
+    "message_2": "To find the heat capacity of the aluminum block, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat absorbed (in Joules), m is the mass of the block (in grams), c is the specific heat capacity of aluminum (in J/g°C), and ΔT is the change in temperature (in °C).\n\nWe are given the values for Q (288 J), m (25 g), and ΔT (15°C). The specific heat capacity of aluminum, c, is 0.897 J/g°C. We can rearrange the formula to solve for the heat capacity:\n\nc = Q / (mΔT)\n\nSubstituting the given values:\n\nc = 288 J / (25 g × 15°C)\n\nc = 288 J / 375 g°C\n\nc ≈ 0.768 J/g°C\n\nThe heat capacity of the 25 g aluminum block is approximately 0.768 J/g°C."
+}

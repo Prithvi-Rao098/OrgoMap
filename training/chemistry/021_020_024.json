@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the heat of formation of a molecule",
+    "message_1": "What is the heat of formation of carbon dioxide (CO2) at standard conditions, given the following information:\n\nCO2(g) + O2(g) → CO2(g)      ∆H = -393.5 kJ/mol (1)\n\nC(s) + O2(g) → CO2(g)        ∆H = -393.5 kJ/mol (2)\n\n∆Hf° [C(s)] = 0 kJ/mol\n\n∆Hf° [O2(g)] = 0 kJ/mol\n\nNote: Standard conditions refer to a temperature of 25°C (298 K) and pressure of 1 atm.",
+    "message_2": "The heat of formation (∆Hf°) of a compound is the change in enthalpy when one mole of the compound is formed from its elements in their standard states. In this case, we want to find the heat of formation of carbon dioxide (CO2) at standard conditions.\n\nGiven the information:\n\nC(s) + O2(g) → CO2(g)        ∆H = -393.5 kJ/mol (2)\n\n∆Hf° [C(s)] = 0 kJ/mol\n\n∆Hf° [O2(g)] = 0 kJ/mol\n\nSince the heat of formation for the elements carbon (C) and oxygen (O2) in their standard states is 0 kJ/mol, the heat of formation for CO2 is the same as the enthalpy change for the reaction (2):\n\n∆Hf° [CO2(g)] = -393.5 kJ/mol\n\nSo, the heat of formation of carbon dioxide (CO2) at standard conditions is -393.5 kJ/mol."
+}

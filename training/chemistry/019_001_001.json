@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of enthalpy change for a chemical reaction",
+    "message_1": "What is the standard enthalpy change of combustion for methane gas (CH4) at 298 K? Given that the standard enthalpy of formation of CO2(g) and H2O(l) are -393.5 kJ/mol and -285.8 kJ/mol, respectively.",
+    "message_2": "To calculate the standard enthalpy change of combustion for methane gas (CH4), we need to use the following equation:\n\nΔH_combustion = Σ ΔH_f(products) - Σ ΔH_f(reactants)\n\nThe balanced combustion reaction for methane is:\n\nCH4(g) + 2 O2(g) → CO2(g) + 2 H2O(l)\n\nNow, we need to find the standard enthalpy of formation (ΔH_f) for each substance involved in the reaction. We are given the values for CO2(g) and H2O(l), but we also need the values for CH4(g) and O2(g). The standard enthalpy of formation for O2(g) is 0 kJ/mol since it is in its elemental form. The standard enthalpy of formation for CH4(g) is -74.8 kJ/mol.\n\nNow, we can plug these values into the equation:\n\nΔH_combustion = [1 × (-393.5 kJ/mol) + 2 × (-285.8 kJ/mol)] - [1 × (-74.8 kJ/mol) + 2 × (0 kJ/mol)]\n\nΔH_combustion = (-393.5 - 571.6) - (-74.8)\n\nΔH_combustion = -965.1 + 74.8\n\nΔH_combustion = -890.3 kJ/mol\n\nSo, the standard enthalpy change of combustion for methane gas (CH4) at 298 K is -890.3 kJ/mol."
+}

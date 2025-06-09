@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the heat of formation of a molecule",
+    "message_1": "What is the heat of formation of methane (CH4) given the following information: The heat of formation of carbon dioxide (CO2) is -393.5 kJ/mol, the heat of formation of water (H2O) is -241.8 kJ/mol, and the heat of combustion of methane is -890.1 kJ/mol.",
+    "message_2": "To find the heat of formation of methane (CH4), we can use the following combustion reaction:\n\nCH4 (g) + 2 O2 (g) → CO2 (g) + 2 H2O (l)\n\nThe heat of combustion of methane is given as -890.1 kJ/mol. According to Hess's Law, the heat of formation of the products minus the heat of formation of the reactants is equal to the heat of the reaction:\n\nΔH_reaction = Σ ΔHf_products - Σ ΔHf_reactants\n\nIn this case, the heat of formation of O2 is 0 kJ/mol since it is in its elemental form. We can now plug in the given values and solve for the heat of formation of methane (ΔHf_CH4):\n\n-890.1 kJ/mol = [(-393.5 kJ/mol) + 2(-241.8 kJ/mol)] - [ΔHf_CH4 + 2(0 kJ/mol)]\n\n-890.1 kJ/mol = -393.5 kJ/mol - 483.6 kJ/mol - ΔHf_CH4\n\nΔHf_CH4 = -393.5 kJ/mol - 483.6 kJ/mol + 890.1 kJ/mol\n\nΔHf_CH4 = 13.0 kJ/mol\n\nTherefore, the heat of formation of methane (CH4) is 13.0 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Quantum chemistry",
+    "sub_topic": "Calculation of molecular vibrational frequencies and infrared spectra.",
+    "message_1": "What is the vibrational frequency of the carbon-oxygen double bond in formaldehyde, and how does it contribute to the infrared spectrum of the molecule?",
+    "message_2": "The vibrational frequency of the carbon-oxygen double bond in formaldehyde (H2CO) is approximately 1746 cm^-1. This value can vary slightly depending on the specific sample and measurement conditions.\n\nIn the infrared (IR) spectrum of a molecule, vibrational frequencies correspond to the absorption of IR radiation by the molecule, causing it to vibrate. The carbon-oxygen double bond in formaldehyde contributes to the IR spectrum by absorbing IR radiation at its characteristic vibrational frequency, which is around 1746 cm^-1. This absorption appears as a peak in the IR spectrum, allowing chemists to identify the presence of a carbon-oxygen double bond in the molecule.\n\nIt is important to note that the IR spectrum of a molecule is influenced by all the vibrational modes present in the molecule, not just the carbon-oxygen double bond. In the case of formaldehyde, there are other vibrational modes, such as C-H stretching and bending, that also contribute to the IR spectrum. However, the C=O stretching frequency is often one of the most prominent and easily identifiable features in the spectrum of molecules containing a carbonyl group."
+}

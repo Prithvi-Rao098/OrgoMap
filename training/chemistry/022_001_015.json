@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Balancing chemical equations",
+    "message_1": "Balance the following chemical equation: \nFe + O2 → Fe2O3",
+    "message_2": "To balance the chemical equation Fe + O2 → Fe2O3, follow these steps:\n\n1. Count the number of atoms of each element on both sides of the equation.\n   Reactants: 1 Fe and 2 O\n   Products: 2 Fe and 3 O\n\n2. Balance the Fe atoms by placing a coefficient in front of the Fe on the reactant side.\n   2Fe + O2 → Fe2O3\n\n3. Now, there are 2 Fe atoms on both sides, but the O atoms are still unbalanced. To balance the O atoms, place a coefficient in front of the O2 on the reactant side.\n   2Fe + 3/2O2 → Fe2O3\n\n4. However, it is not ideal to have a fraction as a coefficient. To get rid of the fraction, multiply the entire equation by 2.\n   2(2Fe + 3/2O2 → Fe2O3)\n\n5. Simplify the equation.\n   4Fe + 3O2 → 2Fe2O3\n\nNow, the balanced chemical equation is:\n4Fe + 3O2 → 2Fe2O3"
+}

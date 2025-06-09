@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the bond dissociation energy of a molecule",
+    "message_1": "Calculate the bond dissociation energy of the H-H bond in the H2 molecule. Given the bond length of H2 is 74 pm and the enthalpy change for the reaction H2(g) → 2H(g) is 436 kJ/mol.",
+    "message_2": "The bond dissociation energy is the energy required to break a bond in a molecule. In this case, we are given the enthalpy change for the reaction H2(g) → 2H(g), which is the same as the bond dissociation energy for the H-H bond in the H2 molecule.\n\nThe enthalpy change for the reaction is given as 436 kJ/mol. Therefore, the bond dissociation energy of the H-H bond in the H2 molecule is 436 kJ/mol."
+}

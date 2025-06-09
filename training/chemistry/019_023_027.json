@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving aqueous solutions",
+    "message_1": "What is the standard enthalpy change for the following reaction in aqueous solution at 25°C and 1 atm pressure?\n\n2 NaOH (aq) + H2SO4 (aq) → Na2SO4 (aq) + 2 H2O (l) \n\nGiven the following standard enthalpy changes of formation: \n∆Hf° (NaOH) = -469.1 kJ/mol \n∆Hf° (H2SO4) = -811.5 kJ/mol \n∆Hf° (Na2SO4) = -1388.2 kJ/mol \n∆Hf° (H2O) = -285.8 kJ/mol. \n\nExpress the answer to two significant figures and state whether the reaction is exothermic or endothermic.",
+    "message_2": "To calculate the standard enthalpy change for the reaction, we can use the following formula:\n\nΔH°(reaction) = Σ [ΔHf°(products)] - Σ [ΔHf°(reactants)]\n\nFor the given reaction:\n\nΔH°(reaction) = [1 * ΔHf°(Na2SO4) + 2 * ΔHf°(H2O)] - [2 * ΔHf°(NaOH) + 1 * ΔHf°(H2SO4)]\n\nΔH°(reaction) = [1 * (-1388.2 kJ/mol) + 2 * (-285.8 kJ/mol)] - [2 * (-469.1 kJ/mol) + 1 * (-811.5 kJ/mol)]\n\nΔH°(reaction) = [-1388.2 kJ/mol - 571.6 kJ/mol] - [-938.2 kJ/mol - 811.5 kJ/mol]\n\nΔH°(reaction) = -1959.8 kJ/mol + 1749.7 kJ/mol\n\nΔH°(reaction) = -210.1 kJ/mol\n\nThe standard enthalpy change for the reaction is -210 kJ/mol (rounded to two significant figures). Since the value is negative, the reaction is exothermic."
+}

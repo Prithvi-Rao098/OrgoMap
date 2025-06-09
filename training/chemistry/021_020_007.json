@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the heat of formation of a molecule",
+    "message_1": "What is the heat of formation of hydrogen chloride (HCl) if the enthalpy change of the reaction 2H2(g) + Cl2(g) -> 2HCl(g) is -184.6 kJ/mol?",
+    "message_2": "The heat of formation of hydrogen chloride (HCl) can be calculated from the given enthalpy change of the reaction. The reaction is:\n\n2H2(g) + Cl2(g) -> 2HCl(g)\n\nThe enthalpy change for this reaction is -184.6 kJ/mol. Since 2 moles of HCl are formed in the reaction, we can divide the enthalpy change by 2 to find the heat of formation for 1 mole of HCl:\n\nHeat of formation of HCl = (-184.6 kJ/mol) / 2 = -92.3 kJ/mol\n\nSo, the heat of formation of hydrogen chloride (HCl) is -92.3 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of isomerization calculations",
+    "message_1": "Calculate the enthalpy change for the isomerization of n-butane to iso-butane if the standard enthalpy of formation for n-butane is -125.7 kJ/mol and that for iso-butane is -147.4 kJ/mol. The isomerization reaction occurs at a constant pressure of 1 atm and at a temperature of 298 K.",
+    "message_2": "To calculate the enthalpy change for the isomerization of n-butane to iso-butane, we can use the following equation:\n\nΔH_reaction = Σ ΔH_f(products) - Σ ΔH_f(reactants)\n\nFor the isomerization reaction, the reactant is n-butane and the product is iso-butane. The given standard enthalpies of formation are:\n\nΔH_f(n-butane) = -125.7 kJ/mol\nΔH_f(iso-butane) = -147.4 kJ/mol\n\nNow, we can plug these values into the equation:\n\nΔH_reaction = [ΔH_f(iso-butane)] - [ΔH_f(n-butane)]\nΔH_reaction = (-147.4 kJ/mol) - (-125.7 kJ/mol)\n\nΔH_reaction = -147.4 + 125.7\nΔH_reaction = -21.7 kJ/mol\n\nThe enthalpy change for the isomerization of n-butane to iso-butane is -21.7 kJ/mol."
+}

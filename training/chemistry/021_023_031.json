@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the isomerism of a molecule",
+    "message_1": "How many different isomers can be formed for a molecule having the chemical formula C4H10O? Provide the structures for each isomer.",
+    "message_2": "There are seven different isomers for a molecule having the chemical formula C4H10O. Here are the structures for each isomer:\n\n1. Butan-1-ol (1-Butanol)\nStructure: CH3-CH2-CH2-CH2-OH\n\n2. Butan-2-ol (2-Butanol)\nStructure: CH3-CH2-CH(OH)-CH3\n\n3. 2-Methylpropan-1-ol (Isobutanol)\nStructure: (CH3)2-CH-CH2-OH\n\n4. 2-Methylpropan-2-ol (tert-Butanol)\nStructure: (CH3)3-C-OH\n\n5. Methoxypropane (1-Methoxypropane)\nStructure: CH3-O-CH2-CH2-CH3\n\n6. 1-Methoxybutane (2-Methoxypropane)\nStructure: CH3-CH2-O-CH2-CH3\n\n7. 2-Methoxybutane\nStructure: CH3-CH(O-CH3)-CH2-CH3"
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Titration problems.",
+    "message_1": "What volume of a 0.1 M NaOH solution is required to neutralize 50 mL of a 0.2 M HCl solution in a titration experiment with an indicator that changes color at a pH of 7?",
+    "message_2": "To determine the volume of the 0.1 M NaOH solution required to neutralize the 50 mL of 0.2 M HCl solution, we can use the concept of moles and the balanced chemical equation:\n\nHCl + NaOH → NaCl + H2O\n\nFrom the balanced equation, we can see that one mole of HCl reacts with one mole of NaOH.\n\nFirst, we need to find the moles of HCl in the 50 mL solution:\n\nmoles of HCl = Molarity × Volume\nmoles of HCl = 0.2 M × 0.050 L (converting mL to L)\nmoles of HCl = 0.010 moles\n\nSince the mole ratio of HCl to NaOH is 1:1, we need 0.010 moles of NaOH to neutralize the HCl solution.\n\nNow, we can find the volume of the 0.1 M NaOH solution required:\n\nVolume of NaOH = moles of NaOH / Molarity\nVolume of NaOH = 0.010 moles / 0.1 M\nVolume of NaOH = 0.100 L\n\nConverting liters to milliliters:\n\nVolume of NaOH = 0.100 L × 1000 mL/L\nVolume of NaOH = 100 mL\n\nSo, 100 mL of the 0.1 M NaOH solution is required to neutralize the 50 mL of the 0.2 M HCl solution."
+}

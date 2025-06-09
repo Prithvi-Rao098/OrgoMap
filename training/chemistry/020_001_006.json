@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the equilibrium constant for a given reaction",
+    "message_1": "What is the equilibrium constant at 25°C for the reaction below if the concentration of NOCl is 0.20 M, the concentration of NO is 0.15 M, and the concentration of Cl2 is 0.10 M?\n\n2NOCl (g) ⇌ 2NO (g) + Cl2 (g)",
+    "message_2": "To find the equilibrium constant (Kc) for the given reaction, we can use the expression:\n\nKc = [NO]^2 * [Cl2] / [NOCl]^2\n\nGiven the concentrations of the reactants and products at equilibrium:\n\n[NOCl] = 0.20 M\n[NO] = 0.15 M\n[Cl2] = 0.10 M\n\nPlug these values into the Kc expression:\n\nKc = (0.15)^2 * (0.10) / (0.20)^2\n\nKc = 0.0225 * 0.10 / 0.04\n\nKc = 0.05625\n\nThe equilibrium constant (Kc) for the reaction at 25°C is approximately 0.056."
+}

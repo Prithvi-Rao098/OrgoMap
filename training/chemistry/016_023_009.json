@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of hydrolysis calculations",
+    "message_1": "Calculate the standard enthalpy of hydrolysis for the following reaction: \nAlCl3 + 3H2O → Al(OH)3 + 3HCl \nGiven that the standard enthalpies of formation for AlCl3(-696.5 kJ/mol), Al(OH)3(-1277.1 kJ/mol), and HCl(-92.3 kJ/mol) are known.",
+    "message_2": "To calculate the standard enthalpy of hydrolysis for the given reaction, we can use the following equation:\n\nΔH_reaction = Σ ΔH_f(products) - Σ ΔH_f(reactants)\n\nwhere ΔH_reaction is the standard enthalpy of hydrolysis, ΔH_f(products) are the standard enthalpies of formation for the products, and ΔH_f(reactants) are the standard enthalpies of formation for the reactants.\n\nFor the given reaction:\n\nAlCl3 + 3H2O → Al(OH)3 + 3HCl\n\nThe standard enthalpies of formation are:\n\nΔH_f(AlCl3) = -696.5 kJ/mol\nΔH_f(Al(OH)3) = -1277.1 kJ/mol\nΔH_f(HCl) = -92.3 kJ/mol\n\nNow, we can calculate the standard enthalpy of hydrolysis:\n\nΔH_reaction = [1 × ΔH_f(Al(OH)3) + 3 × ΔH_f(HCl)] - [1 × ΔH_f(AlCl3)]\n\nΔH_reaction = [1 × (-1277.1 kJ/mol) + 3 × (-92.3 kJ/mol)] - [1 × (-696.5 kJ/mol)]\n\nΔH_reaction = (-1277.1 kJ/mol - 276.9 kJ/mol) + 696.5 kJ/mol\n\nΔH_reaction = -857.5 kJ/mol\n\nTherefore, the standard enthalpy of hydrolysis for the given reaction is -857.5 kJ/mol."
+}

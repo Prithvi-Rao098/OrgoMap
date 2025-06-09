@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the bond dissociation energy of a molecule",
+    "message_1": "What is the bond dissociation energy of methane (CH4)? Use the given bond energies: C-H bond energy = 413 kJ/mol and C-C bond energy = 348 kJ/mol.",
+    "message_2": "The bond dissociation energy of methane (CH4) can be calculated using the given C-H bond energy. Methane has 4 C-H bonds, and we are given that the energy of one C-H bond is 413 kJ/mol. \n\nTo find the total bond dissociation energy of methane, we simply multiply the energy of one C-H bond by the number of C-H bonds in methane:\n\nBond dissociation energy of CH4 = (C-H bond energy) × (number of C-H bonds)\n= 413 kJ/mol × 4\n= 1652 kJ/mol\n\nSo, the bond dissociation energy of methane (CH4) is 1652 kJ/mol."
+}

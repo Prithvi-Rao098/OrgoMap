@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of dissolution calculations",
+    "message_1": "What is the enthalpy change when 50.0 grams of ammonium chloride (NH4Cl) is dissolved in 250.0 mL of water at 25°C? The molar enthalpy of dissolution of NH4Cl is -14.8 kJ/mol.",
+    "message_2": "To calculate the enthalpy change, we first need to determine the number of moles of NH4Cl in 50.0 grams. The molar mass of NH4Cl is:\n\nMolar mass of NH4Cl = 14.01 (N) + 4 * 1.01 (H) + 35.45 (Cl) = 53.49 g/mol\n\nNow, we can find the number of moles of NH4Cl:\n\nmoles of NH4Cl = mass / molar mass = 50.0 g / 53.49 g/mol = 0.934 mol\n\nNext, we can use the molar enthalpy of dissolution to find the enthalpy change:\n\nEnthalpy change = moles * molar enthalpy of dissolution = 0.934 mol * (-14.8 kJ/mol) = -13.82 kJ\n\nTherefore, the enthalpy change when 50.0 grams of ammonium chloride is dissolved in 250.0 mL of water at 25°C is -13.82 kJ."
+}

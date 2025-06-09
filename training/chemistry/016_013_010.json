@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of hydration calculations",
+    "message_1": "Calculate the heat of hydration of CuSO4.5H2O given that the enthalpy change for the reaction CuSO4.5H2O(s) -> CuSO4(s) + 5H2O(l) is -90.6 kJ/mol. Assume that the specific heat of the hydrated salt is 4.2 J/g*K and the density of the solution is 1.05 g/mL.",
+    "message_2": "To calculate the heat of hydration of CuSO4.5H2O, we need to determine the enthalpy change when one mole of anhydrous CuSO4 is dissolved in water to form the hydrated salt.\n\nFirst, let's write the balanced equation for the dissolution of CuSO4 in water:\n\nCuSO4(s) + 5H2O(l) -> CuSO4.5H2O(s)\n\nWe are given the enthalpy change for the reverse reaction:\n\nCuSO4.5H2O(s) -> CuSO4(s) + 5H2O(l) ΔH = -90.6 kJ/mol\n\nSince the enthalpy change for the reverse reaction is -90.6 kJ/mol, the enthalpy change for the forward reaction (hydration of CuSO4) will be the opposite sign:\n\nCuSO4(s) + 5H2O(l) -> CuSO4.5H2O(s) ΔH = +90.6 kJ/mol\n\nSo, the heat of hydration of CuSO4.5H2O is +90.6 kJ/mol."
+}

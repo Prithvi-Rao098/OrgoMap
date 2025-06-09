@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of entropy change for a chemical reaction",
+    "message_1": "Calculate the standard entropy change for the reaction below at a temperature of 298 K:\n\nCH4(g) + 2O2(g) → CO2(g) + 2H2O(g) \n\nThe standard molar entropies are as follows: \nS(CH4) = 186.3 J K^-1 mol^-1\nS(O2) = 205.0 J K^-1 mol^-1\nS(CO2) = 213.7 J K^-1 mol^-1\nS(H2O) = 188.8 J K^-1 mol^-1",
+    "message_2": "To calculate the standard entropy change for the reaction, we can use the following equation:\n\nΔS° = ΣS°(products) - ΣS°(reactants)\n\nFor the reactants:\n1 mol of CH4: S(CH4) = 186.3 J K^-1 mol^-1\n2 mol of O2: S(O2) = 2 * 205.0 J K^-1 mol^-1 = 410.0 J K^-1 mol^-1\n\nFor the products:\n1 mol of CO2: S(CO2) = 213.7 J K^-1 mol^-1\n2 mol of H2O: S(H2O) = 2 * 188.8 J K^-1 mol^-1 = 377.6 J K^-1 mol^-1\n\nNow, we can calculate the standard entropy change:\n\nΔS° = (213.7 + 377.6) - (186.3 + 410.0)\nΔS° = 591.3 - 596.3\nΔS° = -5.0 J K^-1 mol^-1\n\nThe standard entropy change for the reaction at 298 K is -5.0 J K^-1 mol^-1."
+}

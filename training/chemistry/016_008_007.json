@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of fusion calculations",
+    "message_1": "What is the amount of heat required to melt 10 g of ice at 0°C, given that the heat of fusion of water is 6.01 kJ/mol?",
+    "message_2": "First, we need to find the number of moles of ice. The molar mass of water (H₂O) is 18.015 g/mol.\n\nNumber of moles = mass / molar mass\nNumber of moles = 10 g / 18.015 g/mol ≈ 0.555 moles\n\nNow, we can use the heat of fusion of water (6.01 kJ/mol) to find the amount of heat required to melt the ice.\n\nHeat required = number of moles × heat of fusion\nHeat required = 0.555 moles × 6.01 kJ/mol ≈ 3.34 kJ\n\nTherefore, the amount of heat required to melt 10 g of ice at 0°C is approximately 3.34 kJ."
+}

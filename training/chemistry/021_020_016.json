@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the heat of formation of a molecule",
+    "message_1": "What is the heat of formation of methane (CH4), given that the heat of combustion for methane is -890.3 kJ/mol and the bond dissociation energies for C-H and H-H bonds are 414 kJ/mol and 436 kJ/mol respectively?",
+    "message_2": "To find the heat of formation of methane (ΔHf°), we can use the following equation:\n\nΔHf° = ΣΔHf°(products) - ΣΔHf°(reactants)\n\nFor the combustion of methane, the balanced chemical equation is:\n\nCH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)\n\nThe heat of combustion for methane (ΔHc°) is given as -890.3 kJ/mol. We can use Hess's Law to relate the heat of combustion to the heat of formation:\n\nΔHc° = ΣΔHf°(products) - ΣΔHf°(reactants)\n\nWe know the heat of formation for O₂(g) is 0 kJ/mol because it is an element in its standard state. We also know the heat of formation for CO₂(g) and H₂O(l) are -393.5 kJ/mol and -285.8 kJ/mol, respectively.\n\nNow, we can plug these values into the equation:\n\n-890.3 kJ/mol = [(-393.5 kJ/mol) + 2(-285.8 kJ/mol)] - [ΔHf°(CH₄) + 2(0 kJ/mol)]\n\nSolving for ΔHf°(CH₄):\n\nΔHf°(CH₄) = [(-393.5 kJ/mol) + 2(-285.8 kJ/mol)] - (-890.3 kJ/mol)\nΔHf°(CH₄) = [-393.5 kJ/mol - 571.6 kJ/mol + 890.3 kJ/mol]\nΔHf°(CH₄) = -74.8 kJ/mol\n\nTherefore, the heat of formation of methane (CH₄) is -74.8 kJ/mol."
+}

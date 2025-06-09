@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of enthalpy change for a chemical reaction",
+    "message_1": "Calculate the enthalpy change for the combustion of 2 moles of methane gas (CH4) at constant pressure, given that the standard enthalpy of formation (ΔHf) of methane gas is -74.8 kJ/mol. Express your answer in kilojoules (kJ).",
+    "message_2": "To calculate the enthalpy change for the combustion of 2 moles of methane gas, we first need to write the balanced chemical equation for the combustion of methane:\n\nCH4(g) + 2 O2(g) → CO2(g) + 2 H2O(l)\n\nNext, we need the standard enthalpies of formation (ΔHf) for all the compounds involved in the reaction. We are given the ΔHf for methane gas (CH4) as -74.8 kJ/mol. The standard enthalpies of formation for O2(g), CO2(g), and H2O(l) are 0 kJ/mol, -393.5 kJ/mol, and -285.8 kJ/mol, respectively.\n\nNow we can use Hess's Law to calculate the enthalpy change for the reaction:\n\nΔH = Σ ΔHf(products) - Σ ΔHf(reactants)\n\nΔH = [1 * (-393.5 kJ/mol) + 2 * (-285.8 kJ/mol)] - [1 * (-74.8 kJ/mol) + 2 * 0 kJ/mol]\n\nΔH = (-393.5 - 571.6 + 74.8) kJ/mol\n\nΔH = -890.3 kJ/mol\n\nSince we want to calculate the enthalpy change for the combustion of 2 moles of methane gas, we multiply the enthalpy change per mole by 2:\n\nΔH_total = 2 * (-890.3 kJ/mol) = -1780.6 kJ\n\nSo, the enthalpy change for the combustion of 2 moles of methane gas at constant pressure is -1780.6 kJ."
+}

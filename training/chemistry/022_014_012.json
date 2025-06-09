@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Limiting reactant problems",
+    "message_1": "What is the mass of carbon dioxide produced when 5.0 grams of methane reacts with 20.0 grams of oxygen? (Assuming methane is the limiting reactant)",
+    "message_2": "To solve this problem, we will use the stoichiometry of the balanced chemical equation for the combustion of methane:\n\nCH₄ + 2O₂ → CO₂ + 2H₂O\n\nFirst, we need to find the molar mass of each substance involved:\n\nMolar mass of CH₄ (methane) = 12.01 g/mol (C) + 4 * 1.01 g/mol (H) = 16.05 g/mol\nMolar mass of O₂ (oxygen) = 2 * 16.00 g/mol = 32.00 g/mol\nMolar mass of CO₂ (carbon dioxide) = 12.01 g/mol (C) + 2 * 16.00 g/mol (O) = 44.01 g/mol\n\nNow, we will convert the given mass of reactants to moles:\n\nMoles of CH₄ = 5.0 g / 16.05 g/mol ≈ 0.3115 mol\nMoles of O₂ = 20.0 g / 32.00 g/mol ≈ 0.6250 mol\n\nSince methane is the limiting reactant, we will use its moles to find the moles of carbon dioxide produced:\n\nMoles of CO₂ = 0.3115 mol CH₄ * (1 mol CO₂ / 1 mol CH₄) = 0.3115 mol CO₂\n\nFinally, we will convert the moles of CO₂ to grams:\n\nMass of CO₂ = 0.3115 mol * 44.01 g/mol ≈ 13.71 g\n\nSo, the mass of carbon dioxide produced when 5.0 grams of methane reacts with 20.0 grams of oxygen is approximately 13.71 grams."
+}

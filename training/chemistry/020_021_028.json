@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Determining the equilibrium constant for a redox reaction",
+    "message_1": "What is the equilibrium constant (Kc) for the redox reaction between iodine (I2) and iodide ions (I-) if the concentration of I2 is 0.025 M and the concentration of I- is 0.10 M at equilibrium? The balanced equation for the reaction is: \n\nI2(aq) + 2I-(aq) ⇌ 2I-(aq) + I2(aq) \n\nThe student should show all the steps taken to find the value of Kc for this reaction.",
+    "message_2": "The balanced equation for the reaction is:\n\nI2(aq) + 2I-(aq) ⇌ 2I-(aq) + I2(aq)\n\nHowever, this equation is incorrect for a redox reaction between iodine and iodide ions. The correct balanced equation for the redox reaction is:\n\nI2(aq) + 2e- ⇌ 2I-(aq)\n\nNow, we can determine the equilibrium constant (Kc) for this reaction. The expression for Kc is:\n\nKc = [I-]^2 / [I2]\n\nGiven the concentrations of I2 and I- at equilibrium:\n\n[I2] = 0.025 M\n[I-] = 0.10 M\n\nPlug these values into the Kc expression:\n\nKc = (0.10)^2 / (0.025)\nKc = 0.01 / 0.025\nKc = 0.4\n\nTherefore, the equilibrium constant (Kc) for the redox reaction between iodine (I2) and iodide ions (I-) is 0.4."
+}

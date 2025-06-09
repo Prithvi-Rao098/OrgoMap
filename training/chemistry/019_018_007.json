@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a phase transition reaction",
+    "message_1": "Calculate the standard enthalpy change (ΔH°) for the phase transition reaction of ice to water, given that the enthalpy of fusion for ice is 6.01 kJ/mol and the specific heat capacity of water is 4.18 J/g·°C. Express your answer in kJ/mol.",
+    "message_2": "The standard enthalpy change (ΔH°) for the phase transition reaction of ice to water is simply the enthalpy of fusion for ice, as it represents the energy required to convert one mole of ice to one mole of water at constant temperature and pressure.\n\nTherefore, the standard enthalpy change (ΔH°) for the phase transition reaction of ice to water is 6.01 kJ/mol."
+}

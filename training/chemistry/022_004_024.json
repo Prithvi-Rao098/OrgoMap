@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Redox reactions",
+    "message_1": "What is the balanced redox reaction that occurs when potassium permanganate is added to a solution of iron(II) sulfate in acidic conditions?",
+    "message_2": "When potassium permanganate (KMnO4) is added to a solution of iron(II) sulfate (FeSO4) in acidic conditions, the following redox reaction occurs:\n\nUnbalanced reaction:\nMnO4- + Fe2+ -> Mn2+ + Fe3+\n\nTo balance the reaction, first balance the atoms other than hydrogen and oxygen:\n\n2 Fe2+ -> 2 Fe3+\n\nNext, balance the oxygen atoms by adding water molecules:\n\nMnO4- -> Mn2+ + 4 H2O\n\nNow, balance the hydrogen atoms by adding hydrogen ions (H+):\n\n8 H+ + MnO4- -> Mn2+ + 4 H2O\n\nFinally, balance the charges by adding electrons (e-):\n\n8 H+ + MnO4- + 5 e- -> Mn2+ + 4 H2O\n\nNow, balance the electrons in both half-reactions:\n\n2(8 H+ + MnO4- + 5 e- -> Mn2+ + 4 H2O)\n5(2 Fe2+ -> 2 Fe3+ + 2 e-)\n\nCombine the half-reactions:\n\n16 H+ + 2 MnO4- + 10 Fe2+ -> 2 Mn2+ + 8 H2O + 10 Fe3+\n\nThis is the balanced redox reaction that occurs when potassium permanganate is added to a solution of iron(II) sulfate in acidic conditions."
+}

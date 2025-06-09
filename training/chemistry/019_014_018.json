@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a precipitation reaction",
+    "message_1": "What is the standard enthalpy change for the precipitation reaction between aqueous solutions of lead(II) nitrate and potassium iodide that produces solid lead(II) iodide and aqueous potassium nitrate, given the balanced chemical equation?",
+    "message_2": "To determine the standard enthalpy change for the precipitation reaction between aqueous solutions of lead(II) nitrate and potassium iodide, we first need the balanced chemical equation for the reaction:\n\nPb(NO₃)₂(aq) + 2 KI(aq) → PbI₂(s) + 2 KNO₃(aq)\n\nNext, we need the standard enthalpies of formation (ΔHf°) for each of the compounds involved in the reaction. These values can be found in a standard thermodynamic table. The values are:\n\nΔHf° [Pb(NO₃)₂(aq)] = -437 kJ/mol\nΔHf° [KI(aq)] = -327 kJ/mol\nΔHf° [PbI₂(s)] = -288 kJ/mol\nΔHf° [KNO₃(aq)] = -494 kJ/mol\n\nNow, we can use Hess's Law to calculate the standard enthalpy change for the reaction:\n\nΔH° = Σ [ΔHf°(products)] - Σ [ΔHf°(reactants)]\n\nΔH° = [(1 × -288 kJ/mol) + (2 × -494 kJ/mol)] - [(1 × -437 kJ/mol) + (2 × -327 kJ/mol)]\n\nΔH° = (-288 - 988) - (-437 - 654)\nΔH° = -1276 + 1091\nΔH° = -185 kJ/mol\n\nThe standard enthalpy change for the precipitation reaction between aqueous solutions of lead(II) nitrate and potassium iodide that produces solid lead(II) iodide and aqueous potassium nitrate is -185 kJ/mol."
+}

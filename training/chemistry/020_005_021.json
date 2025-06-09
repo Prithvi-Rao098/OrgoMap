@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Determining the effect of adding or removing a reactant or product on the equilibrium position",
+    "message_1": "What is the effect on the equilibrium position of the reaction N2(g) + 3H2(g) ⇌ 2NH3(g) when more nitrogen (N2) is added to the reaction mixture at constant temperature and pressure?",
+    "message_2": "When more nitrogen (N2) is added to the reaction mixture at constant temperature and pressure, the equilibrium position will shift to the right, according to Le Chatelier's Principle. This principle states that when a system at equilibrium is subjected to a change in concentration, temperature, or pressure, the system will adjust its equilibrium position to counteract the change.\n\nIn this case, by adding more N2, the concentration of N2 increases. To counteract this change and re-establish equilibrium, the reaction will shift to the right, favoring the forward reaction. This will result in the formation of more ammonia (NH3) and a decrease in the concentration of hydrogen (H2)."
+}

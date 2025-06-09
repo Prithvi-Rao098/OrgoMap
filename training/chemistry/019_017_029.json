@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a sublimation reaction",
+    "message_1": "What is the standard enthalpy change for the sublimation of iodine given the following information?\n\nIodine (s) → Iodine (g)\nΔHf° (Iodine, s) = 0 kJ/mol\nΔHsub° (Iodine) = 62.4 kJ/mol \n\nCalculate ΔH° for the sublimation of iodine.",
+    "message_2": "The standard enthalpy change for the sublimation of iodine (ΔH°) is given by the enthalpy of sublimation (ΔHsub°) for iodine. In this case, the enthalpy of formation (ΔHf°) for solid iodine is 0 kJ/mol, which means there is no additional energy change when considering the formation of solid iodine.\n\nTherefore, the standard enthalpy change for the sublimation of iodine (ΔH°) is equal to the enthalpy of sublimation (ΔHsub°) for iodine:\n\nΔH° = ΔHsub° (Iodine) = 62.4 kJ/mol"
+}

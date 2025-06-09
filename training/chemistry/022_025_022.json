@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Titration problems.",
+    "message_1": "What mass of NaOH is needed to neutralize 25.0 mL of 0.150 M H2SO4 in a titration reaction?",
+    "message_2": "To find the mass of NaOH needed to neutralize the given H2SO4 solution, we need to follow these steps:\n\n1. Write the balanced chemical equation for the reaction.\n2. Calculate the moles of H2SO4 in the solution.\n3. Determine the moles of NaOH required for the neutralization.\n4. Calculate the mass of NaOH.\n\n1. Balanced chemical equation:\n2 NaOH + H2SO4 → Na2SO4 + 2 H2O\n\n2. Calculate the moles of H2SO4:\nmoles = Molarity × Volume (in liters)\nmoles of H2SO4 = 0.150 mol/L × 0.025 L = 0.00375 mol\n\n3. Determine the moles of NaOH required:\nFrom the balanced equation, we can see that 2 moles of NaOH are required to neutralize 1 mole of H2SO4.\nmoles of NaOH = 2 × moles of H2SO4 = 2 × 0.00375 mol = 0.0075 mol\n\n4. Calculate the mass of NaOH:\nmass = moles × molar mass\nThe molar mass of NaOH = 22.99 g/mol (Na) + 15.999 g/mol (O) + 1.008 g/mol (H) = 39.997 g/mol\nmass of NaOH = 0.0075 mol × 39.997 g/mol = 0.2999775 g ≈ 0.300 g\n\nSo, approximately 0.300 g of NaOH is needed to neutralize 25.0 mL of 0.150 M H2SO4 in a titration reaction."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the heat of formation of a molecule",
+    "message_1": "What is the heat of formation for the molecule CH4, given that the heat of formation of C(s) is 0 kJ/mol, H2(g) is 0 kJ/mol, and the heat of combustion of CH4 is -890.4 kJ/mol?",
+    "message_2": "To find the heat of formation for CH4, we can use the heat of combustion data and the heat of formation of the products of the combustion reaction. The combustion reaction of CH4 is:\n\nCH4(g) + 2 O2(g) → CO2(g) + 2 H2O(l)\n\nThe heat of formation of CO2(g) is -393.5 kJ/mol, and the heat of formation of H2O(l) is -285.8 kJ/mol. Using Hess's Law, we can write the heat of formation of CH4 as:\n\nΔHf[CH4(g)] = ΔHc[CH4(g)] - 2ΔHf[H2O(l)] + ΔHf[CO2(g)]\n\nΔHf[CH4(g)] = -890.4 kJ/mol - 2(-285.8 kJ/mol) + (-393.5 kJ/mol)\n\nΔHf[CH4(g)] = -890.4 kJ/mol + 571.6 kJ/mol - 393.5 kJ/mol\n\nΔHf[CH4(g)] = -712.3 kJ/mol\n\nSo, the heat of formation for CH4 is -712.3 kJ/mol."
+}

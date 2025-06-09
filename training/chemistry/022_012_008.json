@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Neutralization reactions",
+    "message_1": "What is the volume of 0.1 M HCl required to neutralize 25 mL of 0.2 M NaOH?",
+    "message_2": "To solve this problem, we can use the concept of molarity and the balanced chemical equation for the neutralization reaction between HCl and NaOH:\n\nHCl (aq) + NaOH (aq) → NaCl (aq) + H2O (l)\n\nFrom the balanced equation, we can see that 1 mole of HCl reacts with 1 mole of NaOH. We can use the formula:\n\nmoles of HCl = moles of NaOH\n\nWe are given the volume and molarity of NaOH, so we can calculate the moles of NaOH:\n\nmoles of NaOH = Molarity × Volume\nmoles of NaOH = 0.2 M × 0.025 L (converting 25 mL to liters)\nmoles of NaOH = 0.005 moles\n\nNow we can find the moles of HCl required to neutralize the NaOH:\n\nmoles of HCl = moles of NaOH\nmoles of HCl = 0.005 moles\n\nNext, we can find the volume of 0.1 M HCl required using the formula:\n\nVolume = moles / Molarity\nVolume = 0.005 moles / 0.1 M\nVolume = 0.05 L\n\nConverting liters to milliliters:\n\nVolume = 0.05 L × 1000 mL/L\nVolume = 50 mL\n\nSo, 50 mL of 0.1 M HCl is required to neutralize 25 mL of 0.2 M NaOH."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a formation reaction",
+    "message_1": "What is the standard enthalpy change for the formation of carbon dioxide (CO2) when 2 moles of gaseous carbon (C) and 2 moles of oxygen (O2) gas react to form 2 moles of CO2 gas under standard conditions (298 K and 1 atm pressure)?",
+    "message_2": "To determine the standard enthalpy change for the formation of carbon dioxide (CO2), we need to consider the balanced chemical equation for the reaction:\n\nC (g) + O2 (g) → CO2 (g)\n\nHowever, you mentioned 2 moles of gaseous carbon (C) and 2 moles of oxygen (O2) gas reacting to form 2 moles of CO2 gas. In that case, the balanced chemical equation would be:\n\n2C (g) + 2O2 (g) → 2CO2 (g)\n\nNow, we need to find the standard enthalpy change of formation (ΔHf°) for CO2. The standard enthalpy change of formation for CO2 (g) is -393.5 kJ/mol.\n\nSince the balanced chemical equation shows that 1 mole of C and 1 mole of O2 react to form 1 mole of CO2, the standard enthalpy change for this reaction is -393.5 kJ/mol.\n\nHowever, the given reaction involves 2 moles of C and 2 moles of O2 reacting to form 2 moles of CO2. Therefore, we need to multiply the standard enthalpy change of formation by 2:\n\nΔH = 2 × (-393.5 kJ/mol) = -787 kJ\n\nSo, the standard enthalpy change for the formation of 2 moles of CO2 from 2 moles of gaseous carbon (C) and 2 moles of oxygen (O2) gas under standard conditions is -787 kJ."
+}

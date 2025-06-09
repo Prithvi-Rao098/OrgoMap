@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of sublimation calculations",
+    "message_1": "What is the heat of sublimation of iodine if 8.0 grams of solid iodine sublimes at standard pressure and temperature, and absorbs 54.3 kJ of heat energy in the process?",
+    "message_2": "To find the heat of sublimation of iodine, we need to determine the amount of heat energy required to sublime one mole of iodine. First, we need to find the number of moles of iodine in the 8.0 grams sample.\n\nThe molar mass of iodine (I2) is approximately 253.8 g/mol (2 x 126.9 g/mol for each iodine atom). \n\nNow, we can calculate the number of moles in the 8.0 grams sample:\n\nmoles = mass / molar mass\nmoles = 8.0 g / 253.8 g/mol\nmoles ≈ 0.0315 mol\n\nNext, we need to find the heat energy absorbed per mole of iodine:\n\nheat of sublimation = heat energy absorbed / moles\nheat of sublimation = 54.3 kJ / 0.0315 mol\nheat of sublimation ≈ 1723.8 kJ/mol\n\nTherefore, the heat of sublimation of iodine is approximately 1723.8 kJ/mol."
+}

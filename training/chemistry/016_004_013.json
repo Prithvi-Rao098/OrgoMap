@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat capacity calculations",
+    "message_1": "What is the heat capacity of a substance if it takes 345 Joules of energy to raise the temperature of 15 grams of the substance by 12 degrees Celsius?",
+    "message_2": "The heat capacity (C) of a substance can be calculated using the formula:\n\nq = mcΔT\n\nwhere q is the heat energy (in Joules), m is the mass of the substance (in grams), c is the specific heat capacity (in J/g°C), and ΔT is the change in temperature (in °C).\n\nWe are given the following values:\nq = 345 J\nm = 15 g\nΔT = 12 °C\n\nWe need to find the specific heat capacity (c) of the substance. Rearranging the formula to solve for c, we get:\n\nc = q / (mΔT)\n\nNow, plug in the given values:\n\nc = 345 J / (15 g × 12 °C)\nc = 345 J / 180 g°C\nc = 1.92 J/g°C\n\nThe heat capacity of the substance is 1.92 J/g°C."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the bond order of a molecule using molecular orbital theory",
+    "message_1": "What is the bond order of the N2 molecule using molecular orbital theory, given that the molecule has a total of 14 valence electrons?",
+    "message_2": "To determine the bond order of N2 using molecular orbital theory, we need to fill the molecular orbitals with the given 14 valence electrons and then calculate the bond order using the formula:\n\nBond order = (number of electrons in bonding orbitals - number of electrons in antibonding orbitals) / 2\n\nFor N2, the molecular orbitals are filled in the following order: σ1s, σ*1s, σ2s, σ*2s, π2p, π*2p, and σ2p. Here's the distribution of the 14 valence electrons:\n\n1. σ1s: 2 electrons (bonding)\n2. σ*1s: 2 electrons (antibonding)\n3. σ2s: 2 electrons (bonding)\n4. σ*2s: 2 electrons (antibonding)\n5. π2p: 4 electrons (bonding)\n6. π*2p: 0 electrons (antibonding)\n7. σ2p: 2 electrons (bonding)\n\nNow, let's calculate the bond order:\n\nBond order = (2 + 2 + 4 + 2 - 2 - 2 - 0) / 2\nBond order = (10 - 4) / 2\nBond order = 6 / 2\nBond order = 3\n\nSo, the bond order of the N2 molecule is 3."
+}

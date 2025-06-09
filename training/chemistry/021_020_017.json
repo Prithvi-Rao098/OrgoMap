@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the heat of formation of a molecule",
+    "message_1": "Calculate the heat of formation of carbon dioxide gas (CO2) given the following bond energies: C=O bond energy is 799 kJ/mol and C-O bond energy is 358 kJ/mol.",
+    "message_2": "To calculate the heat of formation of carbon dioxide gas (CO2), we need to consider the bond breaking and bond forming processes. In CO2, there are two C=O double bonds. \n\n1. Bond breaking: \nWe need to break one C-O bond and one C=O bond in order to form two C=O bonds in CO2. \n\nC-O bond energy = 358 kJ/mol\nC=O bond energy = 799 kJ/mol\n\nTotal bond breaking energy = 358 kJ/mol + 799 kJ/mol = 1157 kJ/mol\n\n2. Bond forming:\nNow, we need to form two C=O bonds in CO2.\n\n2 × C=O bond energy = 2 × 799 kJ/mol = 1598 kJ/mol\n\nTotal bond forming energy = 1598 kJ/mol\n\n3. Heat of formation:\nHeat of formation = Total bond forming energy - Total bond breaking energy\n\nHeat of formation = 1598 kJ/mol - 1157 kJ/mol = 441 kJ/mol\n\nThe heat of formation of carbon dioxide gas (CO2) is 441 kJ/mol."
+}

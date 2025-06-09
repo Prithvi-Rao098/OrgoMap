@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of desorption calculations",
+    "message_1": "What is the enthalpy change when 0.5 moles of water molecules are desorbed from the surface of silica gel at 25°C? The initial mass of silica gel was 10 g and it was heated in a sealed vessel till a constant weight was obtained. The final mass of silica gel was found to be 8.5 g. The enthalpy of adsorption of water on silica gel is -40 kJ/mol. Determine the enthalpy change for the desorption of water from silica gel.",
+    "message_2": "To determine the enthalpy change for the desorption of water from silica gel, we can use the enthalpy of adsorption value given. Since the enthalpy of adsorption is -40 kJ/mol, the enthalpy of desorption will be the opposite, which is +40 kJ/mol.\n\nNow, we have 0.5 moles of water molecules being desorbed from the silica gel. To find the total enthalpy change, we can multiply the enthalpy change per mole by the number of moles:\n\nEnthalpy change = (Enthalpy change per mole) × (Number of moles)\nEnthalpy change = (+40 kJ/mol) × (0.5 mol)\n\nEnthalpy change = +20 kJ\n\nSo, the enthalpy change for the desorption of 0.5 moles of water molecules from the surface of silica gel at 25°C is +20 kJ."
+}

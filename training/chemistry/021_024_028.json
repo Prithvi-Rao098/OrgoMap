@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the bond order of a molecule using molecular orbital theory",
+    "message_1": "What is the bond order of O2 molecule using molecular orbital theory?",
+    "message_2": "The bond order of an O2 molecule can be determined using molecular orbital theory by calculating the difference between the number of electrons in bonding orbitals and the number of electrons in antibonding orbitals, divided by 2.\n\nFor an O2 molecule, there are a total of 12 valence electrons (6 from each oxygen atom). According to molecular orbital theory, these electrons will fill the molecular orbitals in the following order: σ2s, σ*2s, σ2pz, π2px = π2py, π*2px = π*2py.\n\nFilling the orbitals with 12 electrons, we get:\n\n- 2 electrons in σ2s\n- 2 electrons in σ*2s\n- 2 electrons in σ2pz\n- 4 electrons in π2px and π2py (2 in each)\n- 2 electrons in π*2px (none in π*2py)\n\nNow, we can calculate the bond order:\n\nBond order = (number of electrons in bonding orbitals - number of electrons in antibonding orbitals) / 2\nBond order = (2 + 2 + 4 - 2) / 2\nBond order = 6 / 2\nBond order = 3\n\nSo, the bond order of an O2 molecule is 3."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Determination of equilibrium constant for a chemical reaction",
+    "message_1": "Sure! Here's a possible problem for the student to solve:\n\nWhat is the equilibrium constant (Kc) for the reaction below at 298 K, based on the following concentration data at equilibrium:\n\nA + B ⇌ C + D\n\n[A] = 0.15 M\n[B] = 0.25 M\n[C] = 0.08 M\n[D] = 0.12 M\n\nThe student will need to use the concentration values to calculate the equilibrium constant for the reaction at 298 K.",
+    "message_2": "To calculate the equilibrium constant (Kc) for the given reaction at 298 K, we can use the following formula:\n\nKc = ([C] * [D]) / ([A] * [B])\n\nWe are given the concentration data at equilibrium:\n\n[A] = 0.15 M\n[B] = 0.25 M\n[C] = 0.08 M\n[D] = 0.12 M\n\nNow, we can plug these values into the formula:\n\nKc = (0.08 * 0.12) / (0.15 * 0.25)\n\nKc = 0.0096 / 0.0375\n\nKc ≈ 0.256\n\nSo, the equilibrium constant (Kc) for the reaction at 298 K is approximately 0.256."
+}

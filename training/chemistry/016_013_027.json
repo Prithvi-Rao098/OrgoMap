@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of hydration calculations",
+    "message_1": "What is the heat of hydration for magnesium sulfate when dissolved in water, assuming a mass of 10 grams of magnesium sulfate is dissolved in 100 mL of water?",
+    "message_2": "The heat of hydration for magnesium sulfate (MgSO4) is the amount of heat released when one mole of the substance is dissolved in water. To calculate the heat of hydration for 10 grams of magnesium sulfate, we need to know the molar heat of hydration for MgSO4 and the molar mass of MgSO4.\n\nThe molar heat of hydration for magnesium sulfate heptahydrate (MgSO4·7H2O) is -104.86 kJ/mol.\n\nThe molar mass of MgSO4·7H2O is:\nMg = 24.31 g/mol\nS = 32.07 g/mol\nO4 = 4 * 16.00 g/mol = 64.00 g/mol\n7H2O = 7 * (2 * 1.01 g/mol + 16.00 g/mol) = 7 * 18.02 g/mol = 126.14 g/mol\n\nMolar mass of MgSO4·7H2O = 24.31 + 32.07 + 64.00 + 126.14 = 246.52 g/mol\n\nNow, we can find the moles of MgSO4·7H2O in 10 grams:\nmoles = mass / molar mass = 10 g / 246.52 g/mol = 0.0406 mol\n\nFinally, we can calculate the heat of hydration for 10 grams of MgSO4·7H2O:\nq = moles * molar heat of hydration = 0.0406 mol * (-104.86 kJ/mol) = -4.26 kJ\n\nSo, the heat of hydration for 10 grams of magnesium sulfate when dissolved in 100 mL of water is approximately -4.26 kJ."
+}

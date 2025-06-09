@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of hydration calculations",
+    "message_1": "What is the heat of hydration for MgSO4·7H2O, given that its enthalpy change per mole of hydration is -192 kJ/mol and 10 grams of MgSO4·7H2O is dissolved in 100 grams of water at 25°C?",
+    "message_2": "To calculate the heat of hydration for MgSO4·7H2O, we first need to determine the number of moles of MgSO4·7H2O in the 10 grams sample.\n\nThe molar mass of MgSO4·7H2O is:\nMg = 24.31 g/mol\nS = 32.07 g/mol\nO = 16.00 g/mol (x 4 = 64.00 g/mol)\nH = 1.01 g/mol (x 14 = 14.14 g/mol)\nTotal molar mass = 24.31 + 32.07 + 64.00 + 14.14 = 134.52 g/mol\n\nNow, we can find the number of moles in the 10 grams sample:\nmoles = mass / molar mass\nmoles = 10 g / 134.52 g/mol = 0.0743 mol\n\nNow that we have the number of moles, we can calculate the heat of hydration:\nHeat of hydration = moles × enthalpy change per mole of hydration\nHeat of hydration = 0.0743 mol × (-192 kJ/mol) = -14.266 kJ\n\nSo, the heat of hydration for the 10 grams of MgSO4·7H2O is -14.266 kJ."
+}

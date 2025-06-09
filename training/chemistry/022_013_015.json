@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Oxidation state determination",
+    "message_1": "Sure! Here's a question for a chemistry student to solve:\n\nWhat is the oxidation state of sulfur in H₂SO₄?",
+    "message_2": "To determine the oxidation state of sulfur in H₂SO₄, we need to consider the oxidation states of hydrogen and oxygen as well.\n\nIn H₂SO₄, there are two hydrogen atoms, each with an oxidation state of +1, and four oxygen atoms, each with an oxidation state of -2.\n\nLet's denote the oxidation state of sulfur as x. The sum of the oxidation states in the compound must equal the overall charge of the compound, which is 0 in this case.\n\nSo, we have:\n\n2(+1) + x + 4(-2) = 0\n\n2 + x - 8 = 0\n\nx - 6 = 0\n\nx = +6\n\nTherefore, the oxidation state of sulfur in H₂SO₄ is +6."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the polarity of a bond",
+    "message_1": "What is the polarity of the bond between nitrogen and chlorine in the molecule NCl3?",
+    "message_2": "The polarity of the bond between nitrogen and chlorine in the molecule NCl3 can be determined by comparing the electronegativity values of the two atoms. Nitrogen has an electronegativity value of 3.04, while chlorine has an electronegativity value of 3.16. The difference in electronegativity values is 0.12.\n\nSince the electronegativity difference is greater than 0 but less than 0.5, the bond between nitrogen and chlorine in NCl3 is considered to be a polar covalent bond. This means that there is an unequal sharing of electrons between the nitrogen and chlorine atoms, resulting in a partial positive charge on the nitrogen atom and a partial negative charge on the chlorine atoms."
+}

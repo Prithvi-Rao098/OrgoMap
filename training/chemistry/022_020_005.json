@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Activation energy calculations",
+    "message_1": "How much energy is required to activate a chemical reaction with a rate constant of 2.5x10^-3 s^-1 if the activation energy is 50 kJ/mol?",
+    "message_2": "The energy required to activate a chemical reaction is given by the activation energy (Ea). In this case, the activation energy is already provided as 50 kJ/mol. Therefore, the energy required to activate the chemical reaction is 50 kJ/mol. The rate constant (k) is not needed to determine the activation energy."
+}

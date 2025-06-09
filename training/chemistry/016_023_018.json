@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of hydrolysis calculations",
+    "message_1": "What is the change in enthalpy when 10 grams of sucrose (C12H22O11) is hydrolyzed in aqueous solution to form glucose (C6H12O6) and fructose (C6H12O6) according to the following equation: \n\nC12H22O11 + H2O → C6H12O6 + C6H12O6 \n\nGiven the following enthalpies of formation: \n\nΔHf°(C12H22O11) = -2220 kJ/mol \n\nΔHf°(C6H12O6) = -1275 kJ/mol \n\nΔHf°(H2O) = -286 kJ/mol",
+    "message_2": "To calculate the change in enthalpy (ΔH) for the reaction, we can use the following equation:\n\nΔH = Σ ΔHf°(products) - Σ ΔHf°(reactants)\n\nFirst, let's find the moles of sucrose in 10 grams:\n\nSucrose molar mass = 12(12.01) + 22(1.01) + 11(16.00) = 342.30 g/mol\n\nmoles of sucrose = 10 g / 342.30 g/mol = 0.0292 mol\n\nNow, let's calculate the enthalpy change for the reaction:\n\nΔH = [(1 mol C6H12O6 × -1275 kJ/mol) + (1 mol C6H12O6 × -1275 kJ/mol)] - [(1 mol C12H22O11 × -2220 kJ/mol) + (1 mol H2O × -286 kJ/mol)]\n\nΔH = (-1275 - 1275) - (-2220 - 286) = -2550 - (-2506) = -44 kJ/mol\n\nSince we have 0.0292 mol of sucrose, the change in enthalpy for 10 grams of sucrose is:\n\nΔH = -44 kJ/mol × 0.0292 mol = -1.28 kJ\n\nTherefore, the change in enthalpy when 10 grams of sucrose is hydrolyzed in aqueous solution to form glucose and fructose is -1.28 kJ."
+}

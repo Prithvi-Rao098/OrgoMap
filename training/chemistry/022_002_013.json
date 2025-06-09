@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "Calculate the mass of sodium chloride (NaCl) produced when 2.5 moles of sodium (Na) react completely with excess chlorine gas (Cl2). (Hint: Use the balanced chemical equation 2Na + Cl2 → 2NaCl)",
+    "message_2": "To calculate the mass of sodium chloride (NaCl) produced, we first need to determine the number of moles of NaCl formed when 2.5 moles of sodium (Na) react completely with excess chlorine gas (Cl2). Using the balanced chemical equation:\n\n2Na + Cl2 → 2NaCl\n\nFrom the equation, we can see that 2 moles of Na react with 1 mole of Cl2 to produce 2 moles of NaCl. Since we have 2.5 moles of Na, we can calculate the moles of NaCl produced:\n\n2.5 moles Na * (2 moles NaCl / 2 moles Na) = 2.5 moles NaCl\n\nNow that we have the moles of NaCl, we can calculate the mass of NaCl produced. The molar mass of NaCl is approximately 58.44 g/mol (22.99 g/mol for Na + 35.45 g/mol for Cl). \n\nMass of NaCl = moles of NaCl * molar mass of NaCl\nMass of NaCl = 2.5 moles NaCl * 58.44 g/mol\nMass of NaCl = 146.1 g\n\nSo, 146.1 grams of sodium chloride (NaCl) are produced when 2.5 moles of sodium (Na) react completely with excess chlorine gas (Cl2)."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of hydration calculations",
+    "message_1": "What is the heat of hydration for the reaction between 50 grams of anhydrous copper(II) sulfate and excess water, given that the final solution mass is 250 grams and the temperature change observed during the reaction is -30 °C?",
+    "message_2": "To calculate the heat of hydration, we need to use the formula:\n\nq = mcΔT\n\nwhere q is the heat absorbed or released, m is the mass of the solution, c is the specific heat capacity of the solution, and ΔT is the temperature change.\n\nGiven the mass of the solution (m) is 250 grams, the temperature change (ΔT) is -30 °C, and assuming the specific heat capacity (c) of the solution is similar to water (4.18 J/g·°C):\n\nq = (250 g)(4.18 J/g·°C)(-30 °C)\n\nq = -31,350 J\n\nSince the temperature change is negative, the reaction is exothermic and releases heat. Therefore, the heat of hydration for the reaction between 50 grams of anhydrous copper(II) sulfate and excess water is 31,350 J (released)."
+}

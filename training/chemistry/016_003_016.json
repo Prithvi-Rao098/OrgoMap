@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Bond dissociation energy calculations",
+    "message_1": "Calculate the bond dissociation energy (in kJ/mol) required to break the carbon-hydrogen bond in methane using the given bond dissociation energies: \nC-H = 413 kJ/mol, C-C = 347 kJ/mol, C=C = 602 kJ/mol, H-H = 436 kJ/mol.",
+    "message_2": "The bond dissociation energy required to break the carbon-hydrogen bond in methane is already given in the problem statement. The C-H bond dissociation energy is 413 kJ/mol. There is no need to use the other bond dissociation energies (C-C, C=C, and H-H) as they are not relevant to breaking the C-H bond in methane."
+}

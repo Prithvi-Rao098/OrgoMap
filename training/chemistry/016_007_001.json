@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Standard enthalpy of formation calculations",
+    "message_1": "What is the standard enthalpy of formation of water (H2O) at 298 K, given the following balanced chemical equation and standard enthalpy of formation values?\n\n2H2 (g) + O2 (g) → 2H2O (l) \n\nΔHf° [H2 (g)] = 0 kJ/mol\nΔHf° [O2 (g)] = 0 kJ/mol\nΔHf° [H2O (l)] = -285.83 kJ/mol",
+    "message_2": "The standard enthalpy of formation (ΔHf°) of a compound is the change in enthalpy when 1 mole of the compound is formed from its elements in their standard states at a specified temperature, usually 298 K. In this case, we are given the standard enthalpy of formation for water (H2O) as -285.83 kJ/mol.\n\nSince we are asked for the standard enthalpy of formation of water (H2O) at 298 K, and we are already given that value, the answer is:\n\nΔHf° [H2O (l)] = -285.83 kJ/mol"
+}

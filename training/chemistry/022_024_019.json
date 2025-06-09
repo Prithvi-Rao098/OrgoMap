@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Buffer solution calculations",
+    "message_1": "What is the pH of a buffer solution made by mixing 50 mL of 0.25 M acetic acid (pKa = 4.76) and 25 mL of 0.15 M sodium acetate?",
+    "message_2": "To solve this problem, we will use the Henderson-Hasselbalch equation:\n\npH = pKa + log ([A-]/[HA])\n\nwhere pH is the solution's pH, pKa is the acid dissociation constant, [A-] is the concentration of the conjugate base (acetate ion), and [HA] is the concentration of the weak acid (acetic acid).\n\nFirst, we need to find the new concentrations of acetic acid and sodium acetate after mixing the solutions. We can use the formula:\n\nC1V1 = C2V2\n\nFor acetic acid:\n(0.25 M)(50 mL) = C2(50 mL + 25 mL)\nC2 = (0.25 M * 50 mL) / 75 mL\nC2 = 12.5 mM / 75 mL\nC2 = 0.1667 M\n\nFor sodium acetate:\n(0.15 M)(25 mL) = C2(50 mL + 25 mL)\nC2 = (0.15 M * 25 mL) / 75 mL\nC2 = 3.75 mM / 75 mL\nC2 = 0.05 M\n\nNow we can plug these values into the Henderson-Hasselbalch equation:\n\npH = 4.76 + log (0.05 M / 0.1667 M)\npH = 4.76 + log (0.2994)\npH ≈ 4.76 - 0.52\npH ≈ 4.24\n\nThe pH of the buffer solution is approximately 4.24."
+}

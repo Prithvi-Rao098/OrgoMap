@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the heat of formation of a molecule",
+    "message_1": "Calculate the heat of formation of methane (CH4) given the following bond energy values: C-H bond energy = 413 kJ/mol and C-C bond energy = 348 kJ/mol.",
+    "message_2": "To calculate the heat of formation of methane (CH4), we need to consider the bond energies of the reactants and products involved in the formation reaction. The formation reaction of methane can be represented as:\n\nC (graphite) + 2 H2 (g) → CH4 (g)\n\nIn this reaction, we are breaking two C-H bonds in H2 and forming four C-H bonds in CH4. We don't need to consider the C-C bond energy since there is no C-C bond involved in this reaction.\n\nThe bond energy values given are:\nC-H bond energy = 413 kJ/mol\n\nTo calculate the heat of formation (ΔHf), we can use the following equation:\n\nΔHf = Σ (bond energies of bonds broken) - Σ (bond energies of bonds formed)\n\nIn this case, we have:\n\nΔHf = [2 × (C-H bond energy in H2)] - [4 × (C-H bond energy in CH4)]\n\nΔHf = [2 × (413 kJ/mol)] - [4 × (413 kJ/mol)]\n\nΔHf = (826 kJ/mol) - (1652 kJ/mol)\n\nΔHf = -826 kJ/mol\n\nThe heat of formation of methane (CH4) is -826 kJ/mol."
+}

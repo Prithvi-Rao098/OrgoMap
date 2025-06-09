@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of changing the concentration of ligands on the formation of a complex ion",
+    "message_1": "What is the change in the formation constant of a complex ion when the concentration of the ligand is increased by a factor of 10 and the concentration of the metal ion remains constant?",
+    "message_2": "The formation constant (Kf) of a complex ion is a measure of the equilibrium between the metal ion and the ligand. It is given by the following equation:\n\nKf = [Complex] / ([Metal ion] * [Ligand]^n)\n\nwhere [Complex] is the concentration of the complex ion, [Metal ion] is the concentration of the metal ion, [Ligand] is the concentration of the ligand, and n is the number of ligands bound to the metal ion.\n\nWhen the concentration of the ligand is increased by a factor of 10, the new equation becomes:\n\nKf' = [Complex'] / ([Metal ion] * ([Ligand] * 10)^n)\n\nSince the concentration of the metal ion remains constant, the change in the formation constant can be determined by comparing the two equations:\n\nKf' / Kf = ([Complex'] / [Complex]) * (1 / 10^n)\n\nThe change in the formation constant depends on the change in the concentration of the complex ion. If the concentration of the complex ion increases, the formation constant will also increase. However, the exact change in the formation constant cannot be determined without knowing the change in the concentration of the complex ion and the stoichiometry (n) of the reaction."
+}

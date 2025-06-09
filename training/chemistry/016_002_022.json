@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Hess's Law calculations",
+    "message_1": "Calculate the enthalpy change (∆H) for the combustion reaction of methane gas (CH4) using Hess’s Law, when the enthalpy changes for the following reactions are given: \n\nReaction 1: CH4 (g) + 2O2 (g) → CO2 (g) + 2H2O (l); ∆H = -891 kJ/mol \n\nReaction 2: C (s) + O2 (g) → CO2 (g); ∆H = -393.5 kJ/mol \n\nReaction 3: 2H2 (g) + O2 (g) → 2H2O (l); ∆H = -484 kJ/mol",
+    "message_2": "To use Hess's Law, we need to manipulate the given reactions so that they add up to the combustion reaction of methane gas (CH₄). The target reaction is:\n\nCH₄ (g) + 2O₂ (g) → CO₂ (g) + 2H₂O (l)\n\nReaction 1 is already the target reaction, so we don't need to manipulate it. The enthalpy change for the combustion reaction of methane gas is the same as the enthalpy change for Reaction 1:\n\n∆H = -891 kJ/mol"
+}

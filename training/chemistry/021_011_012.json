@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the bond dissociation energy of a molecule",
+    "message_1": "Calculate the bond dissociation energy of a molecule of hydrogen (H₂) given that the bond length is 74 pm and the energy required to break the bond is 436 kJ/mol.",
+    "message_2": "The bond dissociation energy is the energy required to break a bond between two atoms in a molecule. In this case, we are given the energy required to break the bond in a hydrogen molecule (H₂) as 436 kJ/mol. Therefore, the bond dissociation energy of a hydrogen molecule (H₂) is 436 kJ/mol. The bond length information is not necessary for this calculation, as the bond dissociation energy is already provided."
+}

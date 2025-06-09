@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving liquids",
+    "message_1": "Calculate the standard enthalpy change for the reaction: \n\n2C2H5OH(l) + 9O2(g) -> 6CO2(g) + 8H2O(l) \n\ngiven that the standard enthalpy of formation for C2H5OH(l) is -278 kJ/mol, for CO2(g) is -394 kJ/mol and for H2O(l) is -286 kJ/mol.",
+    "message_2": "To calculate the standard enthalpy change for the reaction, we can use the formula:\n\nΔH° = Σ ΔHf°(products) - Σ ΔHf°(reactants)\n\nwhere ΔH° is the standard enthalpy change, and ΔHf° is the standard enthalpy of formation.\n\nFor the reactants:\n2 moles of C2H5OH(l): 2 × (-278 kJ/mol) = -556 kJ\n9 moles of O2(g): 9 × 0 kJ/mol (since O2 is in its standard state) = 0 kJ\n\nFor the products:\n6 moles of CO2(g): 6 × (-394 kJ/mol) = -2364 kJ\n8 moles of H2O(l): 8 × (-286 kJ/mol) = -2288 kJ\n\nNow, we can plug these values into the formula:\n\nΔH° = (-2364 kJ + (-2288 kJ)) - (-556 kJ + 0 kJ)\nΔH° = (-4652 kJ) - (-556 kJ)\nΔH° = -4096 kJ\n\nThe standard enthalpy change for the reaction is -4096 kJ."
+}

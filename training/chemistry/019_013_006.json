@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a neutralization reaction",
+    "message_1": "What is the standard enthalpy change when 50 mL of 0.1 M hydrochloric acid is neutralized by 75 mL of 0.075 M sodium hydroxide according to the chemical equation:\nHCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)\nAssume that the temperature of the solution remains constant throughout the reaction and the heat of neutralization is -57.1 kJ/mol.",
+    "message_2": "First, we need to determine the limiting reactant in the reaction. To do this, we can calculate the moles of each reactant:\n\nmoles of HCl = volume (L) × concentration (M)\nmoles of HCl = 0.050 L × 0.1 M = 0.005 mol\n\nmoles of NaOH = volume (L) × concentration (M)\nmoles of NaOH = 0.075 L × 0.075 M = 0.005625 mol\n\nSince there are fewer moles of HCl (0.005 mol) than NaOH (0.005625 mol), HCl is the limiting reactant.\n\nNow we can calculate the standard enthalpy change for the reaction using the heat of neutralization:\n\nΔH = moles of limiting reactant × heat of neutralization\n\nΔH = 0.005 mol × -57.1 kJ/mol = -0.2855 kJ\n\nThe standard enthalpy change for the reaction is -0.2855 kJ."
+}

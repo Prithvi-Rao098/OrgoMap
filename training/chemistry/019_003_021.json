@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "What is the heat capacity of 25 grams of water at 25°C if it takes 4184 J of heat to raise its temperature by 1°C?",
+    "message_2": "The specific heat capacity of water is 4.184 J/g°C. To find the heat capacity of 25 grams of water, we can use the formula:\n\nHeat capacity = mass × specific heat capacity\n\nHeat capacity = 25 g × 4.184 J/g°C\n\nHeat capacity = 104.6 J/°C\n\nSo, the heat capacity of 25 grams of water at 25°C is 104.6 J/°C."
+}

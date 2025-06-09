@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Redox reactions",
+    "message_1": "How many moles of electrons are involved when 2 moles of Fe react completely in the following redox reaction?\n \n2Fe(s) + 3Cl2(g) → 2FeCl3(s)",
+    "message_2": "To determine the number of moles of electrons involved in this redox reaction, we first need to identify the oxidation states of the elements involved.\n\nIn the reactants:\nFe(s) has an oxidation state of 0 (since it is in its elemental form).\nCl2(g) also has an oxidation state of 0 (since it is in its elemental form).\n\nIn the products:\nFeCl3(s) has Fe with an oxidation state of +3 and Cl with an oxidation state of -1.\n\nNow, we can determine the change in oxidation states for both Fe and Cl during the reaction.\n\nFor Fe: 0 (initial) → +3 (final), which means Fe is oxidized and loses 3 electrons per atom.\n\nFor Cl: 0 (initial) → -1 (final), which means Cl is reduced and gains 1 electron per atom.\n\nNow, let's look at the balanced redox reaction:\n2Fe(s) + 3Cl2(g) → 2FeCl3(s)\n\nThere are 2 moles of Fe reacting, and each Fe atom loses 3 electrons. So, the total number of moles of electrons lost by Fe is:\n2 moles Fe × 3 electrons/Fe = 6 moles of electrons\n\nSince the number of electrons lost must equal the number of electrons gained, 6 moles of electrons are involved in this redox reaction."
+}

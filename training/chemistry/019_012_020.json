@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a dissolution reaction",
+    "message_1": "Determine the standard enthalpy change for the dissolution of 5.00 grams of magnesium chloride in water, given that the molar mass of MgCl2 is 95.21 g/mol and the standard enthalpy change of formation for magnesium chloride is -641.3 kJ/mol.",
+    "message_2": "To determine the standard enthalpy change for the dissolution of 5.00 grams of magnesium chloride in water, we first need to calculate the number of moles of MgCl2 in 5.00 grams.\n\nMoles of MgCl2 = mass / molar mass\nMoles of MgCl2 = 5.00 g / 95.21 g/mol\nMoles of MgCl2 = 0.0525 mol\n\nNow, we can use the standard enthalpy change of formation for magnesium chloride to find the enthalpy change for the dissolution of 5.00 grams of MgCl2.\n\nStandard enthalpy change for dissolution = moles of MgCl2 × standard enthalpy change of formation\nStandard enthalpy change for dissolution = 0.0525 mol × (-641.3 kJ/mol)\nStandard enthalpy change for dissolution = -33.67 kJ\n\nTherefore, the standard enthalpy change for the dissolution of 5.00 grams of magnesium chloride in water is -33.67 kJ."
+}

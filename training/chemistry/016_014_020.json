@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of sublimation calculations",
+    "message_1": "Calculate the heat of sublimation for water when 10 g of ice sublimes at standard conditions (1 atm, 25°C)? Given: Heat of fusion of ice is 6.01 kJ/mol; Heat of vaporization of water is 40.67 kJ/mol.",
+    "message_2": "To calculate the heat of sublimation for water, we first need to determine the number of moles of water in the 10 g of ice. The molar mass of water is 18.015 g/mol.\n\nNumber of moles = mass / molar mass\nNumber of moles = 10 g / 18.015 g/mol = 0.555 moles\n\nThe heat of sublimation is the sum of the heat of fusion and the heat of vaporization.\n\nHeat of sublimation = Heat of fusion + Heat of vaporization\nHeat of sublimation = 6.01 kJ/mol + 40.67 kJ/mol = 46.68 kJ/mol\n\nNow, we can calculate the total heat of sublimation for the 10 g of ice.\n\nTotal heat of sublimation = Heat of sublimation × Number of moles\nTotal heat of sublimation = 46.68 kJ/mol × 0.555 moles = 25.91 kJ\n\nTherefore, the heat of sublimation for water when 10 g of ice sublimes at standard conditions is 25.91 kJ."
+}

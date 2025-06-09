@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Bond dissociation energy calculations",
+    "message_1": "Calculate the bond dissociation energy (in kJ/mol) of chlorine gas (Cl2) if it requires 243 kJ of energy to break a single Cl-Cl bond in the gas phase.",
+    "message_2": "The bond dissociation energy is the energy required to break a mole of bonds in a substance. In this case, we are given the energy required to break a single Cl-Cl bond in chlorine gas (Cl2), which is 243 kJ.\n\nTo find the bond dissociation energy for a mole of Cl-Cl bonds, we need to multiply the energy required to break a single bond by Avogadro's number (6.022 x 10^23), which represents the number of particles in a mole.\n\nBond dissociation energy (kJ/mol) = Energy to break a single bond (kJ) × Avogadro's number (mol^-1)\n\nHowever, the given energy (243 kJ) is already for one mole of Cl-Cl bonds, so there is no need to multiply by Avogadro's number.\n\nBond dissociation energy (kJ/mol) = 243 kJ\n\nTherefore, the bond dissociation energy of chlorine gas (Cl2) is 243 kJ/mol."
+}

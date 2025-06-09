@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of reduction calculations",
+    "message_1": "What is the change in enthalpy when 2 moles of iron(III) oxide are reduced to iron metal in the presence of hydrogen gas? (Given: ΔH°f[Fe2O3] = -824.2 kJ/mol, ΔH°f[Fe] = 0 kJ/mol)",
+    "message_2": "To calculate the change in enthalpy (ΔH) for the reduction of iron(III) oxide to iron metal, we can use the following equation:\n\nΔH = ΔH°f(products) - ΔH°f(reactants)\n\nThe balanced chemical equation for the reduction of iron(III) oxide with hydrogen gas is:\n\nFe2O3(s) + 3H2(g) → 2Fe(s) + 3H2O(l)\n\nGiven that ΔH°f[Fe2O3] = -824.2 kJ/mol and ΔH°f[Fe] = 0 kJ/mol, we can calculate the enthalpy change for the reaction. Note that the ΔH°f[H2] = 0 kJ/mol since it is an element in its standard state.\n\nFirst, we need to find the enthalpy change for the formation of water. The standard enthalpy of formation for liquid water is -285.8 kJ/mol.\n\nNow, we can calculate the enthalpy change for the reaction:\n\nΔH = [2(ΔH°f[Fe]) + 3(ΔH°f[H2O])] - [ΔH°f[Fe2O3] + 3(ΔH°f[H2])]\n\nΔH = [2(0) + 3(-285.8)] - [-824.2 + 3(0)]\n\nΔH = [-857.4] - [-824.2]\n\nΔH = -33.2 kJ\n\nThe change in enthalpy for the reduction of 2 moles of iron(III) oxide to iron metal in the presence of hydrogen gas is -33.2 kJ."
+}

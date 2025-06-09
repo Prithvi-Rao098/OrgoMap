@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a reaction involving gases",
+    "message_1": "What is the standard enthalpy change for the reaction N2(g) + 3H2(g) → 2NH3(g) at 298 K, given that the standard enthalpies of formation of nitrogen dioxide, water and ammonia are 82.05 kJ/mol, -285.83 kJ/mol and -46.19 kJ/mol, respectively?",
+    "message_2": "To calculate the standard enthalpy change for the reaction, we can use the following formula:\n\nΔH° = Σ ΔHf°(products) - Σ ΔHf°(reactants)\n\nwhere ΔH° is the standard enthalpy change, and ΔHf° is the standard enthalpy of formation.\n\nFor the given reaction, N2(g) + 3H2(g) → 2NH3(g), we have:\n\nΔH° = [2 × ΔHf°(NH3)] - [ΔHf°(N2) + 3 × ΔHf°(H2)]\n\nSince N2 and H2 are in their standard states (elemental forms), their enthalpies of formation are zero:\n\nΔHf°(N2) = 0 kJ/mol\nΔHf°(H2) = 0 kJ/mol\n\nNow, we can plug in the given values for the enthalpy of formation of ammonia:\n\nΔH° = [2 × (-46.19 kJ/mol)] - [0 + 3 × 0]\nΔH° = -92.38 kJ/mol\n\nSo, the standard enthalpy change for the reaction N2(g) + 3H2(g) → 2NH3(g) at 298 K is -92.38 kJ/mol."
+}

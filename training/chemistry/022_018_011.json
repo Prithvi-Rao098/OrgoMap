@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Bond energy calculations",
+    "message_1": "What is the bond energy (in kJ/mol) required to break apart a single molecule of methane (CH4) into its individual atoms (C and 4H)?",
+    "message_2": "To calculate the bond energy required to break apart a single molecule of methane (CH4) into its individual atoms (C and 4H), we need to know the bond energy of a single C-H bond. The average bond energy of a C-H bond is approximately 414 kJ/mol.\n\nSince there are four C-H bonds in a methane molecule, we can calculate the total bond energy required to break all four bonds as follows:\n\nTotal bond energy = (Number of C-H bonds) x (Bond energy of a single C-H bond)\nTotal bond energy = 4 x 414 kJ/mol\nTotal bond energy = 1656 kJ/mol\n\nTherefore, the bond energy required to break apart a single molecule of methane (CH4) into its individual atoms (C and 4H) is approximately 1656 kJ/mol."
+}

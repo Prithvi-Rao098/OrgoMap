@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat capacity calculations",
+    "message_1": "A chemistry student needs to determine the specific heat capacity of a metal block. The student has the following information: the mass of the block is 75 g and its initial temperature is 25°C. The student heats the block to 100°C, and calculates that it absorbed 1500 J of heat during this process. What is the specific heat capacity of the metal block?",
+    "message_2": "To determine the specific heat capacity of the metal block, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat absorbed (in joules), m is the mass of the block (in grams), c is the specific heat capacity (in J/g°C), and ΔT is the change in temperature (in °C).\n\nWe have the following information:\nq = 1500 J\nm = 75 g\nΔT = 100°C - 25°C = 75°C\n\nWe need to find the specific heat capacity (c). Rearranging the formula to solve for c, we get:\n\nc = q / (mΔT)\n\nNow, we can plug in the values:\n\nc = 1500 J / (75 g × 75°C)\nc = 1500 J / 5625 g°C\nc ≈ 0.267 J/g°C\n\nThe specific heat capacity of the metal block is approximately 0.267 J/g°C."
+}

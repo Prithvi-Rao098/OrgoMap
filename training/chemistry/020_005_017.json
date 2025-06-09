@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Determining the effect of adding or removing a reactant or product on the equilibrium position",
+    "message_1": "How does decreasing the concentration of nitrogen gas in the reaction N2(g) + 3H2(g) ⇌ 2NH3(g) at a constant temperature and pressure affect the equilibrium position?",
+    "message_2": "Decreasing the concentration of nitrogen gas (N2) in the reaction N2(g) + 3H2(g) ⇌ 2NH3(g) at constant temperature and pressure will affect the equilibrium position according to Le Chatelier's principle. Le Chatelier's principle states that if a system at equilibrium is subjected to a change in concentration, temperature, or pressure, the system will adjust the equilibrium position to counteract the change.\n\nIn this case, when the concentration of N2 is decreased, the equilibrium will shift to the left to counteract the change and produce more N2. This means that the reaction will consume more hydrogen gas (H2) and ammonia gas (NH3) to produce more nitrogen gas (N2). As a result, the concentration of H2 and NH3 will decrease, while the concentration of N2 will increase until a new equilibrium position is established."
+}

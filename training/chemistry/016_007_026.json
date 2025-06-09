@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Standard enthalpy of formation calculations",
+    "message_1": "What is the standard enthalpy of formation of ammonium nitrate (NH4NO3) given that the standard enthalpies of formation of NH3 and HNO3 are -46.1 kJ/mol and -206.6 kJ/mol, respectively?",
+    "message_2": "To find the standard enthalpy of formation of ammonium nitrate (NH4NO3), we can use the following equation:\n\nΔHf(NH4NO3) = ΔHf(NH3) + ΔHf(HNO3) - ΔHf(N2) - ΔHf(H2O)\n\nHowever, since the formation of elements in their standard states (N2 and H2O in this case) have an enthalpy of formation equal to zero, the equation simplifies to:\n\nΔHf(NH4NO3) = ΔHf(NH3) + ΔHf(HNO3)\n\nNow, we can plug in the given values for the enthalpies of formation of NH3 and HNO3:\n\nΔHf(NH4NO3) = (-46.1 kJ/mol) + (-206.6 kJ/mol)\n\nΔHf(NH4NO3) = -252.7 kJ/mol\n\nSo, the standard enthalpy of formation of ammonium nitrate (NH4NO3) is -252.7 kJ/mol."
+}

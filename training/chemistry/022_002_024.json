@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "What mass of oxygen gas is needed to react completely with 15 grams of methane (CH4), according to the following balanced chemical equation?\n\nCH4 (g) + 2O2 (g) → CO2 (g) + 2H2O (g)",
+    "message_2": "To determine the mass of oxygen gas needed to react completely with 15 grams of methane, we will use stoichiometry. First, we need to find the molar mass of methane (CH4) and oxygen gas (O2).\n\nMolar mass of CH4 = 12.01 g/mol (C) + 4 * 1.01 g/mol (H) = 16.05 g/mol\nMolar mass of O2 = 2 * 16.00 g/mol (O) = 32.00 g/mol\n\nNow, we will convert the mass of methane to moles:\n\n15 g CH4 * (1 mol CH4 / 16.05 g CH4) = 0.9346 mol CH4\n\nAccording to the balanced chemical equation, 1 mole of CH4 reacts with 2 moles of O2. So, we can find the moles of O2 needed:\n\n0.9346 mol CH4 * (2 mol O2 / 1 mol CH4) = 1.8692 mol O2\n\nFinally, we will convert the moles of O2 to grams:\n\n1.8692 mol O2 * (32.00 g O2 / 1 mol O2) = 59.81 g O2\n\nTherefore, 59.81 grams of oxygen gas is needed to react completely with 15 grams of methane."
+}

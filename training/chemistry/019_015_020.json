@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a fusion reaction",
+    "message_1": "What is the standard enthalpy change for the fusion of 1 mole of ice to liquid water at standard conditions of temperature and pressure? (Given: Enthalpy of fusion of water = 6.01 kJ/mol and the specific heat capacity of water = 4.18 J/g*K)",
+    "message_2": "The standard enthalpy change for the fusion of 1 mole of ice to liquid water at standard conditions of temperature and pressure is given by the enthalpy of fusion of water. In this case, the enthalpy of fusion of water is provided as 6.01 kJ/mol. Therefore, the standard enthalpy change for the fusion of 1 mole of ice to liquid water is 6.01 kJ/mol."
+}

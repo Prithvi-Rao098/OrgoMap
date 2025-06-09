@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a dissolution reaction",
+    "message_1": "Calculate the standard enthalpy change (in kJ/mol) for the dissolution of 3.50 g of potassium hydroxide (KOH) in 250.0 mL of water at 25°C, given that the molar heat of solution of KOH is -57.61 kJ/mol.",
+    "message_2": "To calculate the standard enthalpy change for the dissolution of potassium hydroxide, we first need to determine the number of moles of KOH dissolved and then use the molar heat of solution to find the enthalpy change.\n\n1. Calculate the number of moles of KOH:\nKOH has a molar mass of 39.10 g/mol (K) + 15.999 g/mol (O) + 1.008 g/mol (H) = 56.108 g/mol.\nmoles of KOH = mass / molar mass\nmoles of KOH = 3.50 g / 56.108 g/mol = 0.0624 mol\n\n2. Calculate the standard enthalpy change:\nStandard enthalpy change = moles of KOH × molar heat of solution\nStandard enthalpy change = 0.0624 mol × -57.61 kJ/mol = -3.60 kJ\n\nThe standard enthalpy change for the dissolution of 3.50 g of potassium hydroxide in 250.0 mL of water at 25°C is -3.60 kJ."
+}

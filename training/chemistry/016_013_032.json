@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of hydration calculations",
+    "message_1": "Calculate the heat of hydration for the dissolution of 5.00 grams of magnesium sulfate heptahydrate in 100.0 grams of water, given that the temperature rises from 25.0°C to 30.0°C. The molar mass of magnesium sulfate heptahydrate is 246.48 g/mol and the specific heat capacity of water is 4.18 J/g°C.",
+    "message_2": "First, we need to calculate the moles of magnesium sulfate heptahydrate:\n\nmoles = mass / molar mass\nmoles = 5.00 g / 246.48 g/mol\nmoles = 0.0203 mol\n\nNext, we need to calculate the heat absorbed by the water:\n\nq = mcΔT\nq = (100.0 g)(4.18 J/g°C)(30.0°C - 25.0°C)\nq = (100.0 g)(4.18 J/g°C)(5.0°C)\nq = 2090 J\n\nNow, we can calculate the heat of hydration per mole of magnesium sulfate heptahydrate:\n\nheat of hydration = q / moles\nheat of hydration = 2090 J / 0.0203 mol\nheat of hydration = 102,964 J/mol\n\nThe heat of hydration for the dissolution of 5.00 grams of magnesium sulfate heptahydrate in 100.0 grams of water is approximately 102,964 J/mol."
+}

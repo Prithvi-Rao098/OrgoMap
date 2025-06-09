@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of neutralization calculations",
+    "message_1": "What is the heat of neutralization (in kJ/mol) for the reaction between 50.0 mL of 1.0 M sulfuric acid (H2SO4) and 50.0 mL of 1.0 M sodium hydroxide (NaOH), assuming that the specific heat of the solution is 4.18 J/g•°C and the initial and final temperatures are both 25.0°C?",
+    "message_2": "Since the initial and final temperatures are both 25.0°C, there is no temperature change in this reaction. Therefore, there is no heat released or absorbed during the neutralization process. The heat of neutralization for this reaction is 0 kJ/mol."
+}

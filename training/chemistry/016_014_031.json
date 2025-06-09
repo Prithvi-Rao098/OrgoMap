@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of sublimation calculations",
+    "message_1": "Calculate the heat required to sublime 20.0 grams of dry ice (solid carbon dioxide) at a temperature of -78.5 °C, given the heat of sublimation of CO2 is 25.2 kJ/mol.",
+    "message_2": "First, we need to determine the number of moles of CO2 in 20.0 grams of dry ice. The molar mass of CO2 is 12.01 g/mol (for carbon) + 2 * 16.00 g/mol (for oxygen) = 44.01 g/mol.\n\nNumber of moles = (mass of CO2) / (molar mass of CO2)\nNumber of moles = 20.0 g / 44.01 g/mol = 0.4545 mol\n\nNow, we can calculate the heat required to sublime the dry ice using the heat of sublimation.\n\nHeat required = (number of moles) * (heat of sublimation)\nHeat required = 0.4545 mol * 25.2 kJ/mol = 11.45 kJ\n\nTherefore, the heat required to sublime 20.0 grams of dry ice at -78.5 °C is 11.45 kJ."
+}

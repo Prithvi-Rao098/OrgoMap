@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Predicting the direction of a reaction at equilibrium based on changes in concentration, pressure, or temperature",
+    "message_1": "If the system at equilibrium is affected by an increase in pressure, will the equilibrium shift towards the reactants or towards the products, assuming that the number of moles of gas is the same on both sides of the balanced chemical equation?",
+    "message_2": "If the number of moles of gas is the same on both sides of the balanced chemical equation, an increase in pressure will not cause the equilibrium to shift towards the reactants or the products. This is because the reaction quotient (Q) remains unchanged, and the system is still at equilibrium. According to Le Chatelier's principle, a change in pressure will only affect the position of equilibrium if there is a difference in the number of moles of gas between the reactants and products."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Identifying the hybridization of an atom in a molecule",
+    "message_1": "What is the hybridization of the central atom in the compound CHCl3?",
+    "message_2": "In the compound CHCl3 (chloroform), the central atom is carbon. To determine the hybridization of the central carbon atom, we need to consider its electron domains.\n\nCarbon has 4 valence electrons, and it forms one bond with hydrogen and three bonds with chlorine atoms. This gives carbon a total of four electron domains (one for each bond). \n\nAccording to the VSEPR theory, when a central atom has four electron domains, it adopts a tetrahedral geometry, and the hybridization of the central atom is sp3. \n\nSo, the hybridization of the central carbon atom in CHCl3 is sp3."
+}

@@ -8,6 +8,7 @@ import Home from './pages/Home';
 import Login from './pages/Login';
 import AIChat from './pages/AIChat';
 import Profile from './pages/Profile';
+import Signup from './pages/Signup';
 
 function App() {
   const [session, setSession] = useState<Session | null>(null);
@@ -72,6 +73,10 @@ function App() {
             <Route 
               path="/login" 
               element={session ? <Navigate to="/" replace /> : <Login />} 
+            />
+            <Route 
+              path="/signup" 
+              element={session ? <Navigate to="/" replace /> : <Signup />} 
             />
             <Route 
               path="/profile" 

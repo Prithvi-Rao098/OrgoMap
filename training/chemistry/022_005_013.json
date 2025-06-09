@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Combustion reactions",
+    "message_1": "What is the complete combustion equation for ethane (C2H6) and how many moles of oxygen gas (O2) are required for the reaction to produce 5 moles of carbon dioxide gas (CO2) and 6 moles of water vapor (H2O)?",
+    "message_2": "The complete combustion equation for ethane (C2H6) is:\n\nC2H6 + 7/2 O2 → 2 CO2 + 3 H2O\n\nNow, let's find out how many moles of oxygen gas (O2) are required for the reaction to produce 5 moles of carbon dioxide gas (CO2) and 6 moles of water vapor (H2O).\n\nFrom the balanced equation, we can see that 2 moles of CO2 are produced for every 7/2 moles of O2 consumed. To find the moles of O2 required to produce 5 moles of CO2, we can set up a proportion:\n\n(7/2 moles O2) / (2 moles CO2) = x moles O2 / (5 moles CO2)\n\nSolving for x:\n\nx moles O2 = (7/2 moles O2) * (5 moles CO2) / (2 moles CO2)\nx moles O2 = 35/4 moles O2\n\nTherefore, 35/4 moles of oxygen gas (O2) are required for the reaction to produce 5 moles of carbon dioxide gas (CO2) and 6 moles of water vapor (H2O)."
+}

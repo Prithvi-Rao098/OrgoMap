@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical kinetics",
+    "sub_topic": "Investigating the effect of reaction rate on equilibrium constant",
+    "message_1": "What is the effect of temperature on the equilibrium constant of the reaction between iodine and propanone?",
+    "message_2": "The effect of temperature on the equilibrium constant (K) of a reaction can be determined using the van't Hoff equation. The reaction between iodine and propanone is an exothermic reaction, which means it releases heat. The balanced equation for this reaction is:\n\nCH3COCH3 (aq) + I2 (aq) ⇌ CH3COCH2I (aq) + HI (aq)\n\nIn an exothermic reaction, increasing the temperature will shift the equilibrium position towards the reactants, favoring the reverse reaction. Consequently, the equilibrium constant (K) will decrease with an increase in temperature. Conversely, if the temperature is decreased, the equilibrium will shift towards the products, and the equilibrium constant (K) will increase.\n\nIn summary, for the reaction between iodine and propanone, the equilibrium constant (K) decreases with an increase in temperature and increases with a decrease in temperature."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the equilibrium constant for a given reaction",
+    "message_1": "What is the value of the equilibrium constant (Kc) for the following chemical reaction at 25°C when the concentrations of the reactants and products are as follows? \n\nN2(g) + 3H2(g) ⇌ 2NH3(g) \n\n[N2] = 0.50 mol/L\n\n[H2] = 0.25 mol/L\n\n[NH3] = 1.00 mol/L",
+    "message_2": "To find the value of the equilibrium constant (Kc) for the given reaction, we can use the formula:\n\nKc = [Products]^coefficients / [Reactants]^coefficients\n\nFor the given reaction:\n\nN2(g) + 3H2(g) ⇌ 2NH3(g)\n\nKc = [NH3]^2 / ([N2] * [H2]^3)\n\nNow, we can plug in the given concentrations:\n\nKc = ([1.00 mol/L]^2) / ([0.50 mol/L] * [0.25 mol/L]^3)\n\nKc = (1.00^2) / (0.50 * 0.25^3)\n\nKc = 1 / (0.50 * 0.015625)\n\nKc = 1 / 0.0078125\n\nKc ≈ 128\n\nSo, the value of the equilibrium constant (Kc) for the given reaction at 25°C is approximately 128."
+}

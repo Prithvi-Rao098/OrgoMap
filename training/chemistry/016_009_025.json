@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of vaporization calculations",
+    "message_1": "What is the enthalpy of vaporization of ethylene glycol if it takes 255.8 J of energy to vaporize 10 grams of it at its boiling point of 197.3 °C? (Molar mass of ethylene glycol= 62.07 g/mol)",
+    "message_2": "To find the enthalpy of vaporization of ethylene glycol, we first need to determine the number of moles of ethylene glycol in the 10 grams sample.\n\nNumber of moles = mass / molar mass\nNumber of moles = 10 g / 62.07 g/mol = 0.1612 mol\n\nNow, we can use the energy provided (255.8 J) to find the enthalpy of vaporization per mole.\n\nEnthalpy of vaporization = energy / number of moles\nEnthalpy of vaporization = 255.8 J / 0.1612 mol = 1586.6 J/mol\n\nSo, the enthalpy of vaporization of ethylene glycol is approximately 1586.6 J/mol."
+}

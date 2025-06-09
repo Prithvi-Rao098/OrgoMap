@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the effect of changing the temperature on the equilibrium constant",
+    "message_1": "What is the new equilibrium constant at 25°C if the original equilibrium constant for the exothermic reaction N₂(g) + O₂(g) ⇌ 2NO(g) is 4.16 x 10⁻⁴ and the temperature is increased from 25°C to 50°C? The enthalpy change for the reaction is -180.6 kJ/mol and the entropy change is -152.1 J/K·mol.",
+    "message_2": "To solve this problem, we will use the van't Hoff equation, which relates the change in temperature to the change in the equilibrium constant for a reaction:\n\nln(K2/K1) = -ΔH/R * (1/T2 - 1/T1)\n\nwhere K1 and K2 are the equilibrium constants at temperatures T1 and T2, respectively, ΔH is the enthalpy change of the reaction, and R is the gas constant (8.314 J/K·mol).\n\nFirst, we need to convert the temperatures from Celsius to Kelvin:\nT1 = 25°C + 273.15 = 298.15 K\nT2 = 50°C + 273.15 = 323.15 K\n\nNext, we plug in the given values into the van't Hoff equation:\n\nln(K2/(4.16 x 10⁻⁴)) = -(-180.6 x 10^3 J/mol) / (8.314 J/K·mol) * (1/323.15 K - 1/298.15 K)\n\nSolving for K2:\n\nK2 = (4.16 x 10⁻⁴) * exp[-(-180.6 x 10^3 J/mol) / (8.314 J/K·mol) * (1/323.15 K - 1/298.15 K)]\n\nK2 ≈ 1.29 x 10⁻⁴\n\nSo, the new equilibrium constant at 50°C (or 323.15 K) is approximately 1.29 x 10⁻⁴."
+}

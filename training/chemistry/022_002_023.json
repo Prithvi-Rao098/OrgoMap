@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "The combustion of propane in oxygen gas produces carbon dioxide and water vapor. If 5.0 grams of propane react with excess oxygen gas, what mass of carbon dioxide is produced? (Molar mass of propane = 44.1 g/mol and molar mass of carbon dioxide = 44.0 g/mol)",
+    "message_2": "To solve this problem, we need to use stoichiometry. First, we need to write the balanced chemical equation for the combustion of propane:\n\nC3H8 + 5O2 -> 3CO2 + 4H2O\n\nNow, we can use the given information to find the moles of propane:\n\n5.0 g propane * (1 mol propane / 44.1 g propane) = 0.1134 mol propane\n\nFrom the balanced equation, we can see that 1 mole of propane produces 3 moles of carbon dioxide. Therefore, we can find the moles of carbon dioxide produced:\n\n0.1134 mol propane * (3 mol CO2 / 1 mol propane) = 0.3402 mol CO2\n\nNow, we can convert the moles of carbon dioxide to grams:\n\n0.3402 mol CO2 * (44.0 g CO2 / 1 mol CO2) = 14.97 g CO2\n\nSo, 14.97 grams of carbon dioxide are produced when 5.0 grams of propane react with excess oxygen gas."
+}

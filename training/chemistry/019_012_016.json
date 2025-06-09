@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of standard enthalpy change for a dissolution reaction",
+    "message_1": "What is the standard enthalpy change of the dissolution of 10 grams of sodium chloride in 250 milliliters of water at 25°C, given that the molar enthalpy of dissolution of sodium chloride is -3.9 kilojoules per mole?",
+    "message_2": "To calculate the standard enthalpy change of the dissolution of 10 grams of sodium chloride (NaCl) in 250 milliliters of water at 25°C, we first need to determine the number of moles of NaCl being dissolved. \n\nThe molar mass of NaCl is approximately 58.44 g/mol (22.99 g/mol for Na and 35.45 g/mol for Cl). \n\nNow, we can calculate the number of moles of NaCl:\n\nmoles of NaCl = mass of NaCl / molar mass of NaCl\nmoles of NaCl = 10 g / 58.44 g/mol\nmoles of NaCl ≈ 0.171 mol\n\nNext, we can use the molar enthalpy of dissolution of NaCl (-3.9 kJ/mol) to calculate the standard enthalpy change for the dissolution of 0.171 mol of NaCl:\n\nΔH = moles of NaCl × molar enthalpy of dissolution\nΔH = 0.171 mol × (-3.9 kJ/mol)\nΔH ≈ -0.667 kJ\n\nTherefore, the standard enthalpy change of the dissolution of 10 grams of sodium chloride in 250 milliliters of water at 25°C is approximately -0.667 kJ."
+}

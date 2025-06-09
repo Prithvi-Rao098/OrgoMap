@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Surface chemistry",
+    "sub_topic": "Micelle formation and critical micelle concentration",
+    "message_1": "What is the critical micelle concentration of sodium dodecyl sulfate in an aqueous solution at a temperature of 25°C?",
+    "message_2": "The critical micelle concentration (CMC) of a surfactant like sodium dodecyl sulfate (SDS) is the concentration at which micelles begin to form in a solution. The CMC is dependent on factors such as temperature, ionic strength, and the presence of other solutes.\n\nFor sodium dodecyl sulfate (SDS) in an aqueous solution at 25°C, the CMC is typically reported to be around 8-10 mM (millimolar). However, it is important to note that the CMC can vary depending on the specific conditions of the solution, such as the presence of salts or other additives. To determine the exact CMC for a specific solution, experimental methods such as surface tension measurements, conductivity measurements, or fluorescence techniques can be used."
+}

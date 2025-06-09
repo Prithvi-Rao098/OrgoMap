@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Acid dissociation constant calculations",
+    "message_1": "What is the pH of a 0.1 M solution of acetic acid if its acid dissociation constant Ka is 1.8 x 10^-5?",
+    "message_2": "To find the pH of a 0.1 M solution of acetic acid, we can use the formula for the acid dissociation constant (Ka) and the definition of pH.\n\nKa = [H+][A-]/[HA]\n\nIn this case, Ka = 1.8 x 10^-5, and the initial concentration of acetic acid (HA) is 0.1 M. Since the solution is weakly acidic, we can assume that the change in concentration of acetic acid is small, and we can use an approximation.\n\nLet x be the concentration of H+ ions and A- ions produced by the dissociation of acetic acid. Then, the equation becomes:\n\n1.8 x 10^-5 = x^2 / (0.1 - x)\n\nSince x is small compared to 0.1, we can approximate the equation as:\n\n1.8 x 10^-5 ≈ x^2 / 0.1\n\nNow, we can solve for x:\n\nx^2 = 1.8 x 10^-5 * 0.1\nx^2 = 1.8 x 10^-6\nx = √(1.8 x 10^-6)\nx ≈ 1.34 x 10^-3\n\nNow that we have the concentration of H+ ions (x), we can find the pH using the formula:\n\npH = -log[H+]\n\npH = -log(1.34 x 10^-3)\npH ≈ 2.87\n\nSo, the pH of the 0.1 M solution of acetic acid is approximately 2.87."
+}

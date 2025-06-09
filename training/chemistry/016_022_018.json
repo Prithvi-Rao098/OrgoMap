@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of isomerization calculations",
+    "message_1": "What is the enthalpy change (in kJ/mol) for the isomerization of cis-2-butene to trans-2-butene at 25°C and constant pressure of 1 atm, given that the heat of formation of cis-2-butene is -64.6 kJ/mol and the heat of formation of trans-2-butene is -63.9 kJ/mol?",
+    "message_2": "To calculate the enthalpy change (ΔH) for the isomerization of cis-2-butene to trans-2-butene, we can use the following equation:\n\nΔH = ΔHf (products) - ΔHf (reactants)\n\nIn this case, the reactant is cis-2-butene, and the product is trans-2-butene. The heat of formation (ΔHf) for cis-2-butene is -64.6 kJ/mol, and the heat of formation for trans-2-butene is -63.9 kJ/mol.\n\nΔH = (-63.9 kJ/mol) - (-64.6 kJ/mol)\n\nΔH = 0.7 kJ/mol\n\nThe enthalpy change for the isomerization of cis-2-butene to trans-2-butene at 25°C and constant pressure of 1 atm is 0.7 kJ/mol."
+}

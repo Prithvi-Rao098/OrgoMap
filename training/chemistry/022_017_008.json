@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Hess's Law problems",
+    "message_1": "A student needs to determine the enthalpy change of a chemical reaction using the Hess's Law equation. They have the following information:\n\n- The enthalpy change for Reaction 1 is -210 kJ/mol\n- The enthalpy change for Reaction 2 is -325 kJ/mol\n- The enthalpy change for Reaction 3 is 155 kJ/mol\n\nThe student needs to use Hess's Law to calculate the enthalpy change for the following reaction:\n\n4A + 3B → 2C\n\nGiven the information above, what is the enthalpy change for the reaction?",
+    "message_2": "To solve this problem, we need more information about how the given reactions (Reaction 1, Reaction 2, and Reaction 3) are related to the target reaction (4A + 3B → 2C). Hess's Law states that the enthalpy change of a reaction is the same whether it occurs in one step or several steps. Therefore, we need to know how to combine the given reactions to obtain the target reaction.\n\nPlease provide the balanced equations for Reaction 1, Reaction 2, and Reaction 3, so that we can use Hess's Law to calculate the enthalpy change for the target reaction."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "Determine the heat capacity of aluminum if 50.0 g of the metal is heated from 25°C to 75°C using 100.0 J of heat energy.",
+    "message_2": "To determine the heat capacity of aluminum, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat energy (in joules), m is the mass of the substance (in grams), c is the specific heat capacity (in J/g°C), and ΔT is the change in temperature (in °C).\n\nWe are given the following information:\n- q = 100.0 J\n- m = 50.0 g\n- ΔT = 75°C - 25°C = 50°C\n\nWe need to solve for c (the specific heat capacity of aluminum). Rearranging the formula, we get:\n\nc = q / (mΔT)\n\nNow, we can plug in the given values:\n\nc = 100.0 J / (50.0 g × 50°C)\nc = 100.0 J / 2500 g°C\nc = 0.04 J/g°C\n\nSo, the heat capacity of aluminum is 0.04 J/g°C."
+}

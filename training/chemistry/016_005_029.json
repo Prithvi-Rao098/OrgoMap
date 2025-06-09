@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of combustion calculations",
+    "message_1": "What is the enthalpy of combustion for methane gas (CH4) at standard conditions, given that the balanced equation for the combustion reaction is:\n\nCH4(g) + 2O2(g) → CO2(g) + 2H2O(g)\n\nAssume that all reactants and products are in their standard states and use the following standard enthalpy of formation values:\n\nΔH f° [CO2(g)] = -393.5 kJ/mol\nΔH f° [H2O(l)] = -285.8 kJ/mol\nΔH f° [CH4(g)] = -74.8 kJ/mol",
+    "message_2": "To calculate the enthalpy of combustion for methane gas (CH4) at standard conditions, we can use the following formula:\n\nΔH_combustion = Σ ΔH_f° (products) - Σ ΔH_f° (reactants)\n\nFrom the balanced equation, we have:\n\n1 mol of CO2(g) and 2 mol of H2O(g) as products\n1 mol of CH4(g) and 2 mol of O2(g) as reactants\n\nNote that the standard enthalpy of formation for O2(g) is 0 kJ/mol since it is in its standard state.\n\nNow, we can plug in the values:\n\nΔH_combustion = [1 × (-393.5 kJ/mol) + 2 × (-285.8 kJ/mol)] - [1 × (-74.8 kJ/mol) + 2 × 0 kJ/mol]\n\nΔH_combustion = (-393.5 - 571.6) - (-74.8)\n\nΔH_combustion = -965.1 + 74.8\n\nΔH_combustion = -890.3 kJ/mol\n\nTherefore, the enthalpy of combustion for methane gas (CH4) at standard conditions is -890.3 kJ/mol."
+}

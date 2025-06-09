@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of vaporization calculations",
+    "message_1": "Sure, here's a precise problem for the student to solve:\n\nA sample of 25 g of water at an initial temperature of 25°C is heated to its boiling point of 100°C. The enthalpy of vaporization of water is 40.656 kJ/mol. Calculate the amount of heat energy required to vaporize the entire sample of water.",
+    "message_2": "To calculate the amount of heat energy required to vaporize the entire sample of water, we need to first determine the number of moles of water in the sample and then use the enthalpy of vaporization to find the heat energy.\n\nStep 1: Calculate the number of moles of water\nThe molar mass of water (H2O) is 18.015 g/mol. We can use this to find the number of moles in the 25 g sample:\n\nmoles of water = mass of water / molar mass of water\nmoles of water = 25 g / 18.015 g/mol\nmoles of water ≈ 1.387 mol\n\nStep 2: Calculate the heat energy required to vaporize the water\nNow that we know the number of moles of water, we can use the enthalpy of vaporization to find the heat energy required to vaporize the entire sample:\n\nheat energy = moles of water × enthalpy of vaporization\nheat energy = 1.387 mol × 40.656 kJ/mol\nheat energy ≈ 56.38 kJ\n\nTherefore, the amount of heat energy required to vaporize the entire 25 g sample of water is approximately 56.38 kJ."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Calculating the bond order of a molecule using molecular orbital theory",
+    "message_1": "What is the bond order of a carbon monoxide molecule (CO) using molecular orbital theory, given that the sigma bonding molecular orbital has 2 electrons, the sigma antibonding molecular orbital has 0 electrons, pi bonding molecular orbital has 2 electrons, and the pi antibonding molecular orbital has 0 electrons?",
+    "message_2": "To calculate the bond order using molecular orbital theory, you can use the following formula:\n\nBond order = (number of electrons in bonding orbitals - number of electrons in antibonding orbitals) / 2\n\nIn the case of the carbon monoxide molecule (CO), the given information is:\n\n- Sigma bonding molecular orbital has 2 electrons\n- Sigma antibonding molecular orbital has 0 electrons\n- Pi bonding molecular orbital has 2 electrons\n- Pi antibonding molecular orbital has 0 electrons\n\nUsing the formula:\n\nBond order = (2 (sigma bonding) + 2 (pi bonding) - 0 (sigma antibonding) - 0 (pi antibonding)) / 2\nBond order = (4 - 0) / 2\nBond order = 4 / 2\nBond order = 2\n\nSo, the bond order of a carbon monoxide molecule (CO) is 2."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Bond energy calculations",
+    "message_1": "Calculate the energy required to break a carbon-carbon single bond (C-C) with a bond length of 1.54 Å using the average bond-dissociation energy of 347 kJ/mol for this type of bond.",
+    "message_2": "The energy required to break a carbon-carbon single bond (C-C) can be found using the average bond-dissociation energy provided. In this case, the bond-dissociation energy is 347 kJ/mol. The bond length is not needed for this calculation, as the energy required to break the bond is independent of the bond length.\n\nTherefore, the energy required to break a carbon-carbon single bond (C-C) is 347 kJ/mol."
+}

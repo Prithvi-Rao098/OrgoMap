@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of reaction calculations",
+    "message_1": "Sure, here's a specific problem for a chemistry student to solve:\n\nCalculate the enthalpy change for the combustion reaction of propane (C3H8) in oxygen gas based on the following information:\n\nC3H8(g) + 5O2(g) → 3CO2(g) + 4H2O(l); ΔH = -2220 kJ/mol\n\nHint: Use stoichiometry to calculate the amount of heat released or absorbed in the reaction.",
+    "message_2": "The given balanced chemical equation for the combustion of propane is:\n\nC3H8(g) + 5O2(g) → 3CO2(g) + 4H2O(l); ΔH = -2220 kJ/mol\n\nThis equation tells us that for every 1 mole of propane (C3H8) that reacts with 5 moles of oxygen gas (O2), 3 moles of carbon dioxide (CO2) and 4 moles of water (H2O) are produced, and the enthalpy change (ΔH) for this reaction is -2220 kJ/mol.\n\nSince the balanced chemical equation already provides the stoichiometric coefficients (the numbers in front of each species), we can directly use the given enthalpy change value to determine the heat released or absorbed in the reaction.\n\nIn this case, the enthalpy change (ΔH) is negative (-2220 kJ/mol), which indicates that the reaction is exothermic, meaning heat is released during the combustion of propane.\n\nSo, the enthalpy change for the combustion reaction of propane in oxygen gas is -2220 kJ/mol, and the reaction releases heat."
+}

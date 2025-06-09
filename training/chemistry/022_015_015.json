@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Percent yield problems",
+    "message_1": "A student mixed 25.0 grams of sodium hydroxide with excess hydrochloric acid. If the theoretical yield of sodium chloride is 34.0 grams, what is the percent yield of the reaction?",
+    "message_2": "To calculate the percent yield, we first need to know the actual yield of sodium chloride produced in the reaction. The problem does not provide this information. Assuming you meant to provide the actual yield, I will use a placeholder value (X grams) for the actual yield.\n\nPercent yield = (Actual yield / Theoretical yield) x 100\n\nPercent yield = (X grams / 34.0 grams) x 100\n\nOnce you have the actual yield value, you can plug it in for X and calculate the percent yield."
+}

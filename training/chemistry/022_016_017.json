@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Enthalpy of reaction calculations",
+    "message_1": "What is the enthalpy change for the reaction: 2H2(g) + O2(g) → 2H2O(g), given that the bond enthalpy of H-H, O=O, and H-O are 436 kJ/mol, 498 kJ/mol, and 464 kJ/mol, respectively?",
+    "message_2": "To calculate the enthalpy change for the reaction, we need to find the difference between the bond enthalpies of the reactants and the products.\n\nFor the reactants, we have:\n2 moles of H-H bonds and 1 mole of O=O bond.\n\nFor the products, we have:\n4 moles of H-O bonds (since there are 2 moles of H2O, each with 2 H-O bonds).\n\nNow, we can calculate the total bond enthalpy for the reactants and products:\n\nReactants bond enthalpy = (2 moles H-H × 436 kJ/mol) + (1 mole O=O × 498 kJ/mol)\nReactants bond enthalpy = (872 kJ) + (498 kJ) = 1370 kJ\n\nProducts bond enthalpy = (4 moles H-O × 464 kJ/mol)\nProducts bond enthalpy = 1856 kJ\n\nNow, we can find the enthalpy change for the reaction:\n\nΔH = Products bond enthalpy - Reactants bond enthalpy\nΔH = 1856 kJ - 1370 kJ\nΔH = 486 kJ\n\nThe enthalpy change for the reaction is 486 kJ."
+}

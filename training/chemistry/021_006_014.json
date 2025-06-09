@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Predicting the dipole moment of a molecule",
+    "message_1": "What is the dipole moment of carbon dioxide (CO2) molecule and its direction, given its molecular structure?",
+    "message_2": "Carbon dioxide (CO2) is a linear molecule with a carbon atom in the center and an oxygen atom on each side. The carbon-oxygen bonds are polar due to the difference in electronegativity between carbon and oxygen atoms. However, because of the linear structure and the equal distribution of the two polar bonds, the dipole moments of the two carbon-oxygen bonds cancel each other out.\n\nAs a result, the net dipole moment of the CO2 molecule is zero, and there is no specific direction for the dipole moment."
+}

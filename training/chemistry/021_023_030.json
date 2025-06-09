@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the isomerism of a molecule",
+    "message_1": "What is the isomerism type of the molecule with the chemical formula C4H10O? Determine if it is a structural isomer, a functional isomer, a stereoisomer, or if it is not isomeric at all. Show the reasoning and steps taken to arrive at the conclusion.",
+    "message_2": "The molecule with the chemical formula C4H10O is an alcohol, as it contains an -OH group. To determine the type of isomerism, we need to look at the possible structures of the molecule and see if they differ in connectivity, functional groups, or spatial arrangement.\n\nThere are two possible structures for C4H10O:\n\n1. Butanol (CH3-CH2-CH2-CH2-OH)\n2. 2-Methylpropanol (CH3-CH(CH3)-CH2-OH)\n\nThese two structures have the same molecular formula but different connectivity of atoms. They are connected in different ways, leading to different structural arrangements. This makes them structural isomers.\n\nSo, the isomerism type of the molecule with the chemical formula C4H10O is structural isomerism."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Calculating the equilibrium constant for a given reaction",
+    "message_1": "What is the equilibrium constant (Kc) for the following reaction at 25°C, if the concentrations of reactants and products are as follows?\n\n$$ \\ce{N2(g) + 3H2(g) -> 2NH3(g)} $$\n\n[Reactants]: [N2] = 0.020 M, [H2] = 0.0080 M\n\n[Products]: [NH3] = 0.0050 M",
+    "message_2": "To find the equilibrium constant (Kc) for the given reaction, we can use the formula:\n\n$$ K_c = \\frac{[\\ce{NH3}]^2}{[\\ce{N2}] \\times [\\ce{H2}]^3} $$\n\nGiven the concentrations of the reactants and products:\n\n[NH3] = 0.0050 M\n[N2] = 0.020 M\n[H2] = 0.0080 M\n\nPlug the values into the formula:\n\n$$ K_c = \\frac{(0.0050)^2}{(0.020) \\times (0.0080)^3} $$\n\nNow, calculate Kc:\n\n$$ K_c = \\frac{0.000025}{(0.020) \\times (0.000000512)} $$\n\n$$ K_c = \\frac{0.000025}{0.00000001024} $$\n\n$$ K_c ≈ 2441 $$\n\nSo, the equilibrium constant (Kc) for the given reaction at 25°C is approximately 2441."
+}

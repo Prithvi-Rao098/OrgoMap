@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat capacity calculations",
+    "message_1": "A 50.0 g sample of ethanol is heated from 25.0 °C to 85.0 °C, and absorbs 237 J of heat. What is the specific heat capacity of ethanol?",
+    "message_2": "To find the specific heat capacity of ethanol, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat absorbed (237 J), m is the mass of the ethanol sample (50.0 g), c is the specific heat capacity we want to find, and ΔT is the change in temperature (85.0 °C - 25.0 °C).\n\nFirst, let's find the change in temperature (ΔT):\n\nΔT = 85.0 °C - 25.0 °C = 60.0 °C\n\nNow, we can rearrange the formula to solve for the specific heat capacity (c):\n\nc = q / (mΔT)\n\nPlug in the values:\n\nc = 237 J / (50.0 g × 60.0 °C)\n\nc = 237 J / 3000 g°C\n\nc = 0.079 J/g°C\n\nThe specific heat capacity of ethanol is 0.079 J/g°C."
+}

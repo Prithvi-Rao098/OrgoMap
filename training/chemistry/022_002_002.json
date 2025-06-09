@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Stoichiometry problems",
+    "message_1": "How many grams of sodium hydroxide (NaOH) are required to neutralize 25 grams of hydrochloric acid (HCl) if the balanced chemical equation is NaOH + HCl → NaCl + H2O?",
+    "message_2": "To solve this problem, we need to use stoichiometry, which involves converting the given mass of one substance (in this case, HCl) to moles, then using the balanced chemical equation to find the moles of the other substance (NaOH), and finally converting the moles of the other substance back to mass.\n\nFirst, let's find the molar mass of HCl and NaOH:\nHCl: H (1.01 g/mol) + Cl (35.45 g/mol) = 36.46 g/mol\nNaOH: Na (22.99 g/mol) + O (16.00 g/mol) + H (1.01 g/mol) = 40.00 g/mol\n\nNow, let's convert the given mass of HCl (25 g) to moles:\nmoles of HCl = mass of HCl / molar mass of HCl\nmoles of HCl = 25 g / 36.46 g/mol = 0.685 moles\n\nAccording to the balanced chemical equation, the mole ratio of NaOH to HCl is 1:1. Therefore, the moles of NaOH required to neutralize the HCl are equal to the moles of HCl:\nmoles of NaOH = 0.685 moles\n\nFinally, let's convert the moles of NaOH to mass:\nmass of NaOH = moles of NaOH * molar mass of NaOH\nmass of NaOH = 0.685 moles * 40.00 g/mol = 27.4 g\n\nSo, 27.4 grams of sodium hydroxide (NaOH) are required to neutralize 25 grams of hydrochloric acid (HCl)."
+}

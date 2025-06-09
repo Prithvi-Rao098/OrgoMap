@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat capacity calculations",
+    "message_1": "Sure, here is a precise problem for the student to solve:\n\nCalculate the heat capacity (in J/K) of a 50.0 g sample of an unknown substance that requires 167 J to increase its temperature by 5.00 °C.",
+    "message_2": "To calculate the heat capacity, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat energy (in Joules), m is the mass of the substance (in grams), c is the specific heat capacity (in J/g·K), and ΔT is the change in temperature (in Kelvin or Celsius, since the difference is the same).\n\nWe are given the mass (m = 50.0 g), the heat energy (q = 167 J), and the change in temperature (ΔT = 5.00 °C). We need to find the specific heat capacity (c) and then calculate the heat capacity.\n\nFirst, let's rearrange the formula to solve for c:\n\nc = q / (mΔT)\n\nNow, plug in the given values:\n\nc = 167 J / (50.0 g × 5.00 °C) = 167 J / 250 g·°C = 0.668 J/g·°C\n\nNow that we have the specific heat capacity, we can calculate the heat capacity. The heat capacity is the product of the mass and the specific heat capacity:\n\nHeat capacity = m × c = 50.0 g × 0.668 J/g·°C = 33.4 J/°C\n\nSo, the heat capacity of the 50.0 g sample of the unknown substance is 33.4 J/°C."
+}

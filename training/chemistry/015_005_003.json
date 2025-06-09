@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Quantum chemistry",
+    "sub_topic": "Calculation of thermodynamic properties of molecules and reactions.",
+    "message_1": "Calculate the standard enthalpy change of the reaction NH3(g) + 2O2(g) → NO2(g) + 3H2O(l) at 25°C, given that the standard enthalpies of formation of NH3(g), O2(g), NO2(g) and H2O(l) are -46.11 kJ/mol, 0 kJ/mol, 33.18 kJ/mol and -285.8 kJ/mol, respectively.",
+    "message_2": "To calculate the standard enthalpy change of the reaction, we can use the formula:\n\nΔH° = Σ ΔH°f(products) - Σ ΔH°f(reactants)\n\nwhere ΔH° is the standard enthalpy change of the reaction, and ΔH°f is the standard enthalpy of formation of the respective substances.\n\nFor the given reaction:\n\nNH3(g) + 2O2(g) → NO2(g) + 3H2O(l)\n\nThe standard enthalpies of formation are:\n\nNH3(g): -46.11 kJ/mol\nO2(g): 0 kJ/mol\nNO2(g): 33.18 kJ/mol\nH2O(l): -285.8 kJ/mol\n\nNow, we can plug these values into the formula:\n\nΔH° = [(1 × 33.18) + (3 × -285.8)] - [(1 × -46.11) + (2 × 0)]\n\nΔH° = [33.18 - 857.4] - (-46.11)\n\nΔH° = -824.22 + 46.11\n\nΔH° = -778.11 kJ/mol\n\nSo, the standard enthalpy change of the reaction is -778.11 kJ/mol."
+}

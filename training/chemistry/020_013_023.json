@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Determining the equilibrium constant for a reaction involving weak acids or bases",
+    "message_1": "What is the equilibrium constant, Kw, for the ionization of water at 25°C if the concentration of H+ ions is 1 x 10^-7 M?",
+    "message_2": "The ionization of water can be represented by the following equilibrium reaction:\n\nH2O ⇌ H+ + OH-\n\nAt 25°C, the concentration of H+ ions and OH- ions are equal in pure water. Given the concentration of H+ ions is 1 x 10^-7 M, the concentration of OH- ions will also be 1 x 10^-7 M.\n\nThe equilibrium constant, Kw, for the ionization of water is calculated as follows:\n\nKw = [H+] [OH-]\n\nSubstitute the given values:\n\nKw = (1 x 10^-7 M) (1 x 10^-7 M)\n\nKw = 1 x 10^-14 M^2\n\nSo, the equilibrium constant, Kw, for the ionization of water at 25°C is 1 x 10^-14 M^2."
+}

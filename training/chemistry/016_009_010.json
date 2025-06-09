@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Enthalpy of vaporization calculations",
+    "message_1": "What is the enthalpy of vaporization of water at its boiling point (100°C) if it has a molar heat capacity of 75.3 J/mol·K and a vapor pressure of 1 atm?",
+    "message_2": "To find the enthalpy of vaporization of water at its boiling point, we can use the Clausius-Clapeyron equation:\n\nln(P2/P1) = -ΔHvap/R * (1/T2 - 1/T1)\n\nWhere:\nP1 and P2 are the vapor pressures at temperatures T1 and T2, respectively\nΔHvap is the enthalpy of vaporization\nR is the ideal gas constant (8.314 J/mol·K)\n\nSince we are given the vapor pressure at the boiling point (100°C), we can use the Clausius-Clapeyron equation to find the enthalpy of vaporization. We will need another data point for the vapor pressure at a different temperature. Let's use the vapor pressure of water at 25°C (298.15 K), which is approximately 0.0313 atm.\n\nT1 = 298.15 K (25°C)\nP1 = 0.0313 atm\nT2 = 373.15 K (100°C)\nP2 = 1 atm\n\nNow, we can plug these values into the Clausius-Clapeyron equation and solve for ΔHvap:\n\nln(1/0.0313) = -ΔHvap/8.314 * (1/373.15 - 1/298.15)\n\n4.162 = ΔHvap/8.314 * (-0.000685)\n\nΔHvap = 4.162 / (-0.000685) * 8.314\nΔHvap ≈ 40,657 J/mol\n\nThe enthalpy of vaporization of water at its boiling point (100°C) is approximately 40,657 J/mol."
+}

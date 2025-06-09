@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Heat of sublimation calculations",
+    "message_1": "Calculate the heat required to sublime 25 grams of dry ice (CO2) at a temperature of -78.5 °C if the enthalpy of sublimation is 25.2 kJ/mol.",
+    "message_2": "To calculate the heat required to sublime 25 grams of dry ice, we will use the following formula:\n\nq = n * ΔH_sub\n\nwhere q is the heat required, n is the number of moles of the substance, and ΔH_sub is the enthalpy of sublimation.\n\nFirst, we need to find the number of moles (n) of CO2. The molar mass of CO2 is approximately 44.01 g/mol (12.01 g/mol for C and 16.00 g/mol for each O).\n\nn = mass / molar mass\nn = 25 g / 44.01 g/mol\nn ≈ 0.568 moles\n\nNow we can calculate the heat required (q):\n\nq = n * ΔH_sub\nq = 0.568 moles * 25.2 kJ/mol\nq ≈ 14.32 kJ\n\nTherefore, the heat required to sublime 25 grams of dry ice at -78.5 °C is approximately 14.32 kJ."
+}

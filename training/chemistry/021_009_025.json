@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Predicting the bond order of a molecule",
+    "message_1": "What is the bond order of carbon monoxide (CO) molecule?",
+    "message_2": "The bond order of a molecule is determined by the number of bonding electrons minus the number of antibonding electrons, divided by 2. For carbon monoxide (CO), we can determine the bond order using molecular orbital theory.\n\nCarbon has 6 electrons and oxygen has 8 electrons, giving a total of 14 electrons in the CO molecule. The molecular orbital configuration for CO is:\n\n1σ² 2σ² 1π² 3σ² 1π²\n\nHere, the bonding orbitals are 1σ, 2σ, 1π, and 3σ, and the antibonding orbital is 1π*. The number of electrons in bonding orbitals is 10 (2 in each of the four bonding orbitals), and the number of electrons in antibonding orbitals is 2 (in the 1π* orbital).\n\nNow, we can calculate the bond order:\n\nBond order = (Number of electrons in bonding orbitals - Number of electrons in antibonding orbitals) / 2\nBond order = (10 - 2) / 2\nBond order = 8 / 2\nBond order = 4\n\nTherefore, the bond order of carbon monoxide (CO) is 3."
+}

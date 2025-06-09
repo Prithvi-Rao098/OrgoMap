@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Determining the solubility of a substance in a solvent",
+    "message_1": "What is the maximum mass (in grams) of potassium chloride (KCl) that can dissolve in 100 mL of water at 25°C, assuming it has a solubility of 34.21 g/100 mL of water?",
+    "message_2": "The solubility of potassium chloride (KCl) in water at 25°C is given as 34.21 g/100 mL of water. Since you have 100 mL of water, the maximum mass of KCl that can dissolve in it is:\n\n34.21 g KCl/100 mL water × 100 mL water = 34.21 g KCl\n\nSo, the maximum mass of potassium chloride that can dissolve in 100 mL of water at 25°C is 34.21 grams."
+}

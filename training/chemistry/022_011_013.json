@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical reactions",
+    "sub_topic": "Gas evolution reactions",
+    "message_1": "What volume of carbon dioxide gas (CO2) is evolved when 25 grams of calcium carbonate (CaCO3) reacts with excess hydrochloric acid (HCl) assuming standard temperature and pressure conditions?",
+    "message_2": "To find the volume of carbon dioxide gas evolved, we first need to determine the number of moles of calcium carbonate (CaCO3) that react with hydrochloric acid (HCl). The balanced chemical equation for this reaction is:\n\nCaCO3 + 2HCl → CaCl2 + H2O + CO2\n\nFirst, we need to find the molar mass of CaCO3:\nCa = 40.08 g/mol\nC = 12.01 g/mol\nO = 16.00 g/mol (3 oxygen atoms = 3 * 16.00 = 48.00 g/mol)\n\nMolar mass of CaCO3 = 40.08 + 12.01 + 48.00 = 100.09 g/mol\n\nNow, we can find the number of moles of CaCO3 in 25 grams:\nmoles of CaCO3 = mass / molar mass = 25 g / 100.09 g/mol = 0.2498 mol\n\nFrom the balanced chemical equation, we can see that 1 mole of CaCO3 produces 1 mole of CO2. Therefore, 0.2498 moles of CaCO3 will produce 0.2498 moles of CO2.\n\nAt standard temperature and pressure (STP), 1 mole of any gas occupies 22.4 liters. So, the volume of CO2 produced can be calculated as follows:\n\nVolume of CO2 = moles of CO2 * volume per mole at STP\nVolume of CO2 = 0.2498 mol * 22.4 L/mol = 5.59 L\n\nSo, 5.59 liters of carbon dioxide gas will be evolved when 25 grams of calcium carbonate reacts with excess hydrochloric acid at standard temperature and pressure conditions."
+}

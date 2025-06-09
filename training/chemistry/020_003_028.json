@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical equilibrium",
+    "sub_topic": "Predicting the direction of a reaction at equilibrium based on changes in concentration, pressure, or temperature",
+    "message_1": "How will an increase in temperature affect the equilibrium of the reaction 2SO2 (g) + O2(g) ⇌ 2SO3(g) ?",
+    "message_2": "An increase in temperature will affect the equilibrium of the reaction 2SO2 (g) + O2(g) ⇌ 2SO3(g) according to Le Chatelier's Principle. This principle states that if a system at equilibrium is subjected to a change in temperature, pressure, or concentration of reactants and products, the system will adjust its equilibrium position to counteract the change.\n\nIn this case, the reaction is exothermic, meaning it releases heat when it proceeds in the forward direction (2SO2 + O2 → 2SO3). When the temperature is increased, the system will try to counteract the change by shifting the equilibrium position to consume the excess heat. This means the reaction will shift towards the endothermic (reverse) direction, where heat is absorbed (2SO3 → 2SO2 + O2).\n\nAs a result, an increase in temperature will cause the equilibrium to shift towards the reactants, decreasing the concentration of SO3 and increasing the concentrations of SO2 and O2."
+}

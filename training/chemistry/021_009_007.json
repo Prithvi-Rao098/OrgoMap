@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical bonding",
+    "sub_topic": "Predicting the bond order of a molecule",
+    "message_1": "What is the bond order of CO molecule using molecular orbital theory?",
+    "message_2": "In molecular orbital theory, the bond order of a molecule can be calculated using the following formula:\n\nBond order = (Number of electrons in bonding orbitals - Number of electrons in antibonding orbitals) / 2\n\nFor CO molecule, the electronic configuration is:\n\nσ(1s)^2, σ*(1s)^2, σ(2s)^2, σ*(2s)^2, σ(2pz)^2, π(2px)^2, π(2py)^2, π*(2px)^1, π*(2py)^0\n\nNow, let's count the number of electrons in bonding and antibonding orbitals:\n\nBonding orbitals: σ(1s)^2, σ(2s)^2, σ(2pz)^2, π(2px)^2, π(2py)^2 (Total = 10 electrons)\nAntibonding orbitals: σ*(1s)^2, σ*(2s)^2, π*(2px)^1, π*(2py)^0 (Total = 5 electrons)\n\nUsing the bond order formula:\n\nBond order = (10 - 5) / 2 = 5 / 2 = 2.5\n\nSo, the bond order of CO molecule using molecular orbital theory is 2.5."
+}

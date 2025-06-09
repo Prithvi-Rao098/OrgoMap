@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Chemical thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "Calculate the heat capacity of 10 grams of water at 25°C if it requires 500 joules of heat to raise its temperature by 5°C.",
+    "message_2": "To calculate the heat capacity of water, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat energy (in joules), m is the mass of the water (in grams), c is the specific heat capacity of water (in J/g°C), and ΔT is the change in temperature (in °C).\n\nWe are given the following information:\n- Mass of water (m) = 10 grams\n- Heat energy (q) = 500 joules\n- Change in temperature (ΔT) = 5°C\n\nWe need to find the specific heat capacity (c) of water. Rearranging the formula to solve for c, we get:\n\nc = q / (mΔT)\n\nNow, we can plug in the given values:\n\nc = 500 J / (10 g × 5°C)\nc = 500 J / 50 g°C\nc = 10 J/g°C\n\nThe heat capacity of 10 grams of water at 25°C is 10 J/g°C."
+}

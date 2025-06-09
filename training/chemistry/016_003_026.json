@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Thermochemistry",
+    "sub_topic": "Bond dissociation energy calculations",
+    "message_1": "Sure, here's a question for the student to solve:\n\nWhat is the bond dissociation energy (in kJ/mol) for the carbon-hydrogen bond in methane (CH4) given that the enthalpy change for the reaction CH4(g) → CH3(g) + H(g) is +435 kJ/mol?",
+    "message_2": "The bond dissociation energy is the energy required to break a specific chemical bond. In this case, we are looking for the energy required to break the carbon-hydrogen bond in methane (CH4). The given enthalpy change for the reaction CH4(g) → CH3(g) + H(g) is +435 kJ/mol. This reaction represents the breaking of one C-H bond in methane.\n\nSince the reaction involves breaking one C-H bond, the bond dissociation energy for the carbon-hydrogen bond in methane is equal to the enthalpy change for the reaction. Therefore, the bond dissociation energy for the C-H bond in methane is +435 kJ/mol."
+}
