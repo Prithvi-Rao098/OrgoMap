@@ -2,6 +2,7 @@ import React from 'react';
 
 import { Link } from 'react-router-dom';
 import { FlaskConical, BookOpen, Atom, Lightbulb, TrendingUp, ScanEye, User, MessageSquare, Info} from 'lucide-react';
+import chemBg from "../imgs/chem-bg.png";
 
 // Place your image in: public/images/hero-bg.jpg
 const Home = () => {
@@ -10,9 +11,10 @@ const Home = () => {
 
       {/* Full-screen Hero with Background Image */}
       <section className="relative h-screen w-full flex items-center justify-center overflow-hidden">
+        
         <img
           className="absolute inset-0 w-full h-full object-cover"
-          src="./imgs/chem-bg.png"
+          src={chemBg}
           alt="Chemistry background"
         />
         <div className="absolute inset-0 bg-black/50 z-0" />
