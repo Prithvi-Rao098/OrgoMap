@@ -1,33 +1,81 @@
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <title>3Dmol.js Example</title>
     <script src="https://3dmol.csb.pitt.edu/build/3Dmol-min.js"></script>
     <style>
         #viewer {
-            width: 500px;
-            height: 400px;
+            width: 600px;
+            height: 500px;
             position: relative;
+            margin: 20px auto;
+            border: 1px solid #ccc;
         }
     </style>
 </head>
 <body>
+
+    <h2 style="text-align: center;">3Dmol.js Example</h2>
     <div id="viewer"></div>
 
     <script>
-        let element = document.getElementById("viewer");
-        let config = { backgroundColor: "white" };
-        let viewer = $3Dmol.createViewer(element, config);
+        const element = document.getElementById("viewer");
+        const config = { backgroundColor: "white" };
+        const viewer = $3Dmol.createViewer(element, config);
 
-        // Load the .mol file from your static folder
-        fetch("static/molecule.mol")
-            .then(response => response.text())
+        fetch("static/molecule.sdf")
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.text();
+            })
             .then(data => {
-                viewer.addModel(data, "mol");
+                console.log("Loaded MOL data:\n", data);
+                viewer.addModel(data, "sdf");  // ← use 'sdf' for .mol files
                 viewer.setStyle({}, { stick: {} });
                 viewer.zoomTo();
                 viewer.render();
             })
             .catch(err => console.error("Failed to load molecule:", err));
     </script>
+
 </body>
 </html>
+
+
+<!--
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>3Dmol.js Example</title>
+  <script src="https://3Dmol.org/build/3Dmol-min.js"></script>
+  <style>
+    html, body { margin: 0; height: 100%; }
+    #viewer { width: 100%; height: 100%; }
+  </style>
+</head>
+<body>
+  <div id="viewer"></div>
+  <script>
+    console.log("Starting 3Dmol.js...");
+    fetch("/static/molecule.mol")
+      .then(res => res.text())
+      .then(data => {
+        console.log("Loaded MOL data:\n", data);
+        const viewer = $3Dmol.createViewer("viewer", { backgroundColor: "white" });
+        viewer.addModel(data, "mol");
+        viewer.setStyle({}, { stick: {}, sphere: { scale: 0.3 } });
+        viewer.zoomTo();
+        viewer.render();
+      })
+      .catch(err => {
+        console.error("Failed to load molecule:", err);
+      });
+  </script>
+</body>
+</html>
+-->
