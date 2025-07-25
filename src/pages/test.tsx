@@ -63,8 +63,8 @@ const AIChat = () => {
         text: data.response || "No response from AI.",
         isUser: false,
         timestamp: new Date(),
-        smileImageUrl: data.image_url,
-        sdfUrl: data.sdf_url
+        ...(data.image_url ? { smileImageUrl: data.image_url } : {}),
+        ...(data.sdf_url ? { sdfUrl: data.sdf_url } : {})
       };
       console.log(aiResponse)
       setMessages(prev => [...prev, aiResponse]);
@@ -146,16 +146,17 @@ const AIChat = () => {
                     <span className="text-xs font-medium">{message.isUser ? 'You' : 'OrgoMap AI'}</span>
                   </div>
                   <p className="whitespace-pre-wrap">{message.text}</p>
-                  {message.smileImageUrl && (() => {
-                    console.log("smileImageUrl for message", message.id, ":", message.smileImageUrl);
-                    return (
-                        <img
-                        src={message.smileImageUrl}
+                  {message.smileImageUrl && (
+                    <>
+                      <img
+                        //key={message.smileImageUrl}
+                        src={`http://localhost:8000${message.smileImageUrl}`}
                         alt="SMILES 2D"
                         className="mt-2 rounded border w-48"
-                        />
-                    );
-                    })()}
+                      />
+                      {console.log("smileImageUrl for message", message.id, ":", message.smileImageUrl)}
+                    </>
+                  )}
                   {message.sdfUrl && (
                     <button
                       className="mt-2 text-sm text-blue-600 underline flex items-center gap-1"

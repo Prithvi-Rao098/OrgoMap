@@ -475,6 +475,7 @@ from rdkit import Chem
 from rdkit.Chem import Draw
 from rdkit.Chem import AllChem
 from PIL import Image
+import time
 
 # -------------------------------
 # CONFIG
@@ -570,10 +571,10 @@ def ask_rag(query):
             "role": "system",
             "content": (
                 "You are a precise chemistry assistant.\n"
-                "- If a molecule is described, always output the *exact SMILES* you know for it.\n"
+                "- If a molecule is described, output the *exact SMILES* you know for it.\n"
                 "- If the SMILES is unusual or incomplete, still output it exactly.\n"
-                "- Always end your answer with: SMILES: <smiles_string>\n"
-                "- If no structure applies, end with: SMILES: None"
+                "- End your answer with: SMILES: <smiles_string>\n"
+                "- Only generate a SMILES string if the user asks for a molecule or mentions a chemical compound."
             )
         },
         {
@@ -594,10 +595,23 @@ def ask_rag(query):
             full_answer += delta.content
 
     smiles = extract_smiles(full_answer)
-    if smiles and smiles != "None":
+
+    # Heuristic: Show diagram only if user asked about a compound or diagram
+    lower_query = query.lower()
+    diagram_requested = any(keyword in lower_query for keyword in ["diagram", "structure", "2d", "draw", "show"])
+    molecule_mentioned = any(keyword in lower_query for keyword in ["molecule", "compound", "smiles", "acid", "base", "alcohol", "ketone", "benzene", "structure of", "what is the structure"])
+
+    if smiles and smiles != "None" and (diagram_requested or molecule_mentioned):
         draw_smiles_image(smiles)
         save_sdf_file(smiles)
-    return full_answer, smiles
+        image_url = f"/static/molecule.png?t={int(time.time())}"
+        sdf_url = f"/static/molecule.sdf?t={int(time.time())}"
+    else:
+        image_url = None
+        sdf_url = None
+
+    return full_answer, smiles, image_url, sdf_url
+
 
 
 # -------------------------------
