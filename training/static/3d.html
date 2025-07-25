@@ -25,7 +25,7 @@
         const config = { backgroundColor: "white" };
         const viewer = $3Dmol.createViewer(element, config);
 
-        fetch("static/molecule.sdf")
+        fetch("molecule.sdf")
             .then(response => {
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);

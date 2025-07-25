@@ -9,6 +9,7 @@ import Login from './pages/Login';
 import AIChat from './pages/AIChat';
 import Profile from './pages/Profile';
 import Signup from './pages/Signup';
+import Test from './pages/test';
 
 function App() {
   const [session, setSession] = useState<Session | null>(null);
@@ -84,7 +85,8 @@ function App() {
             />
             <Route 
               path="/ai-chat" 
-              element={<AuthWrapper><AIChat /></AuthWrapper>} 
+              //element={<AuthWrapper><AIChat /></AuthWrapper>} 
+              element={<Test />} 
             />
             <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
