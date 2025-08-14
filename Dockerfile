@@ -1,16 +1,16 @@
-# Dockerfile
-FROM rdkit/minimal:latest
+# RDKit base with Python
+FROM mcs07/rdkit:latest
+
+# (Optional) Cairo runtime & fonts for cairosvg PNG rendering
+RUN apt-get update && apt-get install -y libcairo2 fonts-dejavu-core && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
-# copy backend and RDKit code
 COPY server ./server
 COPY training ./training
 
-# python deps
+# Python deps your API needs
 RUN pip install --no-cache-dir fastapi uvicorn pydantic python-dotenv openai cairosvg
 
-# images dir (ephemeral on Render, fine for demo)
-RUN mkdir -p /app/reaction_images
+# Render/Fly set PORT; default to 10000 if missing
 ENV PORT=10000
-
-CMD uvicorn server.main:app --host 0.0.0.0 --port $PORT
+CMD uvicorn server.main:app --host 0.0.0.0 --port ${PORT}
