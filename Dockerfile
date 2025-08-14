@@ -1,6 +1,9 @@
 # RDKit base with Python
 FROM mcs07/rdkit:latest
 
+# (Optional) Cairo runtime & fonts for cairosvg PNG rendering
+RUN apt-get update && apt-get install -y libcairo2 fonts-dejavu-core && rm -rf /var/lib/apt/lists/*
+
 WORKDIR /app
 COPY server ./server
 COPY training ./training
