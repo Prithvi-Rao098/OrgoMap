@@ -4,6 +4,8 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import Home from './pages/Home';
 import DemoPage from './pages/DemoPage';
 
+console.log("App mounted");
+
 export default function App() {
   return (
     <Router>
