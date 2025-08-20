@@ -26,10 +26,11 @@ app = FastAPI(title="Chem Chat API", version="1.0")
 ALLOWED_ORIGINS = [
     "https://orgomap.org",
     "https://www.orgomap.org",
-    # keep local/dev while testing; remove after
+    "https://prithvirao-orgomap-backend.hf.space", 
     "http://127.0.0.1:5173",
     "http://localhost:5173",
 ]
+
 
 app.add_middleware(
     CORSMiddleware,
