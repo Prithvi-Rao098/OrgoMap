@@ -15,21 +15,6 @@ This repo contains the **backend service** for the beta release, built with **Fa
 
 ---
 
-## 📂 Project Layout
-OrgoMap-backend/
-│
-├── app.py # FastAPI app (API routes)
-├── requirements.txt # Python dependencies
-├── Dockerfile # Hugging Face Space config
-│
-├── training/
-│ └── arrowpushing/
-│ └── generation.py # Core chemistry + drawing logic
-│
-├── reaction_diagrams/ # Output folder for generated SVGs
-└── README.md # This file
----
-
 ## ⚡ API Endpoints
 Once deployed, your backend will be hosted at:
 
