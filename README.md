@@ -28,7 +28,6 @@ OrgoMap-backend/
 │
 ├── reaction_diagrams/ # Output folder for generated SVGs
 └── README.md # This file
-
 ---
 
 ## ⚡ API Endpoints
