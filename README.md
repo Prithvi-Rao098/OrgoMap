@@ -29,20 +29,12 @@ OrgoMap-backend/
 ├── reaction_diagrams/ # Output folder for generated SVGs
 └── README.md # This file
 
-yaml
-Copy
-Edit
-
 ---
 
 ## ⚡ API Endpoints
 Once deployed, your backend will be hosted at:
 
 https://<username>-orgomap-backend.hf.space
-
-yaml
-Copy
-Edit
 
 Available routes:
 - `GET /` → Health check (`{"Hello": "World!"}`)  
@@ -58,16 +50,10 @@ Available routes:
 git clone https://huggingface.co/spaces/PrithviRao/OrgoMap-backend
 cd OrgoMap-backend
 2. Install dependencies
-bash
-Copy
-Edit
 conda create -n orgomap python=3.9 -y
 conda activate orgomap
 pip install -r requirements.txt
 3. Run server
-bash
-Copy
-Edit
 uvicorn app:app --reload --host 0.0.0.0 --port 7860
 Visit → http://localhost:7860
 
@@ -75,23 +61,13 @@ Visit → http://localhost:7860
 Push this repo to your Hugging Face Space
 
 In Settings → Variables & secrets, add:
-
-ini
-Copy
-Edit
 OPENAI_API_KEY = your_real_key
 Ensure Runtime = Docker
 
 HF will build automatically → backend live at:
 
-cpp
-Copy
-Edit
 https://<username>-orgomap-backend.hf.space
 🧪 Example Usage
-python
-Copy
-Edit
 from training.arrowpushing import generation
 
 # Single diagram
@@ -110,10 +86,6 @@ Output → elim.svg
 
 🔬 Chemistry Example
 E2 Elimination (tert-butyl bromide + OH⁻ → isobutylene):
-
-mathematica
-Copy
-Edit
 CC(C)(C)Br.[OH-]>>C=C(C)C.Br.[H2O]
 ⚠️ Notes
 Hugging Face blocks large binaries (PNG, parquet)
