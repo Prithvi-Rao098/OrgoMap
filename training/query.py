@@ -21,7 +21,7 @@ TOP_K = 3
 # -------------------------------
 # SETUP
 # -------------------------------
-client = OpenAI(api_key="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")
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 model = SentenceTransformer("all-MiniLM-L6-v2")
 index = faiss.read_index(INDEX_PATH)
@@ -166,7 +166,7 @@ os.makedirs("static", exist_ok=True)
 # -------------------------------
 # SETUP
 # -------------------------------
-client = OpenAI(api_key="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")
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 model = SentenceTransformer("all-MiniLM-L6-v2")
 index = faiss.read_index(INDEX_PATH)
 
@@ -320,7 +320,11 @@ os.makedirs("static", exist_ok=True)
 # -------------------------------
 # SETUP
 # -------------------------------
-client = OpenAI(api_key="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")
+api_key = os.getenv("OPENAI_API_KEY")
+if not api_key:
+    raise ValueError("OPENAI_API_KEY is not set.")
+
+client = OpenAI(api_key=api_key)
 
 model = SentenceTransformer("all-MiniLM-L6-v2")
 index = faiss.read_index(INDEX_PATH)
